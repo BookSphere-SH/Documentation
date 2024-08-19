@@ -274,7 +274,7 @@ Russel
 #### Lean UX Hypothesis Statements
 Russel
 #### Lean UX Canvas
-Russel
+![Captura de pantalla 2024-08-19 054506](https://hackmd.io/_uploads/r1RqfoeoR.png)
 ### Segmentos objetivo
 #### 1. Lectores Ávidos Particulares o Estudiantes:
 
@@ -433,7 +433,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 ### User Personas
 #### Segmento 1: Lectores Ávidos Particulares o Estudiantes
 ![User Persona - S1](https://hackmd.io/_uploads/BkPhy3C5C.png)
-
+![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
 ### User Task Matrix
     
     
