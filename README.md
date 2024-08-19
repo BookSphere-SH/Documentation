@@ -196,7 +196,6 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 #### Lean UX Hypothesis Statements
 #### Lean UX Canvas
 ### Segmentos objetivo
-### Segmentos objetivo
 #### 1. Lectores Ávidos Particulares o Estudiantes:
 
 Este segmento objetivo abarca a lectores apasionados y estudiantes que buscan acceder a una amplia variedad de libros y audiolibros, ya sea por interés personal o para cumplir con sus obligaciones académicas. Estos usuarios valoran la accesibilidad, la diversidad de títulos, y la posibilidad de personalizar su experiencia de lectura. Además, están interesados en interactuar con otros lectores a través de reseñas y comunidades en línea que enriquecen su experiencia literaria.
