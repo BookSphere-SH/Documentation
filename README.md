@@ -43,9 +43,8 @@ UNIVERSIDAD PERUANA<br>
 
 **Project Report Collaboration Insights**
 
-| URL del Repositorio |
-|----------------------|
-| https://github.com/orgs/BookSphere-SH/repositories |
+### URL del Repositorio 
+https://github.com/orgs/BookSphere-SH/repositories
 
 
 
