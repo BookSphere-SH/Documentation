@@ -331,6 +331,8 @@ Esta sección del informe abordará los aspectos objetivos de las entrevistas, i
 
 ### User Task Matrix
 ### User Journey Mapping
+**Lectores Ávidos Particulares o Estudiantes**
+![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
 ### Empathy Mapping
 #### Segmento 1: Lectores Ávidos Particulares o Estudiantes
 ![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
