@@ -323,9 +323,18 @@ Esta sección del informe abordará los aspectos objetivos de las entrevistas, i
 | **Resumen:** José Gonzales, estudiante que utiliza libros y audiolibros digitales al menos dos o tres veces por semana, valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere combinar libros para estudios y audiolibros para actividades multitarea. Descubre nuevos libros a través de recomendaciones y reseñas, y busca funciones como listas de lectura personalizadas y recordatorios de lectura en las plataformas. Aprecia la personalización de recomendaciones y le gustaría interactuar con autores. Sin embargo, encuentra que la interacción en plataformas actuales a veces es limitada y desea mejoras en la interactividad y organización de las plataformas.  . |
 ## Needfinding
 ### User Personas
+## Needfinding
+### User Personas
+#### Segmento 1: Lectores Ávidos Particulares o Estudiantes
+![User Persona - S1](https://hackmd.io/_uploads/BkPhy3C5C.png)
+![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
+
 ### User Task Matrix
 ### User Journey Mapping
 ### Empathy Mapping
+#### Segmento 1: Lectores Ávidos Particulares o Estudiantes
+![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
+
 ### As-is Scenario Mapping
 ## Ubiquitous Language
 # Capítulo III: Requirements Specification
