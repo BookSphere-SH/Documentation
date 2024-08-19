@@ -209,7 +209,7 @@ El segundo segmento objetivo incluye a instituciones educativas, editoriales y a
 
 País: Perú
 Ciudad: Zonas urbanas y suburbanas
-    
+
 #### Variable demográfica:
 
 Género: Femenino / Masculino
