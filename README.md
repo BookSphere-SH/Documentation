@@ -331,14 +331,15 @@ Esta sección del informe abordará los aspectos objetivos de las entrevistas, i
 
 ### User Task Matrix
 ### User Journey Mapping
-**Lectores Ávidos Particulares o Estudiantes**
+**Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
 **Instituciones Educativas**
+![Customer journey map 2](https://hackmd.io/_uploads/B1l95DZoC.png)
 ### Empathy Mapping
 #### Segmento 1: Lectores Ávidos Particulares o Estudiantes
 ![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
 #### Segmento 2: Instituciones Educativas
-![Customer journey map 2](https://hackmd.io/_uploads/B1l95DZoC.png)
+
 ### As-is Scenario Mapping
 ## Ubiquitous Language
 # Capítulo III: Requirements Specification
