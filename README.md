@@ -395,6 +395,31 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 ![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
 
 ### User Task Matrix
+
+
+| User Task                                       | Lectores Ávidos Particulares o Estudiantes (Frecuencia) | Lectores Ávidos Particulares o Estudiantes (Importancia) | Instituciones Educativas (Frecuencia) | Instituciones Educativas (Importancia) |
+|--------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|---------------------------------------|----------------------------------------|
+| Explorar Colección de Libros               | Always                                                | High                                                    | Sometimes                             | Medium                                 |
+| Buscar y Filtrar Libros                    | Always                                                | High                                                    | Never                                 | Low                                    |
+| Leer Reseñas y Calificaciones              | Sometimes                                             | Medium                                                  | Always                                | High                                   |
+| Leer Muestras de Libros                    | Always                                                | High                                                    | Never                                 | Low                                    |
+| Comprar o Descargar Libros                 | Always                                                | High                                                    | Never                                 | Low                                    |
+| Dejar Comentarios y Reseñas                | Always                                                | High                                                    | Never                                 | Low                                    |
+| Participar en Discusiones sobre Libros     | Always                                                | High                                                    | Never                                 | Low                                    |
+| Seguir a Otros Usuarios                    | Sometimes                                             | Medium                                                  | Sometimes                             | Medium                                 |
+| Cargar Libros Digitales                    | Never                                                 | Low                                                     | Always                                | High                                   |
+| Actualizar Información del Libro           | Never                                                 | Low                                                     | Always                                | High                                   |
+| Gestionar Perfil y Obras Publicadas        | Sometimes                                             | Low                                                     | Always                                | High                                   |
+| Acceder a Estadísticas de Lectura          | Sometimes                                             | Low                                                     | Always                                | High                                   |
+| Colaborar en Proyectos Educativos          | Never                                                 | Low                                                     | Always                                | High                                   |
+| Gestionar Derechos y Licencias             | Never                                                 | Low                                                     | Always                                | High                                   |
+| Verificación y Aprobación de Contenidos    | Never                                                 | Low                                                     | Always                                | High                                   |
+
+
+
+
+
+
 ### User Journey Mapping
 **Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
