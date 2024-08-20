@@ -475,6 +475,28 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 #### Segmento 2: Instituciones Educativas
 
 ### As-is Scenario Mapping
+
+### Lectores Ávidos Particulares o Estudiantes
+    
+| Escenario| Doing (Haciendo)                                                                                                | Thinking (Pensando)| Feeling (Sintiendo)|
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
+| Descubrir y Explorar Libros| -Iniciar sesión<br>-Navegar por la colección<br>-Buscar y filtrar libros<br>-Leer muestras y reseñas| -¿Qué libros me interesan?<br>-¿Puedo encontrar algo nuevo?<br>-¿Las reseñas y muestras son útiles?| -Curiosidad<br>-Entusiasmo<br>-Frustración (si no encuentra lo deseado) |
+| Comprar o Descargar Libros| -Seleccionar un libro<br>-Elegir entre comprar o descargar<br>-Completar el pago o la descarga| -¿Es este libro lo que busco?<br>-¿El proceso de pago es fácil?<br>-¿Puedo comenzar a leer de inmediato?| -Satisfacción (si compra/descarga)<br>-Impaciencia (si está esperando la descarga) |
+| Interactuar con el Contenido| -Dejar reseñas y calificaciones<br>-Participar en discusiones sobre libros<br>-Seguir a otros usuarios<br>-Compartir en redes sociales | -¿Qué opinan otros usuarios?<br>-¿Mis comentarios son útiles?<br>-¿Cómo puedo conectar con otros lectores?  | -Sentimiento de comunidad<br>-Orgullo (por las reseñas)<br>-Inspiración |
+| Gestionar Preferencias Personales| -Actualizar preferencias de lectura<br>-Ajustar notificaciones<br>-Revisar y actualizar la información de la cuenta | -¿Cómo personalizo mi experiencia?<br>-¿Recibiré las notificaciones que quiero?<br>-¿Está mi cuenta al día? | -Control<br>-Tranquilidad<br>-Confusión (si el proceso es complicado) |
+
+### Instituciones Educativas
+    
+| Escenario| Doing (Haciendo)| Thinking (Pensando)| Feeling (Sintiendo)|
+|-----------------------------------------|------------------------------------------------|--------------------------------------------------|----------------------------------------------------|
+| Subir y Gestionar Contenido             | -Iniciar sesión<br>-Subir libros y recursos<br>-Actualizar información<br>-Gestionar publicaciones | -¿Cómo aseguro que el contenido esté actualizado?<br>-¿Es fácil de subir y gestionar?<br>-¿Cómo se presentará el contenido? | -Satisfacción (al actualizar)<br>-Ansiedad (si hay problemas técnicos) |
+| Monitorear y Analizar Uso| -Acceder a estadísticas<br>-Revisar métricas y feedback<br>-Analizar rendimiento del contenido | -¿Cómo está funcionando el contenido?<br>-¿Qué puedo aprender de los datos?<br>-¿Cómo puedo mejorar? | -Insight (a partir de datos)<br>-Preocupación (si el rendimiento es bajo) |
+| Colaborar en Proyectos Educativos| -Participar en proyectos<br>-Contribuir recursos<br>-Interactuar con otros educadores | -¿Cómo puedo contribuir mejor?<br>-¿Qué aportes son valorados?<br>-¿Cómo se beneficiará mi institución? | -Entusiasmo (por la colaboración)<br>-Frustración (si hay conflictos) |
+| Gestionar Derechos y Licencias| -Administrar derechos y licencias<br>-Aprobar contenido<br>-Asegurar cumplimiento legal | - ¿Está todo en conformidad?<br>-¿Qué derechos se deben gestionar?<br>-¿Está el contenido protegido? | -Seguridad (al cumplir legalidad)<br>-Estrés (por el cumplimiento riguroso)|
+
+    
+
+
 ## Ubiquitous Language
 **1. Avid Reader (Lector Ávido)**
 Un individuo apasionado por la lectura que busca constantemente nuevos libros y contenido literario. Suelen estar muy comprometidos con comunidades y discusiones relacionadas con libros.
