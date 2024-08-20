@@ -331,10 +331,10 @@ Análisis de la competencia: BookSphere realizará un análisis constante de los
 
 Integración de la comunidad: BookSphere se centrará en fortalecer su componente de red social, incentivando la participación de los usuarios a través de desafíos de lectura, clubes de lectura virtuales, y eventos en línea. La plataforma también ofrecerá incentivos, como acceso anticipado a nuevos títulos o descuentos en membresías, para usuarios activos y comprometidos en la comunidad.
 ## Entrevistas
-## 1. Segmento Objetivo: Lectores Ávidos Particulares o Estudiantes
+### 1. Segmento Objetivo: Lectores Ávidos Particulares o Estudiantes
 Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientadas a comprender las necesidades, experiencias y expectativas de los lectores particulares y estudiantes en relación con el acceso a libros y materiales educativos en formato digital. Sabemos que, para este segmento, la disponibilidad, el precio y la experiencia de usuario son factores clave para elegir una plataforma de lectura. Nuestro objetivo es identificar cómo BookSphere puede satisfacer estas necesidades ofreciendo una biblioteca digital completa, accesible y con funcionalidades avanzadas. Además, buscamos explorar qué características interactivas podrían enriquecer la experiencia del usuario y fomentar un entorno de aprendizaje dinámico. Con estas entrevistas, buscamos no solo validar nuestras hipótesis, sino también adaptar nuestra oferta para garantizar que los lectores encuentren en BookSphere un recurso valioso y conveniente.
     
-## Preguntas Principales:
+### Preguntas Principales:
 1. ¿Con qué frecuencia lees libros o audiolibros en formato digital?
 2. ¿Qué características buscas en una plataforma de libros digitales?
 3. ¿Cómo sueles descubrir nuevos libros para leer?
@@ -346,9 +346,9 @@ Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientada
 9. ¿Cómo te sentirías si pudieras interactuar directamente con autores a través de una plataforma?
 10. ¿Qué mejorarías en las plataformas de libros digitales que ya usas?
 
-## 2. Segmento Objetivo: Instituciones Educativas
+### 2. Segmento Objetivo: Instituciones Educativas
 BookSphere se enfoca en facilitar la distribución y acceso a materiales educativos y libros de todo tipo a través de una plataforma digital. En este segmento, las entrevistas estarán dirigidas a comprender las expectativas y necesidades de instituciones educativas, editoriales y autores independientes que desean llegar a un público más amplio mediante la digitalización y distribución de sus contenidos. Preguntaremos sobre los desafíos actuales que enfrentan en la distribución de sus libros, la facilidad para integrarse a plataformas digitales, y qué funcionalidades consideran importantes para maximizar la exposición y las ventas. Además, indagaremos sobre la disposición para colaborar con una plataforma como BookSphere, que busca ofrecer una solución centralizada y eficiente para la distribución de contenidos digitales. Con estas entrevistas, pretendemos ajustar nuestra estrategia para convertirnos en un aliado clave para las instituciones y autores.
-## Preguntas principales: 
+### Preguntas principales: 
 
 1. ¿Cuáles son tus principales desafíos al distribuir libros o materiales educativos en formato digital?
 2. ¿Qué factores consideras al elegir una plataforma para publicar tus obras?
@@ -374,6 +374,18 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Procedencia:**  Lima, Carabayllo |
 | ![Entrevista1](https://hackmd.io/_uploads/HkebyaCqC.png)|
 | **Resumen:** José Gonzales, estudiante que utiliza libros y audiolibros digitales al menos dos o tres veces por semana, valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere combinar libros para estudios y audiolibros para actividades multitarea. Descubre nuevos libros a través de recomendaciones y reseñas, y busca funciones como listas de lectura personalizadas y recordatorios de lectura en las plataformas. Aprecia la personalización de recomendaciones y le gustaría interactuar con autores. Sin embargo, encuentra que la interacción en plataformas actuales a veces es limitada y desea mejoras en la interactividad y organización de las plataformas.  . |
+
+#### Entrevista 2
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Stefani Lopez Huaman |
+| **Edad:**  18 años |
+| **Procedencia:**  Lima, Lima |
+| ![Entrevista2](https://hackmd.io/_uploads/r1EfCkWiC.png)|
+| **Resumen:** Stefani Lopez es una estudiante universitaria a quien le gusta leer al menos 5 aveces a las semana, especialmente en épocas de clases en la universidad. Lo que más le gusta Stéfanie es escuchar audio libros a los cuáles ubica generalmente por recomendación de sus compañeros de clases o porfesores.
+Stefanie comenta que a identificado algunos inconvenientes con las plataformas de lectura que usa, los cuales, por ejemplo, no guardan su avance de lectura. Además, comenta que la voz de los audiolibros no le gustan tanto, porque son un tanto robóticas. Finalmente, Stefanie comenta que le gustaría interactuar con otros usuarios con preferencias de lectura similares a las de ella. |
+
+
 ## Needfinding
 ### User Personas
 ## Needfinding
