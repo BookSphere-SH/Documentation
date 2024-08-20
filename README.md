@@ -215,12 +215,61 @@ Nos esforzamos por proporcionar una plataforma que conecte a los lectores y estu
 |![Ronaldo](https://hackmd.io/_uploads/BJXwMC1sR.jpg)|Ronaldo Macedonio Fabian Puente - Ingeniería de Software - U20201b193<br>Me comprometo a desarrollar el trabajo en equipo hasta completar los objetivos planteados.|
 ## Solution Profile
 ### Antecedentes y problemática
+#### Antecedentes
+###### **WHO?**
+SphereHub es una empresa que está posicionada para revolucionar la manera en que las personas acceden a los libros y materiales educativos en formato digital. Está dirigida tanto a lectores apasionados como a estudiantes, autores independientes, editoriales y a instituciones educativas.
 
+###### **WHAT?**
+BookSphere busca convertirse en la plataforma de referencia para la exploración y acceso a libros, audiolibros, y recursos educativos digitales. A través de su innovadora plataforma, los usuarios pueden explorar una amplia variedad de contenidos literarios y educativos, acceder a reseñas detalladas, y sumergirse en una experiencia de lectura personalizada e interactiva.
+
+###### **WHERE?**
+La plataforma de BookSphere opera principalmente en el entorno digital, lo que le permite llegar a usuarios globalmente. Aunque se enfoca en mercados donde el acceso a recursos educativos y libros digitales está creciendo, su visión es convertirse en una plataforma globalmente reconocida y utilizada.
+
+###### **WHEN?**
+La necesidad de una plataforma como BookSphere surge en un contexto donde la digitalización de contenidos ha transformado muchas industrias, incluyendo la literaria y educativa. Con el aumento del uso de dispositivos digitales para el consumo de medios y la creciente demanda de acceso flexible a recursos educativos, el momento actual es ideal para la implementación de una solución como BookSphere.
+
+###### **WHY?**
+La misión de BookSphere es democratizar el acceso al conocimiento y la educación, haciendo que sea tan sencillo y emocionante como explorar una biblioteca infinita. En un mundo donde la educación es clave para el desarrollo personal y profesional, BookSphere busca eliminar las barreras al acceso a los libros y materiales educativos, brindando a los usuarios una experiencia inmersiva y personalizada.
+
+###### **HOW?**
+BookSphere utiliza tecnología avanzada para ofrecer una plataforma que no solo permite la descarga y lectura de libros, sino que también incluye funciones interactivas como adelantos de contenido, personalización de recomendaciones, y un espacio social donde los usuarios pueden compartir opiniones y participar en discusiones sobre literatura y educación.
+
+###### **HOW MUCH?**
+El costo de implementación y desarrollo de la plataforma es significativo debido a la necesidad de integrar tecnología avanzada y establecer alianzas estratégicas con autores, editoriales, y otras entidades. Sin embargo, los beneficios potenciales en términos de expansión del acceso al conocimiento y la creación de una comunidad lectora activa justifican esta inversión.
+
+#### Problemática
+###### **WHO?**
+Los principales afectados por la falta de una plataforma como BookSphere son los lectores y estudiantes que buscan acceso a una amplia gama de recursos literarios y educativos, pero enfrentan barreras debido a la disponibilidad limitada, los altos costos de los libros físicos, o la falta de interactividad en las plataformas actuales.
+
+###### **WHAT?**
+La problemática radica en la falta de una plataforma digital centralizada y accesible que combine una extensa biblioteca de recursos educativos y literarios con tecnologías interactivas que mejoren la experiencia del usuario. A pesar de la digitalización, muchas plataformas existentes carecen de un enfoque integral que ofrezca una experiencia personalizada y socialmente conectada.
+
+###### **WHERE?**
+La necesidad se siente a nivel global, pero es más acentuada en regiones donde el acceso a libros y recursos educativos es limitado, ya sea por restricciones económicas, geográficas o tecnológicas.
+
+###### **WHEN?**
+El problema es especialmente relevante en la era actual, donde el aprendizaje continuo y el acceso a la información son cruciales para el éxito personal y profesional. Sin una plataforma como BookSphere, el acceso al conocimiento se mantiene fragmentado y desigual.
+
+###### **WHY?**
+La falta de acceso adecuado a recursos educativos y literarios limita las oportunidades de aprendizaje y crecimiento personal. Además, la ausencia de una plataforma que combine funcionalidad, accesibilidad y una experiencia de usuario envolvente perpetúa la desconexión entre el contenido educativo disponible y los usuarios que más lo necesitan.
+
+###### **HOW?**
+Actualmente, la mayoría de las plataformas digitales están fragmentadas en términos de funcionalidad y acceso, con muchas enfocadas únicamente en la venta de libros sin considerar la experiencia integral del usuario o la creación de comunidades de lectores. Esto crea una brecha en la cual los usuarios no pueden disfrutar plenamente de los beneficios de la digitalización.
+
+###### **HOW MUCH?**
+La falta de acceso a una plataforma como BookSphere puede resultar en un costo significativo para los usuarios en términos de oportunidades educativas perdidas, el tiempo invertido en buscar recursos dispersos, y la falta de una comunidad de apoyo para compartir y discutir conocimientos.
 ### Lean UX Process
 #### Lean UX Problem Statements
+1. El mercado de libros en línea no ha logrado una adecuada centralización ni expansión en los últimos años, lo que ha limitado la efectividad de las plataformas actuales para construir una comunidad activa. Esto ha provocado una desconexión tanto entre los consumidores, que muestran poco interés en utilizar estas plataformas de manera seguida, como entre los autores, que se sienten desincentivados para publicar sus obras en este entorno.
+2. 
 #### Lean UX Assumptions
+1. Si una solución se llevara a cabo, debe ser bien modelada para los gustos del público objetivo y requerir un buen mantenimiento para garantizar una experiencia de usuario positiva.
+2. Los componentes incluidos deben centrarse en el objetivo principal sin desviarse en ningún momento durante su uso.
 #### Lean UX Hypothesis Statements
+1. Creemos que, para lograr nuestro objetivo, es necesario desarrollar una aplicación que combine todas las funcionalidades de los actuales sitios de venta de libros, incorporando además nuevas características que los usuarios aprovecharán para mejorar su experiencia.
+2. También consideramos que es necesario desarrollar una herramienta que comunique y respalde las necesidades de los usuarios.
 #### Lean UX Canvas
+![Captura de pantalla 2024-08-19 054506](https://hackmd.io/_uploads/r1RqfoeoR.png) 
 ### Segmentos objetivo
 #### 1. Lectores Ávidos Particulares o Estudiantes:
 
