@@ -422,7 +422,8 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Carabayllo |
 | ![Entrevista1](https://hackmd.io/_uploads/HkebyaCqC.png)|
-| **Resumen:** José Gonzales, estudiante que utiliza libros y audiolibros digitales al menos dos o tres veces por semana, valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere combinar libros para estudios y audiolibros para actividades multitarea. Descubre nuevos libros a través de recomendaciones y reseñas, y busca funciones como listas de lectura personalizadas y recordatorios de lectura en las plataformas. Aprecia la personalización de recomendaciones y le gustaría interactuar con autores. Sin embargo, encuentra que la interacción en plataformas actuales a veces es limitada y desea mejoras en la interactividad y organización de las plataformas.  . |
+| **Resumen:** José Gonzales, estudiante que utiliza libros y audiolibros digitales al menos dos o tres veces por semana, valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere combinar libros para estudios y audiolibros para actividades multitarea. Descubre nuevos libros a través de recomendaciones y reseñas, y busca funciones como listas de lectura personalizadas y recordatorios de lectura en las plataformas. Aprecia la personalización de recomendaciones y le gustaría interactuar con autores. Sin embargo, encuentra que la interacción en plataformas actuales a veces es limitada y desea mejoras en la interactividad y organización de las plataformas. |
+|Link de la entrevista: https://acortar.link/x8kaIf|
 
 #### Entrevista 2
 | **Datos del entrevistado** | 
@@ -437,10 +438,9 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 
 ## Needfinding
 ### User Personas
-## Needfinding
-### User Personas
-#### Segmento 1: Lectores Ávidos Particulares o Estudiantes
+#### Segmento 1: Estudiantes
 ![User Persona - S1](https://hackmd.io/_uploads/BkPhy3C5C.png)
+#### Segmento 2: Autores
 ![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
 
 ### User Task Matrix
@@ -472,8 +472,8 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 ### User Journey Mapping
 **Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
-**Instituciones Educativas**
-![Customer journey map 2](https://hackmd.io/_uploads/B1l95DZoC.png)
+**Autores**
+
 ### Empathy Mapping
 #### Segmento 1: Lectores Ávidos Particulares o Estudiantes
 ![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
@@ -481,7 +481,7 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 
 ### As-is Scenario Mapping
 
-### Lectores Ávidos Particulares o Estudiantes
+### Estudiantes
     
 | Escenario| Doing (Haciendo)                                                                                                | Thinking (Pensando)| Feeling (Sintiendo)|
 |-----------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
