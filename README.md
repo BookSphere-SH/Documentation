@@ -1,4 +1,4 @@
-UNIVERSIDAD PERUANA<br>
+xUNIVERSIDAD PERUANA<br>
  DE CIENCIAS APLICADAS
 
 
@@ -261,14 +261,27 @@ Actualmente, la mayoría de las plataformas digitales están fragmentadas en té
 La falta de acceso a una plataforma como BookSphere puede resultar en un costo significativo para los usuarios en términos de oportunidades educativas perdidas, el tiempo invertido en buscar recursos dispersos, y la falta de una comunidad de apoyo para compartir y discutir conocimientos.
 ### Lean UX Process
 #### Lean UX Problem Statements
-1. El mercado de libros en línea no ha logrado una adecuada centralización ni expansión en los últimos años, lo que ha limitado la efectividad de las plataformas actuales para construir una comunidad activa. Esto ha provocado una desconexión tanto entre los consumidores, que muestran poco interés en utilizar estas plataformas de manera seguida, como entre los autores, que se sienten desincentivados para publicar sus obras en este entorno. 
-2. Autores sin recursos que intentan publicar sus trabajos no la tienen facil, pues requieren de contratar a un publisher para poder anunciar sus obras en masa y esto no es del todo accesible para ellos.
+1. El mercado de libros en línea no ha logrado una adecuada centralización ni expansión en los últimos años, lo que ha limitado la efectividad de las plataformas actuales para construir una comunidad activa. Esto ha provocado una desconexión tanto entre los consumidores, que muestran poco interés en utilizar estas plataformas de manera seguida, como entre los autores, que se sienten desincentivados para publicar sus obras en este entorno.
+2. Autores sin recursos que intentan publicar sus trabajos no la tienen fácil, pues requieren de contratar a un publisher para poder anunciar sus obras en masa y esto no es del todo accesible para ellos.
+3. Las plataformas existentes a menudo carecen de herramientas efectivas para la promoción y visibilidad de nuevas obras, lo que limita la capacidad de los autores para llegar a su audiencia objetivo y obtener reconocimiento.
+4. Los lectores a menudo enfrentan dificultades para descubrir nuevos títulos que se alineen con sus intereses específicos debido a la falta de recomendaciones personalizadas y sistemas de filtrado efectivos en las plataformas actuales.
+5. La gestión de derechos de autor y licencias es un proceso complejo y opaco para muchos autores, lo que dificulta la protección de sus obras y la maximización de sus ingresos.
+6. Las plataformas de libros digitales actuales no siempre ofrecen una experiencia de usuario coherente y fluida, lo que puede resultar en una navegación confusa y una baja retención de usuarios.
+7. La interacción entre autores y lectores es limitada en las plataformas existentes, lo que impide la creación de una comunidad comprometida y la retroalimentación valiosa para la mejora continua de las obras.
+8. Los autores independientes tienen dificultades para acceder a datos analíticos detallados sobre el rendimiento de sus publicaciones, lo que les impide tomar decisiones informadas sobre estrategias de marketing y ajustes de contenido.
+9. Muchas plataformas de libros digitales no proporcionan suficientes recursos y soporte para ayudar a los autores a mejorar sus habilidades de auto-publicación y marketing, dejándolos en desventaja frente a los autores establecidos que cuentan con apoyo editorial.
 #### Lean UX Assumptions
 1. Si una solución se llevara a cabo, debe ser bien modelada para los gustos del público objetivo y requerir un buen mantenimiento para garantizar una experiencia de usuario positiva.
 2. Los componentes incluidos deben centrarse en el objetivo principal sin desviarse en ningún momento durante su uso.
+3. La plataforma debe ofrecer una interfaz intuitiva y fácil de usar para autores y lectores por igual, facilitando la integración de nuevas funcionalidades.
+4. La solución debe permitir la colaboración efectiva entre autores y lectores, fomentando la creación de una comunidad activa.
+
 #### Lean UX Hypothesis Statements
-1. Creemos que, para lograr nuestro objetivo, es necesario desarrollar una aplicación que combine todas las funcionalidades de los actuales sitios de venta de libros, incorporando además nuevas características que los usuarios aprovecharán para mejorar su experiencia.
-2. También consideramos que es necesario desarrollar una herramienta que comunique y respalde las necesidades de los usuarios.
+1. Creemos que, para lograr nuestro objetivo, es necesario desarrollar una aplicación que combine todas las funcionalidades de los actuales sitios de venta de libros, incorporando además nuevas características que los usuarios aprovecharán para mejorar su experiencia, como la personalización de contenido y funciones sociales interactivas.
+2. También consideramos que es necesario desarrollar una herramienta que comunique y respalde las necesidades de los usuarios, proporcionando soporte y recursos para la auto-publicación y promoción, así como una plataforma que permita a los autores gestionar sus derechos y licencias de manera eficiente.
+3. Suponemos que al ofrecer una plataforma que simplifique la publicación y distribución de obras para autores independientes, y que al mismo tiempo permita una interacción significativa con los lectores, se podrá aumentar el interés y la participación en el mercado de libros digitales.
+4. Asumimos que la integración de funcionalidades que promuevan la colaboración entre autores y lectores, así como la inclusión de herramientas analíticas para medir el impacto y el rendimiento de las publicaciones, contribuirá al éxito y sostenibilidad de la plataforma.
+
 #### Lean UX Canvas
 ![Captura de pantalla 2024-08-19 054506](https://hackmd.io/_uploads/r1RqfoeoR.png) 
 ### Segmentos objetivo
@@ -277,8 +290,9 @@ La falta de acceso a una plataforma como BookSphere puede resultar en un costo s
 Este segmento objetivo abarca a lectores apasionados y estudiantes que buscan acceder a una amplia variedad de libros y audiolibros, ya sea por interés personal o para cumplir con sus obligaciones académicas. Estos usuarios valoran la accesibilidad, la diversidad de títulos, y la posibilidad de personalizar su experiencia de lectura. Además, están interesados en interactuar con otros lectores a través de reseñas y comunidades en línea que enriquecen su experiencia literaria.
 
 
-#### 2. Instituciones Educativas:
-El segundo segmento objetivo incluye a instituciones educativas, editoriales y autores independientes que desean distribuir sus obras o recursos educativos de manera más eficiente y llegar a un público más amplio. Estos actores valoran una plataforma que les permita gestionar sus contenidos de forma digital y mantener un control sobre su distribución, con la posibilidad de obtener ingresos a través de suscripciones o ventas directas. Además, les interesa participar en una comunidad donde puedan interactuar con lectores, recibir feedback, y promover sus obras.
+#### 2. Autores:
+El segundo segmento objetivo incluye a autores independientes que desean distribuir sus obras o recursos educativos de manera más eficiente y llegar a un público más amplio. Estos autores valoran una plataforma que les permita gestionar sus contenidos de forma digital y mantener un control sobre su distribución, con la posibilidad de obtener ingresos a través de suscripciones o ventas directas. Además, les interesa participar en una comunidad donde puedan interactuar con lectores, recibir feedback, y promover sus obras.
+
 
 
 ####  Variable geográfica:
@@ -289,7 +303,7 @@ Ciudad: Zonas urbanas y suburbanas
 #### Variable demográfica:
 
 Género: Femenino / Masculino
-Ocupación: Estudiantes, lectores, instituciones educativas, editores, autores independientes
+Ocupación: Estudiantes, lectores, editores, autores independientes
 Estado civil: Todos los estados
 Edad y etapa del ciclo de vida: Ciudadanos mayores de 15 años
 
@@ -396,20 +410,19 @@ Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientada
 9. ¿Cómo te sentirías si pudieras interactuar directamente con autores a través de una plataforma?
 10. ¿Qué mejorarías en las plataformas de libros digitales que ya usas?
 
-### 2. Segmento Objetivo: Instituciones Educativas
-BookSphere se enfoca en facilitar la distribución y acceso a materiales educativos y libros de todo tipo a través de una plataforma digital. En este segmento, las entrevistas estarán dirigidas a comprender las expectativas y necesidades de instituciones educativas, editoriales y autores independientes que desean llegar a un público más amplio mediante la digitalización y distribución de sus contenidos. Preguntaremos sobre los desafíos actuales que enfrentan en la distribución de sus libros, la facilidad para integrarse a plataformas digitales, y qué funcionalidades consideran importantes para maximizar la exposición y las ventas. Además, indagaremos sobre la disposición para colaborar con una plataforma como BookSphere, que busca ofrecer una solución centralizada y eficiente para la distribución de contenidos digitales. Con estas entrevistas, pretendemos ajustar nuestra estrategia para convertirnos en un aliado clave para las instituciones y autores.
-### Preguntas principales: 
-
-1. ¿Cuáles son tus principales desafíos al distribuir libros o materiales educativos en formato digital?
+### 2. Segmento Objetivo: Autores
+BookSphere se enfoca en facilitar la distribución y acceso a materiales educativos y libros de todo tipo a través de una plataforma digital. En este segmento, las entrevistas estarán dirigidas a comprender las expectativas y necesidades de autores independientes que desean llegar a un público más amplio mediante la digitalización y distribución de sus contenidos. Preguntaremos sobre los desafíos actuales que enfrentan en la publicación de sus libros, la facilidad para integrarse a plataformas digitales, y qué funcionalidades consideran importantes para maximizar la exposición y las ventas. Además, indagaremos sobre la disposición para colaborar con una plataforma como BookSphere, que busca ofrecer una solución centralizada y eficiente para la distribución de contenidos digitales. Con estas entrevistas, pretendemos ajustar nuestra estrategia para convertirnos en un aliado clave para los autores.
+### Preguntas principales:
+1. ¿Cuáles son tus principales desafíos al distribuir tus libros en formato digital?
 2. ¿Qué factores consideras al elegir una plataforma para publicar tus obras?
 3. ¿Cómo valoras la visibilidad y el alcance que te ofrece una plataforma de libros digitales?
-4. ¿Qué tipo de herramientas o funcionalidades te gustaría que una plataforma te ofreciera para promocionar tus libros o materiales?
+4. ¿Qué tipo de herramientas o funcionalidades te gustaría que una plataforma te ofreciera para promocionar tus libros?
 5. ¿Qué importancia tiene para ti el feedback de los lectores en la plataforma?
 6. ¿Cómo manejas actualmente la relación con tus lectores? ¿Cómo crees que una plataforma digital podría mejorar esa relación?
 7. ¿Qué tan relevante es la seguridad y protección de los derechos de autor en una plataforma digital?
 8. ¿Qué esperas en términos de análisis de datos o reportes sobre el rendimiento de tus libros en la plataforma?
 9. ¿Cómo te gustaría que una plataforma te apoyara en la creación de una comunidad alrededor de tu obra?
-10. ¿Qué papel juega la interacción con otras editoriales, autores o instituciones en tu estrategia de publicación?
+10. ¿Qué papel juega la interacción con otras editoriales, autores u otros profesionales en tu estrategia de publicación?
 
 ## Registro de entrevistas
 ### Segmento: Estudiantes
@@ -447,23 +460,23 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 ### User Task Matrix
 
 
-| User Task                                       | Lectores Ávidos Particulares o Estudiantes (Frecuencia) | Lectores Ávidos Particulares o Estudiantes (Importancia) | Instituciones Educativas (Frecuencia) | Instituciones Educativas (Importancia) |
-|--------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|---------------------------------------|----------------------------------------|
-| Explorar Colección de Libros               | Always                                                | High                                                    | Sometimes                             | Medium                                 |
-| Buscar y Filtrar Libros                    | Always                                                | High                                                    | Never                                 | Low                                    |
-| Leer Reseñas y Calificaciones              | Sometimes                                             | Medium                                                  | Always                                | High                                   |
-| Leer Muestras de Libros                    | Always                                                | High                                                    | Never                                 | Low                                    |
-| Comprar o Descargar Libros                 | Always                                                | High                                                    | Never                                 | Low                                    |
-| Dejar Comentarios y Reseñas                | Always                                                | High                                                    | Never                                 | Low                                    |
-| Participar en Discusiones sobre Libros     | Always                                                | High                                                    | Never                                 | Low                                    |
-| Seguir a Otros Usuarios                    | Sometimes                                             | Medium                                                  | Sometimes                             | Medium                                 |
-| Cargar Libros Digitales                    | Never                                                 | Low                                                     | Always                                | High                                   |
-| Actualizar Información del Libro           | Never                                                 | Low                                                     | Always                                | High                                   |
-| Gestionar Perfil y Obras Publicadas        | Sometimes                                             | Low                                                     | Always                                | High                                   |
-| Acceder a Estadísticas de Lectura          | Sometimes                                             | Low                                                     | Always                                | High                                   |
-| Colaborar en Proyectos Educativos          | Never                                                 | Low                                                     | Always                                | High                                   |
-| Gestionar Derechos y Licencias             | Never                                                 | Low                                                     | Always                                | High                                   |
-| Verificación y Aprobación de Contenidos    | Never                                                 | Low                                                     | Always                                | High                                   |
+| User Task                                       | Estudiantes (Frecuencia) | Estudiantes (Importancia) | Autores (Frecuencia) | Autores (Importancia) |
+|-------------------------------------------------|---------------------------|---------------------------|----------------------|-----------------------|
+| Explorar Colección de Libros                   | Always                    | High                      | Sometimes            | Medium                |
+| Buscar y Filtrar Libros                        | Always                    | High                      | Never                | Low                   |
+| Leer Reseñas y Calificaciones                  | Sometimes                 | Medium                    | Always               | High                  |
+| Leer Muestras de Libros                        | Always                    | High                      | Never                | Low                   |
+| Comprar o Descargar Libros                     | Always                    | High                      | Never                | Low                   |
+| Dejar Comentarios y Reseñas                    | Always                    | High                      | Never                | Low                   |
+| Participar en Discusiones sobre Libros         | Always                    | High                      | Never                | Low                   |
+| Seguir a Otros Usuarios                        | Sometimes                 | Medium                    | Sometimes            | Medium                |
+| Cargar Libros Digitales                        | Never                     | Low                       | Always               | High                  |
+| Actualizar Información del Libro               | Never                     | Low                       | Always               | High                  |
+| Gestionar Perfil y Obras Publicadas            | Sometimes                 | Low                       | Always               | High                  |
+| Acceder a Estadísticas de Lectura              | Sometimes                 | Low                       | Always               | High                  |
+| Colaborar en Proyectos Educativos              | Never                     | Low                       | Always               | High                  |
+| Gestionar Derechos y Licencias                 | Never                     | Low                       | Always               | High                  |
+| Verificación y Aprobación de Contenidos        | Never                     | Low                       | Always               | High                  |
 
 
 
@@ -476,9 +489,9 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 **Autores**
 
 ### Empathy Mapping
-#### Segmento 1: Lectores Ávidos Particulares o Estudiantes
+#### Segmento 1: Estudiantes
 ![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
-#### Segmento 2: Instituciones Educativas
+#### Segmento 2: Autores
 
 ### As-is Scenario Mapping
 
@@ -491,14 +504,15 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 | Interactuar con el Contenido| -Dejar reseñas y calificaciones<br>-Participar en discusiones sobre libros<br>-Seguir a otros usuarios<br>-Compartir en redes sociales | -¿Qué opinan otros usuarios?<br>-¿Mis comentarios son útiles?<br>-¿Cómo puedo conectar con otros lectores?  | -Sentimiento de comunidad<br>-Orgullo (por las reseñas)<br>-Inspiración |
 | Gestionar Preferencias Personales| -Actualizar preferencias de lectura<br>-Ajustar notificaciones<br>-Revisar y actualizar la información de la cuenta | -¿Cómo personalizo mi experiencia?<br>-¿Recibiré las notificaciones que quiero?<br>-¿Está mi cuenta al día? | -Control<br>-Tranquilidad<br>-Confusión (si el proceso es complicado) |
 
-### Instituciones Educativas
+### Autores
     
-| Escenario| Doing (Haciendo)| Thinking (Pensando)| Feeling (Sintiendo)|
-|-----------------------------------------|------------------------------------------------|--------------------------------------------------|----------------------------------------------------|
-| Subir y Gestionar Contenido             | -Iniciar sesión<br>-Subir libros y recursos<br>-Actualizar información<br>-Gestionar publicaciones | -¿Cómo aseguro que el contenido esté actualizado?<br>-¿Es fácil de subir y gestionar?<br>-¿Cómo se presentará el contenido? | -Satisfacción (al actualizar)<br>-Ansiedad (si hay problemas técnicos) |
-| Monitorear y Analizar Uso| -Acceder a estadísticas<br>-Revisar métricas y feedback<br>-Analizar rendimiento del contenido | -¿Cómo está funcionando el contenido?<br>-¿Qué puedo aprender de los datos?<br>-¿Cómo puedo mejorar? | -Insight (a partir de datos)<br>-Preocupación (si el rendimiento es bajo) |
-| Colaborar en Proyectos Educativos| -Participar en proyectos<br>-Contribuir recursos<br>-Interactuar con otros educadores | -¿Cómo puedo contribuir mejor?<br>-¿Qué aportes son valorados?<br>-¿Cómo se beneficiará mi institución? | -Entusiasmo (por la colaboración)<br>-Frustración (si hay conflictos) |
-| Gestionar Derechos y Licencias| -Administrar derechos y licencias<br>-Aprobar contenido<br>-Asegurar cumplimiento legal | - ¿Está todo en conformidad?<br>-¿Qué derechos se deben gestionar?<br>-¿Está el contenido protegido? | -Seguridad (al cumplir legalidad)<br>-Estrés (por el cumplimiento riguroso)|
+| Escenario                            | Doing (Haciendo)                                               | Thinking (Pensando)                                              | Feeling (Sintiendo)                                              |
+|--------------------------------------|-----------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| Subir y Gestionar Contenido          | - Iniciar sesión<br>- Subir libros y recursos<br>- Actualizar información<br>- Gestionar publicaciones | - ¿Cómo aseguro que el contenido esté actualizado?<br>- ¿Es fácil de subir y gestionar?<br>- ¿Cómo se presentará el contenido? | - Satisfacción (al actualizar)<br>- Ansiedad (si hay problemas técnicos) |
+| Monitorear y Analizar Uso            | - Acceder a estadísticas<br>- Revisar métricas y feedback<br>- Analizar rendimiento del contenido | - ¿Cómo está funcionando el contenido?<br>- ¿Qué puedo aprender de los datos?<br>- ¿Cómo puedo mejorar? | - Insight (a partir de datos)<br>- Preocupación (si el rendimiento es bajo) |
+| Colaborar en Proyectos Educativos    | - Participar en proyectos<br>- Contribuir recursos<br>- Interactuar con otros educadores | - ¿Cómo puedo contribuir mejor?<br>- ¿Qué aportes son valorados?<br>- ¿Cómo se beneficiará mi institución? | - Entusiasmo (por la colaboración)<br>- Frustración (si hay conflictos) |
+| Gestionar Derechos y Licencias       | - Administrar derechos y licencias<br>- Aprobar contenido<br>- Asegurar cumplimiento legal | - ¿Está todo en conformidad?<br>- ¿Qué derechos se deben gestionar?<br>- ¿Está el contenido protegido? | - Seguridad (al cumplir legalidad)<br>- Estrés (por el cumplimiento riguroso) |
+
 
     
 
