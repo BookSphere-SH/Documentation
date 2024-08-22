@@ -587,6 +587,7 @@ El logotipo de BookSphere no es solo una imagen, es la representación visual de
 Logotipo del producto:  <br>
 <img src="https://acortar.link/BvYMVx" alt="Logo" width="200" />
  <br>
+ 
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   <br>
@@ -608,9 +609,10 @@ Logotipo del producto:  <br>
 ![Arial](https://acortar.link/fpEP4F)
 
  <br>
-### Colores:
+ 
+**Colores**
 
-La selección de colores en BookSphere ha sido cuidadosamente diseñada para reflejar la modernidad y la conexión entre la tecnología y la lectura. La paleta de colores está compuesta por:
+**La selección de colores en BookSphere ha sido cuidadosamente diseñada para reflejar la modernidad y la conexión entre la tecnología y la lectura. La paleta de colores está compuesta por:**
 
 - **Marrón oscuro (#3E2723):** Representa la sofisticación y el enfoque en la literatura.  
   ![#3E2723](https://acortar.link/vs2xku)
@@ -622,7 +624,33 @@ La selección de colores en BookSphere ha sido cuidadosamente diseñada para ref
   ![#F5F5F5](https://acortar.link/0tNf7H)
 
  <br>
-Estos colores no solo crean una armonía visual, sino que también refuerzan la identidad de BookSphere como una plataforma innovadora para el acceso a libros y materiales educativos.
+Estos colores no solo crean una armonía visual en la plataforma, sino que también refuerzan la identidad de BookSphere como una solución innovadora para el acceso a libros y materiales educativos. La combinación de estos tonos contribuye a una experiencia de usuario enriquecedora, que combina la tradición de la lectura con la modernidad de la tecnología, y refleja nuestro compromiso con la excelencia en el diseño y la funcionalidad.
+
+### Espaciado en la Plataforma Web de BookSphere
+
+La plataforma web de **BookSphere** está diseñada para ofrecer una experiencia de lectura y navegación cómoda y clara. A continuación, se detallan las especificaciones de espaciado recomendadas para garantizar la legibilidad y la organización visual de la plataforma:
+
+#### Espaciado entre líneas (line-height)
+- **Texto de cuerpo:** El espaciado entre líneas debe ser de 1.4 a 1.6 veces el tamaño de la fuente. Esto asegura que el texto sea fácil de leer y que haya suficiente separación para evitar una sensación de aglomeración.
+
+#### Espaciado entre párrafos
+- **Margen inferior:** Debe ser al menos el 120% del tamaño de la fuente entre párrafos. Este margen proporciona un espacio adecuado para la separación de ideas y facilita la lectura continua sin interrupciones visuales incómodas.
+
+#### Margen y espaciado alrededor de elementos de la interfaz
+- **Espacio entre elementos de la interfaz:** Al menos 20 píxeles de espacio debe mantenerse entre los elementos de la interfaz para asegurar que cada componente tenga suficiente separación y sea fácilmente accesible.
+
+#### Espaciado entre secciones o módulos
+- **Margen superior e inferior:** Debe ser de al menos 45 píxeles. Esto asegura que las secciones de la página estén claramente delimitadas y que haya suficiente espacio entre diferentes bloques de contenido.
+
+#### Espaciado entre elementos de menú y navegación
+- **Espacio entre elementos de navegación:** Al menos 15 píxeles de espacio debe mantenerse entre los elementos de navegación para evitar una apariencia desordenada y mejorar la accesibilidad.
+
+#### Espaciado alrededor de imágenes y gráficos
+- **Margen alrededor de imágenes:** Debe haber al menos 20 píxeles de margen alrededor de las imágenes y gráficos. Esto asegura que los elementos visuales no se sientan aglomerados y que el contenido relacionado esté claramente separado.
+
+#### Espaciado en el pie de página
+- **Margen superior e inferior:** Debe ser de alrededor de 40 a 60 píxeles. Este espaciado proporciona un equilibrio visual y asegura que el pie de página esté claramente diferenciado del contenido principal.
+
 ### Web Style Guidelines
 texto
 ## Information Architecture
