@@ -460,7 +460,7 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 ## Needfinding
 ### User Personas
 #### Segmento 1: Estudiantes
-![User Persona - S1](https://hackmd.io/_uploads/BkPhy3C5C.png)
+![UserPersona1](https://acortar.link/baPBo2)
 #### Segmento 2: Autores
 ![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
 
@@ -497,7 +497,7 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 
 ### Empathy Mapping
 #### Segmento 1: Estudiantes
-![Empathy Map - S1](https://hackmd.io/_uploads/SypMg3R50.png)
+![EmpathyMaps1](https://acortar.link/N2zZsG)
 #### Segmento 2: Autores
 
 ### As-is Scenario Mapping
