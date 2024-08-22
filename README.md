@@ -586,28 +586,39 @@ Las Style Guidelines son fundamentales para mantener una comunicación cohesiva 
 El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
 Logotipo del producto:  <br>
 <img src="https://acortar.link/BvYMVx" alt="Logo" width="200" />
-
+ <br>
 **Typography**
 **Font Families:**
-- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.** 
+- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   <br>
  ![Rushen](https://acortar.link/uq4TzX)
 
-- **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
+- **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**   <br>
 ![Poppins](https://acortar.link/0uJeys)
 
-- **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**  
+- **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**   <br>
 ![noto](https://acortar.link/yCVZbf)
 
-- **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**  
+- **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**   <br>
 ![Roboto](https://acortar.link/yT2ySw)
 
-- **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**  
+- **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**   <br>
 ![raleway](https://acortar.link/504yOi)
 
-- **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**  
+- **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**   <br>
 ![Arial](https://acortar.link/fpEP4F)
 
+ <br>
+ **Colores:**
+La selección de colores en BookSphere ha sido cuidadosamente diseñada para reflejar la modernidad y la conexión entre la tecnología y la lectura. La paleta de colores está compuesta por:
 
+Marrón oscuro (#3E2723): Representa la sofisticación y el enfoque en la literatura. <br>
+![#3E2723](https://acortar.link/n0MuKk)
+Beige claro (#D6CAB3): Evoca calidez y accesibilidad. <br>
+![#D6CAB3](https://acortar.link/Cm5wB3)
+Gris claro (#F5F5F5): Aporta claridad y modernidad. <br>
+![#F5F5F5](https://acortar.link/78ovRj)
+ <br>
+Estos colores no solo crean una armonía visual, sino que también refuerzan la identidad de BookSphere como una plataforma innovadora para el acceso a libros y materiales educativos.
 ### Web Style Guidelines
 texto
 ## Information Architecture
