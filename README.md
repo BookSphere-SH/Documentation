@@ -581,8 +581,31 @@ texto
 texto
 # Capítulo IV: Product Design
 ## Style Guidelines
+Las Style Guidelines son fundamentales para mantener una comunicación cohesiva y profesional en todos los aspectos de la marca o proyecto, ya sea en publicaciones impresas, en línea o en cualquier otro medio de difusión. En esta sección estableceremos el conjunto de directrices que usará nuestro equipo para diseñar el proyecto BookSphere. Estas pautas definirán aspectos como la elección de colores, tipografía, estructura del documento, entre otros elementos. Para el diseño de BookSphere, utilizaremos la plataforma Figma para la creación de la aplicación web y la página de inicio. Ambas incluirán una paleta de colores con tonalidades de marrón y gris, que evocan calidez, sofisticación y modernidad, reflejando la conexión entre la tradición de la lectura y la innovación digital. A continuación, se presenta un detalle más amplio de cada aspecto mencionado.
 ### General Style Guidelines
-texto
+El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
+Logotipo del producto: 
+![Logo](https://hackmd.io/_uploads/SkmPIySoA.jpg)
+**Typography**
+**Font Families:**
+- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**  
+  <img src="https://hackmd.io/_uploads/HkuHokBsC.png" alt="Rushen-Shadow_font" width="300"/>
+
+- **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
+  <img src="https://hackmd.io/_uploads/H1StuySoR.jpg" alt="poppins font" width="300"/>
+
+- **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**  
+  <img src="https://hackmd.io/_uploads/r1L2i1HjA.png" alt="noto sans font" width="300"/>
+
+- **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**  
+  <img src="https://hackmd.io/_uploads/SyTE3kBoR.jpg" alt="roboto_font" width="300"/>
+
+- **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**  
+  <img src="https://hackmd.io/_uploads/BkJ22JHjC.png" alt="raleway_font" width="300"/>
+
+- **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**  
+  <img src="https://hackmd.io/_uploads/r1xy61SoA.png" alt="Arial_font" width="300"/>
+
 ### Web Style Guidelines
 texto
 ## Information Architecture
