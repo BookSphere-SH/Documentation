@@ -585,26 +585,26 @@ Las Style Guidelines son fundamentales para mantener una comunicación cohesiva 
 ### General Style Guidelines
 El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
 Logotipo del producto: 
-![Logo](https://n9.cl/xcw2g)
+![Logo](https://acortar.link/BvYMVx)
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.** 
- ![Rushen](https://n9.cl/o200q)
+ ![Rushen](https://acortar.link/uq4TzX)
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
-![Poppins]((https://n9.cl/c0gx5)
+![Poppins](https://acortar.link/0uJeys)
 
 - **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**  
-![noto](https://hackmd.io/_uploads/HkfktbriA.png)
+![noto](https://acortar.link/yCVZbf)
 
 - **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**  
-![Roboto](https://hackmd.io/_uploads/SJoCd-rjR.png)
+![Roboto](https://acortar.link/yT2ySw)
 
 - **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**  
-![raleway](https://hackmd.io/_uploads/HJbaOWSj0.png)
+![raleway](https://acortar.link/504yOi)
 
 - **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**  
-![Arial](https://hackmd.io/_uploads/BJQCObSoC.png)
+![Arial](https://acortar.link/fpEP4F)
 
 
 ### Web Style Guidelines
