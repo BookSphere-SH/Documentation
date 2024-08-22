@@ -592,7 +592,7 @@ Logotipo del producto:
   <img src="https://hackmd.io/_uploads/HkuHokBsC.png" alt="Rushen-Shadow_font" width="300"/>
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
-  <img src="https://hackmd.io/_uploads/H1StuySoR.jpg" alt="poppins font" width="300"/>
+    <img src="https://hackmd.io/_uploads/H1StuySoR.jpg" alt="poppins font" width="300"/>
 
 - **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**  
   <img src="https://hackmd.io/_uploads/r1L2i1HjA.png" alt="noto sans font" width="300"/>
@@ -605,6 +605,7 @@ Logotipo del producto:
 
 - **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**  
   <img src="https://hackmd.io/_uploads/r1xy61SoA.png" alt="Arial_font" width="300"/>
+
 
 ### Web Style Guidelines
 texto
