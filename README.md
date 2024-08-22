@@ -589,22 +589,22 @@ Logotipo del producto:
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**  
-  <img src="https://hackmd.io/_uploads/HkuHokBsC.png" alt="Rushen-Shadow_font" width="300"/>
+ ![Rushen](https://hackmd.io/_uploads/HJBeFZBjC.png)
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
-    <img src="https://hackmd.io/_uploads/H1StuySoR.jpg" alt="poppins font" width="300"/>
+![Poppins](https://hackmd.io/_uploads/r161tWSsR.png)
 
 - **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**  
-  <img src="https://hackmd.io/_uploads/r1L2i1HjA.png" alt="noto sans font" width="300"/>
+![noto](https://hackmd.io/_uploads/HkfktbriA.png)
 
 - **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**  
-  <img src="https://hackmd.io/_uploads/SyTE3kBoR.jpg" alt="roboto_font" width="300"/>
+![Roboto](https://hackmd.io/_uploads/SJoCd-rjR.png)
 
 - **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**  
-  <img src="https://hackmd.io/_uploads/BkJ22JHjC.png" alt="raleway_font" width="300"/>
+![raleway](https://hackmd.io/_uploads/HJbaOWSj0.png)
 
 - **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**  
-  <img src="https://hackmd.io/_uploads/r1xy61SoA.png" alt="Arial_font" width="300"/>
+![Arial](https://hackmd.io/_uploads/BJQCObSoC.png)
 
 
 ### Web Style Guidelines
