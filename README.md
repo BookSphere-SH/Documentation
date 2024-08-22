@@ -451,7 +451,11 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | ![Entrevista2](https://hackmd.io/_uploads/r1EfCkWiC.png)|
 | **Resumen:** Stefani Lopez es una estudiante universitaria a quien le gusta leer al menos 5 aveces a las semana, especialmente en épocas de clases en la universidad. Lo que más le gusta Stéfanie es escuchar audio libros a los cuáles ubica generalmente por recomendación de sus compañeros de clases o porfesores.
 Stefanie comenta que a identificado algunos inconvenientes con las plataformas de lectura que usa, los cuales, por ejemplo, no guardan su avance de lectura. Además, comenta que la voz de los audiolibros no le gustan tanto, porque son un tanto robóticas. Finalmente, Stefanie comenta que le gustaría interactuar con otros usuarios con preferencias de lectura similares a las de ella. |
-
+#### Entrevista 3
+### Segmento: Autores
+#### Entrevista 1
+#### Entrevista 2
+#### Entrevista 3
 
 ## Needfinding
 ### User Personas
