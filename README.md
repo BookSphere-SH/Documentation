@@ -438,7 +438,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Nombre:**  Maicol Jhordan |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
-| ![Entrevista](https://hackmd.io/_uploads/H1IMPXVjA.png)|
+| ![Entrevista](https://hackmd.io/_uploads/SJ8YiWBi0.png)|
 | **Resumen:** Maicol Jhordan es un estudiante que usa libros y audiolibros digitales regularmente. Valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere leer libros electrónicos para estudio y audiolibros para actividades mientras se desplaza. Descubre nuevos libros mediante recomendaciones personalizadas y reseñas en línea, y busca funciones como listas de lectura personalizadas y recordatorios. La personalización de recomendaciones es muy importante para él, y le gustaría poder interactuar directamente con autores. Aunque aprecia la interacción en las plataformas actuales, encuentra que la organización y la interactividad podrían mejorar. |
 |Link de la entrevista: https://acortar.link/NjcRuj|
 
