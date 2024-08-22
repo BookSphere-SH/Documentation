@@ -395,34 +395,37 @@ Análisis de la competencia: BookSphere realizará un análisis constante de los
 
 Integración de la comunidad: BookSphere se centrará en fortalecer su componente de red social, incentivando la participación de los usuarios a través de desafíos de lectura, clubes de lectura virtuales, y eventos en línea. La plataforma también ofrecerá incentivos, como acceso anticipado a nuevos títulos o descuentos en membresías, para usuarios activos y comprometidos en la comunidad.
 ## Entrevistas
-### 1. Segmento Objetivo: Lectores Ávidos Particulares o Estudiantes
+### 1. Segmento Objetivo: Estudiantes
 Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientadas a comprender las necesidades, experiencias y expectativas de los lectores particulares y estudiantes en relación con el acceso a libros y materiales educativos en formato digital. Sabemos que, para este segmento, la disponibilidad, el precio y la experiencia de usuario son factores clave para elegir una plataforma de lectura. Nuestro objetivo es identificar cómo BookSphere puede satisfacer estas necesidades ofreciendo una biblioteca digital completa, accesible y con funcionalidades avanzadas. Además, buscamos explorar qué características interactivas podrían enriquecer la experiencia del usuario y fomentar un entorno de aprendizaje dinámico. Con estas entrevistas, buscamos no solo validar nuestras hipótesis, sino también adaptar nuestra oferta para garantizar que los lectores encuentren en BookSphere un recurso valioso y conveniente.
     
 ### Preguntas Principales:
-1. ¿Con qué frecuencia lees libros o audiolibros en formato digital?
-2. ¿Qué características buscas en una plataforma de libros digitales?
-3. ¿Cómo sueles descubrir nuevos libros para leer?
-4. ¿Qué tipo de contenidos prefieres: libros, audiolibros, o ambos?
-5. ¿Qué valoras más al seleccionar un libro para leer (reseñas, recomendaciones, adelantos, etc.)?
-6. ¿Cómo te gustaría que una plataforma te ayudara a organizar y gestionar tu lectura?
-7. ¿Utilizas alguna plataforma actual para discutir libros con otros lectores? ¿Qué te gusta o disgusta de esa experiencia?
-8. ¿Qué tan importante es para ti la personalización de las recomendaciones de libros?
-9. ¿Cómo te sentirías si pudieras interactuar directamente con autores a través de una plataforma?
-10. ¿Qué mejorarías en las plataformas de libros digitales que ya usas?
+1. ¿Qué dispositivo usas principalmente para leer libros o audiolibros en formato digital?
+2. ¿Qué sistema operativo prefieres para acceder a plataformas de libros digitales?
+3. ¿Qué características buscas en una plataforma de libros digitales?
+4. ¿Cómo sueles descubrir nuevos libros para leer?
+5. ¿Qué tipo de contenidos prefieres: libros, audiolibros, o ambos?
+6. ¿Qué valoras más al seleccionar un libro para leer (reseñas, recomendaciones, adelantos, etc.)?
+7. ¿Cómo te gustaría que una plataforma te ayudara a organizar y gestionar tu lectura?
+8. ¿Utilizas alguna plataforma actual para discutir libros con otros lectores? ¿Qué te gusta o disgusta de esa experiencia?
+9. ¿Qué tan importante es para ti la personalización de las recomendaciones de libros?
+10. ¿Cómo te sentirías si pudieras interactuar directamente con autores a través de una plataforma?
+11. ¿Qué mejorarías en las plataformas de libros digitales que ya usas?
 
 ### 2. Segmento Objetivo: Autores
 BookSphere se enfoca en facilitar la distribución y acceso a materiales educativos y libros de todo tipo a través de una plataforma digital. En este segmento, las entrevistas estarán dirigidas a comprender las expectativas y necesidades de autores independientes que desean llegar a un público más amplio mediante la digitalización y distribución de sus contenidos. Preguntaremos sobre los desafíos actuales que enfrentan en la publicación de sus libros, la facilidad para integrarse a plataformas digitales, y qué funcionalidades consideran importantes para maximizar la exposición y las ventas. Además, indagaremos sobre la disposición para colaborar con una plataforma como BookSphere, que busca ofrecer una solución centralizada y eficiente para la distribución de contenidos digitales. Con estas entrevistas, pretendemos ajustar nuestra estrategia para convertirnos en un aliado clave para los autores.
 ### Preguntas principales:
-1. ¿Cuáles son tus principales desafíos al distribuir tus libros en formato digital?
-2. ¿Qué factores consideras al elegir una plataforma para publicar tus obras?
-3. ¿Cómo valoras la visibilidad y el alcance que te ofrece una plataforma de libros digitales?
-4. ¿Qué tipo de herramientas o funcionalidades te gustaría que una plataforma te ofreciera para promocionar tus libros?
-5. ¿Qué importancia tiene para ti el feedback de los lectores en la plataforma?
-6. ¿Cómo manejas actualmente la relación con tus lectores? ¿Cómo crees que una plataforma digital podría mejorar esa relación?
-7. ¿Qué tan relevante es la seguridad y protección de los derechos de autor en una plataforma digital?
-8. ¿Qué esperas en términos de análisis de datos o reportes sobre el rendimiento de tus libros en la plataforma?
-9. ¿Cómo te gustaría que una plataforma te apoyara en la creación de una comunidad alrededor de tu obra?
-10. ¿Qué papel juega la interacción con otras editoriales, autores u otros profesionales en tu estrategia de publicación?
+1. ¿Qué dispositivo usas principalmente para escribir y gestionar tus libros digitales?
+2. ¿Qué sistema operativo prefieres para tus tareas de escritura y publicación (Windows, macOS, Linux, etc.)?
+3. ¿Qué software o aplicaciones usas para crear y editar tus libros digitales?
+4. ¿Qué características valoras más en una plataforma de publicación digital?
+5. ¿Cómo evalúas la visibilidad y el alcance de tus libros en las plataformas digitales que usas actualmente?
+6. ¿Qué funcionalidades te gustaría que una plataforma digital te ofreciera para ayudar a promocionar tus libros?
+7. ¿Qué importancia tiene para ti el feedback de los lectores en la plataforma?
+8. ¿Cómo manejas actualmente la relación con tus lectores? ¿Cómo crees que una plataforma digital podría mejorar esa relación?
+9. ¿Qué tan relevante es la seguridad y protección de los derechos de autor en una plataforma digital?
+10. ¿Qué esperas en términos de análisis de datos o reportes sobre el rendimiento de tus libros en la plataforma?
+11. ¿Cómo te gustaría que una plataforma digital te apoyara en la creación de una comunidad alrededor de tu obra?
+12. ¿Qué papel juega la interacción con otras editoriales, autores u otros profesionales en tu estrategia de publicación?
 
 ## Registro de entrevistas
 ### Segmento: Estudiantes
