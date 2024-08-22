@@ -588,7 +588,7 @@ Logotipo del producto:
 ![Logo](https://hackmd.io/_uploads/SkmPIySoA.jpg)
 **Typography**
 **Font Families:**
-- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**  
+- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   ![Rushen](https://hackmd.io/_uploads/HJBeFZBjC.png)
  ![Rushen](https://hackmd.io/_uploads/HJBeFZBjC.png)
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
