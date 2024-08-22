@@ -585,14 +585,14 @@ Las Style Guidelines son fundamentales para mantener una comunicación cohesiva 
 ### General Style Guidelines
 El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
 Logotipo del producto: 
-![Logo](https://hackmd.io/_uploads/SkmPIySoA.jpg)
+![Logo](https://n9.cl/xcw2g)
 **Typography**
 **Font Families:**
-- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   ![Rushen](https://hackmd.io/_uploads/HJBeFZBjC.png)
- ![Rushen](https://hackmd.io/_uploads/HJBeFZBjC.png)
+- **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.** 
+ ![Rushen](https://n9.cl/o200q)
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**  
-![Poppins](https://hackmd.io/_uploads/r161tWSsR.png)
+![Poppins]((https://n9.cl/c0gx5)
 
 - **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**  
 ![noto](https://hackmd.io/_uploads/HkfktbriA.png)
