@@ -504,7 +504,7 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 
 ### Empathy Mapping
 #### Segmento 1: Estudiantes
-![Empathy map - Segmento 1](https://hackmd.io/_uploads/r1GLmdrsC.png)
+![Empathy Map - Segmento 1](https://hackmd.io/_uploads/HyjrSOSjA.png)
 #### Segmento 2: Autores
 
 ### As-is Scenario Mapping
