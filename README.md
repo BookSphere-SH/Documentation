@@ -608,22 +608,7 @@ texto
 
 ## 3.3. Técnicas para la Identificación de Usuarios
 
-| **ID**   | **Título**                        | **Descripción**                                                                                                                                                                                             |
-|----------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Technique 1 | Entrevistas a Usuarios              | Realizar entrevistas con usuarios actuales y potenciales para comprender sus necesidades y expectativas.                                                                                                    |
-| Technique 2 | Encuestas en Línea                 | Diseñar y distribuir encuestas en línea para recolectar datos cuantitativos sobre las preferencias y comportamientos de los usuarios.                                                                    |
-| Technique 3 | Análisis de Competencia            | Revisar las funcionalidades y características de plataformas similares para identificar estándares y oportunidades de mejora.                                                                              |
-| Technique 4 | Pruebas de Usabilidad              | Ejecutar pruebas con usuarios reales para observar cómo interactúan con la plataforma y detectar problemas de usabilidad.                                                                                   |
-| Technique 5 | Mapas de Viaje del Usuario         | Crear mapas visuales que muestren las interacciones y experiencias de los usuarios a través de la plataforma.                                                                                              |
-| Technique 6 | Análisis de Datos de Uso           | Examinar datos de uso y métricas para entender los patrones de comportamiento y áreas de interés de los usuarios.                                                                                         |
-| Technique 7 | Sesiones de Brainstorming          | Organizar sesiones de brainstorming con el equipo para generar ideas sobre nuevas funcionalidades y mejoras basadas en el feedback de usuarios.                                                           |
-| Technique 8 | Historias de Usuario y Casos de Uso | Desarrollar historias y casos de uso para capturar y definir los requisitos del sistema desde la perspectiva del usuario.                                                                                  |
-| Technique 9 | Análisis de Feedback de Reseñas    | Revisar reseñas y comentarios de usuarios en la plataforma y en otras fuentes para identificar áreas de mejora y características deseadas.                                                                  |
-| Technique 10 | Mapa de Empatía                     | Utilizar mapas de empatía para comprender mejor las emociones, pensamientos y comportamientos de los usuarios en relación con la plataforma.                                                                |
-| Technique 11 | Prototipos y Wireframes             | Crear prototipos y wireframes para visualizar y probar el diseño de la interfaz de usuario antes de su desarrollo completo.                                                                              |
-| Technique 12 | Pruebas A/B                        | Implementar pruebas A/B para comparar diferentes versiones de funcionalidades y determinar cuál ofrece una mejor experiencia de usuario.                                                                   |
-| Technique 13 | Análisis de Tendencias             | Investigar tendencias actuales en tecnología y diseño para asegurar que la plataforma se mantenga actualizada y relevante para los usuarios.                                                             |
-| Technique 14 | Focus Groups                        | Realizar grupos focales con usuarios para discutir en profundidad sus necesidades y obtener retroalimentación cualitativa sobre el diseño y las funcionalidades de la plataforma.                     |
+
 
 ## Impact Mapping
 texto
