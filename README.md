@@ -414,16 +414,16 @@ Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientada
 ### 2. Segmento Objetivo: Autores
 BookSphere se enfoca en facilitar la distribución y acceso a materiales educativos y libros de todo tipo a través de una plataforma digital. En este segmento, las entrevistas estarán dirigidas a comprender las expectativas y necesidades de autores independientes que desean llegar a un público más amplio mediante la digitalización y distribución de sus contenidos. Preguntaremos sobre los desafíos actuales que enfrentan en la publicación de sus libros, la facilidad para integrarse a plataformas digitales, y qué funcionalidades consideran importantes para maximizar la exposición y las ventas. Además, indagaremos sobre la disposición para colaborar con una plataforma como BookSphere, que busca ofrecer una solución centralizada y eficiente para la distribución de contenidos digitales. Con estas entrevistas, pretendemos ajustar nuestra estrategia para convertirnos en un aliado clave para los autores.
 ### Preguntas principales:
-1. ¿Cuántas horas a la semana dedicas a escribir o leer?
-2. ¿Cuántos libros has escrito o leído en el último año?
-3. ¿Prefieres libros en formato digital o físico? ¿Por qué?
-4. ¿Tienes alguno de tus libros en formato digital? Si eres lector, ¿qué dispositivos usas para leer libros digitales?
-5. ¿Qué sistema operativo prefieres para tus tareas de escritura o lectura (Windows, macOS, Linux, Android, iOS, etc.)?
-6. ¿Qué software o aplicaciones utilizas para crear, editar o leer libros digitales?
-7. ¿Qué características valoras más en una plataforma de publicación o lectura digital?
-8. ¿Cómo descubres nuevos libros o autores, y cómo evalúas la visibilidad y el alcance de tus libros?
-9. ¿Qué funcionalidades te gustaría que una plataforma digital ofreciera para mejorar tu experiencia como escritor o lector?
-10. ¿Qué importancia tiene el feedback de los lectores y la interacción con otros usuarios en la plataforma?
+1. ¿Cuántas horas a la semana dedicas a escribir?
+2. ¿Cuántos libros has publicado hasta ahora y cuántos de ellos están disponibles en formato digital?
+3. ¿Qué desafíos enfrentas al intentar publicar y distribuir tus libros de manera digital?
+4. ¿Qué tan dispuesto estarías a integrar tu catálogo en una plataforma como BookSphere que centraliza la distribución y visibilidad de contenidos digitales?
+5. ¿Qué dispositivos prefieres para revisar y gestionar tus libros digitales (e-readers, tabletas, laptops, etc.)?
+6. ¿Qué sistema operativo prefieres para tus tareas de escritura (Windows, macOS, Linux, Android, iOS, etc.)?
+7. ¿Qué software o aplicaciones utilizas para escribir y editar tus libros digitales?
+8. ¿Qué características valoras más en una plataforma de publicación digital?
+9. ¿Cómo descubres nuevas oportunidades para aumentar la visibilidad de tus libros?
+10. ¿Qué tan importante es para ti recibir feedback de lectores y tener interacción con otros usuarios en una plataforma digital?
 
 ## Registro de entrevistas
 ### Segmento: Estudiantes
