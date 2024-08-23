@@ -467,6 +467,7 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 ## Needfinding
 ### User Personas
 #### Segmento 1: Estudiantes
+![User Persona - Segmento 1](https://hackmd.io/_uploads/rkpUVuBo0.png)
 #### Segmento 2: Autores
 ![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
 
