@@ -461,6 +461,13 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 |**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215462_upc_edu_pe/Efai-hfyj5BHuHjgUuD3SzkBxWuqxTM8xB9altfn1estkg?e=dTToB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
 ### Segmento: Autores
 #### Entrevista 1
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Apaestegui Edquen Diego Sebastian |
+| **Edad:**  23 años |
+| **Procedencia:**  Lima, Lima |
+| ![entrevista_autor_1](https://hackmd.io/_uploads/SkgffOLiA.png)|
+| **Resumen:** Sebastián Edquén destaca la importancia de la accesibilidad y la comodidad en la publicación digital, prefiriendo libros digitales por su facilidad de uso en diferentes dispositivos. Su experiencia resalta la necesidad de herramientas avanzadas de marketing y análisis en las plataformas de publicación, así como la valiosa interacción con lectores. Las funciones que faciliten la promoción y la gestión efectiva de contenidos son clave para mejorar su experiencia como autor en el entorno digital. |
 #### Entrevista 2
 #### Entrevista 3
 
