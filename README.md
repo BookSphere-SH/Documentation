@@ -438,17 +438,10 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Procedencia:**  Lima, Ate |
 | ![Entrevista](https://n9.cl/qwq78)|
 | **Resumen:** Maicol Jhordan es un estudiante que usa libros y audiolibros digitales regularmente. Valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere leer libros electrónicos para estudio y audiolibros para actividades mientras se desplaza. Descubre nuevos libros mediante recomendaciones personalizadas y reseñas en línea, y busca funciones como listas de lectura personalizadas y recordatorios. La personalización de recomendaciones es muy importante para él, y le gustaría poder interactuar directamente con autores. Aunque aprecia la interacción en las plataformas actuales, encuentra que la organización y la interactividad podrían mejorar. |
-|Link de la entrevista: https://acortar.link/NjcRuj|
+
 
 #### Entrevista 2
-| **Datos del entrevistado** | 
-|--------------------------|
-| **Nombre:**  Stefani Lopez Huaman |
-| **Edad:**  18 años |
-| **Procedencia:**  Lima, Lima |
-| ![Entrevista2](https://hackmd.io/_uploads/r1EfCkWiC.png)|
-| **Resumen:** Stefani Lopez es una estudiante universitaria a quien le gusta leer al menos 5 aveces a las semana, especialmente en épocas de clases en la universidad. Lo que más le gusta Stéfanie es escuchar audio libros a los cuáles ubica generalmente por recomendación de sus compañeros de clases o porfesores.
-Stefanie comenta que a identificado algunos inconvenientes con las plataformas de lectura que usa, los cuales, por ejemplo, no guardan su avance de lectura. Además, comenta que la voz de los audiolibros no le gustan tanto, porque son un tanto robóticas. Finalmente, Stefanie comenta que le gustaría interactuar con otros usuarios con preferencias de lectura similares a las de ella. |
+
 
 #### Entrevista 3
 | **Datos del entrevistado** | 
@@ -458,7 +451,7 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 | **Procedencia:**  Lima, Comas |
 | ![Captura Entrevista - Segmento 1](https://hackmd.io/_uploads/SJsLMuHoA.png)|
 | **Resumen:** |
-|**Link de la entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215462_upc_edu_pe/Efai-hfyj5BHuHjgUuD3SzkBxWuqxTM8xB9altfn1estkg?e=dTToB9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+ 
 ### Segmento: Autores
 #### Entrevista 1
 | **Datos del entrevistado** | 
@@ -466,9 +459,10 @@ Stefanie comenta que a identificado algunos inconvenientes con las plataformas d
 | **Nombre:**  Apaestegui Edquen Diego Sebastian |
 | **Edad:**  23 años |
 | **Procedencia:**  Lima, Lima |
-| ![entrevista_autor_1](https://hackmd.io/_uploads/SkgffOLiA.png)|
+| ![entrevista_autor_1](https://acortar.link/iMMnZ8)|
 | **Resumen:** Sebastián Edquén destaca la importancia de la accesibilidad y la comodidad en la publicación digital, prefiriendo libros digitales por su facilidad de uso en diferentes dispositivos. Su experiencia resalta la necesidad de herramientas avanzadas de marketing y análisis en las plataformas de publicación, así como la valiosa interacción con lectores. Las funciones que faciliten la promoción y la gestión efectiva de contenidos son clave para mejorar su experiencia como autor en el entorno digital. |
 #### Entrevista 2
+
 |**Link de la entrevista:** https://drive.google.com/file/d/1kwoLDIApIq09i-89AltCG3nP0gGd5Jnz/view?usp=sharing |
 #### Entrevista 3
 
