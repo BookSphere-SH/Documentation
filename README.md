@@ -450,7 +450,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Comas |
 | ![Captura Entrevista - Segmento 1](https://hackmd.io/_uploads/SJsLMuHoA.png)|
-| **Resumen:** |
+| **Resumen:** Sebastián prefiere leer libros y escuchar audiolibros en su celular con Android. Busca plataformas con una amplia variedad de títulos en español e inglés y con una interfaz fácil de usar. Descubre libros a través de recomendaciones y redes sociales, y le gusta combinar libros y audiolibros según la situación. Valora una plataforma que permita organizar su lectura, con listas personalizadas y seguimiento del progreso. También considera importante la personalización de recomendaciones y le gustaría interactuar con autores en una plataforma digital.|
  
 ### Segmento: Autores
 #### Entrevista 1
@@ -503,7 +503,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 **Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
 **Autores**
-
+![Empathy Map - Segmento 2](https://acortar.link/gSqaVJ)
 ### Empathy Mapping
 #### Segmento 1: Estudiantes
 ![Empathy Map - Segmento 1](https://hackmd.io/_uploads/HyjrSOSjA.png)
