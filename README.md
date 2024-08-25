@@ -642,26 +642,29 @@ texto
 ## Impact Mapping
 texto
 ## Product Backlog
-| **Orden** | **User Story** | **Título**                   | **Descripción**                                                                                             | **Story Points** |
-|-----------|----------------|------------------------------|-------------------------------------------------------------------------------------------------------------|------------------|
-| 1         | Story 001      | Registro de Usuario          | **Como** usuario, **quiero** registrarme **para** crear una cuenta.                                        | 2                |
-| 2         | Story 002      | Inicio de Sesión             | **Como** usuario, **quiero** iniciar sesión **para** acceder a mi cuenta.                                 | 2                |
-| 3         | Story 003      | Recuperación de Contraseña    | **Como** usuario, **quiero** recuperar mi contraseña **para** acceder a mi cuenta si la olvido.             | 2                |
-| 4         | Story 004      | Gestión del Perfil            | **Como** usuario, **quiero** gestionar mi perfil **para** actualizar mi información personal.              | 2                |
-| 5         | Story 005      | Búsqueda de Libros            | **Como** usuario, **quiero** buscar libros **para** encontrar contenido relevante.                         | 3                |
-| 6         | Story 006      | Adición al Carrito            | **Como** usuario, **quiero** añadir libros al carrito **para** comprarlos más tarde.                       | 2                |
-| 7         | Story 007      | Compra de Libros              | **Como** usuario, **quiero** comprar libros **para** completar la transacción.                             | 3                |
-| 8         | Story 008      | Reseñas de Libros             | **Como** usuario, **quiero** dejar reseñas **para** compartir mi opinión sobre los libros.                  | 2                |
-| 9         | Story 009      | Recomendaciones Personalizadas| **Como** usuario, **quiero** recibir recomendaciones personalizadas **para** descubrir nuevos libros.      | 3                |
-| 10        | Story 010      | Gestión de Notificaciones     | **Como** usuario, **quiero** gestionar mis notificaciones **para** recibir solo las que me interesan.       | 2                |
-| 11        | Story 011      | Historial de Compras          | **Como** usuario, **quiero** ver mi historial de compras **para** revisar mis adquisiciones anteriores.    | 2                |
-| 12        | Story 012      | Soporte y Contacto            | **Como** usuario, **quiero** contactar con soporte **para** resolver problemas o consultas.                | 2                |
-| 13        | Story 013      | Integración con Redes Sociales| **Como** usuario, **quiero** integrar mi cuenta con redes sociales **para** compartir mis libros favoritos. | 3                |
-| 14        | Story 014      | Guardar Libros en Favoritos   | **Como** usuario, **quiero** guardar libros en favoritos **para** acceder a ellos fácilmente.              | 2                |
-| 15        | Story 015      | Personalización de la Interfaz| **Como** usuario, **quiero** personalizar la interfaz **para** mejorar mi experiencia de lectura.          | 3                |
-| 16        | Story 016      | Encuestas de Satisfacción     | **Como** usuario, **quiero** participar en encuestas de satisfacción **para** ayudar a mejorar la plataforma.| 2                |
-| 17        | Story 017      | Sincronización en Dispositivos| **Como** usuario, **quiero** sincronizar mi cuenta en varios dispositivos **para** acceder a mis libros desde cualquier lugar. | 3                |
-| 18        | Story 018      | Acceso a Contenido Exclusivo  | **Como** usuario, **quiero** acceder a contenido exclusivo **para** disfrutar de material adicional.        | 3                |
+| **Orden** | **User Story**                       | **Título**                         | **Descripción**                                                                 | **Story Points** |
+|-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
+| 1         | Story 001                            | Registro de Usuario                | Como usuario, quiero registrarme para crear una cuenta.                        | 2                |
+| 2         | Story 002                            | Gestión del Perfil de Usuario      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal. | 2                |
+| 3         | Story 003                            | Recuperación de Contraseña         | Como usuario, quiero recuperar mi contraseña para acceder a mi cuenta si la olvido. | 2                |
+| 4         | Story 004                            | Buscar Libros                      | Como usuario, quiero buscar libros por título, autor o género para encontrar los libros que deseo leer. | 2                |
+| 5         | Story 005                            | Filtrar Resultados de Búsqueda     | Como usuario, quiero filtrar los resultados de búsqueda para refinar mi búsqueda y encontrar libros específicos. | 2                |
+| 6         | Story 006                            | Ver Detalles del Libro             | Como usuario, quiero ver los detalles de un libro para conocer más sobre su contenido y decidir si lo quiero adquirir. | 2                |
+| 7         | Story 007                            | Dejar Reseña en un Libro            | Como usuario, quiero dejar una reseña en un libro que he leído para compartir mi opinión con otros usuarios. | 2                |
+| 8         | Story 008                            | Leer Reseñas de Otros Usuarios      | Como usuario, quiero leer las reseñas de otros usuarios para tener una idea de la calidad del libro antes de adquirirlo. | 2                |
+| 9         | Story 009                            | Enviar Mensajes a Otros Usuarios    | Como usuario, quiero enviar mensajes a otros usuarios para interactuar y discutir sobre libros y temas relacionados. | 2                |
+| 10        | Story 010                            | Recibir Notificaciones de Mensajes | Como usuario, quiero recibir notificaciones cuando recibo nuevos mensajes para estar al tanto de las interacciones. | 2                |
+| 11        | Story 011                            | Comprar un Libro                    | Como usuario, quiero comprar un libro digital para tener acceso a él en mi cuenta. | 2                |
+| 12        | Story 012                            | Descargar Libro                     | Como usuario, quiero descargar un libro digital comprado para leerlo en mi dispositivo. | 2                |
+| 13        | Story 013                            | Ver Historial de Compras            | Como usuario, quiero ver mi historial de compras para tener un registro de los libros que he adquirido. | 2                |
+| 14        | Story 014                            | Obtener Recomendaciones Personalizadas | Como usuario, quiero recibir recomendaciones personalizadas de libros para encontrar nuevos libros que se ajusten a mis gustos. | 2                |
+| 15        | Story 015                            | Ver Tendencias de Libros           | Como usuario, quiero ver las tendencias actuales de libros para estar al tanto de lo que está de moda. | 2                |
+| 16        | Story 016                            | Gestionar Preferencias de Recomendación | Como usuario, quiero gestionar mis preferencias de recomendación para ajustar el tipo de libros que recibo como recomendaciones. | 2                |
+| 17        | Story 017                            | Seguir a Otros Usuarios            | Como usuario, quiero seguir a otros usuarios para recibir actualizaciones sobre sus actividades y recomendaciones. | 2                |
+| 18        | Story 018                            | Comentar en Publicaciones de la Comunidad | Como usuario, quiero comentar en publicaciones de la comunidad para participar en discusiones y compartir mis opiniones. | 2                |
+
+
+
 
 # Capítulo IV: Product Design
 ## Style Guidelines
