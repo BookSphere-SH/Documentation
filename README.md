@@ -466,6 +466,17 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 |**Link de la entrevista:** https://drive.google.com/file/d/1kwoLDIApIq09i-89AltCG3nP0gGd5Jnz/view?usp=sharing |
 #### Entrevista 3
 
+#### Entrevista 3
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Milosch Perez Mendoza |
+| **Edad:**  25 años |
+| **Procedencia:**  Lima, San Miguel |
+| ![Entrevista]( https://github.com/RonaldoFabian01/Publicrepos/blob/main/Entrevista.png?raw=true)|
+| **Resumen:** Milosch Perez es un joven escritor, que tiene ciertas predilecciones por los libros en formatos digital, tanto en su lectura como su distribución, él tiene estas preferencias por qué cree que sus obras tiene más protección  debido a las leyes de derechos de autor y administra sus obras en iPad y PC. En cuanto a la redacción de sus libros, él prefiere usar Microsoft Word 365, ya que le permite redactar en simultaneo con otros autores. Le gusta leer libros digitales, y la facilidad de acceder a los libros digitales, ya que puede hacerlo desde múltiples dispositivos. El descubre nuevas obras literarias por recomendaciones y por la publicación de los autores que sigue en redes sociales. A él le gustaría que su editor de texto tuviera la funcionalidad de grabar y convertir a su voz a texto. Milosch tambien cree que el feedback y la crítica de sus lectores es muy importante, ya que le permiten conocer más a sus lectores, y considerar estas críticas en sus futuras obras.
+
+
+
 ## Needfinding
 ### User Personas
 #### Segmento 1: Estudiantes
