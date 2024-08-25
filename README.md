@@ -471,7 +471,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 #### Segmento 1: Estudiantes
 ![User Persona - Segmento 1](https://hackmd.io/_uploads/rkpUVuBo0.png)
 #### Segmento 2: Autores
-![Brainstorming User Persona Minimalista Azul](https://hackmd.io/_uploads/SkyeDiliR.png)
+![User Persona - Segmento 2](https://hackmd.io/_uploads/HJAhOGusR.png)
 
 ### User Task Matrix
 
@@ -508,6 +508,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 #### Segmento 1: Estudiantes
 ![Empathy Map - Segmento 1](https://hackmd.io/_uploads/HyjrSOSjA.png)
 #### Segmento 2: Autores
+![Empathy Map - Segmento 2](https://hackmd.io/_uploads/B1KfKzOoC.png)
 
 ### As-is Scenario Mapping
 
