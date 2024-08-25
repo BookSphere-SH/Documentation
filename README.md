@@ -644,25 +644,46 @@ texto
 ## Product Backlog
 | **Orden** | **User Story**                       | **Título**                         | **Descripción**                                                                 | **Story Points** |
 |-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
-| 1         | Story 001                            | Registro de Usuario                | Como usuario, quiero registrarme para crear una cuenta.                        | 2                |
+| 1         | Story 001                            | Registro de Usuario                | Como usuario, quiero registrarme para crear una cuenta.                        | 1                |
 | 2         | Story 002                            | Gestión del Perfil de Usuario      | Como usuario, quiero gestionar mi perfil para actualizar mi información personal. | 2                |
 | 3         | Story 003                            | Recuperación de Contraseña         | Como usuario, quiero recuperar mi contraseña para acceder a mi cuenta si la olvido. | 2                |
-| 4         | Story 004                            | Buscar Libros                      | Como usuario, quiero buscar libros por título, autor o género para encontrar los libros que deseo leer. | 2                |
+| 4         | Story 004                            | Buscar Libros                      | Como usuario, quiero buscar libros por título, autor o género para encontrar los libros que deseo leer. | 3                |
 | 5         | Story 005                            | Filtrar Resultados de Búsqueda     | Como usuario, quiero filtrar los resultados de búsqueda para refinar mi búsqueda y encontrar libros específicos. | 2                |
 | 6         | Story 006                            | Ver Detalles del Libro             | Como usuario, quiero ver los detalles de un libro para conocer más sobre su contenido y decidir si lo quiero adquirir. | 2                |
 | 7         | Story 007                            | Dejar Reseña en un Libro            | Como usuario, quiero dejar una reseña en un libro que he leído para compartir mi opinión con otros usuarios. | 2                |
-| 8         | Story 008                            | Leer Reseñas de Otros Usuarios      | Como usuario, quiero leer las reseñas de otros usuarios para tener una idea de la calidad del libro antes de adquirirlo. | 2                |
-| 9         | Story 009                            | Enviar Mensajes a Otros Usuarios    | Como usuario, quiero enviar mensajes a otros usuarios para interactuar y discutir sobre libros y temas relacionados. | 2                |
+| 8         | Story 008                            | Leer Reseñas de Otros Usuarios      | Como usuario, quiero leer las reseñas de otros usuarios para tener una idea de la calidad del libro antes de adquirirlo. | 3                |
+| 9         | Story 009                            | Enviar Mensajes a Otros Usuarios    | Como usuario, quiero enviar mensajes a otros usuarios para interactuar y discutir sobre libros y temas relacionados. | 3                |
 | 10        | Story 010                            | Recibir Notificaciones de Mensajes | Como usuario, quiero recibir notificaciones cuando recibo nuevos mensajes para estar al tanto de las interacciones. | 2                |
-| 11        | Story 011                            | Comprar un Libro                    | Como usuario, quiero comprar un libro digital para tener acceso a él en mi cuenta. | 2                |
+| 11        | Story 011                            | Comprar un Libro                    | Como usuario, quiero comprar un libro digital para tener acceso a él en mi cuenta. | 3                |
 | 12        | Story 012                            | Descargar Libro                     | Como usuario, quiero descargar un libro digital comprado para leerlo en mi dispositivo. | 2                |
 | 13        | Story 013                            | Ver Historial de Compras            | Como usuario, quiero ver mi historial de compras para tener un registro de los libros que he adquirido. | 2                |
 | 14        | Story 014                            | Obtener Recomendaciones Personalizadas | Como usuario, quiero recibir recomendaciones personalizadas de libros para encontrar nuevos libros que se ajusten a mis gustos. | 2                |
-| 15        | Story 015                            | Ver Tendencias de Libros           | Como usuario, quiero ver las tendencias actuales de libros para estar al tanto de lo que está de moda. | 2                |
-| 16        | Story 016                            | Gestionar Preferencias de Recomendación | Como usuario, quiero gestionar mis preferencias de recomendación para ajustar el tipo de libros que recibo como recomendaciones. | 2                |
+| 15        | Story 015                            | Ver Tendencias de Libros           | Como usuario, quiero ver las tendencias actuales de libros para estar al tanto de lo que está de moda. | 1                |
+| 16        | Story 016                            | Gestionar Preferencias de Recomendación | Como usuario, quiero gestionar mis preferencias de recomendación para ajustar el tipo de libros que recibo como recomendaciones. | 3                |
 | 17        | Story 017                            | Seguir a Otros Usuarios            | Como usuario, quiero seguir a otros usuarios para recibir actualizaciones sobre sus actividades y recomendaciones. | 2                |
 | 18        | Story 018                            | Comentar en Publicaciones de la Comunidad | Como usuario, quiero comentar en publicaciones de la comunidad para participar en discusiones y compartir mis opiniones. | 2                |
 
+| **Orden** | **User Story**                             | **Título**                               | **Descripción**                                                                                          | **Story Points** |
+|-----------|--------------------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------|
+| 1         | TS001                                      | Crear Cuenta de Usuario                 | Permitir a los usuarios crear una cuenta para acceder a la plataforma.                                   | 1                |
+| 2         | TS002                                      | Iniciar Sesión                           | Permitir a los usuarios iniciar sesión con sus credenciales para acceder a sus cuentas.                  | 2                |
+| 3         | TS003                                      | Buscar Libros                           | Implementar una funcionalidad de búsqueda de libros por título, autor o género.                           | 3                |
+| 4         | TS004                                      | Agregar Libro a la Biblioteca            | Permitir a los administradores agregar nuevos libros a la biblioteca.                                     | 2                |
+| 5         | TS005                                      | Actualizar Información del Libro         | Permitir a los administradores actualizar la información de un libro existente.                          | 1                |
+| 6         | TS006                                      | Eliminar Libro de la Biblioteca          | Permitir a los administradores eliminar libros de la biblioteca.                                           | 3                |
+| 7         | TS007                                      | Gestionar Reseñas de Libros              | Permitir a los usuarios agregar y gestionar reseñas de libros.                                             | 2                |
+| 8         | TS008                                      | Implementar Sistema de Valoración         | Implementar un sistema de valoración para que los usuarios puedan calificar libros.                      | 3                |
+| 9         | TS009                                      | Implementar Funcionalidad de Favoritos    | Permitir a los usuarios marcar libros como favoritos.                                                     | 2                |
+| 10        | TS010                                      | Implementar Recomendaciones Personalizadas | Ofrecer recomendaciones personalizadas a los usuarios basadas en su historial de lectura.               | 1                |
+| 11        | TS011                                      | Configurar Notificaciones de Nuevas Publicaciones | Notificar a los usuarios sobre nuevas publicaciones de libros.                                         | 2                |
+| 12        | TS012                                      | Implementar Funcionalidad de Filtros en Búsqueda | Añadir filtros a la búsqueda para refinar resultados según criterios.                                   | 2                |
+| 13        | TS013                                      | Implementar Funcionalidad de Exportación de Datos | Permitir a los usuarios exportar datos en formatos como CSV o Excel.                                    | 3                |
+| 14        | TS014                                      | Implementar Funcionalidad de Seguimiento de Lectura | Permitir a los usuarios rastrear su progreso de lectura.                                                | 2                |
+| 15        | TS015                                      | Integrar API de Recomendaciones de Libros | Integrar una API externa para obtener recomendaciones de libros basadas en las preferencias del usuario. | 3                |
+| 16        | TS016                                      | Implementar Funcionalidad de Compartición Social | Permitir a los usuarios compartir libros y reseñas en redes sociales.                                   | 3                |
+| 17        | TS017                                      | Implementar Sistema de Mensajes Internos | Implementar un sistema de mensajes internos para comunicación entre usuarios.                            | 2                |
+| 18        | TS018                                      | Implementar Funcionalidad de Listas de Lectura | Permitir a los usuarios crear y gestionar listas de lectura.                                              | 3                |
+| 19        | TS019                                      | Implementar Sistema de Notificaciones de Actividad | Notificar a los usuarios sobre actividades importantes relacionadas con sus libros.                    | 1                |
 
 
 
