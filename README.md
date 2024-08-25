@@ -465,8 +465,6 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 
 |**Link de la entrevista:** https://drive.google.com/file/d/1kwoLDIApIq09i-89AltCG3nP0gGd5Jnz/view?usp=sharing |
 #### Entrevista 3
-
-#### Entrevista 3
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Milosch Perez Mendoza |
