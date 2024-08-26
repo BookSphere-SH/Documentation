@@ -462,7 +462,13 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | ![entrevista_autor_1](https://acortar.link/3k7LCZ)|
 | **Resumen:** Sebastián Edquén destaca la importancia de la accesibilidad y la comodidad en la publicación digital, prefiriendo libros digitales por su facilidad de uso en diferentes dispositivos. Su experiencia resalta la necesidad de herramientas avanzadas de marketing y análisis en las plataformas de publicación, así como la valiosa interacción con lectores. Las funciones que faciliten la promoción y la gestión efectiva de contenidos son clave para mejorar su experiencia como autor en el entorno digital. |
 #### Entrevista 2
-
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  José Manuel Qwistgaard Suárez |
+| **Edad:**  63 años |
+| **Procedencia:**  Lima, Lima |
+| ![Captura de pantalla 2024-08-25 134512](https://hackmd.io/_uploads/ry3J3lYo0.png)|
+| **Resumen:** José Manuel Qwistgaard Suárez es un excoronel de la fuerza armada del Perú, secretario técnico del consejo de minitros y un escritor. Habiendo publicdo 2 libros tanto de manera física como digital, José Qwistgaard nos relata su experiencia con el proceso de publicación así también como el proceso de marketing. También explica el cómo la conexción que tienen los autores con sus leyentes es importate para el medio. Aunque no halla tenido ningún problema con el proceso de publicación que utiliza para sus libros, si a notado un percanse al momento de anunciarlos en redes sociales, pues hay algunos como los blogs que cobran por permitir publicitar sus libros. Normalmente utiliza documentos de Word para escribir el texto y luego utilizar otros programas para la edición final, siendo la laptop su medio preferido para editar y leer libros.|
 |**Link de la entrevista:** https://drive.google.com/file/d/1kwoLDIApIq09i-89AltCG3nP0gGd5Jnz/view?usp=sharing |
 #### Entrevista 3
 | **Datos del entrevistado** | 
