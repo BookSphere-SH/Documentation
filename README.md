@@ -417,13 +417,13 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 1. ¿Cuántas horas a la semana dedicas a escribir o leer?
 2. ¿Cuántos libros has escrito o leído en el último año?
 3. ¿Prefieres libros en formato digital o físico? ¿Por qué?
-4. ¿Tienes alguno de tus libros en formato digital? Si eres lector, ¿qué dispositivos usas para leer libros digitales?
-5. ¿Qué sistema operativo prefieres para tus tareas de escritura o lectura (Windows, macOS, Linux, Android, iOS, etc.)?
-6. ¿Qué software o aplicaciones utilizas para crear, editar o leer libros digitales?
-7. ¿Qué características valoras más en una plataforma de publicación o lectura digital?
-8. ¿Cómo descubres nuevos libros o autores, y cómo evalúas la visibilidad y el alcance de tus libros?
-8. ¿Qué funcionalidades te gustaría que una plataforma digital ofreciera para mejorar tu experiencia como escritor o lector?
-10. ¿Qué importancia tiene el feedback de los lectores y la interacción con otros usuarios en la plataforma?
+4. ¿Tienes alguno de tus libros en formato digital?
+5. ¿Qué sistema operativo prefieres para tus tareas de escritura (Windows, macOS, Linux, Android, iOS, etc.)?
+6. ¿Qué software o aplicaciones utilizas para crear o editar libros digitales?
+7. ¿Qué características valoras más en una plataforma de publicación digital?
+8. ¿Cómo evalúas la visibilidad y el alcance de tus libros?
+8. ¿Qué funcionalidades te gustaría que una plataforma digital ofreciera para mejorar tu experiencia como escritor?
+10. ¿Como escritor/a, qué importancia tiene el feedback de los lectores y la interacción con otros usuarios en la plataforma?
 
 ## Registro de entrevistas
 ### Segmento: Estudiantes
