@@ -436,7 +436,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Nombre:**  Maycol Jhordan Rojas Velásquez |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
-| ![Entrevista](https://n9.cl/qwq78)|
+| ![Entrevista](/assets/Entrevista_MKL.png)|
 | **Resumen:** Maicol Jhordan es un estudiante que usa libros y audiolibros digitales regularmente. Valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere leer libros electrónicos para estudio y audiolibros para actividades mientras se desplaza. Descubre nuevos libros mediante recomendaciones personalizadas y reseñas en línea, y busca funciones como listas de lectura personalizadas y recordatorios. La personalización de recomendaciones es muy importante para él, y le gustaría poder interactuar directamente con autores. Aunque aprecia la interacción en las plataformas actuales, encuentra que la organización y la interactividad podrían mejorar. |
 
 
