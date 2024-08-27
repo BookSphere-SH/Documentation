@@ -533,7 +533,7 @@ Enlace de las entrevistas: https://acortar.link/Q5pT1u
 **Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
 **Autores**
-![Empathy Map - Segmento 2](https://acortar.link/gSqaVJ)
+![Empathy Map - Segmento 2](/assets/Customer-journey-map-1.png)
 ### Empathy Mapping
 #### Segmento 1: Estudiantes
 ![Empathy Map - Segmento 1](https://hackmd.io/_uploads/HyjrSOSjA.png)
