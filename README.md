@@ -479,7 +479,14 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | ![Entrevista]( https://github.com/RonaldoFabian01/Publicrepos/blob/main/Entrevista.png?raw=true)|
 | **Resumen:** Milosch Perez es un joven escritor, que tiene ciertas predilecciones por los libros en formatos digital, tanto en su lectura como su distribución, él tiene estas preferencias por qué cree que sus obras tiene más protección  debido a las leyes de derechos de autor y administra sus obras en iPad y PC. En cuanto a la redacción de sus libros, él prefiere usar Microsoft Word 365, ya que le permite redactar en simultaneo con otros autores. Le gusta leer libros digitales, y la facilidad de acceder a los libros digitales, ya que puede hacerlo desde múltiples dispositivos. El descubre nuevas obras literarias por recomendaciones y por la publicación de los autores que sigue en redes sociales. A él le gustaría que su editor de texto tuviera la funcionalidad de grabar y convertir a su voz a texto. Milosch tambien cree que el feedback y la crítica de sus lectores es muy importante, ya que le permiten conocer más a sus lectores, y considerar estas críticas en sus futuras obras.
 
-
+#### Entrevista 4
+| **Datos del entrevistado** | 
+|--------------------------|
+| **Nombre:**  Silvia Elizabet Rojas |
+| **Edad:**  38 años |
+| **Procedencia:**  Lima, Callao |
+|![Entrevista4](https://hackmd.io/_uploads/B1k5gRqs0.png)|
+| **Resumen:** Silvia es licenciada en psicología y disfruta escribir con frecuencia. Su libro favorito es Viva la diferencia. Utiliza el sistema operativo Windows, y prefiere Microsoft Word y Google Docs para redactar sus textos. Silvia valora especialmente que una plataforma le facilite llegar a su público lector. Actualmente, publica sus escritos en redes sociales y le gusta recibir retroalimentación de sus lectores, ya que esto le ayuda a mejorar. Además, aprecia ver los comentarios e interacciones que sus publicaciones generan, pues le permiten evaluar si su contenido capta la atención del público.
 
 ## Needfinding
 ### User Personas
@@ -650,9 +657,11 @@ El impact mapping es una técnica de planificación estratégica que visualiza c
 
 ### Business Goal: 
  Que el 50% de los estudiantes que usen  nuestra aplicación interactúen con otros usuarios
+ 
  ![Impact map estudiantes](https://hackmd.io/_uploads/Bk-iNoqoA.png)
 ### Business Goal:
  Captar la atención de los lectores para incentivarlos a comprar los libros
+ 
 ![Impact Map to sell books (1)](https://hackmd.io/_uploads/Hy6YY6cjC.png)
 
 ## Product Backlog
