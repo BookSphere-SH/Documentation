@@ -459,7 +459,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Nombre:**  Apaestegui Edquen Diego Sebastian |
 | **Edad:**  23 años |
 | **Procedencia:**  Lima, Lima |
-| ![entrevista_autor_1](https://acortar.link/3k7LCZ)|
+| ![entrevista_autor_1](https://acortar.link/GlGagu)|
 | **Resumen:** Sebastián Edquén destaca la importancia de la accesibilidad y la comodidad en la publicación digital, prefiriendo libros digitales por su facilidad de uso en diferentes dispositivos. Su experiencia resalta la necesidad de herramientas avanzadas de marketing y análisis en las plataformas de publicación, así como la valiosa interacción con lectores. Las funciones que faciliten la promoción y la gestión efectiva de contenidos son clave para mejorar su experiencia como autor en el entorno digital. |
 #### Entrevista 2
 | **Datos del entrevistado** | 
