@@ -447,7 +447,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Nombre:**  Christopher Del Carpio Arenas |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Lima |
-| ![Entrevista](https://acortar.link/0xOmFj)|
+| ![Entrevista](/assets/Entrevista_Cris.png)|
 | **Resumen:** Christopher prefiere usar su laptop y smartphone para leer libros digitales y audiolibros, eligiendo Windows y Android por su comodidad y variedad de aplicaciones. Valora plataformas con interfaces intuitivas, buenas recomendaciones personalizadas y una amplia biblioteca. Descubre libros a través de recomendaciones, redes sociales y reseñas, y disfruta tanto de libros digitales como de audiolibros para adaptarse a diferentes situaciones. La personalización de recomendaciones es crucial para él, y considera que interactuar con autores directamente sería enriquecedor. Mejora en accesibilidad y personalización en las plataformas existentes sería ideal. |
 
 #### Entrevista 3
