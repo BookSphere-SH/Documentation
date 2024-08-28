@@ -2,7 +2,9 @@
 
 
 
-  <img src="https://hackmd.io/_uploads/ryJoz7YcR.png" alt="Logo" />
+ <div style="text-align: center;">
+  <img src="https://hackmd.io/_uploads/Sy8JwfTj0.png" alt="Logo upc" width="120"/>
+</div>
 
 
 
