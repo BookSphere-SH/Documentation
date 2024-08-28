@@ -1,5 +1,4 @@
-# UNIVERSIDAD PERUANA<br>
- # DE CIENCIAS APLICADAS
+# Universidad Peruana de Ciencias Aplicadas
 
 
 
