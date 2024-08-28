@@ -150,28 +150,19 @@ https://github.com/orgs/BookSphere-SH/repositories
          5.2.3.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-3) <br>
          5.2.3.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-3) <br>
          5.2.3.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-3) <br>
-      5.2.4. [Sprint 4](#Sprint-4) <br>
-         5.2.4.1. [Sprint Planning 4](#Sprint-Planning-4) <br>
-         5.2.4.2. [Sprint Backlog 4](#Sprint-Backlog-4) <br>
-         5.2.4.3. [Development Evidence for Sprint Review](#Development-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.4. [Testing Suite Evidence for Sprint Review](#Testing-Suite-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-4) <br>
-         5.2.4.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-4) <br>
-   5.3. [Validation & Testing](#Validation--Testing) <br>
-      5.3.1. [Testing Plan](#Testing-Plan) <br>
-      5.3.2. [Quality Assurance](#Quality-Assurance) <br>
-      5.3.3. [User Acceptance Testing (UAT)](#User-Acceptance-Testing-UAT) <br>
-   5.4. [Product Deployment](#Product-Deployment) <br>
-      5.4.1. [Deployment Plan](#Deployment-Plan) <br>
-      5.4.2. [Deployment Process](#Deployment-Process) <br>
-      5.4.3. [Post-Deployment Review](#Post-Deployment-Review) <br>
-6. [CAPÍTULO VI: Appendix](#Capítulo-VI-Appendix) <br>
-   6.1. [References](#References) <br>
-   6.2. [Glossary](#Glossary) <br>
-   6.3. [Acronyms](#Acronyms) <br>
-   6.4. [Bibliography](#Bibliography)<br>
+   5.3. [Validation Interviews](#Validation-Interviews) <br>
+     5.3.1. [Diseño de Entrevistas](#Diseño-de-Entrevistas) <br>
+     5.3.2. [Registro de Entrevistas](#Registro-de-Entrevistas) <br>
+     5.3.3. [Evaluaciones según heurísticas](#Evaluaciones-según-heurísticas) <br>
+   5.4. [Video About-the-Product](#Video-About-the-Product) <br>
+[Conclusiones](#Conclusiones) <br>
+[Conclusiones y recomendaciones](#Conclusiones-y-recomendaciones) <br>
+[Video About-the-Team](#Video-About-the-Team) <br>
+[Bibliografía](#Bibliografía) <br>
+[Anexos](#Anexos) <br>
+
+  
+ 
    # STUDENT OUTCOME
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 ##### ABET – EAC - Student Outcome 3 
