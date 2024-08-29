@@ -761,22 +761,22 @@ Logotipo del producto:  <br>
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   <br>
- ![Rushen](https://acortar.link/uq4TzX)
+ ![Rushen](/assets/Rushen.png)
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**   <br>
-![Poppins](https://acortar.link/0uJeys)
+![Poppins](/assets/Poppins.png)
 
 - **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**   <br>
-![noto](https://acortar.link/yCVZbf)
+![noto](/assets/noto.png)
 
 - **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**   <br>
-![Roboto](https://acortar.link/yT2ySw)
+![Roboto](/assets/Roboto.png)
 
 - **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**   <br>
-![raleway](https://acortar.link/504yOi)
+![raleway](/assets/raleway.png)
 
 - **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**   <br>
-![Arial](https://acortar.link/fpEP4F)
+![Arial](/assets/Arial.png)
 
  <br>
  
@@ -784,14 +784,17 @@ Logotipo del producto:  <br>
 
 **La selección de colores en BookSphere ha sido cuidadosamente diseñada para reflejar la modernidad y la conexión entre la tecnología y la lectura. La paleta de colores está compuesta por:**
 
-- **Marrón oscuro (#3E2723):** Representa la sofisticación y el enfoque en la literatura.  
-  ![#3E2723](https://acortar.link/vs2xku)
+- **Marrón oscuro (#e04e0b):** Representa la sofisticación y el enfoque en la literatura.  
+  ![#e04e0b](https://acortar.link/vs2xku)
 
-- **Beige claro (#D6CAB3):** Evoca calidez y accesibilidad.  
-  ![#D6CAB3](https://acortar.link/gvQ0a5)
+- **Beige claro (#e4864f):** Evoca calidez y accesibilidad.  
+  ![#e4864f](https://acortar.link/gvQ0a5)
 
-- **Gris claro (#F5F5F5):** Aporta claridad y modernidad.  
-  ![#F5F5F5](https://acortar.link/0tNf7H)
+- **Gris claro (#e9ebeb):** Aporta claridad y modernidad.  
+  ![#e9ebeb](https://acortar.link/0tNf7H)
+
+- **Gris claro (#ffffff):** Aporta claridad y modernidad.  
+  ![#ffffff](https://acortar.link/0tNf7H)
 
  <br>
 Estos colores no solo crean una armonía visual en la plataforma, sino que también refuerzan la identidad de BookSphere como una solución innovadora para el acceso a libros y materiales educativos. La combinación de estos tonos contribuye a una experiencia de usuario enriquecedora, que combina la tradición de la lectura con la modernidad de la tecnología, y refleja nuestro compromiso con la excelencia en el diseño y la funcionalidad.
