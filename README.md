@@ -799,11 +799,11 @@ Inverted Colors
   ![#e9ebeb](/assets/E9EBEB.png)
 
 - **Blanco  (#ffffff):** Simboliza pureza y simplicidad, dando un aspecto limpio a la página. <br>
-  ![#ffffff](/assets/#ffffff.png)
+  ![#ffffff](/assets/ffffff.png)
 - **Gris muy claro (#F5F5F5):**   Añade una ligera variación de gris, manteniendo la sobriedad en el diseño. <br>
   ![#F5F5F5](/assets/F5F5F5.png)
   
-  - **Marrón oscuro (#3E2723):** Transmite seriedad y sofisticación, ideal para resaltar elementos importantes. <br>
+- **Marrón oscuro (#3E2723):** Transmite seriedad y sofisticación, ideal para resaltar elementos importantes. <br>
   ![#3E2723](/assets/3E2723.png)
   
  <br>
