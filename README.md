@@ -784,18 +784,23 @@ Logotipo del producto:  <br>
 
 **La selección de colores en BookSphere ha sido cuidadosamente diseñada para reflejar la modernidad y la conexión entre la tecnología y la lectura. La paleta de colores está compuesta por:**
 
-- **Marrón oscuro (#e04e0b):** Representa la sofisticación y el enfoque en la literatura.  
-  ![#e04e0b](https://acortar.link/vs2xku)
+- **Rojo anaranjado (#e04e0b):** Representa energía y dinamismo, aportando un toque vibrante a la página.
+  ![#e04e0b](/assets/#E04E0B.png)
 
-- **Beige claro (#e4864f):** Evoca calidez y accesibilidad.  
-  ![#e4864f](https://acortar.link/gvQ0a5)
+- **Naranja claro (#e4864f):** Evoca calidez y accesibilidad, creando una atmósfera acogedora.
+  ![#e4864f](/assets/#e4864f.png)
 
-- **Gris claro (#e9ebeb):** Aporta claridad y modernidad.  
-  ![#e9ebeb](https://acortar.link/0tNf7H)
+- **Gris claro (#e9ebeb):** Aporta claridad y modernidad, manteniendo la elegancia del diseño.
+  ![#e9ebeb](/assets/#E9EBEB.png)
 
-- **Gris claro (#ffffff):** Aporta claridad y modernidad.  
-  ![#ffffff](https://acortar.link/0tNf7H)
-
+- **Blanco  (#ffffff):** Simboliza pureza y simplicidad, dando un aspecto limpio a la página.
+  ![#ffffff](/assets/#ffffff.png)
+- **Gris muy claro (#F5F5F5):**   Añade una ligera variación de gris, manteniendo la sobriedad en el diseño.
+  ![#F5F5F5](/assets/#F5F5F5.png)
+  
+  - **Marrón oscuro (#3E2723):** Transmite seriedad y sofisticación, ideal para resaltar elementos importantes.
+  ![#3E2723](/assets/#3E2723.png)
+  
  <br>
 Estos colores no solo crean una armonía visual en la plataforma, sino que también refuerzan la identidad de BookSphere como una solución innovadora para el acceso a libros y materiales educativos. La combinación de estos tonos contribuye a una experiencia de usuario enriquecedora, que combina la tradición de la lectura con la modernidad de la tecnología, y refleja nuestro compromiso con la excelencia en el diseño y la funcionalidad.
 
