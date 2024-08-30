@@ -755,9 +755,11 @@ Las Style Guidelines son fundamentales para mantener una comunicación cohesiva 
 ### General Style Guidelines
 El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
 Logotipo del producto:  <br>
-<img src="https://acortar.link/BvYMVx" alt="Logo" width="200" />
+<img src="/assets/logo.png" alt="Logo" width="200" />
  <br>
- 
+ Horizontal layout
+<img src="/assets/logo2.png" alt="Logo" width="200" />
+Inverted Colors
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   <br>
@@ -799,7 +801,7 @@ Logotipo del producto:  <br>
   ![#F5F5F5](/assets/#F5F5F5.png)
   
   - **Marrón oscuro (#3E2723):** Transmite seriedad y sofisticación, ideal para resaltar elementos importantes. <br>
-  ![#3E2723](/assets/#3E2723.png)
+  ![#3E2723](/assets/3E2723.png)
   
  <br>
 Estos colores no solo crean una armonía visual en la plataforma, sino que también refuerzan la identidad de BookSphere como una solución innovadora para el acceso a libros y materiales educativos. La combinación de estos tonos contribuye a una experiencia de usuario enriquecedora, que combina la tradición de la lectura con la modernidad de la tecnología, y refleja nuestro compromiso con la excelencia en el diseño y la funcionalidad.
