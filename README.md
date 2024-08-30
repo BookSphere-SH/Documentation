@@ -755,11 +755,11 @@ Las Style Guidelines son fundamentales para mantener una comunicación cohesiva 
 ### General Style Guidelines
 El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
 Logotipo del producto:  <br>
-<img src="/assets/logo.png" alt="Logo" width="200" />
+<img src="/assets/logo.jpeg" alt="Logo" width="200" />
  <br>
  Horizontal layout
   <br>
-<img src="logo2.png" alt="Logo" width="200" />
+<img src="assets/Logo-inverted.jpeg" alt="Logo" width="200" />
  <br>
 Inverted Colors
  <br>
@@ -790,18 +790,18 @@ Inverted Colors
 **La selección de colores en BookSphere ha sido cuidadosamente diseñada para reflejar la modernidad y la conexión entre la tecnología y la lectura. La paleta de colores está compuesta por:**
 
 - **Rojo anaranjado (#e04e0b):** Representa energía y dinamismo, aportando un toque vibrante a la página. <br>
-  ![#e04e0b](./assets/#E04E0B.png)
+  ![#e04e0b](./assets/E04E0B.png)
 
 - **Naranja claro (#e4864f):** Evoca calidez y accesibilidad, creando una atmósfera acogedora. <br>
-  ![#e4864f](/assets/#e4864f.png)
+  ![#e4864f](/assets/e4864f.png)
 
 - **Gris claro (#e9ebeb):** Aporta claridad y modernidad, manteniendo la elegancia del diseño. <br>
-  ![#e9ebeb](/assets/#E9EBEB.png)
+  ![#e9ebeb](/assets/E9EBEB.png)
 
 - **Blanco  (#ffffff):** Simboliza pureza y simplicidad, dando un aspecto limpio a la página. <br>
   ![#ffffff](/assets/#ffffff.png)
 - **Gris muy claro (#F5F5F5):**   Añade una ligera variación de gris, manteniendo la sobriedad en el diseño. <br>
-  ![#F5F5F5](/assets/#F5F5F5.png)
+  ![#F5F5F5](/assets/F5F5F5.png)
   
   - **Marrón oscuro (#3E2723):** Transmite seriedad y sofisticación, ideal para resaltar elementos importantes. <br>
   ![#3E2723](/assets/3E2723.png)
