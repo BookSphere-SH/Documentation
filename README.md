@@ -758,8 +758,11 @@ Logotipo del producto:  <br>
 <img src="/assets/logo.png" alt="Logo" width="200" />
  <br>
  Horizontal layout
-<img src="/assets/logo2.png" alt="Logo" width="200" />
+  <br>
+<img src="logo2.png" alt="Logo" width="200" />
+ <br>
 Inverted Colors
+ <br>
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   <br>
