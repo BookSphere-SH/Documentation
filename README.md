@@ -906,3 +906,24 @@ texto
 texto
 #### Team Collaboration Insights during Sprint
 texto
+
+## Validation Interviews
+
+### Diseño de Entrevistas
+
+### Registro de Entrevistas
+
+### Evaluaciones según heurísticas
+
+## Video About-the-Product
+
+## Conclusiones
+
+## Conclusiones y recomendaciones
+
+## Video About-the-Team
+
+## Bibliografía
+
+## Anexos
+sss
