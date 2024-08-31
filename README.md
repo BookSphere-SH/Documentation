@@ -855,7 +855,7 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 |------------|------------|
 |  ![user](https://hackmd.io/_uploads/rJfKxfgn0.png)   | **Perfil:** En BookSphere, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de lectura o publicación y gestionar sus preferencias.  |
 |  ![messages](https://hackmd.io/_uploads/B1GKxMlnC.png)   |**Mensajes:** Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.  |
-|   ![book-alt](https://hackmd.io/_uploads/B1GYgMg3R.png)  | **Biblioteca:** Un ícono que permite a los usuarios acceder a su biblioteca personal donde pueden ver todos los libros y audiolibros que han adquirido o guardado.  |
+|  ![book-alt](https://hackmd.io/_uploads/B1GYgMg3R.png)  | **Biblioteca:** Un ícono que permite a los usuarios acceder a su biblioteca personal donde pueden ver todos los libros y audiolibros que han adquirido o guardado.  |
 |  ![search](https://hackmd.io/_uploads/H1lMYgzghA.png)     | **Buscar:** Un ícono para buscar libros, autores, o recursos específicos dentro de la plataforma. |
 |  ![feedback-alt](https://hackmd.io/_uploads/rkgfYxGeh0.png)    | **Reseñas:** Un ícono para acceder a las reseñas que el usuario ha dejado o para ver las reseñas de otros usuarios sobre un libro específico.  |
 | ![download](https://hackmd.io/_uploads/BJzYgfeh0.png)     | **Descargas:** Un ícono que permita a los usuarios acceder a los libros o recursos descargados para su lectura o escucha offline. |
