@@ -838,7 +838,17 @@ La plataforma web de **BookSphere** está diseñada para ofrecer una experiencia
 texto
 ## Information Architecture
 ### Organization Systems
-texto
+
+A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como en cuáles se utiliza algún tipo de categorización.
+
+**Lista de libros y recursos digitales:** Los usuarios podrán ver una lista completa de todos los libros, audiolibros y materiales educativos disponibles en BookSphere. Si un libro les interesa, podrán agregarlo a su biblioteca personal o comenzar a leerlo inmediatamente. Además, podrán visualizar reseñas, puntuaciones y recomendaciones personalizadas antes de tomar su decisión.
+
+**Historial de publicaciones:** Cada autor o editor tendrá acceso a un historial completo de sus publicaciones en la plataforma. En este historial, podrán editar la información de cualquier obra previamente subida, actualizar versiones, o incluso eliminar contenido si lo consideran necesario, otorgándoles un control total sobre su material.
+
+**Historial de lectura:** Cada usuario contará con un historial detallado de los libros y recursos que ha leído o explorado en BookSphere. Este historial también incluirá información sobre el progreso en sus lecturas actuales, lo que facilita retomar la lectura desde donde la dejaron.
+
+**Mensajes y Comunicación:** Los usuarios podrán comunicarse directamente entre ellos o con los autores a través de la plataforma. Esta función facilitará la interacción entre lectores y creadores, permitiendo que los usuarios compartan sus opiniones, hagan preguntas, o coordinen actividades relacionadas con el contenido.
+
 ### Labeling Systems
 texto
 ### SEO Tags and Meta Tags
@@ -919,7 +929,7 @@ texto
 
 ## Conclusiones
 
-## Conclusiones y recomendaciones
+### Conclusiones y recomendaciones
 
 ## Video About-the-Team
 
