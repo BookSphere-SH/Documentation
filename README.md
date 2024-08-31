@@ -850,7 +850,23 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 **Mensajes y Comunicación:** Los usuarios podrán comunicarse directamente entre ellos o con los autores a través de la plataforma. Esta función facilitará la interacción entre lectores y creadores, permitiendo que los usuarios compartan sus opiniones, hagan preguntas, o coordinen actividades relacionadas con el contenido.
 
 ### Labeling Systems
-texto
+
+| Ícono  | Descripción |
+|------------|------------|
+|  ![user](https://hackmd.io/_uploads/rJfKxfgn0.png)   | **Perfil:** En BookSphere, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de lectura o publicación y gestionar sus preferencias.  |
+|  ![messages](https://hackmd.io/_uploads/B1GKxMlnC.png)   |**Mensajes:** Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.  |
+|   ![book-alt](https://hackmd.io/_uploads/B1GYgMg3R.png)  | **Biblioteca:** Un ícono que permite a los usuarios acceder a su biblioteca personal donde pueden ver todos los libros y audiolibros que han adquirido o guardado.  |
+|  ![search](https://hackmd.io/_uploads/H1lMYgzghA.png)     | **Buscar:** Un ícono para buscar libros, autores, o recursos específicos dentro de la plataforma. |
+|  ![feedback-alt](https://hackmd.io/_uploads/rkgfYxGeh0.png)    | **Reseñas:** Un ícono para acceder a las reseñas que el usuario ha dejado o para ver las reseñas de otros usuarios sobre un libro específico.  |
+| ![download](https://hackmd.io/_uploads/BJzYgfeh0.png)     | **Descargas:** Un ícono que permita a los usuarios acceder a los libros o recursos descargados para su lectura o escucha offline. |
+|   ![process](https://hackmd.io/_uploads/SkWzKxGl2A.png)    | **Configuración:** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+|   ![star](https://hackmd.io/_uploads/r1zFxGl3A.png)   | **Favoritos:** Un ícono de corazón o estrella para que los usuarios puedan marcar libros o recursos como favoritos, permitiéndoles acceder a ellos fácilmente más tarde.  |
+|   ![home](https://hackmd.io/_uploads/B1eMYlGenC.png)   | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
+|  ![bell](https://hackmd.io/_uploads/SJGFgfenC.png)
+![book-alt]    | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
+
+
+
 ### SEO Tags and Meta Tags
 texto
 ### Searching Systems
