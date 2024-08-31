@@ -864,10 +864,24 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 |   ![home](https://hackmd.io/_uploads/B1eMYlGenC.png)   | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
 |  ![bell](https://hackmd.io/_uploads/SJGFgfenC.png)   | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
-
-
 ### SEO Tags and Meta Tags
-texto
+1. **SEO Tags**
+a. Title Tag: 
+BookSphere - Tu mundo de libros y audiolibros a solo un clic.
+b. Meta Description Tag
+  Descubre, compra y disfruta de una vasta colección de libros y audiolibros en nuestra plataforma diseñada para lectores apasionados.
+(Aquí irá caputura de la página en la sección de resultados de google)
+
+2. Meta Tags
+a. Meta Robots Tag: Empleamos index y follow para que RentState pueda ser mostrada en
+los motores de búsqueda:
+ <meta name="robots" content="index, follow">
+ b. Meta Author Tag: Ya que el nombre del startup es BookSphere, podríamos colocar lo siguiente
+<meta name="robots" content="index, follow">
+c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podrías incluir el siguiente meta tag:
+<meta name="author" content="BookSphere Inc.">
+
+
 ### Searching Systems
 texto
 ### Navigation Systems
