@@ -168,8 +168,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|------------------------|------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. |                        |                  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. |                        |                  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.                   |                  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.                     |                  |
 # CAPÍTULO I: Introducción
 ## Startup Profile
 ### Descripción de la Startup
