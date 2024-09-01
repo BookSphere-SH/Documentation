@@ -545,49 +545,47 @@ Enlace de las entrevistas: https://acortar.link/Q5pT1u
 
 
 ## Ubiquitous Language
-**1. Avid Reader (Lector Ávido)**
-Un individuo apasionado por la lectura que busca constantemente nuevos libros y contenido literario. Suelen estar muy comprometidos con comunidades y discusiones relacionadas con libros.
     
-**2. Digital Library (Biblioteca Digital)**
+**1. Digital Library (Biblioteca Digital)**
 Una colección de libros, audiolibros y otros materiales educativos disponibles en formato digital y accesibles a través de una plataforma en línea.
     
-**3. Interactive Content (Contenido Interactivo)**
+**2. Interactive Content (Contenido Interactivo)**
 Contenido digital que permite a los usuarios interactuar de diversas maneras, como mediante vistas previas interactivas, elementos multimedia o características personalizadas.
     
-**4. Personalized Recommendations (Recomendaciones Personalizadas)**
+**3. Personalized Recommendations (Recomendaciones Personalizadas)**
 Sugerencias de libros o materiales educativos adaptadas a los intereses, historial de lectura o metas de aprendizaje de un individuo, a menudo generadas mediante algoritmos o preferencias del usuario.
     
-**5. Content Management (Gestión de Contenidos)**
+**4. Content Management (Gestión de Contenidos)**
 El proceso de organizar, actualizar y mantener el contenido digital en una plataforma, incluyendo la carga de nuevos materiales y la gestión de los existentes.
     
-**6. User Engagement (Participación del Usuario)**
+**5. User Engagement (Participación del Usuario)**
  El nivel de interacción e involucramiento que un usuario tiene con la plataforma, incluyendo actividades como la lectura, reseñas y participación en discusiones comunitarias.
     
-**7. Author Interaction (Interacción con el Autor)**
+**6. Author Interaction (Interacción con el Autor)**
 La capacidad para que los usuarios se relacionen directamente con los autores a través de funciones como sesiones de preguntas y respuestas, chats en vivo o blogs de autores.
     
-**8. Feedback Loop (Ciclo de Retroalimentación)**
+**7. Feedback Loop (Ciclo de Retroalimentación)**
 El proceso mediante el cual se recopila la retroalimentación de los usuarios y se utiliza para mejorar la plataforma o el contenido, incluyendo reseñas y calificaciones.
     
-**9. Educational Resources (Recursos Educativos)**
+**8. Educational Resources (Recursos Educativos)**
 Materiales diseñados para apoyar el aprendizaje y la educación, como libros de texto, guías de estudio y contenido instructivo.
     
-**10. Content Visibility (Visibilidad del Contenido)**
+**9. Content Visibility (Visibilidad del Contenido)**
 El grado en que el contenido digital es accesible y descubrible para los usuarios, influenciado por factores como la funcionalidad de búsqueda y las herramientas de promoción.
     
-**11. Publisher Partnership**
+**10. Publisher Partnership**
 Asociación con Acuerdos colaborativos entre la plataforma y las editoriales para distribuir y promover libros y materiales educativos.
     
-**12. Digital Rights Management (DRM) (Gestión de Derechos Digitales)**
+**11. Digital Rights Management (DRM) (Gestión de Derechos Digitales)**
 Tecnología y políticas utilizadas para proteger el contenido digital contra la distribución no autorizada y la piratería, asegurando que los autores y editores mantengan el control sobre su trabajo.
     
-**13. Community Features (Funciones Comunitarias)**
+**12. Community Features (Funciones Comunitarias)**
 Herramientas y funcionalidades que facilitan la interacción y el compromiso de los usuarios dentro de la plataforma, como foros de discusión, reseñas de usuarios y opciones de compartir en redes sociales.
     
-**14. Platform Usability (Usabilidad de la Plataforma)**
+**13. Platform Usability (Usabilidad de la Plataforma)**
  La facilidad con la que los usuarios pueden navegar y utilizar la plataforma, incluyendo aspectos como el diseño intuitivo, la accesibilidad y el soporte al usuario.
     
-**15. Content Updates (Actualizaciones de Contenido)**
+**14. Content Updates (Actualizaciones de Contenido)**
 El proceso de modificar o agregar nuevas versiones de materiales digitales, incluyendo revisiones, nuevas ediciones o correcciones de contenido existente.
 
 # Capítulo III: Requirements Specification
