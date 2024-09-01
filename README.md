@@ -902,11 +902,11 @@ texto
 texto
 ## Domain-Driven Software Architecture
 ### Software Architecture Context Diagram
-texto
+![DiagramContext](/assets/Diagrama-Context.png)
 ### Software Architecture Container Diagrams
-texto
+![DiagramContainer](/assets/Diagrama-Contenedores.png)
 ### Software Architecture Components Diagrams
-texto
+![DiagramComponents](/assets/Diagrama-Componentes.png)
 ## Software Object-Oriented Design
 ### Class Diagrams
 texto
