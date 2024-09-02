@@ -161,7 +161,7 @@ https://github.com/orgs/BookSphere-SH/repositories
 
   
  
-   # STUDENT OUTCOME
+# STUDENT OUTCOME
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 ##### ABET – EAC - Student Outcome 3 
 Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3. 
@@ -170,8 +170,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 |-------------------------|------------------------|------------------|
 | Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.                   |                  |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.                     |                  |
-# CAPÍTULO I: Introducción
-## Startup Profile
+1. # CAPÍTULO I: Introducción
+1.1 ## Startup Profile
 ### Descripción de la Startup
 #### Descripción General:
 <div style="text-align: justify">
