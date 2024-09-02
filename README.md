@@ -1041,10 +1041,9 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
        | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature      | -       No additional details                | 01/08/2024              |
 | grupo02-BookSphere-testing  | tb1-Sergio-Gómez
        | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e |ADD feature       | -       No additional details                | 01/08/2024              |
-| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
-       | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature      | -       No additional details                | 01/08/2024              |
+| grupo02-BookSphere-testing   | tb1-Sergio-Gómez | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature      | -       No additional details                | 01/08/2024              |
 
-
+<br>
 
 [repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing) <br>
 #### 5.2.1.5. Execution Evidence for Sprint Review
