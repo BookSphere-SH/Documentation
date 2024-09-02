@@ -911,6 +911,10 @@ texto
 ## 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
+
+![DataBaseDiagram]([/assets/Diagrama-Context.png](https://github.com/RonaldoFabian01/Publicrepos/blob/main/Database%20Diagram.png?raw=true))
+
+
 ### CAPÍTULO V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management
 En nuestro proyecto, el Software Configuration Management (SCM) se gestiona a través de GitHub, que sirve como nuestro repositorio remoto y plataforma de control de versiones. Utilizamos un flujo de trabajo basado en ramas para organizar el desarrollo, con ramas dedicadas para características, correcciones y producción, lo que asegura una integración ordenada y eficiente. Los mensajes de commit siguen un formato estandarizado para mantener un historial claro, y las integraciones se realizan mediante pull requests revisadas por el equipo. Además, empleamos GitHub Actions para la integración continua, que automatiza pruebas y validaciones, garantizando que los cambios sean revisados y aprobados antes de su fusión.
