@@ -172,10 +172,10 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 | Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.                     |                  |
 
 
-# CAPÍTULO I: Introducción
-## 1.1.Startup Profile
-### Descripción de la Startup
-#### Descripción General:
+# 1. CAPÍTULO I: Introducción
+## 1.1. Startup Profile
+### 1.1.1. Descripción de la Startup
+#### 1.1.2. Descripción General:
 <div style="text-align: justify">
 SphereHub es nuestra empresa innovadora que une la pasión por la lectura y la tecnología con el objetivo de transformar la manera en que las personas acceden a los libros y materiales educativos. Al igual que Steam revolucionó la distribución de videojuegos, BookSphere nuestro producto, busca convertirse en la plataforma de referencia para el acceso y la exploración de libros, audiolibros, y recursos de estudio en formato digital.
 <div/>
@@ -198,7 +198,7 @@ Visualizamos un mundo donde la tecnología y la lectura se fusionan para crear e
 Nos esforzamos por proporcionar una plataforma que conecte a los lectores y estudiantes con una vasta colección de recursos educativos a través de una experiencia digital avanzada. Estamos decididos a utilizar la tecnología para generar un impacto positivo en el acceso al conocimiento y la educación. BookSphere será símbolo de pasión por la lectura, innovación en la distribución de libros, y compromiso con el aprendizaje continuo, mientras fomentamos una comunidad activa y participativa en torno a la literatura y el conocimiento.
 
 
-### Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
 | Integrante | Descripción |
 | ---- | --- |
 | ![Sergio](https://hackmd.io/_uploads/SkU_5d9cR.png) | Sergio André Gómez Vallejos – Ingeniería de Software – u20221d401 <br> Soy una persona resiliente que, sin importar cuántas veces caiga, siempre encuentra la manera de levantarse. Tengo habilidades sociales sólidas y una amplia experiencia en la resolución de problemas de código. Suelo ser el miembro más activo de mi equipo de trabajo. Me apasionan los lenguajes de programación y la tecnología, y constantemente me esfuerzo por alcanzar mis objetivos y contribuir al desarrollo del startup. |
@@ -206,8 +206,8 @@ Nos esforzamos por proporcionar una plataforma que conecte a los lectores y estu
 | ![FotoPerfil4](https://hackmd.io/_uploads/rJGKndc5A.jpg) | Pedro Jesús Nanfuñay Liza - Ingeniería de Software - U202215462<br>Me considero una persona responsable y perseverante, siempre dispuesto a participar y colaborar con mi equipo. Cuento con conocimientos en varios lenguajes de programación y una fuerte pasión por investigar y conocer el desarrollo de las nuevas tecnologías. Mi objetivo es culminar este proyecto de manera satisfacoria.|
 | ![Captura de pantalla 2024-08-15 121605](https://hackmd.io/_uploads/ByWzO2icC.png)| Russell Stephen Romero Qwistgaard - Ingeniería de Software - U202211043 <br> Tengo 19 y estudió la carrera de ingeniería de software, actualmente en el 5 ciclo de esta. Me apasiona crear programas en entornos distintos para poder ampliar mi conocimiento en las muchas áreas que dependen de mi formación. Estoy dispuesto a cooperar y ser puntual en mis trabajos individuales y grupales. |
 |![Ronaldo](https://hackmd.io/_uploads/BJXwMC1sR.jpg)|Ronaldo Macedonio Fabian Puente - Ingeniería de Software - U20201b193<br>Me comprometo a desarrollar el trabajo en equipo hasta completar los objetivos planteados.|
-## Solution Profile
-### Antecedentes y problemática
+## 1.2. Solution Profile
+### 1.2.1. Antecedentes y problemática
 #### Antecedentes
 ###### **WHO?**
 SphereHub es una empresa que está posicionada para revolucionar la manera en que las personas acceden a los libros y materiales educativos en formato digital. Está dirigida tanto a lectores apasionados como a estudiantes, autores independientes, editoriales y a instituciones educativas.
@@ -251,8 +251,8 @@ Actualmente, la mayoría de las plataformas digitales están fragmentadas en té
 
 ###### **HOW MUCH?**
 La falta de acceso a una plataforma como BookSphere puede resultar en un costo significativo para los usuarios en términos de oportunidades educativas perdidas, el tiempo invertido en buscar recursos dispersos, y la falta de una comunidad de apoyo para compartir y discutir conocimientos.
-### Lean UX Process
-#### Lean UX Problem Statements
+###  1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
 1. El mercado de libros en línea no ha logrado una adecuada centralización ni expansión en los últimos años, lo que ha limitado la efectividad de las plataformas actuales para construir una comunidad activa. Esto ha provocado una desconexión tanto entre los consumidores, que muestran poco interés en utilizar estas plataformas de manera seguida, como entre los autores, que se sienten desincentivados para publicar sus obras en este entorno.
 2. Autores sin recursos que intentan publicar sus trabajos no la tienen fácil, pues requieren de contratar a un publisher para poder anunciar sus obras en masa y esto no es del todo accesible para ellos.
 3. Las plataformas existentes a menudo carecen de herramientas efectivas para la promoción y visibilidad de nuevas obras, lo que limita la capacidad de los autores para llegar a su audiencia objetivo y obtener reconocimiento.
@@ -262,21 +262,21 @@ La falta de acceso a una plataforma como BookSphere puede resultar en un costo s
 7. La interacción entre autores y lectores es limitada en las plataformas existentes, lo que impide la creación de una comunidad comprometida y la retroalimentación valiosa para la mejora continua de las obras.
 8. Los autores independientes tienen dificultades para acceder a datos analíticos detallados sobre el rendimiento de sus publicaciones, lo que les impide tomar decisiones informadas sobre estrategias de marketing y ajustes de contenido.
 9. Muchas plataformas de libros digitales no proporcionan suficientes recursos y soporte para ayudar a los autores a mejorar sus habilidades de auto-publicación y marketing, dejándolos en desventaja frente a los autores establecidos que cuentan con apoyo editorial.
-#### Lean UX Assumptions
+####  1.2.2.2. Lean UX Assumptions
 1. Si una solución se llevara a cabo, debe ser bien modelada para los gustos del público objetivo y requerir un buen mantenimiento para garantizar una experiencia de usuario positiva.
 2. Los componentes incluidos deben centrarse en el objetivo principal sin desviarse en ningún momento durante su uso.
 3. La plataforma debe ofrecer una interfaz intuitiva y fácil de usar para autores y lectores por igual, facilitando la integración de nuevas funcionalidades.
 4. La solución debe permitir la colaboración efectiva entre autores y lectores, fomentando la creación de una comunidad activa.
 
-#### Lean UX Hypothesis Statements
+#### 1.2.2.3.  Lean UX Hypothesis Statements
 1. Creemos que, para lograr nuestro objetivo, es necesario desarrollar una aplicación que combine todas las funcionalidades de los actuales sitios de venta de libros, incorporando además nuevas características que los usuarios aprovecharán para mejorar su experiencia, como la personalización de contenido y funciones sociales interactivas.
 2. También consideramos que es necesario desarrollar una herramienta que comunique y respalde las necesidades de los usuarios, proporcionando soporte y recursos para la auto-publicación y promoción, así como una plataforma que permita a los autores gestionar sus derechos y licencias de manera eficiente.
 3. Suponemos que al ofrecer una plataforma que simplifique la publicación y distribución de obras para autores independientes, y que al mismo tiempo permita una interacción significativa con los lectores, se podrá aumentar el interés y la participación en el mercado de libros digitales.
 4. Asumimos que la integración de funcionalidades que promuevan la colaboración entre autores y lectores, así como la inclusión de herramientas analíticas para medir el impacto y el rendimiento de las publicaciones, contribuirá al éxito y sostenibilidad de la plataforma.
 
-#### Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas
 ![Captura de pantalla 2024-08-19 054506](https://hackmd.io/_uploads/r1RqfoeoR.png) 
-### Segmentos objetivo
+### 1.3. Segmentos objetivo
 #### 1. Estudiantes:
 
 Este segmento objetivo abarca estudiantes que buscan acceder a una amplia variedad de libros y audiolibros, ya sea por interés personal o para cumplir con sus obligaciones académicas. Estos usuarios valoran la accesibilidad, la diversidad de títulos, y la posibilidad de personalizar su experiencia de lectura. Además, están interesados en interactuar con otros lectores a través de reseñas y comunidades en línea que enriquecen su experiencia literaria.
@@ -304,10 +304,10 @@ Edad y etapa del ciclo de vida: Ciudadanos mayores de 15 años
 Nivel Socioeconómico (NSE): Todos los niveles socioeconomicos
 Características de personalidad: Curiosidad, deseo de aprendizaje continuo, aprecio por la lectura, compromiso con la educación y el desarrollo personal.
 
-# Capítulo II: Requirements Elicitation & Analysis
-## Competidores
+# 1. Capítulo II: Requirements Elicitation & Analysis
+## 2.1. Competidores
 BookSphere enfrenta competencia de plataformas como Google Play Books, Audible y Scribd. Google Play Books proporciona una amplia gama de libros electrónicos y audiolibros, pero carece de una componente social. Audible, especializado en audiolibros, ofrece una gran biblioteca y buena integración con dispositivos Amazon, aunque no cuenta con funciones comunitarias. Scribd ofrece acceso ilimitado a diversos contenidos digitales bajo suscripción, pero su interacción social es limitada. A diferencia de estos competidores, BookSphere destaca por integrar una comunidad literaria activa, permitiendo a los usuarios compartir reseñas y participar en discusiones, lo que enriquece la experiencia del usuario.
-## Análisis Competitivo
+## 2.1.1. Análisis Competitivo
 <table>
    <tr>
       <td align="center" colspan="6">Competitive Analysis Landscaspe</td>
@@ -368,7 +368,7 @@ BookSphere enfrenta competencia de plataformas como Google Play Books, Audible y
 <br/>
 
 
-## Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores
 BookSphere VS Audible, Scribd, Google Play Books
 
 ### Estrategias:
@@ -386,7 +386,11 @@ Mejora tecnológica constante: BookSphere implementará mejoras continuas en su 
 Análisis de la competencia: BookSphere realizará un análisis constante de los movimientos y estrategias de competidores como Audible, Scribd, y Google Play Books. Este análisis permitirá ajustar las tácticas de marketing y producto, asegurando que BookSphere se mantenga a la vanguardia en términos de innovación y satisfacción del usuario.
 
 Integración de la comunidad: BookSphere se centrará en fortalecer su componente de red social, incentivando la participación de los usuarios a través de desafíos de lectura, clubes de lectura virtuales, y eventos en línea. La plataforma también ofrecerá incentivos, como acceso anticipado a nuevos títulos o descuentos en membresías, para usuarios activos y comprometidos en la comunidad.
-## Entrevistas
+## 2.2. Entrevistas
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
+
+
+## 2.2.2. Registro de entrevistas
 ### 1. Segmento Objetivo: Estudiantes
 Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientadas a comprender las necesidades, experiencias y expectativas de los lectores particulares y estudiantes en relación con el acceso a libros y materiales educativos en formato digital. Sabemos que, para este segmento, la disponibilidad, el precio y la experiencia de usuario son factores clave para elegir una plataforma de lectura. Nuestro objetivo es identificar cómo BookSphere puede satisfacer estas necesidades ofreciendo una biblioteca digital completa, accesible y con funcionalidades avanzadas. Además, buscamos explorar qué características interactivas podrían enriquecer la experiencia del usuario y fomentar un entorno de aprendizaje dinámico. Con estas entrevistas, buscamos no solo validar nuestras hipótesis, sino también adaptar nuestra oferta para garantizar que los lectores encuentren en BookSphere un recurso valioso y conveniente.
     
@@ -417,10 +421,10 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 8. ¿Qué funcionalidades te gustaría que una plataforma digital ofreciera para mejorar tu experiencia como escritor?
 10. ¿Como escritor/a, qué importancia tiene el feedback de los lectores y la interacción con otros usuarios en la plataforma?
 
-## Registro de entrevistas
+## 2.2.2. Registro de entrevistas
 ### Segmento: Estudiantes
 
-### Análisis de entrevistas
+### 2.2.3. Análisis de entrevistas
     
 #### Entrevista 1
 | **Datos del entrevistado** | 
@@ -487,15 +491,15 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 |![Entrevista4](https://hackmd.io/_uploads/B1k5gRqs0.png)|
 | **Resumen:** Silvia es licenciada en psicología y disfruta escribir con frecuencia. Su libro favorito es Viva la diferencia. Utiliza el sistema operativo Windows, y prefiere Microsoft Word y Google Docs para redactar sus textos. Silvia valora especialmente que una plataforma le facilite llegar a su público lector. Actualmente, publica sus escritos en redes sociales y le gusta recibir retroalimentación de sus lectores, ya que esto le ayuda a mejorar. Además, aprecia ver los comentarios e interacciones que sus publicaciones generan, pues le permiten evaluar si su contenido capta la atención del público.|
 
-## Needfinding
-### User Personas
+## 2.3. Needfinding
+### 2.3.1. User Personas
 #### Segmento 1: Estudiantes
 ![User Persona - Segmento 1](https://hackmd.io/_uploads/rkpUVuBo0.png)
 #### Segmento 2: Autores
 ![User Persona - Segmento 2](https://hackmd.io/_uploads/HJAhOGusR.png)
 
 Enlace de las entrevistas: https://acortar.link/Q5pT1u
-### User Task Matrix
+### 2.3.2. User Task Matrix
 
 
 | User Task                                       | Estudiantes (Frecuencia) | Estudiantes (Importancia) | Autores (Frecuencia) | Autores (Importancia) |
@@ -521,18 +525,18 @@ Enlace de las entrevistas: https://acortar.link/Q5pT1u
 
 
 
-### User Journey Mapping
+### 2.3.3. User Journey Mapping
 **Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
 **Autores**
 ![Empathy Map - Segmento 2](/assets/Customer-journey-map-1.png)
-### Empathy Mapping
+### 2.3.4. Empathy Mapping
 #### Segmento 1: Estudiantes
 ![Empathy Map - Segmento 1](https://hackmd.io/_uploads/HyjrSOSjA.png)
 #### Segmento 2: Autores
 ![Empathy Map - Segmento 2](https://hackmd.io/_uploads/B1KfKzOoC.png)
 
-### As-is Scenario Mapping
+### 2.3.5. As-is Scenario Mapping
 
 ### Estudiantes
 
@@ -546,7 +550,7 @@ Enlace de las entrevistas: https://acortar.link/Q5pT1u
     
 
 
-## Ubiquitous Language
+## 2.4. Ubiquitous Language
     
 **1. Digital Library (Biblioteca Digital)**
 Una colección de libros, audiolibros y otros materiales educativos disponibles en formato digital y accesibles a través de una plataforma en línea.
@@ -590,8 +594,8 @@ Herramientas y funcionalidades que facilitan la interacción y el compromiso de 
 **14. Content Updates (Actualizaciones de Contenido)**
 El proceso de modificar o agregar nuevas versiones de materiales digitales, incluyendo revisiones, nuevas ediciones o correcciones de contenido existente.
 
-# Capítulo III: Requirements Specification
-## To-Be Scenario Mapping
+# 1. Capítulo III: Requirements Specification
+## 3.1. To-Be Scenario Mapping
 #### Leyentes
 ![Captura de pantalla 2024-08-27 181907](https://hackmd.io/_uploads/rkk-yJ2sA.png)
 ![Captura de pantalla 2024-08-27 181932](https://hackmd.io/_uploads/HkYzJy2jR.png)
@@ -601,7 +605,7 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 ![Captura de pantalla 2024-08-27 181647](https://hackmd.io/_uploads/By7qR0ojA.png)
 ![Captura de pantalla 2024-08-27 181838](https://hackmd.io/_uploads/S10C0Roo0.png)
 
-## User Stories
+## 3.2. User Stories
 
 | **Epic/Story ID**   | **Título**                            | **Descripción**                                                                                                                                                                         | **Criterios de Aceptación**                                                                                                                                                                                                                                                                                                                                                                                                                    | **Relacionado con (Epic ID)** |
 |----------|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
@@ -675,7 +679,7 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 
 
 
-## Impact Mapping
+## 3.3. Impact Mapping
 El impact mapping es una técnica de planificación estratégica que visualiza cómo las actividades y proyectos contribuyen a objetivos de negocio específicos. Utiliza un mapa para mostrar los impactos deseados, los actores involucrados, los objetivos a alcanzar y las entregas necesarias para lograr esos objetivos. Facilita la alineación de esfuerzos con metas estratégicas y mejora la toma de decisiones al clarificar el valor y los resultados esperados.
 
 ### Business Goal: 
@@ -687,7 +691,7 @@ El impact mapping es una técnica de planificación estratégica que visualiza c
  
 ![Impact Map to sell books (1)](https://hackmd.io/_uploads/Hy6YY6cjC.png)
 
-## Product Backlog
+## 3.4. Product Backlog
 
 | **Orden** | **User Story**                       | **Título**                         | **Descripción**                                                                 | **Story Points** |
 |-----------|-------------------------------------|------------------------------------|---------------------------------------------------------------------------------|------------------|
@@ -749,10 +753,10 @@ El impact mapping es una técnica de planificación estratégica que visualiza c
 | 12        | TS012                                      |
 
 
-# Capítulo IV: Product Design
-## Style Guidelines
+# 4. Capítulo IV: Product Design
+## 4.1. Style Guidelines
 Las Style Guidelines son fundamentales para mantener una comunicación cohesiva y profesional en todos los aspectos de la marca o proyecto, ya sea en publicaciones impresas, en línea o en cualquier otro medio de difusión. En esta sección estableceremos el conjunto de directrices que usará nuestro equipo para diseñar el proyecto BookSphere. Estas pautas definirán aspectos como la elección de colores, tipografía, estructura del documento, entre otros elementos. Para el diseño de BookSphere, utilizaremos la plataforma Figma para la creación de la aplicación web y la página de inicio. Ambas incluirán una paleta de colores con tonalidades de marrón y gris, que evocan calidez, sofisticación y modernidad, reflejando la conexión entre la tradición de la lectura y la innovación digital. A continuación, se presenta un detalle más amplio de cada aspecto mencionado.
-### General Style Guidelines
+### 4.1.1. General Style Guidelines
 El logotipo de BookSphere no es solo una imagen, es la representación visual de nuestra identidad. En el centro, el símbolo que nos representa es una esfera estilizada, que simboliza un universo de conocimiento accesible para todos. Este logotipo fusiona la idea de tecnología y literatura, dos pilares clave de nuestra misión. Es versátil y se adapta a diversas plataformas y aplicaciones, asegurando que nuestra marca se mantenga coherente y distintiva en cualquier contexto. Este logo transmite la innovación, accesibilidad y conexión que buscamos ofrecer a nuestros usuarios, tanto estudiantes como autores, en su búsqueda de libros y materiales educativos.
 Logotipo del producto:  <br>
 <img src="/assets/logo.jpeg" alt="Logo" width="200" />
@@ -834,10 +838,10 @@ La plataforma web de **BookSphere** está diseñada para ofrecer una experiencia
 #### Espaciado en el pie de página
 - **Margen superior e inferior:** Debe ser de alrededor de 40 a 60 píxeles. Este espaciado proporciona un equilibrio visual y asegura que el pie de página esté claramente diferenciado del contenido principal.
 
-### Web Style Guidelines
+### 4.1.2. Web Style Guidelines
 texto
-## Information Architecture
-### Organization Systems
+## 4.2. Information Architecture
+### 4.2.1. Organization Systems
 
 A continuación, explicaremos en qué grupos de información se aplicaron los distintos tipos de organización visual para ambos segmentos objetivo, así como en cuáles se utiliza algún tipo de categorización.
 
@@ -849,7 +853,7 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 4. **Mensajes y Comunicación:** Los usuarios podrán comunicarse directamente entre ellos o con los autores a través de la plataforma. Esta función facilitará la interacción entre lectores y creadores, permitiendo que los usuarios compartan sus opiniones, hagan preguntas, o coordinen actividades relacionadas con el contenido.
 
-### Labeling Systems
+### 4.2.2. Labeling Systems
 
 | Ícono  | Descripción |
 |------------|------------|
@@ -864,7 +868,7 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 |   ![home](https://hackmd.io/_uploads/B1eMYlGenC.png)   | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
 |  ![bell](https://hackmd.io/_uploads/SJGFgfenC.png)   | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
-### SEO Tags and Meta Tags
+### 4.2.3. SEO Tags and Meta Tags
 1. **SEO Tags**
 a. Title Tag: 
 BookSphere - Tu mundo de libros y audiolibros a solo un clic.
@@ -882,45 +886,35 @@ c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podrías inclui
 <meta name="author" content="BookSphere Inc.">
 
 
-### Searching Systems
+### 4.2.4. Searching Systems
 texto
-### Navigation Systems
+### 4.2.5. Navigation Systems
 texto
-## Landing Page UI Design
-### Landing Page Wireframe
-texto
-### Landing Page Mock-up
-texto
-## Web Applications UX/UI Design
-### Web Applications Wireframes
-texto
-### Web Applications Wireflow Diagrams
-texto
-### Web Applications Mock-ups
-texto
-### Web Applications User Flow Diagrams
-texto
-## Web Applications Prototyping
-texto
-## Domain-Driven Software Architecture
-### Software Architecture Context Diagram
+## 4.3. Landing Page UI Design
+## 4.3.1. Landing Page Wireframe
+## 4.3.2. Landing Page Mock-up
+## 4.4. Web Applications UX/UI Design
+## 4.4.1. Web Applications Wireframes
+## 4.4.2. Web Applications Wireflow Diagrams
+## 4.4.3. Web Applications Mock-ups
+## 4.4.4. Web Applications User Flow Diagrams
+## 4.5. Web Applications Prototyping
+## 4.6. Domain-Driven Software Architecture
+### 4.6.1. Software Architecture Context Diagram
 ![DiagramContext](/assets/Diagrama-Context.png)
-### Software Architecture Container Diagrams
+### 4.6.2. Software Architecture Container Diagrams
 ![DiagramContainer](/assets/Diagrama-Contenedores.png)
-### Software Architecture Components Diagrams
+### 4.6.3. Software Architecture Components Diagrams
 ![DiagramComponents](/assets/Diagrama-Componentes.png)
-## Software Object-Oriented Design
-### Class Diagrams
-texto
-### Class Dictionary
-texto
-## Database Design
-### Database Diagram
-texto
-# Capítulo V: Product Implementation, Validation & Deployment
-## Software Configuration Management
+## 4.7. Software Object-Oriented Design
+## 4.7.1. Class Diagrams
+## 4.7.2. Class Dictionary
+## 4.8. Database Design
+## 4.8.1. Database Diagram
+### CAPÍTULO V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
 En nuestro proyecto, el Software Configuration Management (SCM) se gestiona a través de GitHub, que sirve como nuestro repositorio remoto y plataforma de control de versiones. Utilizamos un flujo de trabajo basado en ramas para organizar el desarrollo, con ramas dedicadas para características, correcciones y producción, lo que asegura una integración ordenada y eficiente. Los mensajes de commit siguen un formato estandarizado para mantener un historial claro, y las integraciones se realizan mediante pull requests revisadas por el equipo. Además, empleamos GitHub Actions para la integración continua, que automatiza pruebas y validaciones, garantizando que los cambios sean revisados y aprobados antes de su fusión.
-### Software Development Environment Configuration
+### 5.1.1. Software Development Environment Configuration
 
 En esta sección, se definen las herramientas utilizadas en cada fase del desarrollo del software:
 
@@ -933,7 +927,7 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | **Azure**              | Despliegue y alojamiento de la aplicación, proporcionando servicios en la nube para gestionar la infraestructura. | [Azure](https://azure.microsoft.com)              |
 | **Markdown**           | Documentación técnica y de usuario, utilizando un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org)   |
 
-### Source Code Management
+### 5.1.2. Source Code Management
 
 En esta sección, se describe el esquema para gestionar el código fuente y las modificaciones del proyecto.
 
@@ -967,7 +961,7 @@ El versionamiento del software se gestionará mediante etiquetas en Git (`git ta
 
 Por ejemplo, las versiones podrían ser `v1.2.0` o `v1.2.3`, reflejando los avances y actualizaciones del proyecto.
 
-### Source Code Style Guide & Conventions
+### 5.1.3. Source Code Style Guide & Conventions
 
 Esta sección detalla las directrices para la programación y la documentación del proyecto.
 
@@ -975,7 +969,7 @@ Esta sección detalla las directrices para la programación y la documentación 
 - **Herramientas Utilizadas**: El proyecto se desarrolla utilizando **GitHub** para control de versiones, **GitFlow** para la gestión de ramas, y **Visual Studio Code** como editor de código. Para el diseño y planificación, usamos **Figma** **Miro**.
 - **Tecnologías**: La **Landing Page** se construye utilizando **HTML**, **CSS**, y **JavaScript** para asegurar una interfaz moderna y funcional.
 
-### Software Deployment Configuration
+### 5.1.4. Software Deployment Configuration
 En esta sección se explicará el proceso del despliegue del proyecto.
 
 - Deployment Configuration: <br>
@@ -988,10 +982,10 @@ En esta sección se explicará el proceso del despliegue del proyecto.
 ![Landing Page](/assets/Landing-Page.png)
 
 Deployment Configuration:
-## Landing Page, Services & Applications Implementation
-### Sprint 1
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.1. Sprint 1
 Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto BookSphere. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
-#### Sprint Planning 1
+#### 5.2.1.1. Sprint Planning 1
 | **Sprint #**                        | 1                                                                                              |
 |-----------------------------------|------------------------------------------------------------------------------------------------------------|
 | **Date**                           | 2024-09-01                                                                                                 |
@@ -1006,7 +1000,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | **Sum of Story Points**            | 5   Points                                                                                                      |
 
 
-#### Sprint Backlog 1
+#### 5.2.1.2. Sprint Backlog 1
 ## Sprint Backlog n
 
 
@@ -1024,7 +1018,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      | Gómez Vallejos Sergio André        | Done       |
 | US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Gómez Vallejos Sergio André        | Done       |
 | US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Gómez Vallejos Sergio André        | Done       |
-#### Development Evidence for Sprint Review
+#### 5.2.1.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
 | Landing-Page   | main       | fdae17d6fa1837edcf097a8c3cf7873a03f28c4b | Agregate Landing Page     | -       No additional details                | 31/08/2024              |
@@ -1034,7 +1028,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 
 [Link del repositorio](https://github.com/PecuarioPro/Landing-Page/commits/main/)
-#### Testing Suite Evidence for Sprint Review
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
 | grupo02-BookSphere-testingLanding-Page   | tb1-Sergio-Gómez
@@ -1053,7 +1047,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 
 [repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing) <br>
-#### Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
 Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
 - Establecimiento de múltiples repositorios en GitHub: <br>
 
@@ -1065,7 +1059,7 @@ Durante el primer sprint, en términos generales, hemos alcanzado los siguientes
 ![Landing Page](/assets/Landing-Page.png) <br>
 
 - Diseño de Mock-ups para Movile aplication:
-#### Services Documentation Evidence for Sprint Review
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el primer sprint, se logro lo siguiente en relación a Web Services:
 
 Despliegue de Landing Page:
@@ -1078,7 +1072,7 @@ Documentación index.html: <br>
 ![Index](/assets/index.png)
 
 Interacción y explicacion Landing Page:
-#### Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review <br>
 Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, que incluyen la Landing Page y otras aplicaciones web.
 
 ### Introducción
@@ -1106,9 +1100,9 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado. <br>
 ![Landing Page](/assets/Landing-Page.png)
 
-### Conclusión
+
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages y los workflows de GitHub Actions han optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue automático y la actualización del sitio web.
-#### Team Collaboration Insights during Sprint <br>
+#### 5.2.1.8. Team Collaboration Insights during Sprint <br>
 ![team-collaboration](/assets/team-collaboration.png)
 
 
