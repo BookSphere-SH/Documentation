@@ -56,7 +56,7 @@ https://github.com/orgs/BookSphere-SH/repositories
  # Tabla de contenido
 
 1. [CAPÍTULO I: Introducción](#CAPÍTULO-I-Introducción)<br>
-      1.1. [Startup Profile](#1.1.Startup-Profile)<br>
+      1.1. [Startup Profile](#Startup-Profile)<br>
       1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)<br>
       1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-equipo)<br>
    1.2. [Solution Profile](#Solution-Profile)<br>
@@ -115,13 +115,13 @@ https://github.com/orgs/BookSphere-SH/repositories
       4.7.2. [Class Dictionary](#Class-Dictionary) <br>
    4.8. [Database Design](#Database-Design) <br>
       4.8.1. [Database Diagram](#Database-Diagram) <br>
-5. [CAPÍTULO V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation--Validation--Deployment) <br>
+5. [CAPÍTULO V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation-Deployment) <br>
    5.1. [Software Configuration Management](#Software-Configuration-Management) <br>
       5.1.1. [Software Development Environment Configuration](#Software-Development-Environment-Configuration) <br>
       5.1.2. [Source Code Management](#Source-Code-Management) <br>
-      5.1.3. [Source Code Style Guide & Conventions](#Source-Code-Style-Guide--Conventions) <br>
+      5.1.3. [Source Code Style Guide & Conventions](#Source-Code-Style-Guide-Conventions) <br>
       5.1.4. [Software Deployment Configuration](#Software-Deployment-Configuration) <br>
-   5.2. [Landing Page, Services & Applications Implementation](#Landing-Page--Services--Applications-Implementation) <br>
+   5.2. [Landing Page, Services & Applications Implementation](#Landing-Page-Services-Applications-Implementation) <br>
       5.2.1. [Sprint 1](#Sprint-1) <br>
          5.2.1.1. [Sprint Planning 1](#Sprint-Planning-1) <br>
          5.2.1.2. [Sprint Backlog 1](#Sprint-Backlog-1) <br>
@@ -149,17 +149,29 @@ https://github.com/orgs/BookSphere-SH/repositories
          5.2.3.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-3) <br>
          5.2.3.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-3) <br>
          5.2.3.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-3) <br>
-   5.3. [Validation Interviews](#Validation-Interviews) <br>
-     5.3.1. [Diseño de Entrevistas](#Diseño-de-Entrevistas) <br>
-     5.3.2. [Registro de Entrevistas](#Registro-de-Entrevistas) <br>
-     5.3.3. [Evaluaciones según heurísticas](#Evaluaciones-según-heurísticas) <br>
-   5.4. [Video About-the-Product](#Video-About-the-Product) <br>
+      5.2.4. [Sprint 4](#Sprint-4) <br>
+         5.2.4.1. [Sprint Planning 4](#Sprint-Planning-4) <br>
+         5.2.4.2. [Sprint Backlog 4](#Sprint-Backlog-4) <br>
+         5.2.4.3. [Development Evidence for Sprint Review](#Development-Evidence-for-Sprint-Review-4) <br>
+         5.2.4.4. [Testing Suite Evidence for Sprint Review](#Testing-Suite-Evidence-for-Sprint-Review-4) <br>
+         5.2.4.5. [Execution Evidence for Sprint Review](#Execution-Evidence-for-Sprint-Review-4) <br>
+         5.2.4.6. [Services Documentation Evidence for Sprint Review](#Services-Documentation-Evidence-for-Sprint-Review-4) <br>
+         5.2.4.7. [Software Deployment Evidence for Sprint Review](#Software-Deployment-Evidence-for-Sprint-Review-4) <br>
+         5.2.4.8. [Team Collaboration Insights during Sprint](#Team-Collaboration-Insights-during-Sprint-4) <br>
+   5.3. [Validation & Testing](#Validation-Testing) <br>
+      5.3.1. [Testing Plan](#Testing-Plan) <br>
+      5.3.2. [Quality Assurance](#Quality-Assurance) <br>
+      5.3.3. [User Acceptance Testing (UAT)](#User-Acceptance-Testing-UAT) <br>
+   5.4. [Product Deployment](#Product-Deployment) <br>
+      5.4.1. [Deployment Plan](#Deployment-Plan) <br>
+      5.4.2. [Deployment Process](#Deployment-Process) <br>
+      5.4.3. [Post-Deployment Review](#Post-Deployment-Review) <br>
+      
 [Conclusiones](#Conclusiones) <br>
 [Conclusiones y recomendaciones](#Conclusiones-y-recomendaciones) <br>
 [Video About-the-Team](#Video-About-the-Team) <br>
 [Bibliografía](#Bibliografía) <br>
 [Anexos](#Anexos) <br>
-
   
  
 # STUDENT OUTCOME
