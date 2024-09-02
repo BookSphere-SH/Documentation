@@ -937,7 +937,7 @@ En esta sección, se describe el esquema para gestionar el código fuente y las 
 
 **Repositorio Remoto**
 
-Utilizaremos **GitHub** para nuestros repositorios remotos, lo que nos permitirá almacenar y administrar el código fuente y la documentación del proyecto, así como colaborar eficazmente entre los miembros del equipo y llevar un control de versiones adecuado.
+Utilizaremos **GitHub** para nuestros repositorios remotos, lo que nos permitirá almacenar y administrar el código fuente y la documentación del proyecto, así como colaborar eficazmente entre los miembros del equipo y llevar un control de versiones adecuado. <br>
 
 [Repositorio de GitHub](https://github.com/orgs/BookSphere-SH/repositories)
 
@@ -976,11 +976,14 @@ Esta sección detalla las directrices para la programación y la documentación 
 ### Software Deployment Configuration
 En esta sección se explicará el proceso del despliegue del proyecto.
 
-- Deployment Configuration:
-[Configuration Page](/assets/Configuration.png)
-- Deployment with Github:
-[Landing Page](https://booksphere-sh.github.io/Landing-Page/)
-[Landing Page](/assets/Landing-Page.png)
+- Deployment Configuration: <br>
+
+![Configuration Page](/assets/Configuration.png)
+- Deployment with Github: <br>
+
+[Landing Page](https://booksphere-sh.github.io/Landing-Page/) <br>
+
+![Landing Page](/assets/Landing-Page.png)
 
 Deployment Configuration:
 ## Landing Page, Services & Applications Implementation
@@ -1020,10 +1023,14 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Gómez Vallejos Sergio André        | Done       |
 | US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Gómez Vallejos Sergio André        | Done       |
 #### Development Evidence for Sprint Review
-| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
 | Landing-Page   | main       | fdae17d6fa1837edcf097a8c3cf7873a03f28c4b | Agregate Landing Page     | -       No additional details                | 31/08/2024              |
 | Landing-Page   | main       | 958f7dbaa8616ebaa7b6e2f27a8eeeae16e59b58 | Add files via upload       | -       No additional details                | 31/08/2024              |
+
+
+
+
 [Link del repositorio](https://github.com/PecuarioPro/Landing-Page/commits/main/)
 #### Testing Suite Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
@@ -1041,23 +1048,33 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | grupo02-BookSphere-testing   | tb1-Sergio-Gómez
        | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature      | -       No additional details                | 01/08/2024              |
 
-[repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing)
+
+
+[repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing) <br>
 #### Execution Evidence for Sprint Review
 Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
-- Establecimiento de múltiples repositorios en GitHub:
-[repositorio](/assets/Repository.png)
+- Establecimiento de múltiples repositorios en GitHub: <br>
+
+![repositorio](/assets/Repository.png)
+
 - Elaboración de los Mock-ups del landing page:
 - Implementacion del landing page:
-[Landing Page](/assets/Landing-Page.png)
+- 
+![Landing Page](/assets/Landing-Page.png) <br>
+
 - Diseño de Mock-ups para Movile aplication:
 #### Services Documentation Evidence for Sprint Review
 Durante el primer sprint, se logro lo siguiente en relación a Web Services:
 
 Despliegue de Landing Page:
-Documentacion del código para despliegue:
-[Landing-Archives](/assets/Landing-Archives.png)
-Documentación index.html:
-[Index](/assets/index.png)
+Documentacion del código para despliegue: <br>
+
+![Landing-Archives](/assets/Landing-Archives.png)
+
+Documentación index.html: <br>
+
+![Index](/assets/index.png)
+
 Interacción y explicacion Landing Page:
 #### Software Deployment Evidence for Sprint Review
 Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, que incluyen la Landing Page y otras aplicaciones web.
@@ -1079,16 +1096,19 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 1. **Despliegue en GitHub Pages:**
    - Se subió el código de la Landing Page al repositorio en GitHub.
-   - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
-[Configuration Page](/assets/Configuration.png)
+   - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio. <br>
+![Configuration Page](/assets/Configuration.png)
+
 2. **Verificación del Despliegue:**
    - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
-   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
-[Landing Page](/assets/Landing-Page.png)
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado. <br>
+![Landing Page](/assets/Landing-Page.png)
+
 ### Conclusión
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages y los workflows de GitHub Actions han optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue automático y la actualización del sitio web.
-#### Team Collaboration Insights during Sprint
-[team-collaboration](/assets/team-collaboration.png)
+#### Team Collaboration Insights during Sprint <br>
+![team-collaboration](/assets/team-collaboration.png)
+
 
 
 ## Video About-the-Product
