@@ -917,18 +917,90 @@ texto
 texto
 # Capítulo V: Product Implementation, Validation & Deployment
 ## Software Configuration Management
+En nuestro proyecto, el Software Configuration Management (SCM) se gestiona a través de GitHub, que sirve como nuestro repositorio remoto y plataforma de control de versiones. Utilizamos un flujo de trabajo basado en ramas para organizar el desarrollo, con ramas dedicadas para características, correcciones y producción, lo que asegura una integración ordenada y eficiente. Los mensajes de commit siguen un formato estandarizado para mantener un historial claro, y las integraciones se realizan mediante pull requests revisadas por el equipo. Además, empleamos GitHub Actions para la integración continua, que automatiza pruebas y validaciones, garantizando que los cambios sean revisados y aprobados antes de su fusión.
 ### Software Development Environment Configuration
-texto
+
+En esta sección, se definen las herramientas utilizadas en cada fase del desarrollo del software:
+
+| **Herramienta**        | **Propósito**                                                                                           | **Ruta de Descarga/Referencia**                    |
+|------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **GitHub**             | Control de versiones y colaboración en el código fuente del proyecto.                                  | [GitHub](https://github.com)                      |
+| **Figma**              | Diseño de interfaces y elaboración de prototipos interactivos.                                          | [Figma](https://www.figma.com)                     |
+| **IntelliJ IDEA Community Edition** | Codificación y desarrollo de software en Java, ofreciendo un entorno de desarrollo integrado eficiente. | [IntelliJ IDEA](https://www.jetbrains.com/idea/download) |
+| **Angular CLI**        | Herramienta de línea de comandos para crear, desarrollar y mantener aplicaciones Angular.               | [Angular CLI](https://angular.io/cli)              |
+| **Azure**              | Despliegue y alojamiento de la aplicación, proporcionando servicios en la nube para gestionar la infraestructura. | [Azure](https://azure.microsoft.com)              |
+| **Markdown**           | Documentación técnica y de usuario, utilizando un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org)   |
+
 ### Source Code Management
-texto
+
+En esta sección, se describe el esquema para gestionar el código fuente y las modificaciones del proyecto.
+
+**Repositorio Remoto**
+
+Utilizaremos **GitHub** para nuestros repositorios remotos, lo que nos permitirá almacenar y administrar el código fuente y la documentación del proyecto, así como colaborar eficazmente entre los miembros del equipo y llevar un control de versiones adecuado.
+
+[Repositorio de GitHub](https://github.com/orgs/BookSphere-SH/repositories)
+
+**Implementación de GitFlow**
+
+Adoptaremos **GitFlow** para organizar nuestro proceso de desarrollo. Las ramas principales que utilizaremos son:
+
+- **master**: Contendrá el código estable y las versiones finales del proyecto. Se usarán etiquetas para marcar versiones importantes y hitos.
+- **develop**: Esta rama será la base para el desarrollo de nuevas características y funcionalidades. Las nuevas incorporaciones se fusionarán aquí antes de pasar a la rama de lanzamiento.
+- **feature**: Dedicada a la implementación de nuevas funcionalidades y la resolución de errores menores. Aquí se desarrollan las características antes de ser integradas en `develop`.
+- **release**: Se utiliza para ajustes finales y corrección de errores menores antes del lanzamiento oficial. También es el lugar para mejorar la documentación del proyecto.
+- **hotfix**: Se emplea para correcciones urgentes que solucionan errores críticos que afectan la funcionalidad principal del software. Permite realizar ajustes rápidos sin interrumpir el flujo de desarrollo principal.
+
+**Conventional Commits**
+
+Implementaremos **Conventional Commits** para registrar los cambios en el repositorio de manera clara. Utilizaremos palabras clave como `fix` para correcciones y `feature` para nuevas funcionalidades.
+
+**Versionamiento del Software**
+
+El versionamiento del software se gestionará mediante etiquetas en Git (`git tag`). La convención para las etiquetas es `vX.Y.Z`:
+
+- **X**: Versión principal, se incrementa cuando se realizan cambios significativos en la funcionalidad del software que podrían afectar su estructura.
+- **Y**: Versión secundaria, se ajusta para la adición o eliminación de características sin modificar la estructura principal del software.
+- **Z**: Versión de parche, se usa para pequeñas correcciones y mejoras que no afectan la funcionalidad principal.
+
+Por ejemplo, las versiones podrían ser `v1.2.0` o `v1.2.3`, reflejando los avances y actualizaciones del proyecto.
+
 ### Source Code Style Guide & Conventions
-texto
+
+Esta sección detalla las directrices para la programación y la documentación del proyecto.
+
+- **Idioma de Codificación**: Todo el código, documentación técnica y especificaciones se escribirán en inglés para asegurar consistencia y claridad.
+- **Herramientas Utilizadas**: El proyecto se desarrolla utilizando **GitHub** para control de versiones, **GitFlow** para la gestión de ramas, y **Visual Studio Code** como editor de código. Para el diseño y planificación, usamos **Figma** **Miro**.
+- **Tecnologías**: La **Landing Page** se construye utilizando **HTML**, **CSS**, y **JavaScript** para asegurar una interfaz moderna y funcional.
+
 ### Software Deployment Configuration
-texto
+En esta sección se explicará el proceso del despliegue del proyecto.
+
+- Deployment Configuration:
+[Configuration Page](/assets/Configuration.png)
+- Deployment with Github:
+[Landing Page](https://booksphere-sh.github.io/Landing-Page/)
+[Landing Page](/assets/Landing-Page.png)
+
+Deployment Configuration:
 ## Landing Page, Services & Applications Implementation
 ### Sprint 1
+Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto BookSphere. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
 #### Sprint Planning 1
-texto
+| **Sprint #**                        | 1                                                                                              |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Date**                           | 2024-09-01                                                                                                 |
+| **Time**                           | 9:00 PM                                                                                                    |
+| **Location**                       | Salas virtuales (Meet)                                                                                    |
+| **Prepared By**                    | Sergio André Gómez Vallejos                                                                              |
+| **Attendees (to planning meeting)**| Gómez Vallejos Sergio André - U20221D401<br>Salon Puerta Merly - U20201B772<br>Romero Qwistgaard, Russell Stephen - U20211043<br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
+| **Sprint 1 – 1 Review Summary**    |Landing Page.                                                 |
+| **Sprint 1 – 1 Retrospective Summary** | Basado en la retroalimentación del Sprint anterior, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplió con los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. La planificación del Sprint 1 se centra en aplicar estas lecciones aprendidas, optimizando el diseño y la funcionalidad de la landing page para cumplir con los estándares de calidad y las expectativas del Product Owner. |
+| **Sprint 1 Goal**                  |  Definir la estructura y el diseño de la landing page, asegurando que cumpla con los requisitos de funcionalidad y estética establecidos. El objetivo es crear una página que no solo sea visualmente atractiva sino también funcional, con una navegación intuitiva y adaptabilidad a dispositivos móviles. Este sprint busca sentar las bases para el desarrollo continuo de la plataforma, estableciendo un diseño que facilite la implementación de características futuras y mejore la experiencia del usuario.                                                     |
+| **Sprint 1 Velocity**              | 5 Points                                                                                             |
+| **Sum of Story Points**            | 5   Points                                                                                                      |
+
+
 #### Sprint Backlog 1
 texto
 #### Development Evidence for Sprint Review
@@ -944,13 +1016,6 @@ texto
 #### Team Collaboration Insights during Sprint
 texto
 
-## Validation Interviews
-
-### Diseño de Entrevistas
-
-### Registro de Entrevistas
-
-### Evaluaciones según heurísticas
 
 ## Video About-the-Product
 
@@ -963,4 +1028,4 @@ texto
 ## Bibliografía
 
 ## Anexos
-sss
+
