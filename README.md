@@ -54,7 +54,7 @@ https://github.com/orgs/BookSphere-SH/repositories
   
 </p>
 
-1. [CAPÍTULO I: Introducción](#1.-CAPÍTULO-I-Introducción)<br>
+1. [CAPÍTULO I: Introducción](#1.CAPÍTULO-I-Introducción)<br>
       1.1. [Startup Profile](#Startup-Profile)<br>
       1.1.1. [Descripción de la Startup](#Descripción-de-la-Startup)<br>
       1.1.2. [Perfiles de integrantes del equipo](#Perfiles-de-integrantes-del-equipo)<br>
