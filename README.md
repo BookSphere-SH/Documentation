@@ -912,7 +912,7 @@ texto
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
-![DataBaseDiagram]([/assets/Diagrama-Context.png](https://github.com/RonaldoFabian01/Publicrepos/blob/main/Database%20Diagram.png?raw=true))
+![DataBaseDiagram](https://github.com/RonaldoFabian01/Publicrepos/blob/main/Database%20Diagram.png?raw=true)
 
 
 ### CAPÍTULO V: Product Implementation, Validation & Deployment
