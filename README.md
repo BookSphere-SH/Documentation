@@ -1002,19 +1002,93 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 
 #### Sprint Backlog 1
-texto
+## Sprint Backlog n
+
+
+| **Sprint #** | **Sprint n** |
+|--------------|--------------|
+
+| **User Story** | **Work-Item / Task** |
+|--------------|--------------|
+
+| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
+|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
+| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      | Gómez Vallejos Sergio André        | Done       |
+| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Gómez Vallejos Sergio André        | Done       |
+| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      | Gómez Vallejos Sergio André        | Done       |
+| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      | Gómez Vallejos Sergio André        | Done       |
+| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Gómez Vallejos Sergio André        | Done       |
+| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Gómez Vallejos Sergio André        | Done       |
 #### Development Evidence for Sprint Review
-texto
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
+| Landing-Page   | main       | fdae17d6fa1837edcf097a8c3cf7873a03f28c4b | Agregate Landing Page     | -       No additional details                | 31/08/2024              |
+| Landing-Page   | main       | 958f7dbaa8616ebaa7b6e2f27a8eeeae16e59b58 | Add files via upload       | -       No additional details                | 31/08/2024              |
+[Link del repositorio](https://github.com/PecuarioPro/Landing-Page/commits/main/)
 #### Testing Suite Evidence for Sprint Review
-texto
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
+| grupo02-BookSphere-testingLanding-Page   | tb1-Sergio-Gómez
+       | f000f1ae28314757a922164341a6eea61cde49d9 | ADD feature| -       No additional details                | 01/08/2024              |
+| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
+       | cc037a256c90ddcd78b9c7b32d36fae39b5b9c02 |ADD feature      | -       No additional details                | 01/08/2024              |
+| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
+       | ea544e2a27c9ff41e9d5bf1be096fa3d6810c498 | ADD feature     | -       No additional details                | 01/08/2024              |
+| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
+       | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature      | -       No additional details                | 01/08/2024              |
+| grupo02-BookSphere-testing  | tb1-Sergio-Gómez
+       | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e |ADD feature       | -       No additional details                | 01/08/2024              |
+| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
+       | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature      | -       No additional details                | 01/08/2024              |
+
+[repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing)
 #### Execution Evidence for Sprint Review
-texto
+Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
+- Establecimiento de múltiples repositorios en GitHub:
+[repositorio](/assets/Repository.png)
+- Elaboración de los Mock-ups del landing page:
+- Implementacion del landing page:
+[Landing Page](/assets/Landing-Page.png)
+- Diseño de Mock-ups para Movile aplication:
 #### Services Documentation Evidence for Sprint Review
-texto
+Durante el primer sprint, se logro lo siguiente en relación a Web Services:
+
+Despliegue de Landing Page:
+Documentacion del código para despliegue:
+[Landing-Archives](/assets/Landing-Archives.png)
+Documentación index.html:
+[Index](/assets/index.png)
+Interacción y explicacion Landing Page:
 #### Software Deployment Evidence for Sprint Review
-texto
+Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, que incluyen la Landing Page y otras aplicaciones web.
+
+### Introducción
+Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacionadas con el despliegue:
+
+1. **Creación de Repositorios y Configuración en GitHub:**
+   - Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la **Landing Page** y otros componentes del proyecto.
+   - Se configuraron los repositorios para permitir el despliegue automático de la Landing Page.
+
+2. **Configuración del Proceso de Despliegue:**
+   - **GitHub Pages:** Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
+   - **Automatización del Despliegue:**
+     - Se configuraron workflows de GitHub Actions para automatizar el proceso de despliegue, asegurando que los cambios en el código se desplieguen automáticamente en el entorno de producción.
+
+### Proceso de Despliegue
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
+
+1. **Despliegue en GitHub Pages:**
+   - Se subió el código de la Landing Page al repositorio en GitHub.
+   - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
+[Configuration Page](/assets/Configuration.png)
+2. **Verificación del Despliegue:**
+   - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+[Landing Page](/assets/Landing-Page.png)
+### Conclusión
+El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages y los workflows de GitHub Actions han optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue automático y la actualización del sitio web.
 #### Team Collaboration Insights during Sprint
-texto
+[team-collaboration](/assets/team-collaboration.png)
 
 
 ## Video About-the-Product
