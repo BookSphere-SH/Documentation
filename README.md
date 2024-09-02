@@ -50,9 +50,10 @@ https://github.com/orgs/BookSphere-SH/repositories
 
 
 <p style="text-align: center; font-weight: bold;">
- # Tabla de contenido
-  
+
 </p>
+
+ # Tabla de contenido
 
 1. [CAPÍTULO I: Introducción](#CAPÍTULO-I-Introducción)<br>
       1.1. [Startup Profile](#1.1.Startup-Profile)<br>
