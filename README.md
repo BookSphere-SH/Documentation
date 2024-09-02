@@ -1029,19 +1029,16 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 [Link del repositorio](https://github.com/PecuarioPro/Landing-Page/commits/main/)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
-|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
-| grupo02-BookSphere-testingLanding-Page   | tb1-Sergio-Gómez
-       | f000f1ae28314757a922164341a6eea61cde49d9 | ADD feature| -       No additional details                | 01/08/2024              |
-| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
-       | cc037a256c90ddcd78b9c7b32d36fae39b5b9c02 |ADD feature      | -       No additional details                | 01/08/2024              |
-| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
-       | ea544e2a27c9ff41e9d5bf1be096fa3d6810c498 | ADD feature     | -       No additional details                | 01/08/2024              |
-| grupo02-BookSphere-testing   | tb1-Sergio-Gómez
-       | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature      | -       No additional details                | 01/08/2024              |
-| grupo02-BookSphere-testing  | tb1-Sergio-Gómez
-       | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e |ADD feature       | -       No additional details                | 01/08/2024              |
-| grupo02-BookSphere-testing   | tb1-Sergio-Gómez | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature      | -       No additional details                | 01/08/2024              |
+
+| **Repository**                           | **Branch**            | **Commit Id**                            | **Commit Message** | **Commit Message Body**      | **Committed on (Date)** |
+|-----------------------------------------|-----------------------|------------------------------------------|--------------------|------------------------------|-------------------------|
+| grupo02-BookSphere-testingLanding-Page | tb1-Sergio-Gómez      | f000f1ae28314757a922164341a6eea61cde49d9 | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | cc037a256c90ddcd78b9c7b32d36fae39b5b9c02 | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ea544e2a27c9ff41e9d5bf1be096fa3d6810c498 | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature        | -                            | 01/08/2024              |
+
 
 <br>
 
