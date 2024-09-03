@@ -221,71 +221,117 @@ Nos esforzamos por proporcionar una plataforma que conecte a los lectores y estu
 |![Ronaldo](https://hackmd.io/_uploads/BJXwMC1sR.jpg)|Ronaldo Macedonio Fabian Puente - Ingeniería de Software - U20201b193<br>Me comprometo a desarrollar el trabajo en equipo hasta completar los objetivos planteados.|
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+
 #### Antecedentes
+
 ###### **WHO?**
-SphereHub es una empresa que está posicionada para revolucionar la manera en que las personas acceden a los libros y materiales educativos en formato digital. Está dirigida tanto a lectores apasionados como a estudiantes, autores independientes, editoriales y a instituciones educativas.
+Los **estudiantes** y **autores** son los grupos más afectados. Los estudiantes tienen dificultades para acceder a recursos educativos completos y accesibles, mientras que los autores luchan por encontrar plataformas efectivas para distribuir su trabajo y conectar con sus lectores.
 
 ###### **WHAT?**
-BookSphere busca convertirse en la plataforma de referencia para la exploración y acceso a libros, audiolibros, y recursos educativos digitales. A través de su innovadora plataforma, los usuarios pueden explorar una amplia variedad de contenidos literarios y educativos, acceder a reseñas detalladas, y sumergirse en una experiencia de lectura personalizada e interactiva.
+La **falta de una plataforma digital centralizada** que combine acceso a una amplia gama de libros y recursos educativos con características interactivas y personalizadas es el problema central. Las plataformas actuales son fragmentarias y no proporcionan una experiencia completa ni adecuada para los usuarios.
 
 ###### **WHERE?**
-La plataforma de BookSphere opera principalmente en el entorno digital, lo que le permite llegar a usuarios globalmente. Aunque se enfoca en mercados donde el acceso a recursos educativos y libros digitales está creciendo, su visión es convertirse en una plataforma globalmente reconocida y utilizada.
+El problema es **global**, aunque es más agudo en regiones con infraestructura digital deficiente. En áreas con limitaciones tecnológicas y económicas, la falta de una plataforma integral agrava las desigualdades en el acceso a la educación y a los recursos literarios.
 
 ###### **WHEN?**
-La necesidad de una plataforma como BookSphere surge en un contexto donde la digitalización de contenidos ha transformado muchas industrias, incluyendo la literaria y educativa. Con el aumento del uso de dispositivos digitales para el consumo de medios y la creciente demanda de acceso flexible a recursos educativos, el momento actual es ideal para la implementación de una solución como BookSphere.
+La problemática es crítica en el **contexto actual**, donde la digitalización está revolucionando la educación y la literatura. La creciente demanda de acceso flexible a materiales educativos y literarios hace que el momento presente sea crucial para abordar esta deficiencia.
 
 ###### **WHY?**
-La misión de BookSphere es democratizar el acceso al conocimiento y la educación, haciendo que sea tan sencillo y emocionante como explorar una biblioteca infinita. En un mundo donde la educación es clave para el desarrollo personal y profesional, BookSphere busca eliminar las barreras al acceso a los libros y materiales educativos, brindando a los usuarios una experiencia inmersiva y personalizada.
+La **ausencia de una plataforma completa y centralizada** limita el acceso a recursos educativos y literarios, restringiendo el aprendizaje y desarrollo personal. Sin una plataforma adecuada, los usuarios enfrentan barreras significativas para acceder y utilizar el contenido de manera efectiva.
 
 ###### **HOW?**
-BookSphere utiliza tecnología avanzada para ofrecer una plataforma que no solo permite la descarga y lectura de libros, sino que también incluye funciones interactivas como adelantos de contenido, personalización de recomendaciones, y un espacio social donde los usuarios pueden compartir opiniones y participar en discusiones sobre literatura y educación.
+Las **plataformas digitales existentes** están divididas y a menudo solo se enfocan en la venta de libros, sin ofrecer una experiencia integrada y completa. Esto resulta en una brecha que impide a los usuarios disfrutar de los beneficios de una solución digital unificada.
 
 ###### **HOW MUCH?**
-El costo de implementación y desarrollo de la plataforma es significativo debido a la necesidad de integrar tecnología avanzada y establecer alianzas estratégicas con autores, editoriales, y otras entidades. Sin embargo, los beneficios potenciales en términos de expansión del acceso al conocimiento y la creación de una comunidad lectora activa justifican esta inversión.
+El **costo de la falta de una plataforma adecuada** se manifiesta en oportunidades educativas perdidas, tiempo desperdiciado buscando recursos dispersos y la carencia de una comunidad de apoyo para compartir y discutir conocimientos.
 
 #### Problemática
+
 ###### **WHO?**
-Los principales afectados por la falta de una plataforma como BookSphere son los lectores y estudiantes que buscan acceso a una amplia gama de recursos literarios y educativos, pero enfrentan barreras debido a la disponibilidad limitada, los altos costos de los libros físicos, o la falta de interactividad en las plataformas actuales.
+**Lectores** y **estudiantes** sufren las consecuencias de la falta de una plataforma adecuada. Encuentran barreras en el acceso a una amplia gama de recursos literarios y educativos debido a la disponibilidad limitada y los altos costos de libros físicos.
 
 ###### **WHAT?**
-La problemática radica en la falta de una plataforma digital centralizada y accesible que combine una extensa biblioteca de recursos educativos y literarios con tecnologías interactivas que mejoren la experiencia del usuario. A pesar de la digitalización, muchas plataformas existentes carecen de un enfoque integral que ofrezca una experiencia personalizada y socialmente conectada.
+El problema es la **carencia de una plataforma digital accesible** que combine una extensa biblioteca con funcionalidades interactivas y una experiencia de usuario personalizada. Las plataformas actuales no satisfacen las necesidades de los usuarios de manera integral y efectiva.
 
 ###### **WHERE?**
-La necesidad se siente a nivel global, pero es más acentuada en regiones donde el acceso a libros y recursos educativos es limitado, ya sea por restricciones económicas, geográficas o tecnológicas.
+La necesidad de una solución es evidente **globalmente**, pero es más urgente en regiones donde el acceso a libros y recursos educativos es restringido por limitaciones económicas, geográficas o tecnológicas.
 
 ###### **WHEN?**
-El problema es especialmente relevante en la era actual, donde el aprendizaje continuo y el acceso a la información son cruciales para el éxito personal y profesional. Sin una plataforma como BookSphere, el acceso al conocimiento se mantiene fragmentado y desigual.
+La problemática es especialmente relevante en el **actual momento**, con la digitalización transformando el acceso a la información y la educación. La falta de una plataforma adecuada exacerba las desigualdades en el acceso al conocimiento.
 
 ###### **WHY?**
-La falta de acceso adecuado a recursos educativos y literarios limita las oportunidades de aprendizaje y crecimiento personal. Además, la ausencia de una plataforma que combine funcionalidad, accesibilidad y una experiencia de usuario envolvente perpetúa la desconexión entre el contenido educativo disponible y los usuarios que más lo necesitan.
+La **insuficiencia de acceso** a recursos educativos y literarios limita las oportunidades de aprendizaje y crecimiento. La falta de una plataforma que combine funcionalidad y accesibilidad perpetúa la desconexión entre el contenido disponible y los usuarios.
 
 ###### **HOW?**
-Actualmente, la mayoría de las plataformas digitales están fragmentadas en términos de funcionalidad y acceso, con muchas enfocadas únicamente en la venta de libros sin considerar la experiencia integral del usuario o la creación de comunidades de lectores. Esto crea una brecha en la cual los usuarios no pueden disfrutar plenamente de los beneficios de la digitalización.
+Las **plataformas digitales actuales** están fragmentadas y no ofrecen una experiencia de usuario completa, enfocándose principalmente en la venta de libros. Esta fragmentación crea una brecha en la que los usuarios no pueden disfrutar de una solución digital integral.
 
 ###### **HOW MUCH?**
-La falta de acceso a una plataforma como BookSphere puede resultar en un costo significativo para los usuarios en términos de oportunidades educativas perdidas, el tiempo invertido en buscar recursos dispersos, y la falta de una comunidad de apoyo para compartir y discutir conocimientos.
-###  1.2.2. Lean UX Process
-#### 1.2.2.1. Lean UX Problem Statements
-1. El mercado de libros en línea no ha logrado una adecuada centralización ni expansión en los últimos años, lo que ha limitado la efectividad de las plataformas actuales para construir una comunidad activa. Esto ha provocado una desconexión tanto entre los consumidores, que muestran poco interés en utilizar estas plataformas de manera seguida, como entre los autores, que se sienten desincentivados para publicar sus obras en este entorno.
-2. Autores sin recursos que intentan publicar sus trabajos no la tienen fácil, pues requieren de contratar a un publisher para poder anunciar sus obras en masa y esto no es del todo accesible para ellos.
-3. Las plataformas existentes a menudo carecen de herramientas efectivas para la promoción y visibilidad de nuevas obras, lo que limita la capacidad de los autores para llegar a su audiencia objetivo y obtener reconocimiento.
-4. Los lectores a menudo enfrentan dificultades para descubrir nuevos títulos que se alineen con sus intereses específicos debido a la falta de recomendaciones personalizadas y sistemas de filtrado efectivos en las plataformas actuales.
-5. La gestión de derechos de autor y licencias es un proceso complejo y opaco para muchos autores, lo que dificulta la protección de sus obras y la maximización de sus ingresos.
-6. Las plataformas de libros digitales actuales no siempre ofrecen una experiencia de usuario coherente y fluida, lo que puede resultar en una navegación confusa y una baja retención de usuarios.
-7. La interacción entre autores y lectores es limitada en las plataformas existentes, lo que impide la creación de una comunidad comprometida y la retroalimentación valiosa para la mejora continua de las obras.
-8. Los autores independientes tienen dificultades para acceder a datos analíticos detallados sobre el rendimiento de sus publicaciones, lo que les impide tomar decisiones informadas sobre estrategias de marketing y ajustes de contenido.
-9. Muchas plataformas de libros digitales no proporcionan suficientes recursos y soporte para ayudar a los autores a mejorar sus habilidades de auto-publicación y marketing, dejándolos en desventaja frente a los autores establecidos que cuentan con apoyo editorial.
-####  1.2.2.2. Lean UX Assumptions
-1. Si una solución se llevara a cabo, debe ser bien modelada para los gustos del público objetivo y requerir un buen mantenimiento para garantizar una experiencia de usuario positiva.
-2. Los componentes incluidos deben centrarse en el objetivo principal sin desviarse en ningún momento durante su uso.
-3. La plataforma debe ofrecer una interfaz intuitiva y fácil de usar para autores y lectores por igual, facilitando la integración de nuevas funcionalidades.
-4. La solución debe permitir la colaboración efectiva entre autores y lectores, fomentando la creación de una comunidad activa.
+La **falta de una plataforma completa** conlleva costos significativos en términos de oportunidades educativas perdidas y tiempo invertido en buscar recursos, además de la ausencia de una comunidad para compartir y discutir conocimientos.
+**
+### 1.2.2. Lean UX Process
 
-#### 1.2.2.3.  Lean UX Hypothesis Statements
-1. Creemos que, para lograr nuestro objetivo, es necesario desarrollar una aplicación que combine todas las funcionalidades de los actuales sitios de venta de libros, incorporando además nuevas características que los usuarios aprovecharán para mejorar su experiencia, como la personalización de contenido y funciones sociales interactivas.
-2. También consideramos que es necesario desarrollar una herramienta que comunique y respalde las necesidades de los usuarios, proporcionando soporte y recursos para la auto-publicación y promoción, así como una plataforma que permita a los autores gestionar sus derechos y licencias de manera eficiente.
-3. Suponemos que al ofrecer una plataforma que simplifique la publicación y distribución de obras para autores independientes, y que al mismo tiempo permita una interacción significativa con los lectores, se podrá aumentar el interés y la participación en el mercado de libros digitales.
-4. Asumimos que la integración de funcionalidades que promuevan la colaboración entre autores y lectores, así como la inclusión de herramientas analíticas para medir el impacto y el rendimiento de las publicaciones, contribuirá al éxito y sostenibilidad de la plataforma.
+#### 1.2.2.1. Lean UX Problem Statements
+
+1. El mercado de libros en línea no ha logrado una adecuada centralización ni expansión en los últimos años, lo que ha limitado la efectividad de las plataformas actuales para construir una comunidad activa. Esto ha provocado una desconexión tanto entre los consumidores, que muestran poco interés en utilizar estas plataformas de manera seguida, como entre los autores, que se sienten desincentivados para publicar sus obras en este entorno.
+
+2. Autores sin recursos que intentan publicar sus trabajos enfrentan dificultades significativas, ya que a menudo necesitan contratar a un publisher para anunciar sus obras a gran escala. Este proceso no es accesible para todos, limitando la capacidad de los autores para llegar a una audiencia más amplia y obtener reconocimiento.
+
+3. Las plataformas existentes a menudo carecen de herramientas efectivas para la promoción y visibilidad de nuevas obras, lo que restringe la capacidad de los autores para alcanzar su audiencia objetivo y obtener el reconocimiento necesario para el éxito de sus publicaciones.
+
+4. Los lectores frecuentemente enfrentan dificultades para descubrir nuevos títulos que se alineen con sus intereses específicos debido a la falta de recomendaciones personalizadas y sistemas de filtrado efectivos en las plataformas actuales. Esto disminuye la capacidad de los lectores para encontrar contenido relevante y satisfactorio.
+
+5. La gestión de derechos de autor y licencias sigue siendo un proceso complejo y opaco para muchos autores, lo que dificulta la protección adecuada de sus obras y limita la maximización de sus ingresos por derechos.
+
+6. Las plataformas actuales de libros digitales no siempre ofrecen una experiencia de usuario coherente y fluida. Esto puede resultar en una navegación confusa y en una baja retención de usuarios, afectando la satisfacción general y la lealtad a la plataforma.
+
+7. La interacción entre autores y lectores es limitada en las plataformas existentes, lo que impide la creación de una comunidad comprometida y la retroalimentación valiosa que podría mejorar continuamente las obras y la experiencia de lectura.
+
+8. Los autores independientes a menudo tienen dificultades para acceder a datos analíticos detallados sobre el rendimiento de sus publicaciones, lo que les impide tomar decisiones informadas sobre estrategias de marketing y ajustes de contenido.
+
+9. Muchas plataformas de libros digitales no proporcionan suficientes recursos y soporte para ayudar a los autores a mejorar sus habilidades de auto-publicación y marketing, dejándolos en desventaja frente a los autores establecidos que cuentan con apoyo editorial.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+1. Si se desarrolla una solución, debe estar cuidadosamente modelada para adaptarse a los gustos y necesidades del público objetivo, y requerirá un mantenimiento continuo para asegurar una experiencia de usuario positiva y sin problemas. La solución debe ser diseñada con una comprensión clara de los problemas actuales y ser flexible para adaptarse a los cambios en las necesidades del usuario.
+
+2. Los componentes de la solución deben centrarse en los objetivos principales y no desviarse hacia funcionalidades secundarias que no aporten valor directo al usuario o a la plataforma. La funcionalidad principal debe estar alineada con las necesidades expresadas en los Problem Statements.
+
+3. La plataforma debe ofrecer una interfaz intuitiva y fácil de usar tanto para autores como para lectores, permitiendo una integración fluida de nuevas funcionalidades y asegurando que todos los usuarios puedan navegar y utilizar la plataforma con facilidad. La experiencia del usuario debe ser una prioridad para mantener la retención y satisfacción.
+
+4. La solución debe facilitar la colaboración efectiva entre autores y lectores, promoviendo la creación de una comunidad activa y participativa que mejore la experiencia global y el compromiso con la plataforma. La interacción y el feedback deben ser parte integral de la plataforma.
+
+5. La implementación de herramientas analíticas avanzadas debe ser una característica clave de la solución para proporcionar a los autores datos detallados sobre el rendimiento de sus publicaciones y facilitar la toma de decisiones informadas. Estas herramientas deben ser accesibles y útiles para maximizar su impacto.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Hipótesis 1**: Creemos que, para abordar la desconexión entre consumidores y plataformas de libros en línea, es necesario desarrollar una aplicación que combine funcionalidades de venta de libros con características innovadoras como la personalización de contenido basada en intereses del usuario y funciones sociales interactivas. Esto resultará en un aumento del interés y la participación de los usuarios, así como en una mayor retención y satisfacción a largo plazo. 
+
+   - **Business Outcome**: Aumento en el número de usuarios activos y comprometidos.
+   - **Users**: Lectores interesados en una experiencia personalizada y social.
+   - **User Outcome**: Mayor satisfacción y retención de usuarios debido a la relevancia del contenido y la interacción social.
+   - **Feature**: Sistema de recomendaciones personalizadas y funciones de interacción social.
+
+2. **Hipótesis 2**: También consideramos que es esencial crear una herramienta que respalde las necesidades de los autores, ofreciendo soporte integral para la auto-publicación y promoción, y proporcionando una plataforma que permita una gestión eficiente de derechos y licencias. Esto mejorará la capacidad de los autores para alcanzar y conectar con su audiencia, facilitando su éxito y maximización de ingresos.
+
+   - **Business Outcome**: Mejora en la tasa de éxito de publicaciones y satisfacción de autores.
+   - **Users**: Autores que buscan herramientas de auto-publicación y gestión de derechos.
+   - **User Outcome**: Mayor facilidad en la publicación y promoción de obras, junto con una mejor gestión de derechos.
+   - **Feature**: Herramientas de auto-publicación, promoción y gestión de derechos.
+
+3. **Hipótesis 3**: Suponemos que al ofrecer una plataforma que simplifique la publicación y distribución para autores independientes y que permita una interacción significativa con los lectores, se incrementará el interés y la participación en el mercado de libros digitales. Esta integración ayudará a construir una comunidad más activa y comprometida.
+
+   - **Business Outcome**: Expansión del mercado de libros digitales y aumento en la participación de autores y lectores.
+   - **Users**: Autores independientes y lectores interesados en la interacción.
+   - **User Outcome**: Mejor acceso y visibilidad para autores, mayor participación y comunidad para lectores.
+   - **Feature**: Plataforma de publicación simplificada y funciones de interacción entre autores y lectores.
+
+4. **Hipótesis 4**: Asumimos que la integración de funcionalidades que promuevan la colaboración entre autores y lectores, así como la inclusión de herramientas analíticas detalladas para evaluar el impacto y el rendimiento de las publicaciones, contribuirá al éxito y sostenibilidad de la plataforma. Esto mejorará la experiencia global y permitirá a los autores tomar decisiones informadas.
+
+   - **Business Outcome**: Sostenibilidad y éxito continuado de la plataforma.
+   - **Users**: Autores y lectores que buscan colaborar y obtener información detallada.
+   - **User Outcome**: Mejora en la toma de decisiones basada en datos y mayor colaboración.
+   - **Feature**: Herramientas de colaboración y análisis detallado del rendimiento.
+
 
 #### 1.2.2.4. Lean UX Canvas
 ![Captura de pantalla 2024-08-19 054506](https://hackmd.io/_uploads/r1RqfoeoR.png) 
