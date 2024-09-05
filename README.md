@@ -936,11 +936,11 @@ b. Meta Description Tag: Descubre, compra y disfruta de una vasta colección de 
 
 **2. Meta Tags**  
 a. Meta Robots Tag: Emplearemos index y follow para que BookSphere pueda ser mostrada en los motores de búsqueda:  
-<meta name="robots" content="index, follow">
+|<meta name="robots" content="index, follow">|
 b. Meta Author Tag: Ya que el nombre del startup es BookSphere, podríamos colocar lo siguiente:
-<meta name="author" content="BookSphere Inc.">
-c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podrías incluir el siguiente meta tag:
-<meta name="author" content="BookSphere Inc.">
+|<meta name="author" content="BookSphere Inc."> | <br>
+c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podríamos incluir el siguiente meta tag:
+|<meta name="author" content="BookSphere Inc.">|
 
 
 
