@@ -927,35 +927,20 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 |   ![home](https://hackmd.io/_uploads/B1eMYlGenC.png)   | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
 |  ![bell](https://hackmd.io/_uploads/SJGFgfenC.png)   | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
-### 4.2.3. SEO Tags and Meta Tags
-A continuación, se mostrarán los SEO Tags y Meta Tags que utilizaremos en el Landing Page con el propósito de
-aumentar su visibilidad en los motores de búsqueda
+### 4.2.3. SEO Tags and Meta TagS
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    
-    <!-- Meta Description Tag -->
-    <meta name="description" content="Descubre, compra y disfruta de una vasta colección de libros y audiolibros en nuestra plataforma diseñada para lectores apasionados."/>
-    
-    <!-- Meta Keywords Tag -->
-    <meta name="keywords" content="BookSphere, Libros, Audiolibros, Comprar libros, Plataforma de lectura, Lectores apasionados"/>
-    
-    <!-- Meta Author Tag -->
-    <meta name="author" content="BookSphere Inc."/>
-    
-    <!-- Meta Robots Tag -->
-    <meta name="robots" content="index, follow"/>
-    
-    <!-- Title Tag -->
-    <title>BookSphere - Tu mundo de libros y audiolibros a solo un clic</title>
-</head>
-<body>
-    <!-- Contenido de la página -->
-</body>
-</html>
+**1. SEO Tags**  
+a. Title Tag: BookSphere - Tu mundo de libros y audiolibros a solo un clic.  
+b. Meta Description Tag: Descubre, compra y disfruta de una vasta colección de libros y audiolibros en nuestra plataforma diseñada para lectores apasionados.  
+(Aqupi irá captura de google) 
+
+**2. Meta Tags**  
+a. Meta Robots Tag: Emplearemos index y follow para que BookSphere pueda ser mostrada en los motores de búsqueda:  
+<meta name="robots" content="index, follow">
+b. Meta Author Tag: Ya que el nombre del startup es BookSphere, podríamos colocar lo siguiente:
+<meta name="author" content="BookSphere Inc.">
+c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podrías incluir el siguiente meta tag:
+<meta name="author" content="BookSphere Inc.">
 
 
 
