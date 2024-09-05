@@ -483,7 +483,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 ## 2.2.2. Registro de entrevistas
 ### Segmento: Estudiantes
 
-### 2.2.3. Análisis de entrevistas
+
     
 #### Entrevista 1
 | **Datos del entrevistado** | 
@@ -549,6 +549,67 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Procedencia:**  Lima, Callao |
 |![Entrevista4](https://hackmd.io/_uploads/B1k5gRqs0.png)|
 | **Resumen:** Silvia es licenciada en psicología y disfruta escribir con frecuencia. Su libro favorito es Viva la diferencia. Utiliza el sistema operativo Windows, y prefiere Microsoft Word y Google Docs para redactar sus textos. Silvia valora especialmente que una plataforma le facilite llegar a su público lector. Actualmente, publica sus escritos en redes sociales y le gusta recibir retroalimentación de sus lectores, ya que esto le ayuda a mejorar. Además, aprecia ver los comentarios e interacciones que sus publicaciones generan, pues le permiten evaluar si su contenido capta la atención del público.|
+
+## 2.2.3. Análisis de Entrevistas
+
+Después de analizar los registros de los entrevistados, se desarrollará una estrategia conjunta que permitirá identificar aspectos comunes y puntos en común en las respuestas de los entrevistados. Esto proporcionará una visión más analítica y concreta sobre cómo debe desarrollarse la aplicación.
+
+### Segmento 1: Estudiantes
+
+**1. Preferencias en el uso de libros y audiolibros**
+
+- **Tipos de Formato y Dispositivos**: La mayoría de los estudiantes prefieren leer libros electrónicos para estudios y audiolibros para actividades en movimiento. Esto indica que la plataforma debe soportar ambos formatos de manera eficiente y permitir el acceso desde diversos dispositivos (laptops, smartphones, etc.).
+
+- **Interfaz y Recomendaciones**: Los estudiantes valoran una interfaz intuitiva y recomendaciones personalizadas. La plataforma debe integrar un sistema de recomendaciones robusto y una interfaz fácil de usar que permita una navegación fluida.
+
+**2. Descubrimiento de Contenidos y Funcionalidades Deseadas**
+
+- **Descubrimiento de Libros**: Los estudiantes descubren nuevos libros principalmente a través de recomendaciones personalizadas, reseñas en línea y redes sociales. La plataforma debería incorporar características que permitan a los usuarios explorar y descubrir libros a través de estos canales.
+
+- **Funciones Específicas**: Los estudiantes buscan funciones como listas de lectura personalizadas, recordatorios y la capacidad de interactuar directamente con autores. Incorporar estas características puede mejorar significativamente la experiencia del usuario y satisfacer sus necesidades.
+
+**3. Interacción con Autores y Plataforma Actual**
+
+- **Interacción con Autores**: La posibilidad de interactuar directamente con autores es muy valorada por los estudiantes. La plataforma debe permitir la interacción entre estudiantes y autores, como foros de discusión, sesiones de preguntas y respuestas en vivo, o chats directos.
+
+- **Mejoras en la Plataforma Actual**: Aunque los estudiantes aprecian la interactividad en las plataformas actuales, consideran que la organización y la interactividad pueden mejorar. Esto sugiere que la plataforma debe ofrecer una organización más eficiente de los contenidos y una interacción más rica.
+
+### Segmento 2: Autores
+
+**1. Publicación Digital y Herramientas Necesarias**
+
+- **Accesibilidad y Usabilidad**: Los autores valoran la accesibilidad y la facilidad de uso en la publicación digital. La plataforma debe ser fácil de usar y accesible desde diferentes dispositivos, facilitando la gestión y publicación de contenidos.
+
+- **Marketing y Análisis**: Los autores necesitan herramientas avanzadas para marketing y análisis, así como funciones para promover y gestionar sus libros. La plataforma debe incluir herramientas para monitorear el estado de sus libros y recibir comentarios de los lectores.
+
+**2. Promoción y Gestión de Contenidos**
+
+- **Estrategias de Promoción**: Los autores enfrentan desafíos con la promoción de sus libros en redes sociales y blogs que cobran por publicidad. La plataforma debería ofrecer opciones para facilitar la promoción y aumentar la visibilidad de los libros sin costos adicionales.
+
+- **Feedback y Conexión con Lectores**: La conexión con los lectores y el feedback son cruciales para los autores. La plataforma debe permitir a los autores recibir críticas constructivas y conectar directamente con sus lectores.
+
+**3. Herramientas de Escritura y Edición**
+
+- **Herramientas de Redacción**: Los autores prefieren usar herramientas como Microsoft Word y Google Docs para escribir y editar. La plataforma debe considerar integraciones con estas herramientas o ofrecer funciones similares para facilitar la escritura y edición de textos.
+
+- **Funcionalidades Adicionales**: Algunas características adicionales deseadas por los autores incluyen la capacidad de grabar y convertir voz a texto. Incorporar tales funcionalidades puede mejorar la experiencia de los autores en la plataforma.
+
+### Conclusión
+
+Para desarrollar la aplicación de BookSphere de manera efectiva, se deben considerar las siguientes recomendaciones:
+
+1. **Para Estudiantes**:
+   - Ofrecer una amplia variedad de títulos en formatos digitales y audiolibros.
+   - Integrar un sistema de recomendaciones personalizadas y una interfaz intuitiva.
+   - Incluir funciones como listas de lectura personalizadas, recordatorios, y la capacidad de interactuar con autores.
+
+2. **Para Autores**:
+   - Facilitar la accesibilidad y usabilidad desde diversos dispositivos.
+   - Proporcionar herramientas avanzadas de marketing y análisis, y opciones para promoción sin costos adicionales.
+   - Permitir la interacción directa con lectores y recibir feedback constructivo.
+   - Integrar herramientas de redacción y edición, y considerar funcionalidades adicionales como la conversión de voz a texto.
+
+Este enfoque garantizará que la plataforma satisfaga las necesidades de ambos segmentos y ofrezca una experiencia integral y enriquecedora para estudiantes y autores.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
