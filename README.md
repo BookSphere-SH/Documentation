@@ -945,9 +945,13 @@ c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podríamos incl
 
 
 ### 4.2.4. Searching Systems
-texto
+(Por implementar)
+
+Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación llevará a los usuarios a la sección en la que estén interesados. 
+
 ### 4.2.5. Navigation Systems
-texto
+(Por implementar)
+
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
 ## 4.3.2. Landing Page Mock-up
