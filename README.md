@@ -984,14 +984,18 @@ En nuestro proyecto, el Software Configuration Management (SCM) se gestiona a tr
 
 En esta sección, se definen las herramientas utilizadas en cada fase del desarrollo del software:
 
-| **Herramienta**        | **Propósito**                                                                                           | **Ruta de Descarga/Referencia**                    |
-|------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------|
-| **GitHub**             | Control de versiones y colaboración en el código fuente del proyecto.                                  | [GitHub](https://github.com)                      |
-| **Figma**              | Diseño de interfaces y elaboración de prototipos interactivos.                                          | [Figma](https://www.figma.com)                     |
-| **IntelliJ IDEA Community Edition** | Codificación y desarrollo de software en Java, ofreciendo un entorno de desarrollo integrado eficiente. | [IntelliJ IDEA](https://www.jetbrains.com/idea/download) |
-| **Angular CLI**        | Herramienta de línea de comandos para crear, desarrollar y mantener aplicaciones Angular.               | [Angular CLI](https://angular.io/cli)              |
-| **Azure**              | Despliegue y alojamiento de la aplicación, proporcionando servicios en la nube para gestionar la infraestructura. | [Azure](https://azure.microsoft.com)              |
-| **Markdown**           | Documentación técnica y de usuario, utilizando un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org)   |
+| **Herramienta**                | **Propósito**                                                                                             | **Ruta de Descarga/Referencia**                    |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **GitHub**                     | Control de versiones y colaboración en el código fuente del proyecto.                                      | [GitHub](https://github.com)                      |
+| **Figma**                      | Diseño de interfaces y elaboración de prototipos interactivos.                                              | [Figma](https://www.figma.com)                     |
+| **Visual Studio Code**         | Entorno de desarrollo para la codificación y edición de archivos.                                           | [Visual Studio Code](https://code.visualstudio.com)|
+| **HTML5**                      | Lenguaje de marcado para la elaboración de páginas web.                                                     | [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)|
+| **CSS3**                       | Tecnología para dar estilo a las páginas web, permitiendo el diseño visual.                                 | [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)|
+| **JavaScript**                 | Lenguaje de programación orientado a objetos utilizado para implementar funcionalidades en la Landing Page. | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
+| **Angular CLI**                | Herramienta de línea de comandos para crear, desarrollar y mantener aplicaciones Angular.                   | [Angular CLI](https://angular.io/cli)              |
+| **GitHub Pages**               | Plataforma que facilita el despliegue sencillo de páginas web directamente desde repositorios de GitHub.    | [GitHub Pages](https://pages.github.com)          |
+| **Markdown**                   | Documentación técnica y de usuario, utilizando un formato de texto sencillo fácil de convertir en HTML.     | [Markdown Guide](https://www.markdownguide.org)   |
+
 
 ### 5.1.2. Source Code Management
 
