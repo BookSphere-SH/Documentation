@@ -742,9 +742,9 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 El impact mapping es una técnica de planificación estratégica que visualiza cómo las actividades y proyectos contribuyen a objetivos de negocio específicos. Utiliza un mapa para mostrar los impactos deseados, los actores involucrados, los objetivos a alcanzar y las entregas necesarias para lograr esos objetivos. Facilita la alineación de esfuerzos con metas estratégicas y mejora la toma de decisiones al clarificar el valor y los resultados esperados.
 
 ### Business Goal: 
- Que el 50% de los estudiantes que usen  nuestra aplicación interactúen con otros usuarios
+ Que el 30% de estudiantes que encuentran el libro que buscaban lo compren
+ ![Impact Map to buys books ](https://hackmd.io/_uploads/BJ8KLsLnA.png)
  
- ![Impact map estudiantes](https://hackmd.io/_uploads/Bk-iNoqoA.png)
 ### Business Goal:
  Captar la atención de los lectores para incentivarlos a comprar los libros
  
