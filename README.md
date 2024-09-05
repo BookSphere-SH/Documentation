@@ -928,19 +928,35 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 |  ![bell](https://hackmd.io/_uploads/SJGFgfenC.png)   | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma.|
 
 ### 4.2.3. SEO Tags and Meta Tags
- **1. SEO Tags** <br>
-a. Title Tag: BookSphere - Tu mundo de libros y audiolibros a solo un clic. <br>
-b. Meta Description Tag: Descubre, compra y disfruta de una vasta colección de libros y audiolibros en nuestra plataforma diseñada para lectores apasionados.
-(Aquí irá caputura de la página en la sección de resultados de google) <br>
+A continuación, se mostrarán los SEO Tags y Meta Tags que utilizaremos en el Landing Page con el propósito de
+aumentar su visibilidad en los motores de búsqueda
 
-**2. Meta Tags**
-a. Meta Robots Tag: Empleamos index y follow para que RentState pueda ser mostrada en
-los motores de búsqueda:
- <meta name="robots" content="index, follow"> <br>
-b. Meta Author Tag: Ya que el nombre del startup es BookSphere, podríamos colocar lo siguiente <br>
-<meta name="robots" content="index, follow"> <br>
-c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podrías incluir el siguiente meta tag: <br>
-<meta name="author" content="BookSphere Inc."> <br>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+    <!-- Meta Description Tag -->
+    <meta name="description" content="Descubre, compra y disfruta de una vasta colección de libros y audiolibros en nuestra plataforma diseñada para lectores apasionados."/>
+    
+    <!-- Meta Keywords Tag -->
+    <meta name="keywords" content="BookSphere, Libros, Audiolibros, Comprar libros, Plataforma de lectura, Lectores apasionados"/>
+    
+    <!-- Meta Author Tag -->
+    <meta name="author" content="BookSphere Inc."/>
+    
+    <!-- Meta Robots Tag -->
+    <meta name="robots" content="index, follow"/>
+    
+    <!-- Title Tag -->
+    <title>BookSphere - Tu mundo de libros y audiolibros a solo un clic</title>
+</head>
+<body>
+    <!-- Contenido de la página -->
+</body>
+</html>
+
 
 
 ### 4.2.4. Searching Systems
