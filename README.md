@@ -1058,25 +1058,33 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | **Markdown**                   | Documentación técnica y de usuario, utilizando un formato de texto sencillo fácil de convertir en HTML.     | [Markdown Guide](https://www.markdownguide.org)   |
 
 
+
 ### 5.1.2. Source Code Management
 
-En esta sección, se describe el esquema para gestionar el código fuente y las modificaciones del proyecto.
+#### Repositorio de la Landing Page
+**Implementación de GitFlow:** Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo *"A successful Git branching model"* de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
+![GitFlow](/assets/gitflow.png)
+- **Rama Principal (Main branch):** Contiene el código en producción y se conoce como la Master branch o Main branch.
+  - **Notación:** `main`
 
-**Repositorio Remoto**
+- **Rama de Desarrollo (Develop branch):** Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
+  - **Notación:** `develop`
 
-Utilizaremos **GitHub** para nuestros repositorios remotos, lo que nos permitirá almacenar y administrar el código fuente y la documentación del proyecto, así como colaborar eficazmente entre los miembros del equipo y llevar un control de versiones adecuado. <br>
+- **Rama de Lanzamiento (Release branch):** Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de `develop`.
+  - **Debe derivarse de:** `develop`
+  - **Debe fusionarse con:** `develop` y `master/main`
+  - **Notación:** `release`
 
-[Repositorio de GitHub](https://github.com/orgs/BookSphere-SH/repositories)
+- **Rama de Características (Feature branch):** Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
+  - **Debe derivarse de:** `develop`
+  - **Debe fusionarse de vuelta a:** `develop`
+  - **Notación:** `feature`
 
-**Implementación de GitFlow**
+- **Rama de Corrección Rápida (Hotfix branch):** Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
+  - **Debe derivarse de:** `master/main`
+  - **Debe fusionarse con:** `develop` y `master/main`
+  - **Notación:** `hotfix`
 
-Adoptaremos **GitFlow** para organizar nuestro proceso de desarrollo. Las ramas principales que utilizaremos son:
-
-- **master**: Contendrá el código estable y las versiones finales del proyecto. Se usarán etiquetas para marcar versiones importantes y hitos.
-- **develop**: Esta rama será la base para el desarrollo de nuevas características y funcionalidades. Las nuevas incorporaciones se fusionarán aquí antes de pasar a la rama de lanzamiento.
-- **feature**: Dedicada a la implementación de nuevas funcionalidades y la resolución de errores menores. Aquí se desarrollan las características antes de ser integradas en `develop`.
-- **release**: Se utiliza para ajustes finales y corrección de errores menores antes del lanzamiento oficial. También es el lugar para mejorar la documentación del proyecto.
-- **hotfix**: Se emplea para correcciones urgentes que solucionan errores críticos que afectan la funcionalidad principal del software. Permite realizar ajustes rápidos sin interrumpir el flujo de desarrollo principal.
 
 **Conventional Commits**
 
@@ -1102,17 +1110,20 @@ Esta sección detalla las directrices para la programación y la documentación 
 
 ### 5.1.4. Software Deployment Configuration
 En esta sección se explicará el proceso del despliegue del proyecto.
+1.- El primer paso es crear un repositorio en GitHub donde almacenaremos el código de nuestra landing page.
 
-- Deployment Configuration: <br>
+![Repositorio-LandingPage](/assets/Repository-LandingPage.png)
+
+2.- Habilitamos GithubPages en la siguiente rama:
 
 ![Configuration Page](/assets/Configuration.png)
-- Deployment with Github: <br>
 
-[Landing Page](https://booksphere-sh.github.io/Landing-Page/) <br>
+3.- Luego se confirma el dezpliegue de la página.
 
 ![Landing Page](/assets/Landing-Page.png)
 
-Deployment Configuration:
+[Landing Page](https://booksphere-sh.github.io/Landing-Page/) <br>
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto BookSphere. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
@@ -1163,7 +1174,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 | **Repository**                           | **Branch**            | **Commit Id**                            | **Commit Message** | **Commit Message Body**      | **Committed on (Date)** |
 |-----------------------------------------|-----------------------|------------------------------------------|--------------------|------------------------------|-------------------------|
-| grupo02-BookSphere-testingLanding-Page | tb1-Sergio-Gómez      | f000f1ae28314757a922164341a6eea61cde49d9 | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing               | tb1-Sergio-Gómez      | f000f1ae28314757a922164341a6eea61cde49d9 | ADD feature        | -                            | 01/08/2024              |
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | cc037a256c90ddcd78b9c7b32d36fae39b5b9c02 | ADD feature        | -                            | 01/08/2024              |
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ea544e2a27c9ff41e9d5bf1be096fa3d6810c498 | ADD feature        | -                            | 01/08/2024              |
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature        | -                            | 01/08/2024              |
@@ -1181,11 +1192,13 @@ Durante el primer sprint, en términos generales, hemos alcanzado los siguientes
 ![repositorio](/assets/Repository.png)
 
 - Elaboración de los Mock-ups del landing page:
+  
 - Implementacion del landing page:
-- 
+
 ![Landing Page](/assets/Landing-Page.png) <br>
 
 - Diseño de Mock-ups para Movile aplication:
+  
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el primer sprint, se logro lo siguiente en relación a Web Services:
 
@@ -1212,7 +1225,7 @@ Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacio
 2. **Configuración del Proceso de Despliegue:**
    - **GitHub Pages:** Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
    - **Automatización del Despliegue:**
-     - Se configuraron workflows de GitHub Actions para automatizar el proceso de despliegue, asegurando que los cambios en el código se desplieguen automáticamente en el entorno de producción.
+   - Se configuraron workflows de GitHub Actions para automatizar el proceso de despliegue, asegurando que los cambios en el código se desplieguen automáticamente en el entorno de producción.
 
 ### Proceso de Despliegue
 A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
