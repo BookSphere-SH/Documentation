@@ -1122,7 +1122,7 @@ En esta sección se explicará el proceso del despliegue del proyecto.
 
 ![Landing Page](/assets/Landing-Page.png)
 
-[Landing Page](https://booksphere-sh.github.io/Landing-Page/) <br>
+[Landing Page](https://booksphere-sh.github.io/Landing-Page/)) <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -1136,36 +1136,111 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | **Prepared By**                    | Sergio André Gómez Vallejos                                                                              |
 | **Attendees (to planning meeting)**| Gómez Vallejos Sergio André - U20221D401<br>Salon Puerta Merly - U20201B772<br>Romero Qwistgaard, Russell Stephen - U20211043<br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
 | **Sprint 1 – 1 Review Summary**    |Landing Page.                                                 |
-| **Sprint 1 – 1 Retrospective Summary** | Basado en la retroalimentación del Sprint anterior, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplió con los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. La planificación del Sprint 1 se centra en aplicar estas lecciones aprendidas, optimizando el diseño y la funcionalidad de la landing page para cumplir con los estándares de calidad y las expectativas del Product Owner. |
-| **Sprint 1 Goal**                  |  Definir la estructura y el diseño de la landing page, asegurando que cumpla con los requisitos de funcionalidad y estética establecidos. El objetivo es crear una página que no solo sea visualmente atractiva sino también funcional, con una navegación intuitiva y adaptabilidad a dispositivos móviles. Este sprint busca sentar las bases para el desarrollo continuo de la plataforma, estableciendo un diseño que facilite la implementación de características futuras y mejore la experiencia del usuario.                                                     |
-| **Sprint 1 Velocity**              | 5 Points                                                                                             |
-| **Sum of Story Points**            | 5   Points                                                                                                      |
+| **Sprint 1 – 1 Retrospective Summary** | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. |
+| **Sprint 1 Goal**                  |  Desarrolar la funcionalidad de la página web con i18n. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la landing page están implementadas y hecho con las entrevistas de segmentos objetivos.                                                     |
+| **Sprint 1 Velocity**              | Se establece un Velocity de 20 Story Points para este Sprint.                                                                                            |
+| **Sum of Story Points**            | 	20 Story Points                                                                                                      |
 
 
 #### 5.2.1.2. Sprint Backlog 1
-## Sprint Backlog n
+<table align="center" border="1" width="90%" style="text-align:center">
+  <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>US001</td>
+    <td>Definir estructura de la landing page</td>
+    <td>T01</td>
+    <td>Crear estructura HTML</td>
+    <td>4</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US002</td>
+    <td>Implementar elementos interactivos</td>
+    <td>T02</td>
+    <td>Configurar carrusel de imágenes</td>
+    <td>5</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US003</td>
+    <td>Pruebas y ajustes finales</td>
+    <td>T03</td>
+    <td>Realizar pruebas de funcionalidad</td>
+    <td>2</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US004</td>
+    <td>Implementar acceso a la sección de Características</td>
+    <td>T04</td>
+    <td>Crear acceso a la sección de Características</td>
+    <td>3</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US005</td>
+    <td>Implementar sección de funcionalidades</td>
+    <td>T05</td>
+    <td>Implementar sección de funcionalidades</td>
+    <td>4</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US006</td>
+    <td>Implementar sector de planes disponibles</td>
+    <td>T06</td>
+    <td>Crear sector de planes disponibles</td>
+    <td>3</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US007</td>
+    <td>Implementar sector de preguntas frecuentes</td>
+    <td>T07</td>
+    <td>Crear sector de preguntas frecuentes</td>
+    <td>2</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US008</td>
+    <td>Implementar acceso a la sección de Resumen</td>
+    <td>T08</td>
+    <td>Crear acceso a la sección de Resumen</td>
+    <td>2</td>
+    <td>Gómez Vallejos Sergio André</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 
-| **Sprint #** | **Sprint n** |
-|--------------|--------------|
 
-| **User Story** | **Work-Item / Task** |
-|--------------|--------------|
 
-| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
-|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
-| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      | Gómez Vallejos Sergio André        | Done       |
-| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Gómez Vallejos Sergio André        | Done       |
-| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      | Gómez Vallejos Sergio André        | Done       |
-| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      | Gómez Vallejos Sergio André        | Done       |
-| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Gómez Vallejos Sergio André        | Done       |
-| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Gómez Vallejos Sergio André        | Done       |
 #### 5.2.1.3. Development Evidence for Sprint Review
-| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message B <br>ody** | **Committed on (Date)** |
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
-| Landing-Page   | main       | fdae17d6fa1837edcf097a8c3cf7873a03f28c4b | Agregate Landing Page     | -       No additional details                | 31/08/2024              |
-| Landing-Page   | main       | 958f7dbaa8616ebaa7b6e2f27a8eeeae16e59b58 | Add files via upload       | -       No additional details                | 31/08/2024              |
-
+| Landing-Page   | main       | fdae17d6fa1837edcf097a8c3cf7873a03f28c4b | feat: Add version 1 landing page     | Se añade la primera versión del landing page | 31/08/2024              |
+| Landing-Page   | main       | 958f7dbaa8616ebaa7b6e2f27a8eeeae16e59b58 | feat: Add carpetas y actualizar      | Se añade nuevas carpetas y actualización del código| 31/08/2024              |
+| Landing-Page   | developer       | - | feat: Add I18n     | Se implementa el cambio de idioma de español a ingles y viceversa en el landing page         | 07/09/2024              |
+| Landing-Page   | developer       | - | feat: update links de la landing page       |  Se le dio destino a los botones de redes sociales | 07/09/2024              |
 
 
 
@@ -1185,14 +1260,15 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 <br>
 
 [repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing) <br>
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
 - Establecimiento de múltiples repositorios en GitHub: <br>
 
 ![repositorio](/assets/Repository.png)
 
-- Elaboración de los Mock-ups del landing page:
-  
+
 - Implementacion del landing page:
 
 ![Landing Page](/assets/Landing-Page.png) <br>
@@ -1207,11 +1283,22 @@ Documentacion del código para despliegue: <br>
 
 ![Landing-Archives](/assets/Landing-Archives.png)
 
+
+
 Documentación index.html: <br>
 
 ![Index](/assets/index.png)
 
-Interacción y explicacion Landing Page:
+
+### Video de Demostración
+
+Para una demostración completa de la visualización y navegación logradas en este Sprint, por favor vea el siguiente video:
+
+|Nombre|Link|
+|--------------------|------------|
+|Video de Demostración |  |
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review <br>
 Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, que incluyen la Landing Page y otras aplicaciones web.
 
@@ -1251,11 +1338,21 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
 
 ## Conclusiones
 
-### Conclusiones y recomendaciones
 
-## Video About-the-Team
 
 ## Bibliografía
-
+1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
+2. 
 ## Anexos
 
+
+
+**Enlaces**
+
+</center>
+
+ |Segmento del trabajo|Link de repositorio|
+|---------|---------|
+| LandingPage (Anexo A)    | https://kingreserve.netlify.app/ |
+| Diagramas de clases (Anexo B)   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
+| Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab   |
