@@ -1034,6 +1034,24 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
 
 ## 4.3.2. Landing Page Mock-up
+### Mock-up de Inicio:
+![Mockup-Inicio](https://hackmd.io/_uploads/H1lor5inC.png)
+
+### Mock-up de Sobre Nosotros:
+![Mockup-SobreNosotros](https://hackmd.io/_uploads/HyeoBconR.png)
+
+### Mock-up de Cómo funciona la app:
+![Mockup-ComoFuncionaApp](https://hackmd.io/_uploads/B1elsH5jhR.png)
+
+### Mock-up de Características:
+![Mockup-Caracteristicas](https://hackmd.io/_uploads/Sy1jSqjhA.png)
+
+### Mock-up de Usuarios:
+![Mockup-Usuarios](https://hackmd.io/_uploads/rJgoH9inR.png)
+
+### Mock-up de Descargar:
+![Mockup-Descargar](https://hackmd.io/_uploads/BJyjB9s2A.png)
+
 ## 4.4. Web Applications UX/UI Design
 ## 4.4.1. Web Applications Wireframes
 ## 4.4.2. Web Applications Wireflow Diagrams
