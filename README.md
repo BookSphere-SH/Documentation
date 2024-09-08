@@ -1318,12 +1318,12 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
 | Landing-Page   | main       | fdae17d6fa1837edcf097a8c3cf7873a03f28c4b | feat: Add version 1 landing page     | Se añade la primera versión del landing page | 31/08/2024              |
 | Landing-Page   | main       | 958f7dbaa8616ebaa7b6e2f27a8eeeae16e59b58 | feat: Add carpetas y actualizar      | Se añade nuevas carpetas y actualización del código| 31/08/2024              |
-| Landing-Page   | developer       | - | feat: Add I18n     | Se implementa el cambio de idioma de español a ingles y viceversa en el landing page         | 07/09/2024              |
-| Landing-Page   | developer       | - | feat: update links de la landing page       |  Se le dio destino a los botones de redes sociales | 07/09/2024              |
+| Landing-Page   | developer       | 1e5194a7f2cd18e9228b335f8bd419f5b9310d8e | feat: Add I18n     | Se implementa el cambio de idioma de español a ingles y viceversa en el landing page         | 08/09/2024              |
+| Landing-Page   | developer       | 6eb7396a032bfb83bdad5f1653e2c4369fade584 | feat: update links de la landing page       |  Se le dio destino a los botones de redes sociales | 08/09/2024              |
 
 
 
-[Link del repositorio](https://github.com/PecuarioPro/Landing-Page/commits/main/)
+[Link del repositorio](https://github.com/BookSphere-SH/Landing-Page/commits/developer/))
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | **Repository**                           | **Branch**            | **Commit Id**                            | **Commit Message** | **Commit Message Body**      | **Committed on (Date)** |
@@ -1334,6 +1334,8 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature        | -                            | 01/08/2024              |
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e | ADD feature        | -                            | 01/08/2024              |
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ad569337c6d5eba7613eb548cd740a89550057a1 | ADD feature        | -                            | 01/08/2024              |
+| grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e | ADD feature        | -                            | 01/08/2024              |
 
 
 <br>
@@ -1352,7 +1354,20 @@ Durante el primer sprint, en términos generales, hemos alcanzado los siguientes
 
 ![Landing Page](/assets/Landing-Page.png) <br>
 
-- Diseño de Mock-ups para Movile aplication:
+- Imagenes del Landing page:
+
+**Inicio:**
+![inicio](/assets/inicio.png)
+**Sección nosotros:**
+![nosotros](/assets/nosotros.png)
+**Cómo Funciona la Aplicación:**
+![funciona](/assets/funciona.png)
+**Las Mejores Características de BookSphere:**
+![Caracteristicas](/assets/Caracteristicas.png)
+**Lo Que Dicen Nuestros Usuarios:**
+![usuarios](/assets/usuarios.png)
+**Sección de cambio de idioma:**
+![idioma](/assets/idioma.png)
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el primer sprint, se logro lo siguiente en relación a Web Services:
@@ -1424,14 +1439,12 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
 2. 
 ## Anexos
 
-
-
 **Enlaces**
 
 </center>
 
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
-| LandingPage (Anexo A)    | https://kingreserve.netlify.app/ |
+| LandingPage (Anexo A)    | https://booksphere-sh.github.io/Landing-Page/ |
 | Diagramas de clases (Anexo B)   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
 | Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab   |
