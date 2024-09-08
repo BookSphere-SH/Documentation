@@ -1014,49 +1014,49 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 (Por implementar)
 
 ## 4.3. Landing Page UI Design
-## 4.3.1. Landing Page Wireframe
-### Wireframe de Inicio:
+### 4.3.1. Landing Page Wireframe
+#### Wireframe de Inicio:
 ![Wireframe-Inicio](https://hackmd.io/_uploads/BkqG7co3A.png)
 
-### Wireframe de Sobre Nosotros:
+#### Wireframe de Sobre Nosotros:
 ![Wireframe-SobreNosotros](https://hackmd.io/_uploads/H15zXqj3C.png)
 
-### Wireframe de Cómo funciona la app:
+#### Wireframe de Cómo funciona la app:
 ![Wireframe-ComoFuncionaApp](https://hackmd.io/_uploads/Hk9fXqj3C.png)
 
 ### Wireframe de Características:
 ![Wireframes-Caracteristicas](https://hackmd.io/_uploads/HJKzQqshC.png)
 
-### Wireframe de Usuarios:
+#### Wireframe de Usuarios:
 ![Wireframe-Usuarios](https://hackmd.io/_uploads/Bytz79oh0.png)
 
-### Wireframe de Descargar:
+#### Wireframe de Descargar:
 ![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
 
-## 4.3.2. Landing Page Mock-up
-### Mock-up de Inicio:
+### 4.3.2. Landing Page Mock-up
+#### Mock-up de Inicio:
 ![Mockup-Inicio](https://hackmd.io/_uploads/H1lor5inC.png)
 
-### Mock-up de Sobre Nosotros:
+#### Mock-up de Sobre Nosotros:
 ![Mockup-SobreNosotros](https://hackmd.io/_uploads/HyeoBconR.png)
 
-### Mock-up de Cómo funciona la app:
+#### Mock-up de Cómo funciona la app:
 ![Mockup-ComoFuncionaApp](https://hackmd.io/_uploads/B1elsH5jhR.png)
 
-### Mock-up de Características:
+#### Mock-up de Características:
 ![Mockup-Caracteristicas](https://hackmd.io/_uploads/Sy1jSqjhA.png)
 
-### Mock-up de Usuarios:
+#### Mock-up de Usuarios:
 ![Mockup-Usuarios](https://hackmd.io/_uploads/rJgoH9inR.png)
 
-### Mock-up de Descargar:
+#### Mock-up de Descargar:
 ![Mockup-Descargar](https://hackmd.io/_uploads/BJyjB9s2A.png)
 
 ## 4.4. Web Applications UX/UI Design
-## 4.4.1. Web Applications Wireframes
-## 4.4.2. Web Applications Wireflow Diagrams
-## 4.4.3. Web Applications Mock-ups
-## 4.4.4. Web Applications User Flow Diagrams
+### 4.4.1. Web Applications Wireframes
+### 4.4.2. Web Applications Wireflow Diagrams
+### 4.4.3. Web Applications Mock-ups
+### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
