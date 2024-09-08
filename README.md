@@ -1032,6 +1032,85 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
 ## 4.7.2. Class Dictionary
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|---------------------|
+| estudiantes |
+| 1 | ID_estudiante | Identificador del estudiante | integer | 2 bytes | Mayor a Cero |
+| 2 | nombre | Nombre del estudiante | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | apellido | Apellido del estudiante | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250)|
+| 4 | correo | Correo electrónico del estudiante | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 5 | contrasena | Contraseña del estudiante | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250)|
+| 6 | fecha_de_registro | Fecha de registro del estudiante | datetime | Fecha y hora | Permite solo fechas y horas |
+| 7 | foto_perfil | Foto de perfil del estudiante |  blob | Objetos binarios grandes | Permite archivos multimedia |
+| redes_sociales |
+| 1 | ID_redes_sociales | Identificador de la red social | integer | 2 bytes | Mayor a cero |
+| 2 | tipo_red_social | Tipo de red social | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| autores |
+| 1 | ID_autor | Identificador del autor | integer | 2 bytes | Mayor a cero |
+| 2 | identificador_unico | Código de barras ISBN del libro | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | nombre | Nombre del autor | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 4 | apellido | Apellido del autor | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 5 | correo | Correo electrónico del autor | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 6 | contrasena | Contraseña del autor | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 7 | fecha_registro | Fecha de registro del autor | datetime | Fecha y hora | Permite solo fechas y horas |
+| 8 | foto_perfil | Foto de perfil del autor |  blob | Objetos binarios grandes | Permite archivos multimedia |
+| editorial_autor |
+| 1 | ID_editorial | Identificador de la editorial a la que pertenece el autor | integer | 2 bytes | Mayor a cero |
+| 2 | descripcion | Descripción del libro | text | Caracteres de texto | Permite archivos de texto |
+| resenias |
+| 1 | ID_resenias | Identificador de la reseña | integer | 2 bytes | Mayor a cero |
+| 2 | calificacion | Calificación realizada por el usuario | integer | 1 byte | Mayor a cero y menor o igual a 5 |
+| 3 | fecha_resenia | Fecha de publicación de la reseña | datetime | Fecha y hora | Permite solo fechas y horas |
+| editorial |
+| 1 | ID_editorial | Identificador de la editorial | integer | 2 bytes | Mayor a cero |
+| 2 | nombre | Nombre de la editorial | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | razon_social | Razón social de la editorial | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 4 | correo | Correo electrónico de la editorial | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 5 | ruc | RUC de la editorial | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| discusiones |
+| 1 | ID_discusion | Identificador de la discusión dentro de la plataforma | integer | 2 bytes | Mayor a cero |
+| 2 | titulo | Título de la discusión | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | descripcion | Descripción de la discusión | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 4 | fecha_creacion | Fecha de creación de la discusión | datetime | Fecha y hora | Permite solo fechas y horas |
+| participacion_discusiones |
+| 1 | ID_participacion_discusion | Identificador del participante en la discusión | integer | 2 bytes | Mayor a cero |
+| 2 | texto | Texto de la participación en la discusión | text | Caracteres de texto | Permite archivos de texto |
+| 3 | fecha_participacion | Fecha de participación del usuario en la discusión | datetime | Fecha y hora | Permite fechas y horas |
+| 4 | numero_participante | Numero de participante en la discusión | integer | 2 bytes | Mayor a cero |
+| comentarios |
+| 1 | ID_comentario | Identificador del comentario realizado por un usuario | integer | 2 bytes | Mayor a cero |
+| 2 | comentario | Comentario del usuario | text | Caracteres de texto | Permite archivos de texto |
+| 3 | fecha_comentario | Fecha de publicación del comentario realizado por un usuario | datetime | Fecha y hora | Permite solo fechas y horas |
+| compras |
+| 1 | ID_transaccion | Transacción por compra del usuario | integer | 2 bytes | Mayor a cero |
+| 2 | tipo_transaccion | Tipo de transacción | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | fecha_transaccion | Fecha de la transacción realizada | datetime | Fecha y hora | Permite solo fechas y horas |
+| 4 | monto | Monto de la transacción | decimal | Números decimales | Permite hasta 29 dígitos significativos |
+| configuracion_contenido |
+| 1 | ID_configuracion_contenido | Identificador de configuración del contenido | integer | 2 bytes | Mayor a cero |
+| 2 | preferencia | Preferencia de confugiración del usuario | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| libros |
+| 1 | ID_libro | Identificador del libro | integer | 2 bytes | Mayor a cero |
+| 2 | titulo | Título del libro | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | descripcion | Descripción del libro | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 4 | resumen | Resumen del libro | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 1000) |
+| 5 | fecha_publicacion | Fecha de publicación del libro | datetime | Fecha y hora | Permite solo fechas y horas |
+| 6 | isbn | Identificador internacional único para libros | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 7 | formato | Forma y dimensiones del libro | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 8 | ruta_archivo | Directorio donde se encuentra el libro | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 9 | portada | Portada del libro | blob | Objetos binarios grandes | Permite archivos multimedia |
+| notificaciones |
+| 1 | ID_notificacion| Identificador de la notificación | integer | 2 bytes | Mayor a cero |
+| 2 | tipo_alerta | Tipo de notificación | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| 3 | fecha_alerta | Fecha y hora de envió de la notificación | datetime | Fecha y hora | Permite solo fechas y horas |
+| 4 | mensaje | Mensaje de la notificación | text | Caracteres de texto | Permite archivos de texto |
+| 5 | estado | Estado de la notificación (leído o no leído) | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| generos |
+| 1 | ID_genero | Identificador de género literario | integer | 2 bytes | Mayor a cero |
+| 2 | nombre | Nombre de género literario | varchar | Cadena de caracteres | Permite solo caracteres o letras (max. 250) |
+| libros_generos |
+| 1 | ID_libros_genero | Identificador de género del libro | integer | 2 bytes | Mayor a cero |
+
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
