@@ -489,9 +489,10 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Maycol Jhordan Rojas Velásquez |
+| **Minuto del video:**  0:00 |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Ate |
-| ![Entrevista](/assets/Entrevista_MKL.png)|
+| ![Entrevista](./assets/Entrevista_MKL.png)|
 | **Resumen:** Maicol Jhordan es un estudiante que usa libros y audiolibros digitales regularmente. Valora una amplia variedad de títulos y una interfaz intuitiva en las plataformas. Prefiere leer libros electrónicos para estudio y audiolibros para actividades mientras se desplaza. Descubre nuevos libros mediante recomendaciones personalizadas y reseñas en línea, y busca funciones como listas de lectura personalizadas y recordatorios. La personalización de recomendaciones es muy importante para él, y le gustaría poder interactuar directamente con autores. Aunque aprecia la interacción en las plataformas actuales, encuentra que la organización y la interactividad podrían mejorar. |
 
 
@@ -500,15 +501,17 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Christopher Del Carpio Arenas |
+| **Minuto del video:**  5:16  |
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Lima |
-| ![Entrevista](/assets/Entrevista_Cris.png)|
+| ![Entrevista](./assets/Entrevista_Cris.png)|
 | **Resumen:** Christopher prefiere usar su laptop y smartphone para leer libros digitales y audiolibros, eligiendo Windows y Android por su comodidad y variedad de aplicaciones. Valora plataformas con interfaces intuitivas, buenas recomendaciones personalizadas y una amplia biblioteca. Descubre libros a través de recomendaciones, redes sociales y reseñas, y disfruta tanto de libros digitales como de audiolibros para adaptarse a diferentes situaciones. La personalización de recomendaciones es crucial para él, y considera que interactuar con autores directamente sería enriquecedor. Mejora en accesibilidad y personalización en las plataformas existentes sería ideal. |
 
 #### Entrevista 3
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Sebastián Cosquillo |
+| **Minuto del video:**  11:13|
 | **Edad:**  19 años |
 | **Procedencia:**  Lima, Comas |
 | ![Captura Entrevista - Segmento 1](https://hackmd.io/_uploads/SJsLMuHoA.png)|
@@ -520,13 +523,15 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 |--------------------------|
 | **Nombre:**  Apaestegui Edquen Diego Sebastian |
 | **Edad:**  23 años |
+| **Minuto del video:**  15:43|
 | **Procedencia:**  Lima, Lima |
-| ![entrevista_autor_1](https://acortar.link/GlGagu)|
+| ![entrevista_autor_1](./assets/entrevista_autor_1.pmg)|
 | **Resumen:** Sebastián Edquén destaca la importancia de la accesibilidad y la comodidad en la publicación digital, prefiriendo libros digitales por su facilidad de uso en diferentes dispositivos. Su experiencia resalta la necesidad de herramientas avanzadas de marketing y análisis en las plataformas de publicación, así como la valiosa interacción con lectores. Las funciones que faciliten la promoción y la gestión efectiva de contenidos son clave para mejorar su experiencia como autor en el entorno digital. |
 #### Entrevista 2
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  José Manuel Qwistgaard Suárez |
+| **Minuto del video:**  21:18|
 | **Edad:**  63 años |
 | **Procedencia:**  Lima, Lima |
 | ![Captura de pantalla 2024-08-25 134512](https://hackmd.io/_uploads/ry3J3lYo0.png)|
@@ -536,6 +541,7 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 | **Datos del entrevistado** | 
 |--------------------------|
 | **Nombre:**  Milosch Perez Mendoza |
+| **Minuto del video:**  35:45|
 | **Edad:**  25 años |
 | **Procedencia:**  Lima, San Miguel |
 | ![Entrevista]( https://github.com/RonaldoFabian01/Publicrepos/blob/main/Entrevista.png?raw=true)|
@@ -649,7 +655,7 @@ Enlace de las entrevistas: https://acortar.link/Q5pT1u
 **Estudiantes**
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
 **Autores**
-![Empathy Map - Segmento 2](/assets/Customer-journey-map-1.png)
+![Empathy Map - Segmento 2](./assets/Customer-journey-map-1.png)
 ### 2.3.4. Empathy Mapping
 #### Segmento 1: Estudiantes
 ![Empathy Map - Segmento 1](https://hackmd.io/_uploads/HyjrSOSjA.png)
@@ -890,22 +896,22 @@ Inverted Colors
 **Typography**
 **Font Families:**
 - **Rushen Shadow: Usada para el logotipo del proyecto. Su estilo distintivo y decorativo ayuda a destacar la identidad de BookSphere.**   <br>
- ![Rushen](/assets/Rushen.png)
+ ![Rushen](./assets/Rushen.png)
 
 - **Poppins: Empleada para los encabezados y títulos. Ofrece una lectura clara y moderna, ideal para captar la atención en la plataforma.**   <br>
-![Poppins](/assets/Poppins.png)
+![Poppins](./assets/Poppins.png)
 
 - **Noto Sans: Aplicada al cuerpo del texto. Su diseño versátil facilita la lectura y la comprensión de la información.**   <br>
-![noto](/assets/noto.png)
+![noto](./assets/noto.png)
 
 - **Roboto: Utilizada para botones y llamados a la acción. Su aspecto limpio y moderno ayuda a mejorar la interacción del usuario.**   <br>
-![Roboto](/assets/Roboto.png)
+![Roboto](./assets/Roboto.png)
 
 - **Raleway: Reservada para detalles y elementos destacados. Añade un toque de sofisticación a la interfaz.**   <br>
-![raleway](/assets/raleway.png)
+![raleway](./assets/raleway.png)
 
 - **Arial: Seleccionada para el texto legal y el pie de página. Garantiza legibilidad y profesionalismo.**   <br>
-![Arial](/assets/Arial.png)
+![Arial](./assets/Arial.png)
 
  <br>
  
@@ -917,18 +923,18 @@ Inverted Colors
   ![#e04e0b](./assets/E04E0B.png)
 
 - **Naranja claro (#e4864f):** Evoca calidez y accesibilidad, creando una atmósfera acogedora. <br>
-  ![#e4864f](/assets/e4864f.png)
+  ![#e4864f](./assets/e4864f.png)
 
 - **Gris claro (#e9ebeb):** Aporta claridad y modernidad, manteniendo la elegancia del diseño. <br>
-  ![#e9ebeb](/assets/E9EBEB.png)
+  ![#e9ebeb](./assets/E9EBEB.png)
 
 - **Blanco  (#ffffff):** Simboliza pureza y simplicidad, dando un aspecto limpio a la página. <br>
-  ![#ffffff](/assets/ffffff.png)
+  ![#ffffff](./assets/ffffff.png)
 - **Gris muy claro (#F5F5F5):**   Añade una ligera variación de gris, manteniendo la sobriedad en el diseño. <br>
-  ![#F5F5F5](/assets/F5F5F5.png)
+  ![#F5F5F5](./assets/F5F5F5.png)
   
 - **Marrón oscuro (#3E2723):** Transmite seriedad y sofisticación, ideal para resaltar elementos importantes. <br>
-  ![#3E2723](/assets/3E2723.png)
+  ![#3E2723](./assets/3E2723.png)
   
  <br>
 Estos colores no solo crean una armonía visual en la plataforma, sino que también refuerzan la identidad de BookSphere como una solución innovadora para el acceso a libros y materiales educativos. La combinación de estos tonos contribuye a una experiencia de usuario enriquecedora, que combina la tradición de la lectura con la modernidad de la tecnología, y refleja nuestro compromiso con la excelencia en el diseño y la funcionalidad.
@@ -1014,73 +1020,39 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 (Por implementar)
 
 ## 4.3. Landing Page UI Design
-### 4.3.1. Landing Page Wireframe
-#### Wireframe de Inicio:
+## 4.3.1. Landing Page Wireframe
+### Wireframe de Inicio:
 ![Wireframe-Inicio](https://hackmd.io/_uploads/BkqG7co3A.png)
 
-#### Wireframe de Sobre Nosotros:
+### Wireframe de Sobre Nosotros:
 ![Wireframe-SobreNosotros](https://hackmd.io/_uploads/H15zXqj3C.png)
 
-#### Wireframe de Cómo funciona la app:
+### Wireframe de Cómo funciona la app:
 ![Wireframe-ComoFuncionaApp](https://hackmd.io/_uploads/Hk9fXqj3C.png)
 
 ### Wireframe de Características:
 ![Wireframes-Caracteristicas](https://hackmd.io/_uploads/HJKzQqshC.png)
 
-#### Wireframe de Usuarios:
+### Wireframe de Usuarios:
 ![Wireframe-Usuarios](https://hackmd.io/_uploads/Bytz79oh0.png)
 
-#### Wireframe de Descargar:
+### Wireframe de Descargar:
 ![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
 
-### 4.3.2. Landing Page Mock-up
-#### Mock-up de Inicio:
-![Mockup-Inicio](https://hackmd.io/_uploads/H1lor5inC.png)
-
-#### Mock-up de Sobre Nosotros:
-![Mockup-SobreNosotros](https://hackmd.io/_uploads/HyeoBconR.png)
-
-#### Mock-up de Cómo funciona la app:
-![Mockup-ComoFuncionaApp](https://hackmd.io/_uploads/B1elsH5jhR.png)
-
-#### Mock-up de Características:
-![Mockup-Caracteristicas](https://hackmd.io/_uploads/Sy1jSqjhA.png)
-
-#### Mock-up de Usuarios:
-![Mockup-Usuarios](https://hackmd.io/_uploads/rJgoH9inR.png)
-
-#### Mock-up de Descargar:
-![Mockup-Descargar](https://hackmd.io/_uploads/BJyjB9s2A.png)
-
+## 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
-### 4.4.1. Web Applications Wireframes
-#### Desktop Browser:
-
-#### Inicio de sesión y registro de usuarios:
-![Wireframe-InicioDeSesión](https://hackmd.io/_uploads/BkuGYcj2C.png)
-
-#### User Home y vista de "Mi Librería" y descarga de libros:
-![Wireframe-UserHome&MyLibrary](https://hackmd.io/_uploads/HkwWyjjhA.png)
-
-### 4.4.2. Web Applications Wireflow Diagrams
-### 4.4.3. Web Applications Mock-ups
-#### Desktop Browser:
-
-#### Inicio de sesión y registro de usuarios:
-![Mockup-InicioDeSesión](https://hackmd.io/_uploads/SkYNRcsh0.png)
-
-#### User Home y vista de "Mi Librería" y descarga de libros:
-![Mockup-UserHome&MyLibrary](https://hackmd.io/_uploads/Sy-8pcsn0.png)
-
-### 4.4.4. Web Applications User Flow Diagrams
+## 4.4.1. Web Applications Wireframes
+## 4.4.2. Web Applications Wireflow Diagrams
+## 4.4.3. Web Applications Mock-ups
+## 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
-![DiagramContext](/assets/Diagrama-Context.png)
+![DiagramContext](./assets/Diagrama-Context.png)
 ### 4.6.2. Software Architecture Container Diagrams
-![DiagramContainer](/assets/Diagrama-Contenedores.png)
+![DiagramContainer](./assets/Diagrama-Contenedores.png)
 ### 4.6.3. Software Architecture Components Diagrams
-![DiagramComponents](/assets/Diagrama-Componentes.png)
+![DiagramComponents](./assets/Diagrama-Componentes.png)
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
 ## 4.7.2. Class Dictionary
@@ -1194,7 +1166,7 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 
 #### Repositorio de la Landing Page
 **Implementación de GitFlow:** Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo *"A successful Git branching model"* de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
-![GitFlow](/assets/gitflow.png)
+![GitFlow](./assets/gitflow.png)
 - **Rama Principal (Main branch):** Contiene el código en producción y se conoce como la Master branch o Main branch.
   - **Notación:** `main`
 
@@ -1243,15 +1215,15 @@ Esta sección detalla las directrices para la programación y la documentación 
 En esta sección se explicará el proceso del despliegue del proyecto.
 1.- El primer paso es crear un repositorio en GitHub donde almacenaremos el código de nuestra landing page.
 
-![Repositorio-LandingPage](/assets/Repository-LandingPage.png)
+![Repositorio-LandingPage](./assets/Repository-LandingPage.png)
 
 2.- Habilitamos GithubPages en la siguiente rama:
 
-![Configuration Page](/assets/Configuration.png)
+![Configuration Page](./assets/Configuration.png)
 
 3.- Luego se confirma el dezpliegue de la página.
 
-![Landing Page](/assets/Landing-Page.png)
+![Landing Page](./assets/Landing-Page.png)
 
 [Landing Page](https://booksphere-sh.github.io/Landing-Page/)) <br>
 
@@ -1399,27 +1371,27 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
 - Establecimiento de múltiples repositorios en GitHub: <br>
 
-![repositorio](/assets/Repository.png)
+![repositorio](./assets/Repository.png)
 
 
 - Implementacion del landing page:
 
-![Landing Page](/assets/Landing-Page.png) <br>
+![Landing Page](./assets/Landing-Page.png) <br>
 
 - Imagenes del Landing page:
 
 **Inicio:**
-![inicio](/assets/inicio.png)
+![inicio](./assets/inicio.png)
 **Sección nosotros:**
-![nosotros](/assets/nosotros.png)
+![nosotros](./assets/nosotros.png)
 **Cómo Funciona la Aplicación:**
-![funciona](/assets/funciona.png)
+![funciona](./assets/funciona.png)
 **Las Mejores Características de BookSphere:**
-![Caracteristicas](/assets/Caracteristicas.png)
+![Caracteristicas](./assets/Caracteristicas.png)
 **Lo Que Dicen Nuestros Usuarios:**
-![usuarios](/assets/usuarios.png)
+![usuarios](./assets/usuarios.png)
 **Sección de cambio de idioma:**
-![idioma](/assets/idioma.png)
+![idioma](./assets/idioma.png)
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
 Durante el primer sprint, se logro lo siguiente en relación a Web Services:
@@ -1427,13 +1399,13 @@ Durante el primer sprint, se logro lo siguiente en relación a Web Services:
 Despliegue de Landing Page:
 Documentacion del código para despliegue: <br>
 
-![Landing-Archives](/assets/Landing-Archives.png)
+![Landing-Archives](./assets/Landing-Archives.png)
 
 
 
 Documentación index.html: <br>
 
-![Index](/assets/index.png)
+![Index](./assets/index.png)
 
 
 ### Video de Demostración
@@ -1466,29 +1438,39 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 1. **Despliegue en GitHub Pages:**
    - Se subió el código de la Landing Page al repositorio en GitHub.
    - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio. <br>
-![Configuration Page](/assets/Configuration.png)
+![Configuration Page](./assets/Configuration.png)
 
 2. **Verificación del Despliegue:**
    - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
    - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado. <br>
-![Landing Page](/assets/Landing-Page.png)
+![Landing Page](./assets/Landing-Page.png)
 
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages y los workflows de GitHub Actions han optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue automático y la actualización del sitio web.
 #### 5.2.1.8. Team Collaboration Insights during Sprint <br>
-![team-collaboration](/assets/team-collaboration.png)
+![team-collaboration](./assets/team-collaboration.png)
 
 
 
 ## Video About-the-Product
+En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
 
+Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EZyAnwC2REVAu0bTvnx05TgBoyTQdTk6m7ZSoHa1Hlz9_Q?e=jMinTq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ## Conclusiones
 
+1. **Implementación Efectiva:** La landing page de BookSphere ha sido desarrollada con un enfoque en la experiencia del usuario, utilizando tecnologías modernas como HTML, CSS y JavaScript. La implementación del carrusel de imágenes y texto, junto con la sección de funcionalidades y planes disponibles, proporciona una interfaz intuitiva y atractiva.
 
+2. **Diseño Responsivo:** Se logró un diseño responsivo que garantiza una experiencia de usuario consistente tanto en dispositivos móviles como en escritorios. Esto es crucial para mantener la accesibilidad y la usabilidad de la página en diferentes plataformas.
+
+3. **Interactividad y Funcionalidad:** La inclusión de secciones interactivas y funcionales, como las preguntas frecuentes y el resumen de la plataforma, facilita la navegación y la obtención de información relevante para los usuarios. La integración de estos elementos ayuda a destacar los beneficios de BookSphere de manera clara y eficaz.
+
+4. **Optimización y Pruebas:** Las pruebas realizadas confirmaron la efectividad de la landing page en términos de funcionalidad y diseño. Los ajustes finales permitieron optimizar el rendimiento y asegurar que todas las características funcionaran según lo esperado.
+
+5. **Futuras Mejoras:** Aunque la landing page cumple con los requisitos iniciales, se pueden considerar futuras mejoras como la adición de más secciones interactivas, la integración de análisis de usuario y la implementación de características avanzadas para mejorar aún más la experiencia del usuario.
 
 ## Bibliografía
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
-2. 
+
 ## Anexos
 
 **Enlaces**
@@ -1498,5 +1480,4 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
 | LandingPage (Anexo A)    | https://booksphere-sh.github.io/Landing-Page/ |
-| Diagramas de clases (Anexo B)   |  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EUv9OiiAZgtKgkO9fzCMedUBkaxSq29Emvi84Fn6uYdO3A?e=jC6bjZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
-| Diagramas de base de datos (Anexo C)   | https://my.vertabelo.com/doc/GeHrKz6hgPvFhSH4XkuEu95kq78E4Eab   |
+| Video de entrevista (Anexo B)   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/ESGj4Ty30YpFnIJPoXcsOEoBkjgUeDwJY9UioIDpVb5NIg?e=NrI3gY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
