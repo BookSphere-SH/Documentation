@@ -1408,13 +1408,7 @@ Documentación index.html: <br>
 ![Index](./assets/index.png)
 
 
-### Video de Demostración
 
-Para una demostración completa de la visualización y navegación logradas en este Sprint, por favor vea el siguiente video:
-
-|Nombre|Link|
-|--------------------|------------|
-|Video de Demostración |  |
 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review <br>
@@ -1448,9 +1442,27 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages y los workflows de GitHub Actions han optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue automático y la actualización del sitio web.
 #### 5.2.1.8. Team Collaboration Insights during Sprint <br>
-![team-collaboration](./assets/team-collaboration.png)
+Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación de la Landing Page de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
+**Actividades de Implementación**
+El equipo ha dividido las tareas de implementación de la Landing Page en varias actividades clave, asegurando que todos los miembros del equipo participen activamente en el desarrollo. Las actividades incluyen:
 
+- Diseño y maquetación de la Landing Page.
+- Implementación de secciones clave como el encabezado, pie de página, y contenido principal.
+- Configuración de la integración continua y despliegue en Netlify.
+- Pruebas y ajustes finales para asegurar la calidad del producto.
+**Analíticos de Colaboración**
+A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
+
+**Captura de Analíticos de Colaboración en GitHub**
+-En el repositorio de la Landing Page
+
+![Landing Commint](./assets/Landing-a.png)
+![Network](./assets/Network.png)
+![commits-docu](./assets/commits-docu.png)
+![commits](./assets/commits.png)
+![clones](./assets/clones.png)
+![personas](./assets/personas.png)
 
 ## Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
