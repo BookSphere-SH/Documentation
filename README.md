@@ -1054,8 +1054,19 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+#### Inicio de sesión y registro:
+#### Desktop Browser:
+
+#### Inicio de sesión y registro de usuarios:
+![Wireframe-InicioDeSesión](https://hackmd.io/_uploads/BkuGYcj2C.png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.3. Web Applications Mock-ups
+#### Desktop Browser:
+
+#### Inicio de sesión y registro:
+![Mockup-InicioDeSesión](https://hackmd.io/_uploads/SkdftqonA.png)
+
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
