@@ -1015,6 +1015,24 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
+### Wireframe de Inicio:
+![Wireframe-Inicio](https://hackmd.io/_uploads/BkqG7co3A.png)
+
+### Wireframe de Sobre Nosotros:
+![Wireframe-SobreNosotros](https://hackmd.io/_uploads/H15zXqj3C.png)
+
+### Wireframe de Cómo funciona la app:
+![Wireframe-ComoFuncionaApp](https://hackmd.io/_uploads/Hk9fXqj3C.png)
+
+### Wireframe de Características:
+![Wireframes-Caracteristicas](https://hackmd.io/_uploads/HJKzQqshC.png)
+
+### Wireframe de Usuarios:
+![Wireframe-Usuarios](https://hackmd.io/_uploads/Bytz79oh0.png)
+
+### Wireframe de Descargar:
+![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
+
 ## 4.3.2. Landing Page Mock-up
 ## 4.4. Web Applications UX/UI Design
 ## 4.4.1. Web Applications Wireframes
