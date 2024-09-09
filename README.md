@@ -36,7 +36,7 @@
 | Entregables  | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
 | TB1| 03/08/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> 
-| TB1 | 01/09/2024 | Ronaldo Fabian Puente | Implementacion Lnading page Ui desing & web aplication UI/UX desing de Wirefremas, mockups, user flow diagram |
+| TB1 | 01/09/2024 | Ronaldo Fabian Puente | Implementacion Lnading page Ui desing & web aplication UI/UX desing de Wirefremas, mockups, user flow diagram, entrevista, resumen de entrevista |
 Desarrollar el Capitulo IV <br> Implementar en el Capitulo V|
 | TP | Fila 2, Columna 2 | Fila 2, Columna 3 | Fila 2, Columna 4 |
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
