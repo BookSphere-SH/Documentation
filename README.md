@@ -1040,11 +1040,75 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
 
 ## 4.3.2. Landing Page Mock-up
+### Mock-up de Inicio:
+![Mockup-Inicio](https://hackmd.io/_uploads/SJbHe6i3A.png)
+
+### Mock-up de Sobre Nosotros:
+![Mockup-SobreNosotros](https://hackmd.io/_uploads/HkeBeai3C.png)
+
+### Mock-up de Cómo funciona la app:
+![Mockup-ComoFuncionaApp](https://hackmd.io/_uploads/r1gHlpi2A.png)
+
+### Mock-up de Características:
+![Mockup-Caracteristicas](https://hackmd.io/_uploads/BJ1SeashA.png)
+
+### Mock-up de Usuarios:
+![Mockup-Usuarios](https://hackmd.io/_uploads/B1gHlTsh0.png)
+
+### Mock-up de Descargar
+![Mockup-Descargar](https://hackmd.io/_uploads/SkeBx6s20.png)
+
 ## 4.4. Web Applications UX/UI Design
 ## 4.4.1. Web Applications Wireframes
+### Desktop Browser:
+### Inicio de sesión y registro:
+![Wireframe-InicioDeSesión](https://hackmd.io/_uploads/HynZ-Ts3C.png)
+
+### User Home y vistas previas de "Mi Librería" y descargar libros:
+![Wireframe-UserHome&MyLibrary](https://hackmd.io/_uploads/SyAWW6s3R.png)
+
+### Vista previa de Buscar libros:
+![Wireframe-SearchBook](https://hackmd.io/_uploads/rkAZ-6o3C.png)
+
+### Mobile Browser:
+![Wireframe-Mobile](https://hackmd.io/_uploads/BkCb-pinC.png)
+
 ## 4.4.2. Web Applications Wireflow Diagrams
+### Usuario ingresa a la aplicación iniciando sesión o registrándose:
+![Wireflow-Login](https://hackmd.io/_uploads/HkLkfai30.png)
+
+### Usuario desea descargar un libro de su librería:
+![Wireflow-Library](https://hackmd.io/_uploads/SJ81fTjnR.png)
+
+### Usuario desea buscar un libro en su librería:
+![Wireflow-SearchBook](https://hackmd.io/_uploads/H1IJzaohC.png)
+
 ## 4.4.3. Web Applications Mock-ups
+### Inicio de sesión y registro:
+![Mockup-InicioDeSesión](https://hackmd.io/_uploads/rJASzaihA.png)
+
+### User Home y vistas previas de "Mi Librería" y descargar libros:
+![Mockup-UserHome&MyLibrary](https://hackmd.io/_uploads/BJCHMas30.png)
+
+### Vista previa de Buscar libros:
+![Mockup-SearchBook](https://hackmd.io/_uploads/SyRHfpi2R.png)
+
+### Mobile Browser:
+
+### Vista previa de Buscar libros:
+![Mockup-Mobile](https://hackmd.io/_uploads/H14VVainR.png)
+
 ## 4.4.4. Web Applications User Flow Diagrams
+### Desktop Browser:
+### User Flow: Inicio de sesión o creación de cuenta:
+![Wireflow-Login](https://hackmd.io/_uploads/HkLkfai30.png)
+
+### User Flow: Descargas de libros de la librería de un usuario:
+![Wireflow-Library](https://hackmd.io/_uploads/SJ81fTjnR.png)
+
+### User Flow: Buscar un libro en la librería de un usuario:
+![Wireflow-SearchBook](https://hackmd.io/_uploads/H1IJzaohC.png)
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
