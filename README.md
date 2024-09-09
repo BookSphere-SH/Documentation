@@ -994,7 +994,7 @@ La plataforma web de **BookSphere** está diseñada para ofrecer una experiencia
 - **Margen superior e inferior:** Debe ser de alrededor de 40 a 60 píxeles. Este espaciado proporciona un equilibrio visual y asegura que el pie de página esté claramente diferenciado del contenido principal.
 
 ### 4.1.2. Web Style Guidelines
-texto
+
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
 
@@ -1158,7 +1158,7 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ![DiagramComponents](./assets/Diagrama-Componentes.png)
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
-![image](.assets/Class_Diagram.jpeg) 
+![image](assets/Class_Diagram.jpeg) 
 ## 4.7.2. Class Dictionary
 | Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
 |---------|---------------------|------------|--------------|------------------|---------------------|
