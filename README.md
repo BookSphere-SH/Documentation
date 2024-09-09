@@ -1215,7 +1215,7 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ## 4.8. Database Design
 ## 4.8.1. Database Diagram
 
-![DataBaseDiagram](https://github.com/RonaldoFabian01/Publicrepos/blob/main/Database%20Diagram.png?raw=true)
+![BookSphere](https://hackmd.io/_uploads/HkCR1fnhC.png)
 
 
 ### CAPÍTULO V: Product Implementation, Validation & Deployment
