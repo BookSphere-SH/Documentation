@@ -1438,7 +1438,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 
 
-[Link del repositorio](https://github.com/BookSphere-SH/Landing-Page/commits/developer/))
+[Link del repositorio](https://github.com/BookSphere-SH/Landing-Page/commits/developer/)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 | **Repository**                           | **Branch**            | **Commit Id**                            | **Commit Message** | **Commit Message Body**      | **Committed on (Date)** |
@@ -1455,7 +1455,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 <br>
 
-[repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing) <br>
+[repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/tree/tb1-Sergio-G%C3%B3mez) <br>
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
