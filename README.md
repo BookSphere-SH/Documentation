@@ -1116,6 +1116,7 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ![DiagramComponents](./assets/Diagrama-Componentes.png)
 ## 4.7. Software Object-Oriented Design
 ## 4.7.1. Class Diagrams
+![image](.assets/Class_Diagram.jpeg) 
 ## 4.7.2. Class Dictionary
 | Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
 |---------|---------------------|------------|--------------|------------------|---------------------|
