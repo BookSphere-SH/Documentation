@@ -35,7 +35,7 @@
 
 | Entregables  | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1| 03/08/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> Desarrollar el Capitulo IV <br> Implementar en el Capitulo V|
+| TB1| 03/08/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> Desarrollar el Capitulo IV <br> Implementar en el Capitulo V, User Stories, Product Backlog, Landing Page, Capitulo II |
 | TP | Fila 2, Columna 2 | Fila 2, Columna 3 | Fila 2, Columna 4 |
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
@@ -181,8 +181,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|------------------------|------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.                   |                  |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.                     |                  |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.                   |  Se demostró una notable capacidad para presentar los avances y resultados del proyecto de manera clara y adaptada a las necesidades de diversos grupos. Su habilidad para comunicar aspectos técnicos y estratégicos de manera comprensible permitió a los miembros del equipo y a las audiencias externas tomar decisiones informadas, evidenciando una comunicación oral efectiva con diferentes rangos de audiencia.                |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.                     |  Se mostró competencia en la redacción del informe del proyecto, ajustando el lenguaje y la estructura del documento para que fuera accesible tanto para compañeros técnicos como para audiencias no técnicas. Su enfoque en garantizar la comprensión y utilidad de la información compartida refleja una habilidad efectiva para comunicar por escrito a diferentes rangos de audiencia.                |
 
 
 # 1. CAPÍTULO I: Introducción
