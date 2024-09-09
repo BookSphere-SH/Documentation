@@ -1102,6 +1102,10 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 ### User Flow: Buscar un libro en la librería de un usuario:
 ![Wireflow-SearchBook](https://hackmd.io/_uploads/H1IJzaohC.png)
 
+
+### User Flow: Buscar un libro por nombre (Version Mobile):
+![image](https://github.com/user-attachments/assets/3d8325cb-e46f-4b9d-ba61-d5543d71f66b)
+
 ## 4.5. Web Applications Prototyping
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
