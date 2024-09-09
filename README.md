@@ -1353,73 +1353,55 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
   </tr>
   <tr>
     <td>US001</td>
-    <td>Definir estructura de la landing page</td>
+    <td>Acceso a la sección de Nosotros</td>
     <td>T01</td>
-    <td>Crear estructura HTML</td>
+    <td>Implementar acceso a la sección de Nosotros	</td>
     <td>4</td>
     <td>Gómez Vallejos Sergio André</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US002</td>
-    <td>Implementar elementos interactivos</td>
+    <td>Incluir Internacionalización (i18n)</td>
     <td>T02</td>
-    <td>Configurar carrusel de imágenes</td>
+    <td>Implementar el cambio de idioma</td>
     <td>5</td>
     <td>Gómez Vallejos Sergio André</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US003</td>
-    <td>Pruebas y ajustes finales</td>
+    <td>Acceso a la sección de Características</td>
     <td>T03</td>
-    <td>Realizar pruebas de funcionalidad</td>
+    <td>Implementar acceso a la sección de Características</td>
     <td>2</td>
     <td>Gómez Vallejos Sergio André</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US004</td>
-    <td>Implementar acceso a la sección de Características</td>
+    <td>Sector de tipo de usuarios disponibles</td>
     <td>T04</td>
-    <td>Crear acceso a la sección de Características</td>
+    <td>Implementar sector de  usuarios disponibles</td>
     <td>3</td>
     <td>Gómez Vallejos Sergio André</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US005</td>
-    <td>Implementar sección de funcionalidades</td>
+    <td>Sector sección de comentarios</td>
     <td>T05</td>
-    <td>Implementar sección de funcionalidades</td>
+    <td>Implementar sección de comentarios</td>
     <td>4</td>
     <td>Gómez Vallejos Sergio André</td>
     <td>Done</td>
   </tr>
   <tr>
     <td>US006</td>
-    <td>Implementar sector de planes disponibles</td>
+    <td>Acceso a la sección de Como Funciona</td>
     <td>T06</td>
-    <td>Crear sector de planes disponibles</td>
+    <td>Crear sector de Como Funciona</td>
     <td>3</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US007</td>
-    <td>Implementar sector de preguntas frecuentes</td>
-    <td>T07</td>
-    <td>Crear sector de preguntas frecuentes</td>
-    <td>2</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US008</td>
-    <td>Implementar acceso a la sección de Resumen</td>
-    <td>T08</td>
-    <td>Crear acceso a la sección de Resumen</td>
-    <td>2</td>
     <td>Gómez Vallejos Sergio André</td>
     <td>Done</td>
   </tr>
