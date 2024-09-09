@@ -723,13 +723,21 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 # 1. Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 #### Leyentes
-![Captura de pantalla 2024-08-27 181907](https://hackmd.io/_uploads/rkk-yJ2sA.png)
-![Captura de pantalla 2024-08-27 181932](https://hackmd.io/_uploads/HkYzJy2jR.png)
+| Escenarios | Doing | Thinking | Feeling |
+| :---- | :---- | :---- | :---- |
+| Comprar libros en una plataforma digital | \-Iniciar Sesión en la plataforma \-Ir a la sección de ventas \-Buscar libros por filtros o palabras clave \-Leer las calificaciones y reseñas \-Comprar el libro para ti o para otro usuario | \-¿Qué tipo de libro me gustaría comprar? \-¿Hay descuentos u ofertas disponibles? \-¿Que tan bueno es el libro según su calificación? | \-Emocionado \-Intrigado \-Curioso \-Decepcionado (de no encontrar lo que quiere) |
+| DIalogar con otros leyentes y autores | \-Iniciar sesión \-Ir a la sección de la comunidad \-Crear o entrar a foros y discusiones con otros usuarios en la plataforma \-Conversar privadamente con otros leyentes y autores | \-¿Qué temas me interesan dialogar? \-¿Habrá autores o leyendas que pueda conocer y socializar? \-¿Habrá alguién que tenga una duda o resuelva las mías? | \-Feliz \-Emoción \-Enojado \-Enojo \-Expresivo |
+| Administrar biblioteca digital | \-Iniciar sesión en la plataforma \-Ir a biblioteca personal \-Organizar mis compras por filtros o colecciones personalizadas | \-¿Cómo puedo ordenar mis libros y artículos? \-¿Cuáles quiero agrupar y por qué? \-¿Cuáles están en mi lista actual de lectura? | \-Concentrado \-Intrigado \-Tranquilo o estresado (según el avance) |
+| Falla de la plataforma | \-Comprar un libro pero la transacción falla \-Robo de cuenta \-Sin acceso al contenido comprado \-Contacto con el soporte | \-¿Qué habrá pasado? \-¿Fue error mío o del sistema lo que pasó? \-¿Qué solución habrá para esta situación? | \-Enojado \-Decepcionado \-Fastidio |
 
 
 #### Autores
-![Captura de pantalla 2024-08-27 181647](https://hackmd.io/_uploads/By7qR0ojA.png)
-![Captura de pantalla 2024-08-27 181838](https://hackmd.io/_uploads/S10C0Roo0.png)
+| Escenarios | Doing | Thinking | Feeling |
+| :---- | :---- | :---- | :---- |
+| Publicar Libros en una plataforma digital | \-Iniciar sesión \-Ir al perfil de usuario \-Seleccionar la opción de publicar un libro \-Seleccionar la opción de publicar un libro | \-¿En qué formato publicó el libro? \-¿Que filtros agrego a mi página para facilitar su búsqueda? \-¿Qué precio sería el justo para este producto? | \-Emocionado \-Feliz \-Ansioso |
+| Interactuar con los leyentes | \-Iniciar sesión \-Ir a la sección de comunidad \-Empezar a dialogar con los leyentes de tus obras y relacionados | \-¿Qué opinan mis lectores de mis obras? \-¿Que me recomiendan mis lectores para mis obras futuras? \-¿Que brindo a mis lectores por estas interacciones? | \-Emocionado \-Curioso \-Pensativo |
+| Crear anuncios | \-Publicar un libro en la plataforma \-Crear un enlace de la página de publicación \-Crear publicidad en las redes sociales que redirija a la plataforma | \-¿Cómo puedo captar a mi público objetivo? \-¿Qué redes sociales son mejores para anunciar este tipo de medio? \-¿Qué tipo de formato (videos, imágenes, etc.) puedo utilizar para anunciar mi obra?  | \-Concentrado \-Creativo \-Entusiasmado \-Ansioso |
+| Colaboraciones | \-Iniciar sesión \-Dialogar con amigos registrados en la plataforma para crear un trabajo juntos \-Anunciar una colaboración en la sección de comunidad de la plataforma \-Anunciar una colaboración en la sección de comunidad de la plataforma \-Adjuntar los avances del trabajo en un repositorio privado de la plataforma \-Publicar el trabajo  | \-¿Quiénes me podrían ayudar a hacer un trabajo juntos? \-¿Qué temas trabajaremos y cuánto nos demoraremos en hacerlo? \-¿Qué precio merece nuestro trabajo cuando se publique? | \-Emocionado \-Creativo \-Ansioso \-Entusiasmado \-Concentrado |
 
 ## 3.2. User Stories
 | *Epic/Story ID* | *Título*                            | *Descripción*                                                                                                                                 | *Criterios de Aceptación*                                                                                                                                                                                                                                                                                                                                                                   | *Relacionado con (Epic ID)* |
