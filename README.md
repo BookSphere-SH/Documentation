@@ -1020,12 +1020,18 @@ c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podríamos incl
 
 
 ### 4.2.4. Searching Systems
-(Por implementar)
+Vista previa de Buscar libros:
+![Mockup-SearchBook](https://hackmd.io/_uploads/SyRHfpi2R.png) <br>
+
+![Mockup-Mobile](https://hackmd.io/_uploads/H14VVainR.png) <br>
 
 Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación llevará a los usuarios a la sección en la que estén interesados. 
 
 ### 4.2.5. Navigation Systems
-(Por implementar)
+![Imagen ](https://hackmd.io/_uploads/HyX2-N2hR.jpg)
+![Imagen ](https://hackmd.io/_uploads/B186bE3nC.jpg)
+![Imagen de WhatsApp 2024-09-09 a las 03.24.19_a469f372](https://hackmd.io/_uploads/HknC-Vn30.jpg)
+
 
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
