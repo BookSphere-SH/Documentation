@@ -186,6 +186,9 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 | Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas.                   |                  |
 | Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.                     |                  |
 
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | 2.- Ronaldo Fabian Puente: TB1: Mantuve comunicación constante con los demás miembros del equipo, para realizar un trabajo coordinado y sincronizado, todo para completar los objetivos planteados al principio del proyecto.                   | En conclusión, el proyecto se avanzo correctamente gracias a la comunicación efectiva que se mantuvo centre los integrantes dele equipo.                   |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | 2.- Ronaldo Fabian Puente: TB1: Mantuve comunicación escrita, vía mensajes, con los demás miembros del equipo, para enviar evidencia de avance y coordinar cambios y actualizaciones en el proyecto.                     |En conclusión, la comunicación escrita ayudo a sostener una comunicación asíncrona, y el envío de evidencia, para coordinar y sincronizar los avances.                   |
+
 
 # 1. CAPÍTULO I: Introducción
 ## 1.1. Startup Profile
