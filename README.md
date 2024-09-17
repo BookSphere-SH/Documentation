@@ -1084,23 +1084,36 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
-Tomando en cuenta las decisiones de diseño y arquitectura explicada anteriormente, el landing page debe contener información necesaria que atrape a los usuarios y ayuden a decidir a descargar nuestra aplicación. Para ello, 
+Tomando en cuenta las decisiones de diseño y arquitectura explicadas anteriormente, el landing page debe contener información necesaria que atrape a los usuarios y lo ayuden a decidir a descargar nuestra aplicación. Para ello, hemos decidido que el diseño del landing page sea atractivo para el usuario y contenga solo la información más importante, así como las características que ofrece y la opinión de los usuarios. Para ello realizaremos un wireframe que nos permitirá esbozar nuestras primeras ideas para la implementación del landing page. Esta contendrá la estructura que deseamos y el uso que le daremos a cada uno de los assets que hemos seleccionado. 
+### Desktop Web Browser:
 ### Wireframe de Inicio:
+Sección principal del landing page. Se ofrece una descripción inicial y opciones mediante un toolbar que permite al usuario desplazarse por el landing page.
+
 ![Wireframe-Inicio](https://hackmd.io/_uploads/BkqG7co3A.png)
 
 ### Wireframe de Sobre Nosotros:
+Sección que mostrará datos estadísticos de la aplicación y los perfiles de los desarrolladores del equipo.
+
 ![Wireframe-SobreNosotros](https://hackmd.io/_uploads/H15zXqj3C.png)
 
 ### Wireframe de Cómo funciona la app:
+Sección que mostrará información de cómo funciona la app en la parte izquierda. En la parte opuesta se utilizarán imágenes para ilustrar dichas funciones.
+
 ![Wireframe-ComoFuncionaApp](https://hackmd.io/_uploads/Hk9fXqj3C.png)
 
 ### Wireframe de Características:
+Sección que mostrará las principales características que presenta la app. Estas serán dividas por un icóno que las represente junto a un texto que permita entender a los usuarios el propósito de la función.
+
 ![Wireframes-Caracteristicas](https://hackmd.io/_uploads/HJKzQqshC.png)
 
 ### Wireframe de Usuarios:
+Sección que mostrará lo que piensan nuestros usuarios mediante una barra horizontal para el desplazo. Además, se mostrará información de la diferencia de usuarios dentro de la plataforma (Estudiante y Autor).
+
 ![Wireframe-Usuarios](https://hackmd.io/_uploads/Bytz79oh0.png)
 
 ### Wireframe de Descargar:
+Sección que muestra la estructura que mostrará las opciones de descarga de la aplicación y una sección final con la información de derechos de autor de la aplicación.
+
 ![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
 
 ## 4.3.2. Landing Page Mock-up
