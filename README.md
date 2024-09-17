@@ -1084,6 +1084,7 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
+Tomando en cuenta las decisiones de diseño y arquitectura explicada anteriormente, el landing page debe contener información necesaria que atrape a los usuarios y ayuden a decidir a descargar nuestra aplicación. Para ello, 
 ### Wireframe de Inicio:
 ![Wireframe-Inicio](https://hackmd.io/_uploads/BkqG7co3A.png)
 
