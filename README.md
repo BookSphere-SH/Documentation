@@ -1356,7 +1356,7 @@ En esta sección se explicará el proceso del despliegue del proyecto.
 
 ![Landing Page](./assets/Landing-Page.png)
 
-[Landing Page](https://booksphere-sh.github.io/Landing-Page/)) <br>
+[Landing Page](https://booksphere-sh.github.io/Landing-Page/) <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
