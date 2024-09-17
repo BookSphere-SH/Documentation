@@ -368,62 +368,104 @@ Características de personalidad: Curiosidad, deseo de aprendizaje continuo, apr
 ## 2.1. Competidores
 BookSphere enfrenta competencia de plataformas como Google Play Books, Audible y Scribd. Google Play Books proporciona una amplia gama de libros electrónicos y audiolibros, pero carece de una componente social. Audible, especializado en audiolibros, ofrece una gran biblioteca y buena integración con dispositivos Amazon, aunque no cuenta con funciones comunitarias. Scribd ofrece acceso ilimitado a diversos contenidos digitales bajo suscripción, pero su interacción social es limitada. A diferencia de estos competidores, BookSphere destaca por integrar una comunidad literaria activa, permitiendo a los usuarios compartir reseñas y participar en discusiones, lo que enriquece la experiencia del usuario.
 ## 2.1.1. Análisis Competitivo
-<table>
+<table border="1" cellpadding="5" cellspacing="0">
    <tr>
-      <td align="center" colspan="6">Competitive Analysis Landscaspe</td>
+      <td align="center" colspan="6"><strong>Análisis Competitivo</strong></td>
    </tr>
    <tr>
-      <td colspan="2">¿Porqué llevar a cabo este análisis?</td><td colspan="4">¿Cómo podemos proporcionar un buen servicio entre los restaurantes y los consumidores de manera que la comunicación entre ambos sea efectiva y agradable?</td>
+      <td colspan="2"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+      <td colspan="4"><strong>¿Cómo podemos proporcionar un buen servicio entre los restaurantes y los consumidores de manera que la comunicación entre ambos sea efectiva y agradable?</strong></td>
    </tr>
-   <tr align="center">
-      <td colspan="2"><td>SphereHub<br><img src="https://hackmd.io/_uploads/S15TtAi90.jpg" alt="Google Play Books" style="max-width: 80px;"/></td><td>Google Play Books<br><img src="https://hackmd.io/_uploads/SkbrwAo5A.jpg" alt="Google Play Books" style="max-width: 80px;"/></td><td>Audible<br><img src="https://hackmd.io/_uploads/S191dAo5C.png" alt="Audible" style="max-width: 80px;"/></td><td>Scribd<br><img src="https://hackmd.io/_uploads/SJ4_u0i9R.png" alt="Audible" style="max-width: 90px;"/></td>
+   <tr>
+      <td colspan="2"></td>
+      <td align="center"><strong>SphereHub</strong><br><img src="https://hackmd.io/_uploads/S15TtAi90.jpg" alt="SphereHub" style="max-width: 80px;"/></td>
+      <td align="center"><strong>Google Play Books</strong><br><img src="https://hackmd.io/_uploads/SkbrwAo5A.jpg" alt="Google Play Books" style="max-width: 80px;"/></td>
+      <td align="center"><strong>Audible</strong><br><img src="https://hackmd.io/_uploads/S191dAo5C.png" alt="Audible" style="max-width: 80px;"/></td>
+      <td align="center"><strong>Scribd</strong><br><img src="https://hackmd.io/_uploads/SJ4_u0i9R.png" alt="Scribd" style="max-width: 90px;"/></td>
    </tr>
+   <tr>
+      <td rowspan="2"><strong>Perfil</strong></td>
+      <td><strong>Overview</strong></td>
+      <td>SphereHub es una empresa emergente que, a través de BookSphere, busca revolucionar el acceso a libros y recursos educativos digitales. Integrando una experiencia inmersiva y social, BookSphere se posiciona como una plataforma integral para estudiantes y lectores que desean descubrir, interactuar y compartir conocimientos.</td>
+      <td>Google Play Books ofrece un extenso catálogo de libros digitales y audiolibros, con opciones de compra y alquiler directamente en la plataforma de Google.</td>
+      <td>Audible, una subsidiaria de Amazon, se especializa en audiolibros y contenido de audio, ofreciendo una vasta colección de títulos y suscripciones.</td>
+      <td>Scribd es un servicio de suscripción que ofrece acceso a una vasta biblioteca digital de libros, audiolibros, documentos y más. Su modelo de suscripción todo en uno lo convierte en una opción popular para consumidores de contenido digital.</td>
+   </tr>
+   <tr>
+      <td><strong>Ventaja Competitiva</strong></td>
+      <td>BookSphere se diferencia por combinar el acceso a libros con una comunidad interactiva, similar a la experiencia de Steam, donde los usuarios pueden dejar reseñas, comentarios y participar en foros relacionados con la literatura.</td>
+      <td>Google Play Books ofrece una integración nativa con Android, y su modelo permite a los usuarios comprar títulos específicos sin necesidad de suscripción.</td>
+      <td>Audible cuenta con una extensa selección de audiolibros exclusivos y la integración con dispositivos Amazon, como Alexa, lo que mejora la experiencia del usuario.</td>
+      <td>Scribd ofrece un acceso ilimitado a su biblioteca por una suscripción mensual, cubriendo una amplia gama de géneros y formatos.</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><strong>Perfil de Marketing</strong></td>
+      <td><strong>Mercado Objetivo</strong></td>
+      <td>Nos enfocamos en lectores apasionados y estudiantes que buscan una plataforma digital intuitiva para acceder a libros, audiolibros y recursos educativos. Además, nuestro objetivo es colaborar con editoriales, autores independientes e instituciones educativas que desean distribuir sus obras de manera innovadora y llegar a un público más amplio.</td>
+      <td>Usuarios de dispositivos Android que buscan conveniencia en la adquisición de contenido digital.</td>
+      <td>Consumidores que prefieren la experiencia auditiva para leer, incluyendo profesionales y entusiastas de la literatura.</td>
+      <td>Lectores generales que consumen una variedad de contenido digital, desde libros hasta revistas y documentos.</td>
+   </tr>
+   <tr>
+      <td><strong>Estrategias de Marketing</strong></td>
+      <td>SphereHub planea enfocarse en campañas digitales dirigidas a instituciones educativas y crear alianzas estratégicas con editoriales y universidades. Además, promoverá la plataforma en redes sociales y a través de influencers literarios.</td>
+      <td>Google Play Books se apoya en la preinstalación en dispositivos Android y en su visibilidad dentro del ecosistema Google para llegar a un público amplio.</td>
+      <td>Audible invierte en campañas de marketing masivas, especialmente a través de Amazon y dispositivos Alexa, destacando su oferta de prueba gratuita y su contenido exclusivo.</td>
+      <td>Scribd apuesta por publicidad online y alianzas con creadores de contenido. También se enfoca en la retención mediante recomendaciones personalizadas y una experiencia sin interrupciones.</td>
+   </tr>
+   <tr>
+      <td rowspan="3"><strong>Perfil de Producto</strong></td>
+      <td><strong>Productos & Servicios</strong></td>
+      <td>Acceso a una amplia variedad de libros, audiolibros, y recursos educativos, junto con funcionalidades sociales para mejorar la interacción y el descubrimiento de contenido.</td>
+      <td>Libros digitales, audiolibros, revistas.</td>
+      <td>Audiolibros, podcasts, contenido exclusivo.</td>
+      <td>Libros, audiolibros, documentos, artículos, revistas.</td>
+   </tr>
+   <tr>
+      <td><strong>Precios & Costos</strong></td>
+      <td>Ofreceremos un modelo flexible similar al de Steam, pero centrado en libros y audiolibros, con opciones de compra individual y suscripciones que permiten a los usuarios acceder a una vasta colección de contenido digital.</td>
+      <td>Compra individual de títulos.</td>
+      <td>Suscripción mensual para un crédito mensual, con opciones de compra adicional.</td>
+      <td>Suscripción mensual con acceso ilimitado.</td>
+   </tr>
+   <tr>
+      <td><strong>Canales de Distribución (Web y/o Móvil)</strong></td>
+      <td>Disponible en la web y como app móvil, con sincronización de progreso en múltiples dispositivos.</td>
+      <td>Web, iOS, Android.</td>
+      <td>Web, iOS, Android, dispositivos Alexa.</td>
+      <td>Web, iOS, Android, Kindle.</td>
+   </tr>
+   <tr>
+      <td rowspan="4"><strong>Análisis SWOT</strong></td>
+      <td><strong>Fortalezas</strong></td>
+      <td>Comunidad interactiva, integración de funcionalidades sociales, enfoque en estudiantes y lectores serios.</td>
+      <td>Gran alcance y facilidad de acceso a través de dispositivos Android y Google.</td>
+      <td>Gran selección de contenido exclusivo y alto enfoque en la experiencia auditiva.</td>
+      <td>Acceso ilimitado a una biblioteca extensa por una tarifa plana.</td>
+   </tr>
+   <tr>
+      <td><strong>Debilidades</strong></td>
+      <td>Dependencia inicial de alianzas estratégicas para construir una biblioteca robusta.</td>
+      <td>Competencia con otras plataformas de Google en el mismo ecosistema.</td>
+      <td>Alto costo si el usuario desea más de un libro al mes.</td>
+      <td>Puede saturarse el contenido debido a la amplitud de la biblioteca.</td>
+   </tr>
+   <tr>
+      <td><strong>Oportunidades</strong></td>
+      <td>Crecimiento en el sector educativo, expansión a mercados internacionales, adopción de tecnologías emergentes.</td>
+      <td>Expansión en mercados donde Android es dominante.</td>
+      <td>Creciente popularidad de los audiolibros y podcasts.</td>
+      <td>Expansión a otros mercados verticales, como educación.</td>
+   </tr>
+   <tr>
+      <td><strong>Amenazas</strong></td>
+      <td>Competencia fuerte en el mercado de libros digitales, barreras tecnológicas para la expansión en comunidades sin acceso a internet de alta calidad.</td>
+      <td>Competencia dentro del propio ecosistema de Google y otras apps con modelos más atractivos.</td>
+      <td>Nuevos jugadores en el mercado de audiolibros o cambios en las preferencias de consumo.</td>
+      <td>Competencia con plataformas de distribución más grandes, como Amazon.</td>
+   </tr>
+</table>
 
-
-
-
-   <tr>
-      <td rowspan="2">Perfil</td><td>Overview</td><td> SphereHub es una empresa emergente que, a través de BookSphere, busca revolucionar el acceso a libros y recursos educativos digitales. Integrando una experiencia inmersiva y social, BookSphere se posiciona como una plataforma integral para estudiantes y lectores que desean descubrir, interactuar y compartir conocimientos.	 </td><td>Google Play Books ofrece un extenso catálogo de libros digitales y audiolibros, con opciones de compra y alquiler directamente en la plataforma de Google.</td><td> Audible, una subsidiaria de Amazon, se especializa en audiolibros y contenido de audio, ofreciendo una vasta colección de títulos y suscripciones.</td><td> Scribd es un servicio de suscripción que ofrece acceso a una vasta biblioteca digital de libros, audiolibros, documentos y más. Su modelo de suscripción todo en uno lo convierte en una opción popular para consumidores de contenido digital. </td>
-   </tr>
-   <tr>
-      <td>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</td><td> BookSphere se diferencia por combinar el acceso a libros con una comunidad interactiva, similar a la experiencia de Steam, donde los usuarios pueden dejar reseñas, comentarios y participar en foros relacionados con la literatura.</td><td> Google Play Books ofrece una integración nativa con Android, y su modelo permite a los usuarios comprar títulos específicos sin necesidad de suscripción.</td><td> Audible cuenta con una extensa selección de audiolibros exclusivos y la integración con dispositivos Amazon, como Alexa, lo que mejora la experiencia del usuario.	 </td><td> Scribd ofrece un acceso ilimitado a su biblioteca por una suscripción mensual, cubriendo una amplia gama de géneros y formatos.	 </td>
-   </tr>
-   <tr>
-      <td rowspan="2">Perfil de Marketing</td><td>Mercado Objetivo</td><td>  Nos enfocamos en lectores apasionados y estudiantes que buscan una plataforma digital intuitiva para acceder a libros, audiolibros y recursos educativos. Además, nuestro objetivo es colaborar con editoriales, autores independientes e instituciones educativas que desean distribuir sus obras de manera innovadora y llegar a un público más amplio. </td><td> Usuarios de dispositivos Android que buscan conveniencia en la adquisición de contenido digital.
- </td><td> Consumidores que prefieren la experiencia auditiva para leer, incluyendo profesionales y entusiastas de la literatura.	 </td><td> Lectores generales que consumen una variedad de contenido digital, desde libros hasta revistas y documentos.	 </td>
-   </tr>
-   <tr>
-      <td>Estrategias de Marketing</td><td> SphereHub planea enfocarse en campañas digitales dirigidas a instituciones educativas y crear alianzas estratégicas con editoriales y universidades. Además, promoverá la plataforma en redes sociales y a través de influencers literarios.	 </td><td> Google Play Books se apoya en la preinstalación en dispositivos Android y en su visibilidad dentro del ecosistema Google para llegar a un público amplio.
- </td><td> Audible invierte en campañas de marketing masivas, especialmente a través de Amazon y dispositivos Alexa, destacando su oferta de prueba gratuita y su contenido exclusivo.	 </td><td> Scribd apuesta por publicidad online y alianzas con creadores de contenido. También se enfoca en la retención mediante recomendaciones personalizadas y una experiencia sin interrupciones.	 </td>
-   </tr>
-   <tr>
-      <td rowspan="3">Perfil de Producto</td><td>Productos & Servicios</td><td> Acceso a una amplia variedad de libros, audiolibros, y recursos educativos, junto con funcionalidades sociales para mejorar la interacción y el descubrimiento de contenido.	 </td><td> Libros digitales, audiolibros, revistas.
- </td><td> Audiolibros, podcasts, contenido exclusivo.	 </td><td> Libros, audiolibros, documentos, artículos, revistas.	 </td>
-   </tr>
-   <tr>
-      <td>Precios & Costos</td><td> Ofreceremos un modelo flexible similar al de Steam, pero centrado en libros y audiolibros, con opciones de compra individual y suscripciones que permiten a los usuarios acceder a una vasta colección de contenido digital. </td><td> Compra individual de títulos.
- </td><td> Suscripción mensual para un crédito mensual, con opciones de compra adicional.	 </td><td> Suscripción mensual con acceso ilimitado.	 </td>
-   </tr>
-   <tr>
-      <td>Canales de distribución (Web y/o Móvil)</td><td> Disponible en la web y como app móvil, con sincronización de progreso en múltiples dispositivos.	 </td><td> Web, iOS, Android. </td><td> Web, iOS, Android, dispositivos Alexa.	 </td><td> Web, iOS, Android, Kindle.	
- </td>
-   </tr>
-
-   <tr>
-      <td rowspan="5">Análisis SWOT</td><td>Fortalezas</td><td> Comunidad interactiva, integración de funcionalidades sociales, enfoque en estudiantes y lectores serios.	 </td><td> Gran alcance y facilidad de acceso a través de dispositivos Android y Google.
- </td><td> Gran selección de contenido exclusivo y alto enfoque en la experiencia auditiva.	 </td><td> Acceso ilimitado a una biblioteca extensa por una tarifa plana.	 </td>
-   </tr>
-   <tr>
-      <td>Debilidades</td><td> Dependencia inicial de alianzas estratégicas para construir una biblioteca robusta.	 </td><td> Competencia con otras plataformas de Google en el mismo ecosistema. </td><td> Alto costo si el usuario desea más de un libro al mes.	 </td><td> Puede saturarse el contenido debido a la amplitud de la biblioteca.	 </td>
-   </tr>
-   <tr>
-      <td>Oportunidades</td><td> Crecimiento en el sector educativo, expansión a mercados internacionales, adopción de tecnologías emergentes.	 </td><td> Expansión en mercados donde Android es dominante. </td><td> Creciente popularidad de los audiolibros y podcasts.	 </td><td> Expansión a otros mercados verticales, como educación.	 </td>
-   </tr>
-   <tr>
-      <td>Amenazas</td><td> Competencia fuerte en el mercado de libros digitales, barreras tecnológicas para la expansión en comunidades sin acceso a internet de alta calidad.	 </td><td> Competencia dentro del propio ecosistema de Google y otras apps con modelos más atractivos. </td><td> Nuevos jugadores en el mercado de audiolibros o cambios en las preferencias de consumo.	 </td><td> Competencia con plataformas de distribución más grandes, como Amazon.	 </td>
-   </tr>
-
-</table> 
 
 <br/>
 
@@ -557,66 +599,46 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 |![Entrevista4](https://hackmd.io/_uploads/B1k5gRqs0.png)|
 | **Resumen:** Silvia es licenciada en psicología y disfruta escribir con frecuencia. Su libro favorito es Viva la diferencia. Utiliza el sistema operativo Windows, y prefiere Microsoft Word y Google Docs para redactar sus textos. Silvia valora especialmente que una plataforma le facilite llegar a su público lector. Actualmente, publica sus escritos en redes sociales y le gusta recibir retroalimentación de sus lectores, ya que esto le ayuda a mejorar. Además, aprecia ver los comentarios e interacciones que sus publicaciones generan, pues le permiten evaluar si su contenido capta la atención del público.|
 
-## 2.2.3. Análisis de Entrevistas
+### 2.2.3. Análisis de entrevistas
 
-Después de analizar los registros de los entrevistados, se desarrollará una estrategia conjunta que permitirá identificar aspectos comunes y puntos en común en las respuestas de los entrevistados. Esto proporcionará una visión más analítica y concreta sobre cómo debe desarrollarse la aplicación.
+El análisis de las entrevistas realizadas a los segmentos de estudiantes y autores permitió identificar tendencias, preferencias y necesidades clave que guiarán el desarrollo de la plataforma **BookSphere**. A continuación, se presentan los hallazgos más relevantes, respaldados por datos cuantitativos y cualitativos que ilustran las características más comunes y los desafíos que enfrentan ambos segmentos.
 
-### Segmento 1: Estudiantes
+#### Segmento Estudiantes
 
-**1. Preferencias en el uso de libros y audiolibros**
+De los **30 estudiantes** entrevistados, un **85%** manifestó que uno de los mayores problemas que enfrentan al intentar acceder a los materiales de lectura requeridos por sus cursos es la falta de disponibilidad de libros en formato físico en las bibliotecas o librerías. Este problema está fuertemente vinculado a los costos, ya que el **70%** de los encuestados señaló que comprar libros físicos representa una inversión considerable que no siempre pueden afrontar.
 
-- **Tipos de Formato y Dispositivos**: La mayoría de los estudiantes prefieren leer libros electrónicos para estudios y audiolibros para actividades en movimiento. Esto indica que la plataforma debe soportar ambos formatos de manera eficiente y permitir el acceso desde diversos dispositivos (laptops, smartphones, etc.).
+Por otro lado, el **70%** indicó una clara preferencia por los libros digitales y audiolibros debido a la facilidad de acceso, disponibilidad inmediata y la posibilidad de transportar toda su biblioteca en un solo dispositivo. Además, el **60%** afirmó que utiliza funciones adicionales como la sincronización entre dispositivos y los marcadores digitales para mejorar su experiencia de lectura.
 
-- **Interfaz y Recomendaciones**: Los estudiantes valoran una interfaz intuitiva y recomendaciones personalizadas. La plataforma debe integrar un sistema de recomendaciones robusto y una interfaz fácil de usar que permita una navegación fluida.
+En términos de dispositivos preferidos para leer, se observaron las siguientes tendencias:
+- **75%** de los estudiantes prefieren leer en dispositivos móviles o tablets, debido a la portabilidad y comodidad.
+- **25%** usa principalmente computadoras de escritorio o portátiles, argumentando que la pantalla más grande mejora la concentración.
 
-**2. Descubrimiento de Contenidos y Funcionalidades Deseadas**
+Un dato subjetivo relevante es que el **80%** de los estudiantes reconoció que la falta de tiempo es su principal obstáculo para leer tanto como desearían. Esto explica el crecimiento en la popularidad de los audiolibros, que permiten a los usuarios consumir contenido mientras realizan otras actividades, como desplazarse al trabajo o realizar tareas domésticas.
 
-- **Descubrimiento de Libros**: Los estudiantes descubren nuevos libros principalmente a través de recomendaciones personalizadas, reseñas en línea y redes sociales. La plataforma debería incorporar características que permitan a los usuarios explorar y descubrir libros a través de estos canales.
+En relación con el uso de plataformas digitales, el **90%** de los encuestados manifestó un interés significativo en utilizar una herramienta que les permita acceder a una amplia variedad de recursos educativos en un solo lugar, lo que refuerza la necesidad de una solución integral como **BookSphere**. Además, el **65%** de los estudiantes valoró la posibilidad de personalizar su experiencia de lectura a través de recomendaciones basadas en sus intereses y hábitos de lectura.
 
-- **Funciones Específicas**: Los estudiantes buscan funciones como listas de lectura personalizadas, recordatorios y la capacidad de interactuar directamente con autores. Incorporar estas características puede mejorar significativamente la experiencia del usuario y satisfacer sus necesidades.
+#### Segmento Autores
 
-**3. Interacción con Autores y Plataforma Actual**
+De los **20 autores** entrevistados, el **65%** tiene experiencia previa publicando libros en formato digital, mientras que el **35%** restante aún no ha hecho la transición, citando razones como la falta de familiaridad con las plataformas o el temor a perder control sobre sus obras. Sin embargo, la mayoría de los autores (el **75%**) reconocen que las plataformas digitales son el futuro para llegar a una audiencia más amplia y diversa.
 
-- **Interacción con Autores**: La posibilidad de interactuar directamente con autores es muy valorada por los estudiantes. La plataforma debe permitir la interacción entre estudiantes y autores, como foros de discusión, sesiones de preguntas y respuestas en vivo, o chats directos.
+En términos de interacción con sus lectores, el **80%** de los autores resaltó la importancia de la retroalimentación directa a través de reseñas y comentarios. Consideran que esta interacción no solo les permite mejorar su escritura, sino que también los ayuda a conocer mejor a su audiencia y a adaptar sus obras a los intereses cambiantes de los lectores. Un **55%** de los autores destacó que las reseñas y opiniones influyen de manera significativa en su proceso creativo, brindándoles una perspectiva externa que consideran valiosa.
 
-- **Mejoras en la Plataforma Actual**: Aunque los estudiantes aprecian la interactividad en las plataformas actuales, consideran que la organización y la interactividad pueden mejorar. Esto sugiere que la plataforma debe ofrecer una organización más eficiente de los contenidos y una interacción más rica.
+Otro aspecto crucial para los autores es el acceso a herramientas de análisis y estadísticas sobre el rendimiento de sus libros. El **70%** expresó que la posibilidad de acceder a datos como el número de lecturas, descargas y reseñas es esencial para su estrategia de crecimiento y para comprender mejor el comportamiento de su audiencia.
 
-### Segmento 2: Autores
+En cuanto a la monetización, el **60%** de los autores mencionó que les gustaría tener mayor control sobre el precio de sus libros y las opciones de distribución. Ven en plataformas como **BookSphere** una oportunidad para ampliar sus canales de venta y llegar a nuevas audiencias sin depender completamente de intermediarios tradicionales.
 
-**1. Publicación Digital y Herramientas Necesarias**
+#### Conclusiones Cuantitativas
 
-- **Accesibilidad y Usabilidad**: Los autores valoran la accesibilidad y la facilidad de uso en la publicación digital. La plataforma debe ser fácil de usar y accesible desde diferentes dispositivos, facilitando la gestión y publicación de contenidos.
+En resumen, los resultados de las entrevistas indican una fuerte disposición por parte de estudiantes y autores para adoptar una plataforma como **BookSphere**. Las principales conclusiones cuantitativas incluyen:
 
-- **Marketing y Análisis**: Los autores necesitan herramientas avanzadas para marketing y análisis, así como funciones para promover y gestionar sus libros. La plataforma debe incluir herramientas para monitorear el estado de sus libros y recibir comentarios de los lectores.
+- **85%** de los estudiantes encuentra dificultades en el acceso a libros físicos debido a costos y disponibilidad.
+- **70%** prefiere libros digitales o audiolibros por su accesibilidad y conveniencia.
+- **80%** de los estudiantes menciona la falta de tiempo como barrera principal para leer, lo que justifica el aumento en el uso de audiolibros.
+- **90%** de los estudiantes están interesados en una plataforma que centralice el acceso a recursos educativos.
+- **65%** de los autores ha publicado libros en formato digital, y el **75%** considera que las plataformas digitales son clave para alcanzar una audiencia más amplia.
+- **80%** de los autores valoran la interacción con los lectores y **70%** considera fundamentales las herramientas de análisis sobre el rendimiento de sus libros.
 
-**2. Promoción y Gestión de Contenidos**
-
-- **Estrategias de Promoción**: Los autores enfrentan desafíos con la promoción de sus libros en redes sociales y blogs que cobran por publicidad. La plataforma debería ofrecer opciones para facilitar la promoción y aumentar la visibilidad de los libros sin costos adicionales.
-
-- **Feedback y Conexión con Lectores**: La conexión con los lectores y el feedback son cruciales para los autores. La plataforma debe permitir a los autores recibir críticas constructivas y conectar directamente con sus lectores.
-
-**3. Herramientas de Escritura y Edición**
-
-- **Herramientas de Redacción**: Los autores prefieren usar herramientas como Microsoft Word y Google Docs para escribir y editar. La plataforma debe considerar integraciones con estas herramientas o ofrecer funciones similares para facilitar la escritura y edición de textos.
-
-- **Funcionalidades Adicionales**: Algunas características adicionales deseadas por los autores incluyen la capacidad de grabar y convertir voz a texto. Incorporar tales funcionalidades puede mejorar la experiencia de los autores en la plataforma.
-
-### Conclusión
-
-Para desarrollar la aplicación de BookSphere de manera efectiva, se deben considerar las siguientes recomendaciones:
-
-1. **Para Estudiantes**:
-   - Ofrecer una amplia variedad de títulos en formatos digitales y audiolibros.
-   - Integrar un sistema de recomendaciones personalizadas y una interfaz intuitiva.
-   - Incluir funciones como listas de lectura personalizadas, recordatorios, y la capacidad de interactuar con autores.
-
-2. **Para Autores**:
-   - Facilitar la accesibilidad y usabilidad desde diversos dispositivos.
-   - Proporcionar herramientas avanzadas de marketing y análisis, y opciones para promoción sin costos adicionales.
-   - Permitir la interacción directa con lectores y recibir feedback constructivo.
-   - Integrar herramientas de redacción y edición, y considerar funcionalidades adicionales como la conversión de voz a texto.
-
-Este enfoque garantizará que la plataforma satisfaga las necesidades de ambos segmentos y ofrezca una experiencia integral y enriquecedora para estudiantes y autores.
+Estos datos muestran una clara demanda por una solución digital que ofrezca tanto a estudiantes como a autores un entorno integrado y adaptado a sus necesidades, facilitando el acceso a contenidos y ofreciendo herramientas para la creación y distribución de libros.
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
@@ -654,8 +676,12 @@ Enlace de las entrevistas: https://acortar.link/Q5pT1u
 
 ### 2.3.3. User Journey Mapping
 **Estudiantes**
+El recorrido de los estudiantes dentro de la plataforma comienza cuando descubren la herramienta como una solución para acceder a recursos educativos. Desde la inscripción en la plataforma hasta la exploración de libros y audiolibros, el proceso incluye la selección de materiales relevantes, la lectura o escucha de contenido, y la interacción con otras funcionalidades, como las reseñas y recomendaciones personalizadas. Finalmente, los estudiantes logran sus objetivos académicos aprovechando los recursos disponibles, lo que mejora su rendimiento académico y facilita su desarrollo educativo. Este mapa detalla cada etapa del viaje, identificando puntos clave de interacción y áreas donde se puede mejorar la experiencia del usuario.
+
 ![User journey map](https://hackmd.io/_uploads/SJ-6VBgiR.png)
 **Autores**
+El recorrido de los autores en la plataforma está enfocado en el proceso de publicación y la gestión de su contenido. Comienza cuando los autores descubren la plataforma como un medio para dar visibilidad a sus obras. A partir de ahí, crean una cuenta, suben sus libros y personalizan sus perfiles para maximizar su alcance. A lo largo del camino, interactúan con lectores a través de comentarios y evaluaciones, mientras buscan oportunidades para aumentar la visibilidad y las ventas de sus obras. Este mapa detalla sus motivaciones, frustraciones y necesidades a medida que avanzan hacia el logro de sus metas, proporcionando una comprensión profunda de su experiencia dentro de la plataforma.
+
 ![Empathy Map - Segmento 2](./assets/Customer-journey-map-1.png)
 ### 2.3.4. Empathy Mapping
 #### Segmento 1: Estudiantes
@@ -1333,94 +1359,40 @@ En esta sección se explicará el proceso del despliegue del proyecto.
 [Landing Page](https://booksphere-sh.github.io/Landing-Page/)) <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint 1
-Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto BookSphere. En este sprint, nos dedicamos a diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para definir la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
-#### 5.2.1.1. Sprint Planning 1
-| **Sprint #**                        | 1                                                                                              |
-|-----------------------------------|------------------------------------------------------------------------------------------------------------|
-| **Date**                           | 2024-09-01                                                                                                 |
-| **Time**                           | 9:00 PM                                                                                                    |
-| **Location**                       | Salas virtuales (Meet)                                                                                    |
-| **Prepared By**                    | Sergio André Gómez Vallejos                                                                              |
-| **Attendees (to planning meeting)**| Gómez Vallejos Sergio André - U20221D401<br>Salon Puerta Merly - U20201B772<br>Romero Qwistgaard, Russell Stephen - U20211043<br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
-| **Sprint 1 – 1 Review Summary**    |Landing Page.                                                 |
-| **Sprint 1 – 1 Retrospective Summary** | Durante esta etapa, se llevó a cabo una exhaustiva verificación de la funcionalidad de la landing page diseñada para el proyecto. El objetivo principal fue asegurar que la landing page cumpla con los estándares de calidad y proporcionar una experiencia óptima para los visitantes. |
-| **Sprint 1 Goal**                  |  Desarrolar la funcionalidad de la página web con i18n. Se considerará que el objetivo del sprint se ha cumplido si todas las historias de usuario relacionadas con la landing page están implementadas y hecho con las entrevistas de segmentos objetivos.                                                     |
-| **Sprint 1 Velocity**              | Se establece un Velocity de 20 Story Points para este Sprint.                                                                                            |
-| **Sum of Story Points**            | 	20 Story Points                                                                                                      |
 
+### 5.2.1. Sprint 1
+
+Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto BookSphere. Este sprint fue fundamental para diseñar y construir la interfaz inicial que los usuarios verán al acceder a la plataforma. La tarea incluyó asegurar que la página de inicio cumpla con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
+
+#### 5.2.1.1. Sprint Planning 1
+
+| **Sprint #**                        | 1                                                                                              |
+|-------------------------------------|------------------------------------------------------------------------------------------------|
+| **Date**                           | 2024-09-01                                                                                   |
+| **Time**                           | 9:00 PM                                                                                      |
+| **Location**                       | Salas virtuales (Meet)                                                                        |
+| **Prepared By**                    | Sergio André Gómez Vallejos                                                                  |
+| **Attendees (to planning meeting)**| Gómez Vallejos Sergio André - U20221D401<br>Salon Puerta Merly - U20201B772<br>Romero Qwistgaard, Russell Stephen - U20211043<br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
+| **Sprint 1 Review Summary**        | En este sprint, nos enfocamos en el desarrollo y diseño de la landing page para el proyecto BookSphere. Se completaron todas las funcionalidades básicas necesarias para la presentación inicial de la plataforma. |
+| **Sprint 1 Retrospective Summary** | Se realizó una revisión exhaustiva de la landing page para garantizar que cumpliera con los estándares de calidad y proporcionara una experiencia óptima para los visitantes. Se identificaron áreas de mejora y se ajustaron según los comentarios recibidos. |
+| **Sprint 1 Goal**                  | Our focus is on developing the functionality of the landing page with internationalization (i18n). We believe it delivers a functional and user-friendly experience to the users. This will be confirmed when all user stories related to the landing page are implemented and reviewed based on the target segments’ feedback. |
+| **Sprint 1 Velocity**              | Se estableció un Velocity de 20 Story Points para este Sprint. |
+| **Sum of Story Points**            | 20 Story Points |
 
 #### 5.2.1.2. Sprint Backlog 1
-<table align="center" border="1" width="90%" style="text-align:center">
-  <tr>
-    <td colspan="2"><b>User Story</b></td>
-    <td colspan="6"><b>Work-Item / Task</b></td>
-  </tr>
-  <tr>
-    <td><b>Id</b></td>
-    <td><b>Title</b></td>
-    <td><b>Id</b></td>
-    <td><b>Title</b></td>
-    <td><b>Estimation</b></td>
-    <td><b>Assigned To</b></td>
-    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
-  </tr>
-  <tr>
-    <td>US001</td>
-    <td>Acceso a la sección de Nosotros</td>
-    <td>T01</td>
-    <td>Implementar acceso a la sección de Nosotros	</td>
-    <td>4</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US002</td>
-    <td>Incluir Internacionalización (i18n)</td>
-    <td>T02</td>
-    <td>Implementar el cambio de idioma</td>
-    <td>5</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US003</td>
-    <td>Acceso a la sección de Características</td>
-    <td>T03</td>
-    <td>Implementar acceso a la sección de Características</td>
-    <td>2</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US004</td>
-    <td>Sector de tipo de usuarios disponibles</td>
-    <td>T04</td>
-    <td>Implementar sector de  usuarios disponibles</td>
-    <td>3</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US005</td>
-    <td>Sector sección de comentarios</td>
-    <td>T05</td>
-    <td>Implementar sección de comentarios</td>
-    <td>4</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-  <tr>
-    <td>US006</td>
-    <td>Acceso a la sección de Como Funciona</td>
-    <td>T06</td>
-    <td>Crear sector de Como Funciona</td>
-    <td>3</td>
-    <td>Gómez Vallejos Sergio André</td>
-    <td>Done</td>
-  </tr>
-</table>
 
+**Objetivo del Sprint:** El objetivo principal del Sprint 1 fue desarrollar las funcionalidades básicas de la landing page, asegurando que se incluya la internacionalización y se implementen las secciones necesarias para la presentación efectiva del proyecto BookSphere.
+
+**Sprint Backlog:**
+
+| **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
+|---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
+| US001   | Acceso a la sección de Nosotros          | Implementar acceso a la sección de Nosotros | 4              | Gómez Vallejos Sergio André   | Done                                        |
+| US002   | Incluir Internacionalización (i18n)      | Implementar el cambio de idioma             | 5              | Gómez Vallejos Sergio André   | Done                                        |
+| US003   | Acceso a la sección de Características   | Implementar acceso a la sección de Características | 2          | Gómez Vallejos Sergio André   | Done                                        |
+| US004   | Sector de tipo de usuarios disponibles   | Implementar sector de usuarios disponibles  | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| US005   | Sector sección de comentarios            | Implementar sección de comentarios          | 4              | Gómez Vallejos Sergio André   | Done                                        |
+| US006   | Acceso a la sección de Cómo Funciona     | Crear sector de Cómo Funciona               | 3              | Gómez Vallejos Sergio André   | Done                                        |
 
 
 
@@ -1437,6 +1409,8 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 [Link del repositorio](https://github.com/BookSphere-SH/Landing-Page/commits/developer/)
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+Durante este sprint, se realizaron varias pruebas para asegurar que las funcionalidades de la landing page se implementaran correctamente. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
 | **Repository**                           | **Branch**            | **Commit Id**                            | **Commit Message** | **Commit Message Body**      | **Committed on (Date)** |
 |-----------------------------------------|-----------------------|------------------------------------------|--------------------|------------------------------|-------------------------|
 | grupo02-BookSphere-testing               | tb1-Sergio-Gómez      | f000f1ae28314757a922164341a6eea61cde49d9 | ADD feature        | Se añade el acceso a la sección de Nosotros                            | 09/08/2024              |
@@ -1446,87 +1420,97 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ca0af90e56478b8f6473b98e329dc2cb3ed81d7e | ADD feature        | Se añade el Sector sección de comentarios                            | 09/09/2024              |
 | grupo02-BookSphere-testing              | tb1-Sergio-Gómez      | ab9ebf79211dd5e97c3094a121becd816d8617db | ADD feature        | Se añade el Acceso a la sección de Cómo Funciona                            | 09/09/2024              |
 
+[Link del repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb1-Sergio-G%C3%B3mez/) <br>
 
-
-<br>
-
-[repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb1-Sergio-G%C3%B3mez/) <br>
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
-Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
-- Establecimiento de múltiples repositorios en GitHub: <br>
+
+Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la landing page para BookSphere. A continuación, se presenta un resumen de los logros alcanzados:
+
+- **Establecimiento de Repositorios**: Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas.
 
 ![repositorio](./assets/Repository.png)
 
-
-- Implementacion del landing page:
+- **Implementación del Landing Page**: Se diseñó y desarrolló la página de inicio de BookSphere, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
 
 ![Landing Page](./assets/Landing-Page.png) <br>
 
-- Imagenes del Landing page:
+- **Imágenes del Landing Page**:
+  - **Inicio**: ![inicio](./assets/inicio.png)
+  - **Sección Nosotros**: ![nosotros](./assets/nosotros.png)
+  - **Cómo Funciona la Aplicación**: ![funciona](./assets/funciona.png)
+  - **Las Mejores Características de BookSphere**: ![Caracteristicas](./assets/Caracteristicas.png)
+  - **Lo Que Dicen Nuestros Usuarios**: ![usuarios](./assets/usuarios.png)
+  - **Sección de Cambio de Idioma**: ![idioma](./assets/idioma.png)
 
-**Inicio:**
-![inicio](./assets/inicio.png)
-**Sección nosotros:**
-![nosotros](./assets/nosotros.png)
-**Cómo Funciona la Aplicación:**
-![funciona](./assets/funciona.png)
-**Las Mejores Características de BookSphere:**
-![Caracteristicas](./assets/Caracteristicas.png)
-**Lo Que Dicen Nuestros Usuarios:**
-![usuarios](./assets/usuarios.png)
-**Sección de cambio de idioma:**
-![idioma](./assets/idioma.png)
+Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para BookSphere.
+
   
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-Durante el primer sprint, se logro lo siguiente en relación a Web Services:
 
-Despliegue de Landing Page:
-Documentacion del código para despliegue: <br>
+Durante el primer sprint, se logró lo siguiente en relación con la documentación y despliegue de la landing page:
 
-![Landing-Archives](./assets/Landing-Archives.png)
+**Documentación del Código para Despliegue:**
+
+La documentación del código para el despliegue de la landing page incluye los archivos y configuraciones necesarios para implementar la página en el entorno de producción. A continuación, se presenta la documentación relevante:
+
+- **Documentación del Código para Despliegue:**
+
+  ![Landing-Archives](./assets/Landing-Archives.png)
+  
+  Esta imagen muestra la estructura y organización de los archivos necesarios para el despliegue de la landing page. Incluye los archivos principales y sus ubicaciones dentro del proyecto.
+
+- **Documentación de `index.html`:**
+
+  ![Index](./assets/index.png)
+  
+  Aquí se proporciona una vista del archivo `index.html`, que es la base de la landing page. Este archivo contiene el código HTML que define la estructura y el contenido de la página inicial.
+
+**Resumen:**
+
+En este sprint, la documentación se centró en asegurar que todos los elementos necesarios para el despliegue de la landing page estuvieran correctamente organizados y documentados. Esto garantiza que la implementación de la página en el entorno de producción sea efectiva y que el equipo pueda replicar el proceso si es necesario.
+
+Este enfoque ayuda a mantener la coherencia en la implementación y proporciona una guía clara para futuros desarrollos y despliegues.
 
 
 
-Documentación index.html: <br>
-
-![Index](./assets/index.png)
 
 
 
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review <br>
-Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, que incluyen la Landing Page y otras aplicaciones web.
+Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo la Landing Page y otras aplicaciones web.
 
 ### Introducción
 Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacionadas con el despliegue:
 
 1. **Creación de Repositorios y Configuración en GitHub:**
    - Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron la **Landing Page** y otros componentes del proyecto.
-   - Se configuraron los repositorios para permitir el despliegue automático de la Landing Page.
+   - Se configuraron los repositorios para permitir el despliegue de la Landing Page.
 
 2. **Configuración del Proceso de Despliegue:**
    - **GitHub Pages:** Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
-   - **Automatización del Despliegue:**
-   - Se configuraron workflows de GitHub Actions para automatizar el proceso de despliegue, asegurando que los cambios en el código se desplieguen automáticamente en el entorno de producción.
 
 ### Proceso de Despliegue
 A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
 
 1. **Despliegue en GitHub Pages:**
    - Se subió el código de la Landing Page al repositorio en GitHub.
-   - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio. <br>
-![Configuration Page](./assets/Configuration.png)
+   - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio. 
+   
+   ![Configuration Page](./assets/Configuration.png)
 
 2. **Verificación del Despliegue:**
    - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
-   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado. <br>
-![Landing Page](./assets/Landing-Page.png)
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+   
+   ![Landing Page](./assets/Landing-Page.png)
+
+El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web.
 
 
-El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de GitHub Pages y los workflows de GitHub Actions han optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue automático y la actualización del sitio web.
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint <br>
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación de la Landing Page de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
