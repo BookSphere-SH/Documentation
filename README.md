@@ -37,6 +37,7 @@
 |-----------|-----------|-----------|-----------|
 | TB1| 03/09/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> Desarrollar el Capitulo IV <br> Implementar en el Capitulo V, User Stories, Product Backlog, Landing Page, Capitulo II |
 | TB1| 08/09/2024 | Russell Stephen Romero Qwistgaard | Lean UX <br> Análisis de entrevistas<br> To-Be Scenario Mapping <br> Web Applications User Flow Diagrams <br> Class Diagrams <br> Perfil de integrante <br> Registro de Entrevista |
+| TB1| 08/09/2024 | Pedro Jesús Nanfuñay Liza | Perfil de integrante <br> Segmentos Objetivos <br> Entrevista Segmento 1 <br> Análisis de entrevista <br> User Personas <br> Empathy Mapping <br> Class Dictionary <br> Landing Page UI Design <br> Web Applications UX/UI Design <br> Web Applications Wireflow Diagrams |
 | TP | Fila 2, Columna 2 | Fila 2, Columna 3 | Fila 2, Columna 4 |
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
