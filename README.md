@@ -486,7 +486,7 @@ Integración de la comunidad: BookSphere se centrará en fortalecer su component
 Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
 
 
-## 2.2.2. Registro de entrevistas
+## 2.2.1. Diseño de entrevistas
 ### 1. Segmento Objetivo: Estudiantes
 Nuestra plataforma, BookSphere, ha desarrollado una serie de preguntas orientadas a comprender las necesidades, experiencias y expectativas de los lectores particulares y estudiantes en relación con el acceso a libros y materiales educativos en formato digital. Sabemos que, para este segmento, la disponibilidad, el precio y la experiencia de usuario son factores clave para elegir una plataforma de lectura. Nuestro objetivo es identificar cómo BookSphere puede satisfacer estas necesidades ofreciendo una biblioteca digital completa, accesible y con funcionalidades avanzadas. Además, buscamos explorar qué características interactivas podrían enriquecer la experiencia del usuario y fomentar un entorno de aprendizaje dinámico. Con estas entrevistas, buscamos no solo validar nuestras hipótesis, sino también adaptar nuestra oferta para garantizar que los lectores encuentren en BookSphere un recurso valioso y conveniente.
     
@@ -593,46 +593,49 @@ BookSphere se enfoca en facilitar la distribución y acceso a materiales educati
 |![Entrevista4](https://hackmd.io/_uploads/B1k5gRqs0.png)|
 | **Resumen:** Silvia es licenciada en psicología y disfruta escribir con frecuencia. Su libro favorito es Viva la diferencia. Utiliza el sistema operativo Windows, y prefiere Microsoft Word y Google Docs para redactar sus textos. Silvia valora especialmente que una plataforma le facilite llegar a su público lector. Actualmente, publica sus escritos en redes sociales y le gusta recibir retroalimentación de sus lectores, ya que esto le ayuda a mejorar. Además, aprecia ver los comentarios e interacciones que sus publicaciones generan, pues le permiten evaluar si su contenido capta la atención del público.|
 
-### 2.2.3. Análisis de entrevistas
+### 2.2.3. Análisis de Entrevistas
 
-El análisis de las entrevistas realizadas a los segmentos de estudiantes y autores permitió identificar tendencias, preferencias y necesidades clave que guiarán el desarrollo de la plataforma **BookSphere**. A continuación, se presentan los hallazgos más relevantes, respaldados por datos cuantitativos y cualitativos que ilustran las características más comunes y los desafíos que enfrentan ambos segmentos.
+El análisis de las entrevistas realizadas a los segmentos de estudiantes y autores permitió identificar tendencias clave, preferencias y necesidades que guiarán el desarrollo de la plataforma **BookSphere**. Los hallazgos a continuación están respaldados por datos cuantitativos y cualitativos, reflejando las características y desafíos más comunes en ambos segmentos.
 
 #### Segmento Estudiantes
 
-De los **30 estudiantes** entrevistados, un **85%** manifestó que uno de los mayores problemas que enfrentan al intentar acceder a los materiales de lectura requeridos por sus cursos es la falta de disponibilidad de libros en formato físico en las bibliotecas o librerías. Este problema está fuertemente vinculado a los costos, ya que el **70%** de los encuestados señaló que comprar libros físicos representa una inversión considerable que no siempre pueden afrontar.
+De los estudiantes entrevistados, un **66%** indicó que uno de los principales obstáculos al intentar acceder a los materiales de lectura requeridos por sus cursos es la **falta de disponibilidad** de libros en formato físico, tanto en bibliotecas como en librerías. Además, el **66%** señaló que los costos de adquirir libros físicos representan una inversión que no siempre pueden afrontar.
 
-Por otro lado, el **70%** indicó una clara preferencia por los libros digitales y audiolibros debido a la facilidad de acceso, disponibilidad inmediata y la posibilidad de transportar toda su biblioteca en un solo dispositivo. Además, el **60%** afirmó que utiliza funciones adicionales como la sincronización entre dispositivos y los marcadores digitales para mejorar su experiencia de lectura.
+En cuanto a la **preferencia de formato**, el **100%** de los estudiantes opta por los **libros digitales** y **audiolibros** debido a su facilidad de acceso, disponibilidad inmediata y la posibilidad de transportar su biblioteca en un solo dispositivo. El **33%** de los encuestados manifestó utilizar funciones adicionales, como la **sincronización entre dispositivos** y los **marcadores digitales**, para mejorar su experiencia de lectura.
 
-En términos de dispositivos preferidos para leer, se observaron las siguientes tendencias:
-- **75%** de los estudiantes prefieren leer en dispositivos móviles o tablets, debido a la portabilidad y comodidad.
-- **25%** usa principalmente computadoras de escritorio o portátiles, argumentando que la pantalla más grande mejora la concentración.
+En términos de **dispositivos preferidos** para leer:
+- El **66%** prefiere leer en **dispositivos móviles** o **tablets** por su portabilidad y comodidad.
+- El **33%** utiliza principalmente **computadoras de escritorio** o **portátiles**, alegando que la pantalla más grande les ayuda a concentrarse mejor.
 
-Un dato subjetivo relevante es que el **80%** de los estudiantes reconoció que la falta de tiempo es su principal obstáculo para leer tanto como desearían. Esto explica el crecimiento en la popularidad de los audiolibros, que permiten a los usuarios consumir contenido mientras realizan otras actividades, como desplazarse al trabajo o realizar tareas domésticas.
+Además, el **66%** de los estudiantes afirmó que la **falta de tiempo** es el principal obstáculo para leer tanto como desearían. Este dato justifica el aumento en la popularidad de los **audiolibros**, que permiten a los usuarios consumir contenido mientras realizan otras actividades como desplazarse al trabajo o hacer tareas domésticas.
 
-En relación con el uso de plataformas digitales, el **90%** de los encuestados manifestó un interés significativo en utilizar una herramienta que les permita acceder a una amplia variedad de recursos educativos en un solo lugar, lo que refuerza la necesidad de una solución integral como **BookSphere**. Además, el **65%** de los estudiantes valoró la posibilidad de personalizar su experiencia de lectura a través de recomendaciones basadas en sus intereses y hábitos de lectura.
+En relación con el uso de **plataformas digitales**, el **100%** de los estudiantes expresó un interés significativo en utilizar una herramienta que centralice el acceso a diversos **recursos educativos** en un solo lugar, lo que refuerza la necesidad de una solución integral como **BookSphere**. Además, el **33%** valoró la posibilidad de **personalizar su experiencia** de lectura mediante recomendaciones basadas en sus intereses y hábitos de lectura.
 
 #### Segmento Autores
 
-De los **20 autores** entrevistados, el **65%** tiene experiencia previa publicando libros en formato digital, mientras que el **35%** restante aún no ha hecho la transición, citando razones como la falta de familiaridad con las plataformas o el temor a perder control sobre sus obras. Sin embargo, la mayoría de los autores (el **75%**) reconocen que las plataformas digitales son el futuro para llegar a una audiencia más amplia y diversa.
+De los autores entrevistados, el **33%** tiene experiencia previa en la publicación de libros en **formato digital**, mientras que el **33%** restante no ha hecho la transición debido a la falta de familiaridad con las plataformas o el temor a perder el control sobre sus obras. Sin embargo, el **100%** de los autores reconocen que las **plataformas digitales** son el futuro para llegar a una **audiencia más amplia** y diversa.
 
-En términos de interacción con sus lectores, el **80%** de los autores resaltó la importancia de la retroalimentación directa a través de reseñas y comentarios. Consideran que esta interacción no solo les permite mejorar su escritura, sino que también los ayuda a conocer mejor a su audiencia y a adaptar sus obras a los intereses cambiantes de los lectores. Un **55%** de los autores destacó que las reseñas y opiniones influyen de manera significativa en su proceso creativo, brindándoles una perspectiva externa que consideran valiosa.
+En cuanto a la interacción con los lectores, el **100%** de los autores subrayó la importancia de la **retroalimentación directa** mediante reseñas y comentarios. Consideran que este tipo de interacción les permite no solo mejorar su escritura, sino también conocer mejor a su audiencia y adaptar sus obras a los intereses cambiantes de los lectores. Un **33%** de los autores destacó que las reseñas y opiniones influyen significativamente en su **proceso creativo**, ya que les ofrecen una perspectiva externa valiosa.
 
-Otro aspecto crucial para los autores es el acceso a herramientas de análisis y estadísticas sobre el rendimiento de sus libros. El **70%** expresó que la posibilidad de acceder a datos como el número de lecturas, descargas y reseñas es esencial para su estrategia de crecimiento y para comprender mejor el comportamiento de su audiencia.
+Además, el **66%** de los autores considera cruciales las **herramientas de análisis** y estadísticas que les permiten conocer el rendimiento de sus libros, incluyendo datos como el número de lecturas, descargas y reseñas. Esta información es esencial para su **estrategia de crecimiento** y para comprender mejor el comportamiento de su audiencia.
 
-En cuanto a la monetización, el **60%** de los autores mencionó que les gustaría tener mayor control sobre el precio de sus libros y las opciones de distribución. Ven en plataformas como **BookSphere** una oportunidad para ampliar sus canales de venta y llegar a nuevas audiencias sin depender completamente de intermediarios tradicionales.
+En cuanto a la **monetización**, el **66%** de los autores desea tener mayor control sobre el **precio** de sus libros y las **opciones de distribución**. Ven en plataformas como **BookSphere** una oportunidad para ampliar sus canales de venta y llegar a nuevas audiencias sin depender completamente de intermediarios tradicionales.
 
 #### Conclusiones Cuantitativas
 
 En resumen, los resultados de las entrevistas indican una fuerte disposición por parte de estudiantes y autores para adoptar una plataforma como **BookSphere**. Las principales conclusiones cuantitativas incluyen:
 
-- **85%** de los estudiantes encuentra dificultades en el acceso a libros físicos debido a costos y disponibilidad.
-- **70%** prefiere libros digitales o audiolibros por su accesibilidad y conveniencia.
-- **80%** de los estudiantes menciona la falta de tiempo como barrera principal para leer, lo que justifica el aumento en el uso de audiolibros.
-- **90%** de los estudiantes están interesados en una plataforma que centralice el acceso a recursos educativos.
-- **65%** de los autores ha publicado libros en formato digital, y el **75%** considera que las plataformas digitales son clave para alcanzar una audiencia más amplia.
-- **80%** de los autores valoran la interacción con los lectores y **70%** considera fundamentales las herramientas de análisis sobre el rendimiento de sus libros.
+- **66%** de los estudiantes tiene dificultades para acceder a libros físicos debido a costos y disponibilidad.
+- **100%** prefiere libros digitales o audiolibros por su accesibilidad y conveniencia.
+- **66.6%** de los estudiantes mencionan la falta de tiempo como la barrera principal para leer, lo que justifica el crecimiento de los audiolibros.
+- **100%** de los estudiantes están interesados en una plataforma que centralice el acceso a recursos educativos.
+- **33%** de los autores ha publicado libros en formato digital, y **100%** considera que las plataformas digitales son clave para alcanzar una audiencia más amplia.
+- **100%** de los autores valoran la interacción con los lectores, y **66%** consideran fundamentales las herramientas de análisis sobre el rendimiento de sus libros.
 
 Estos datos muestran una clara demanda por una solución digital que ofrezca tanto a estudiantes como a autores un entorno integrado y adaptado a sus necesidades, facilitando el acceso a contenidos y ofreciendo herramientas para la creación y distribución de libros.
+
+
+
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
