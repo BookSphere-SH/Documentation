@@ -224,53 +224,45 @@ Nos esforzamos por proporcionar una plataforma que conecte a los lectores y estu
 |![Ronaldo](https://hackmd.io/_uploads/BJXwMC1sR.jpg)|Ronaldo Macedonio Fabian Puente - Ingeniería de Software - U20201b193<br>Me comprometo a desarrollar el trabajo en equipo hasta completar los objetivos planteados.|
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+### Antecedentes y problemática del producto
 
-#### Antecedentes
+**Descripción de la problemática:**
 
-###### **WHO?**
-Los **estudiantes** y **autores** son los grupos más afectados. Los estudiantes tienen dificultades para acceder a recursos educativos completos y accesibles, mientras que los autores luchan por encontrar plataformas efectivas para distribuir su trabajo y conectar con sus lectores.
+El proyecto se enfoca en el desarrollo de una plataforma digital integral para estudiantes y autores que enfrenten dificultades para acceder a recursos educativos completos o distribuir contenido literario de manera efectiva. El problema radica en la falta de una plataforma centralizada y accesible que combine una amplia gama de libros y recursos educativos con características interactivas. Actualmente, las soluciones existentes son fragmentadas y no ofrecen una experiencia personalizada que responda adecuadamente a las necesidades de los usuarios.
 
-###### **WHAT?**
-La **falta de una plataforma digital centralizada** que combine acceso a una amplia gama de libros y recursos educativos con características interactivas y personalizadas es el problema central. Las plataformas actuales son fragmentarias y no proporcionan una experiencia completa ni adecuada para los usuarios.
+**Objetivos:**
 
-###### **WHERE?**
-El problema es **global**, aunque es más agudo en regiones con infraestructura digital deficiente. En áreas con limitaciones tecnológicas y económicas, la falta de una plataforma integral agrava las desigualdades en el acceso a la educación y a los recursos literarios.
+El principal objetivo de esta plataforma es cubrir la necesidad de acceso fácil y asequible a recursos educativos y literarios, creando un espacio donde los usuarios puedan interactuar, acceder a una amplia gama de contenidos y personalizar su experiencia. A largo plazo, el objetivo general es convertir esta plataforma en una referencia dentro del sector educativo digital, siendo económicamente sostenible.
 
-###### **WHEN?**
-La problemática es crítica en el **contexto actual**, donde la digitalización está revolucionando la educación y la literatura. La creciente demanda de acceso flexible a materiales educativos y literarios hace que el momento presente sea crucial para abordar esta deficiencia.
+**Restricciones:**
 
-###### **WHY?**
-La **ausencia de una plataforma completa y centralizada** limita el acceso a recursos educativos y literarios, restringiendo el aprendizaje y desarrollo personal. Sin una plataforma adecuada, los usuarios enfrentan barreras significativas para acceder y utilizar el contenido de manera efectiva.
+Un desafío significativo es que el equipo desarrollador tiene experiencia limitada en la creación de plataformas educativas a gran escala, lo que podría ralentizar el proceso de desarrollo y afectar la calidad de los primeros entregables. Sin embargo, se pondrá el máximo esfuerzo para cumplir con los objetivos propuestos.
 
-###### **HOW?**
-Las **plataformas digitales existentes** están divididas y a menudo solo se enfocan en la venta de libros, sin ofrecer una experiencia integrada y completa. Esto resulta en una brecha que impide a los usuarios disfrutar de los beneficios de una solución digital unificada.
+---
 
-###### **HOW MUCH?**
-El **costo de la falta de una plataforma adecuada** se manifiesta en oportunidades educativas perdidas, tiempo desperdiciado buscando recursos dispersos y la carencia de una comunidad de apoyo para compartir y discutir conocimientos.
+### Herramienta 5W y 2H
 
-#### Problemática
+**What - ¿Cuál es el problema?**
+El problema identificado es la falta de una plataforma digital centralizada y accesible para estudiantes y autores. Las plataformas actuales son fragmentadas, lo que dificulta el acceso a recursos educativos y literarios completos.
 
-###### **WHO?**
-**Lectores** y **estudiantes** sufren las consecuencias de la falta de una plataforma adecuada. Encuentran barreras en el acceso a una amplia gama de recursos literarios y educativos debido a la disponibilidad limitada y los altos costos de libros físicos.
+**When - ¿Cuándo sucede el problema?**
+Este problema es más agudo en la actualidad, en un contexto donde la digitalización está revolucionando la educación y el acceso a contenido literario, lo que hace que el momento actual sea crucial para resolver esta deficiencia.
 
-###### **WHAT?**
-El problema es la **carencia de una plataforma digital accesible** que combine una extensa biblioteca con funcionalidades interactivas y una experiencia de usuario personalizada. Las plataformas actuales no satisfacen las necesidades de los usuarios de manera integral y efectiva.
+**Where - ¿Dónde surge el problema?**
+El problema tiene un alcance global, pero es más grave en regiones con infraestructura digital deficiente o limitaciones económicas y tecnológicas que restringen el acceso a estos recursos.
 
-###### **WHERE?**
-La necesidad de una solución es evidente **globalmente**, pero es más urgente en regiones donde el acceso a libros y recursos educativos es restringido por limitaciones económicas, geográficas o tecnológicas.
+**Who - ¿Quiénes son afectados por el problema?**
+Los principales afectados son los estudiantes, que tienen dificultades para acceder a recursos educativos, y los autores, que no encuentran plataformas efectivas para distribuir sus trabajos y conectar con sus lectores.
 
-###### **WHEN?**
-La problemática es especialmente relevante en el **actual momento**, con la digitalización transformando el acceso a la información y la educación. La falta de una plataforma adecuada exacerba las desigualdades en el acceso al conocimiento.
+**Why - ¿Cuál es la causa del problema?**
+La causa es la ausencia de una plataforma digital completa y accesible que combine recursos educativos y literarios con características interactivas y personalizadas, lo que perpetúa las barreras en el acceso a estos contenidos.
 
-###### **WHY?**
-La **insuficiencia de acceso** a recursos educativos y literarios limita las oportunidades de aprendizaje y crecimiento. La falta de una plataforma que combine funcionalidad y accesibilidad perpetúa la desconexión entre el contenido disponible y los usuarios.
+**How - ¿Cómo se llevan a cabo los hechos?**
+Las plataformas existentes están enfocadas principalmente en la venta de libros sin ofrecer una experiencia integrada o personalizada para los usuarios, lo que genera una brecha en el acceso a los recursos.
 
-###### **HOW?**
-Las **plataformas digitales actuales** están fragmentadas y no ofrecen una experiencia de usuario completa, enfocándose principalmente en la venta de libros. Esta fragmentación crea una brecha en la que los usuarios no pueden disfrutar de una solución digital integral.
+**How much - ¿Cuál es la magnitud del problema?**
+El impacto se manifiesta en oportunidades educativas perdidas y en la ineficiencia al buscar recursos dispersos, lo que también dificulta la creación de comunidades para compartir y discutir conocimientos.
 
-###### **HOW MUCH?**
-La **falta de una plataforma completa** conlleva costos significativos en términos de oportunidades educativas perdidas y tiempo invertido en buscar recursos, además de la ausencia de una comunidad para compartir y discutir conocimientos.
-**
 ### 1.2.2. Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
