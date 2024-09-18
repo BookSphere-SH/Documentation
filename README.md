@@ -242,25 +242,25 @@ Un desafío significativo es que el equipo desarrollador tiene experiencia limit
 
 ### Herramienta 5W y 2H
 
-**What - ¿Cuál es el problema?**
+**What - ¿Cuál es el problema?** <br>
 El problema identificado es la falta de una plataforma digital centralizada y accesible para estudiantes y autores. Las plataformas actuales son fragmentadas, lo que dificulta el acceso a recursos educativos y literarios completos.
 
-**When - ¿Cuándo sucede el problema?**
+**When - ¿Cuándo sucede el problema?** <br>
 Este problema es más agudo en la actualidad, en un contexto donde la digitalización está revolucionando la educación y el acceso a contenido literario, lo que hace que el momento actual sea crucial para resolver esta deficiencia.
 
-**Where - ¿Dónde surge el problema?**
+**Where - ¿Dónde surge el problema?** <br>
 El problema tiene un alcance global, pero es más grave en regiones con infraestructura digital deficiente o limitaciones económicas y tecnológicas que restringen el acceso a estos recursos.
 
-**Who - ¿Quiénes son afectados por el problema?**
+**Who - ¿Quiénes son afectados por el problema?** <br>
 Los principales afectados son los estudiantes, que tienen dificultades para acceder a recursos educativos, y los autores, que no encuentran plataformas efectivas para distribuir sus trabajos y conectar con sus lectores.
 
-**Why - ¿Cuál es la causa del problema?**
+**Why - ¿Cuál es la causa del problema?** <br>
 La causa es la ausencia de una plataforma digital completa y accesible que combine recursos educativos y literarios con características interactivas y personalizadas, lo que perpetúa las barreras en el acceso a estos contenidos.
 
-**How - ¿Cómo se llevan a cabo los hechos?**
+**How - ¿Cómo se llevan a cabo los hechos?** <br>
 Las plataformas existentes están enfocadas principalmente en la venta de libros sin ofrecer una experiencia integrada o personalizada para los usuarios, lo que genera una brecha en el acceso a los recursos.
 
-**How much - ¿Cuál es la magnitud del problema?**
+**How much - ¿Cuál es la magnitud del problema?** <br>
 El impacto se manifiesta en oportunidades educativas perdidas y en la ineficiencia al buscar recursos dispersos, lo que también dificulta la creación de comunidades para compartir y discutir conocimientos.
 
 ### 1.2.2. Lean UX Process
