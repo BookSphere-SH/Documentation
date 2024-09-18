@@ -1084,55 +1084,136 @@ Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra 
 
 ## 4.3. Landing Page UI Design
 ## 4.3.1. Landing Page Wireframe
-Tomando en cuenta las decisiones de diseño y arquitectura explicadas anteriormente, el landing page debe contener información necesaria que atrape a los usuarios y lo ayuden a decidir a descargar nuestra aplicación. Para ello, hemos decidido que el diseño del landing page sea atractivo para el usuario y contenga solo la información más importante, así como las características que ofrece y la opinión de los usuarios. Para ello realizaremos un wireframe que nos permitirá esbozar nuestras primeras ideas para la implementación del landing page. Esta contendrá la estructura que deseamos y el uso que le daremos a cada uno de los assets que hemos seleccionado. 
+Tomando en cuenta las decisiones de diseño y arquitectura explicadas anteriormente, el landing page debe contener información necesaria que atrape a los usuarios y lo ayuden a decidir a descargar nuestra aplicación. Para ello, hemos decidido que el diseño del landing page sea atractivo para el usuario y contenga solo la información más importante, así como las características que ofrece y la opinión de los usuarios. Para ello realizaremos wireframes que nos permitirá esbozar nuestras primeras ideas para la implementación del landing page en los dispositivos Desktop y Mobile. Esta contendrá la estructura que deseamos y el uso que le daremos a cada uno de los assets que hemos seleccionado. 
 ### Desktop Web Browser:
+Estructura del Landing Page en Desktop Web Browser.
 ### Wireframe de Inicio:
-Sección principal del landing page. Se ofrece una descripción inicial y opciones mediante un toolbar que permite al usuario desplazarse por el landing page.
+Sección principal del landing page. Se mostrará una descripción inicial y un menú de opciones.
 
-![Wireframe-Inicio](https://hackmd.io/_uploads/BkqG7co3A.png)
+![Wireframe-Inicio](https://hackmd.io/_uploads/BJN4w9d60.png)
 
-### Wireframe de Sobre Nosotros:
-Sección que mostrará datos estadísticos de la aplicación y los perfiles de los desarrolladores del equipo.
+### Wireframe de Experiencia:
+Sección que mostrará datos estadísticos respecto a la experiencia que han recibido los usuarios que han utilizado la aplicación y descripción de estas experiencias.
 
-![Wireframe-SobreNosotros](https://hackmd.io/_uploads/H15zXqj3C.png)
+![Wireframe-SobreNosotros](https://hackmd.io/_uploads/B1BNvqd6R.png)
 
-### Wireframe de Cómo funciona la app:
+### Wireframe de Cómo Funciona la Aplicación:
 Sección que mostrará información de cómo funciona la app en la parte izquierda. En la parte opuesta se utilizarán imágenes para ilustrar dichas funciones.
 
-![Wireframe-ComoFuncionaApp](https://hackmd.io/_uploads/Hk9fXqj3C.png)
+![Wireframe-ComoFuncionaApp](https://hackmd.io/_uploads/SkVVw9_60.png)
 
 ### Wireframe de Características:
 Sección que mostrará las principales características que presenta la app. Estas serán dividas por un icóno que las represente junto a un texto que permita entender a los usuarios el propósito de la función.
 
-![Wireframes-Caracteristicas](https://hackmd.io/_uploads/HJKzQqshC.png)
+![Wireframes-Caracteristicas](https://hackmd.io/_uploads/rkSNv9dpC.png)
 
 ### Wireframe de Usuarios:
 Sección que mostrará lo que piensan nuestros usuarios mediante una barra horizontal para el desplazo. Además, se mostrará información de la diferencia de usuarios dentro de la plataforma (Estudiante y Autor).
 
-![Wireframe-Usuarios](https://hackmd.io/_uploads/Bytz79oh0.png)
+![Wireframe-Usuarios](https://hackmd.io/_uploads/BkH4vc_TC.png)
 
 ### Wireframe de Descargar:
 Sección que muestra la estructura que mostrará las opciones de descarga de la aplicación y una sección final con la información de derechos de autor de la aplicación.
 
-![Wireframe-Descargar](https://hackmd.io/_uploads/r1Fz7qo2R.png)
+![Wireframe-Descargar](https://hackmd.io/_uploads/H1NVD9dTC.png)
+
+### Mobile Web Browser:
+Estructura del Landing Page en Mobile Web Browser.
+### Wireframe de Inicio:
+Sección principal del Landing Page. Se mostrará una descripción inicial y un ícono desplegable para el menú de opciones, permite el desplazamiento de la página.
+
+![Wireframe Mobile - Inicio](https://hackmd.io/_uploads/S1x44wqu6R.png)
+
+### Wireframe de Experiencia:
+Sección que mostrará datos estadísticos respecto a la experiencia que han recibido los usuarios que han utilizado la aplicación y descripción de estas experiencias.
+
+![Wireframe Mobile - Sobre Nosotros](https://hackmd.io/_uploads/S1eEVwc_pC.png)
+
+### Wireframe de Cómo funciona la app:
+Sección que mostrará información de cómo funciona la app en la parte izquierda. En la parte opuesta se utilizarán imágenes para ilustrar dichas funciones.
+
+![Wireframe Mobile - ComoFuncionaApp](https://hackmd.io/_uploads/BJrND9u6C.png)
+
+### Wireframe de Características:
+Sección que mostrará las principales características que presenta la app. Estas serán dividas por un icóno que las represente junto a un texto que permita entender a los usuarios el propósito de la función.
+
+![Wireframe Mobile - Características](https://hackmd.io/_uploads/rkSVDqu6R.png)
+
+### Wireframe de Usuarios:
+Sección que mostrará lo que piensan nuestros usuarios mediante una barra horizontal para el desplazo. Además, se mostrará información de la diferencia de usuarios dentro de la plataforma (Estudiante y Autor).
+
+![Wireframe Mobile - Usuarios](https://hackmd.io/_uploads/ByVVDc_aR.png)
+
+### Wireframe de Descargar:
+Sección que muestra la estructura que mostrará las opciones de descarga de la aplicación y una sección final con la información de derechos de autor de la aplicación.
+
+![Wireframe Mobile - Descargar](https://hackmd.io/_uploads/HkgSNwcua0.png)
 
 ## 4.3.2. Landing Page Mock-up
+Tomando en cuenta la estructura implementada en los Wireframes para ambos dispositivos, se realizará el diseño final del Landing Page siguiendo las restriciones propuestas y siguiendo los colores, tamaño de letra, tipo de letra, imágenes requeridos.
+### Desktop Web Browser:
+Diseño del Landing Page en Desktop Web Browser.
 ### Mock-up de Inicio:
-![Mockup-Inicio](https://hackmd.io/_uploads/SJbHe6i3A.png)
+Sección principal del landing page. Se ofrece un mensaje de bienvenida, una descripción inicial, opciones mediante un menú que permite al usuario desplazarse por el landing page y uso de íconos para las redes sociales de la aplicación.
 
-### Mock-up de Sobre Nosotros:
+![Mockup-Inicio](https://hackmd.io/_uploads/SyxB4w5OTC.png)
+
+### Mock-up de Experiencia:
+Sección que muestra datos estadísticos respecto a la experiencia que han recibido los usuarios que han utilizado la aplicación y descripción de las experiencias que obtendrán los usuarios al momento de utilizar la aplicación.
+
 ![Mockup-SobreNosotros](https://hackmd.io/_uploads/HkeBeai3C.png)
 
-### Mock-up de Cómo funciona la app:
+### Mock-up de Cómo Funciona la Aplicación:
+Sección que muestra información de cómo funciona la app estructurada en cuatro puntos acompañados por imágenes referentes a estos puntos.
+
 ![Mockup-ComoFuncionaApp](https://hackmd.io/_uploads/r1gHlpi2A.png)
 
 ### Mock-up de Características:
+Sección que muestra las principales características que presenta la aplicación, acompañados de íconos referenciales junto a su descripción.
+
 ![Mockup-Caracteristicas](https://hackmd.io/_uploads/BJ1SeashA.png)
 
 ### Mock-up de Usuarios:
+Sección que muestra las opiniones de nuestros usuarios que han utilizado nuestra aplicación, acompañado junto a su foto de perfil, nombre, tipo de usuario y descripción. Por otro lado, se muestra los tipos de usuarios disponibles que puede utilizar el usuario para lo que desee realizar dentro de la aplicación.
+
 ![Mockup-Usuarios](https://hackmd.io/_uploads/B1gHlTsh0.png)
 
 ### Mock-up de Descargar
+Sección que muestra mensaje de incentivo para que los usuarios se animen a descargar la aplicación, junto a botones que los llevará a descargar en las principales plataformas de descargas de apps (Google Play y App Store). Además, se muestra una sección con la información de correo electrónico y cuentas oficiales de redes sociales de la aplicación, de esta manera nos aseguramos de mantener una conexión más cercana con nuestros usuarios.
+
+![Mockup-Descargar](https://hackmd.io/_uploads/SkeBx6s20.png)
+
+
+### Mobile Web Browser:
+Diseño del Landing Page en Mobile Web Browser.
+### Mock-up de Inicio:
+Sección principal del landing page. Se ofrece un mensaje de bienvenida, una descripción inicial, opciones mediante un menú que permite al usuario desplazarse por el landing page y uso de íconos para las redes sociales de la aplicación.
+
+![Mockup Mobile - Inicio](https://hackmd.io/_uploads/SkBED5_6C.png)
+
+### Mock-up de Experiencia:
+Sección que muestra datos estadísticos respecto a la experiencia que han recibido los usuarios que han utilizado la aplicación y descripción de las experiencias que obtendrán los usuarios al momento de utilizar la aplicación.
+
+![Mockup Mobile - SobreNosotros](https://hackmd.io/_uploads/B1SEv9uaC.png)
+
+### Mock-up de Cómo Funciona la Aplicación:
+Sección que muestra información de cómo funciona la app estructurada en cuatro puntos acompañados por imágenes referentes a estos puntos.
+
+![Mockup Mobile - ComoFuncionaApp](https://hackmd.io/_uploads/SJB4w5dTR.png)
+
+### Mock-up de Características:
+Sección que muestra las principales características que presenta la aplicación, acompañados de íconos referenciales junto a su descripción.
+
+![Mockup-Caracteristicas](https://hackmd.io/_uploads/BJ1SeashA.png)
+
+### Mock-up de Usuarios:
+Sección que muestra las opiniones de nuestros usuarios que han utilizado nuestra aplicación, acompañado junto a su foto de perfil, nombre, tipo de usuario y descripción. Por otro lado, se muestra los tipos de usuarios disponibles que puede utilizar el usuario para lo que desee realizar dentro de la aplicación.
+
+![Mockup Mobile - Usuarios](https://hackmd.io/_uploads/BkNVD9up0.png)
+
+### Mock-up de Descargar
+Sección que muestra mensaje de incentivo para que los usuarios se animen a descargar la aplicación, junto a botones que los llevará a descargar en las principales plataformas de descargas de apps (Google Play y App Store). Además, se muestra una sección con la información de correo electrónico y cuentas oficiales de redes sociales de la aplicación, de esta manera nos aseguramos de mantener una conexión más cercana con nuestros usuarios.
+
 ![Mockup-Descargar](https://hackmd.io/_uploads/SkeBx6s20.png)
 
 ## 4.4. Web Applications UX/UI Design
