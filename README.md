@@ -871,7 +871,7 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 | Story 047 | Descargar la aplicación | Como visitante, quiero tener la opción de descargar la aplicación para empezar a utilizarla rápidamente después de registrarme. | Scenario 01: Descarga exitosa de la aplicación Given el visitante está en la Landing Page, When selecciona la opción de "Descargar la Aplicación", Then se le presenta la opción de elegir entre descargar desde la Google Play Store o la Apple App Store, y Then es dirigido a la tienda de aplicaciones correspondiente para descargar la aplicación de manera fácil y rápida. | Epic 9 |
 | Story 048 | Iniciar sesión o registrarse en la plataforma | Como visitante, quiero visualizar la opción de iniciar sesión o registrarse directamente desde la Landing Page para acceder rápidamente a mi cuenta o comenzar a usar la plataforma. | Scenario 01: Mostrar el formulario de inicio de sesión Given el visitante se encuentra en la parte superior de la Landing Page, When hace clic en "Iniciar Sesión", Then se mostrará el formulario de inicio de sesión. Scenario 02: Mostrar el formulario de registro Given el visitante se encuentra en la parte superior de la Landing Page, When hace clic en "Registrarse", Then se mostrará el formulario de registro.  | Epic 9 |
 | Story 049 | Visualizar la interfaz de la aplicación | Como visitante, quiero visualizar cómo se ve la aplicación en diferentes dispositivos para tener una idea clara de la experiencia de usuario que ofrecerá. | Scenario 01: Acceso exitoso a los pantallazos de la aplicación Given el visitante está en la Landing Page, When navega a la sección "Interfaz de la Aplicación", Then puede ver pantallazos de la aplicación en una laptop y un dispositivo móvil que muestran claramente su diseño.  | Epic 9 |
-
+URL de la herramienta: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 ## Historias Técnicas
 
 | Historias técnicas ID | Título | Descripción | Criterios de Aceptación |
@@ -919,19 +919,15 @@ El impact mapping es una técnica de planificación estratégica que visualiza c
 | 2         | Story 002                            | Inicio de Sesión	                  | Como usuario registrado, quiero iniciar sesión para acceder a mi cuenta y gestionar mis libros. | 2                |
 | 3         | Story 003                            | Cerrar Sesión	                  | Como usuario, quiero cerrar sesión para que esta no se quede abierta en el buscador. | 2                |
 | 4         | Story 004                            | Cambiar Idioma de la Interfaz       | Como usuario, quiero cambiar el idioma de la interfaz para utilizar la aplicación en mi idioma preferido. | 3                |
-| 5         | Story 005                            | Visualización de perfil       | Como usuario, deseo ingresar una foto de perfil para que las personas 
-tengan una representación mía. | 2                |
+| 5         | Story 005                            | Visualización de perfil       | Como usuario, deseo ingresar una foto de perfil para que las personas tengan una representación mía. | 2                |
 | 6         | Story 006                            | Cambio de foto   | Como usuario, quiero eliminar libros de mi biblioteca para mantenerla organizada y actualizada.| 2                |
-| 7         | Story 007                            | Cambio de Número Telefónico  |Como usuario, deseo cambiar mi número de teléfono o celular para que puedan contactarse
-conmigo. | 2                |
-| 8         | Story 008                            |Cambio de Correo Afiliado | Como usuario, deseo cambiar de correo afiliado a mi cuenta para que esta se encuentre
-vinculada al que más utilizo. | 3                |
-| 9         | Story 009                            | Cambio de nombre         | Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito
-correctamente.| 2            | 
+| 7         | Story 007                            | Cambio de Número Telefónico  |Como usuario, deseo cambiar mi número de teléfono o celular para que puedan contactarse conmigo. | 2                |
+| 8         | Story 008                            |Cambio de Correo Afiliado | Como usuario, deseo cambiar de correo afiliado a mi cuenta para que esta se encuentre vinculada al que más utilizo. | 3                |
+| 9         | Story 009                            | Cambio de nombre         | Como usuario, deseo cambiar mi nombre en mi perfil para que este se encuentre escrito correctamente.| 2            | 
 | 10        | Story 010                            |Gestionar Comentarios y Reseñas  | Como autor, quiero gestionar los comentarios y reseñas de mis libros para responder a los lectores y mejorar mi trabajo basado en sus opiniones. | 2                |
 | 11        | Story 011                            | Acceder a Estadísticas de Lectura      | Como autor, quiero acceder a estadísticas sobre la lectura de mis libros para analizar el rendimiento y entender mejor a mi audiencia. | 3                |
 | 12        | Story 012                            | Promocionar Libros en la Plataforma     | Como autor, quiero promocionar mis libros en la plataforma para aumentar su visibilidad y atraer a más lectores. | 3                |
-| 13        | Story 013                            | Gestionar Derechos de Autor            | Como autor, quiero gestionar los derechos de autor de mis libros para proteger mi trabajo y asegurar que se respete mi propiedad intelectual. | 3                |
+| 13        | Story 013                            | Gestionar Derechos de Autor            | Como autor, quiero gestionar los derechos de autor de mis libros para proteger mi trabajo y asegurar que se respete mi propiedad intelectual. | 3            |
 | 14        | Story 014                            | Publicar Libros Digitales              | Como autor, quiero publicar mis libros digitales en BookSphere para llegar a un público más amplio y compartir mi trabajo. | 2                |
 | 15        | Story 015                            | Actualizar Información del Libro       | Como autor, quiero actualizar la información de mis libros para asegurarme de que los detalles y el contenido estén siempre actualizados. | 2                |
 | 16        | Story 016                            | Acceder a Información sobre Tendencias | Como autor, quiero acceder a información sobre las tendencias de lectura para adaptar mis escritos a los intereses actuales del público. | 2                |
