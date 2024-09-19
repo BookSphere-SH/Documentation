@@ -631,7 +631,7 @@ En resumen, los resultados de las entrevistas indican una fuerte disposición po
 - **100%** de los estudiantes están interesados en una plataforma que centralice el acceso a recursos educativos.
 - **33%** de los autores ha publicado libros en formato digital, y **100%** considera que las plataformas digitales son clave para alcanzar una audiencia más amplia.
 - **100%** de los autores valoran la interacción con los lectores, y **66%** consideran fundamentales las herramientas de análisis sobre el rendimiento de sus libros.
-
+![image](https://hackmd.io/_uploads/ryr13W5p0.png)
 Estos datos muestran una clara demanda por una solución digital que ofrezca tanto a estudiantes como a autores un entorno integrado y adaptado a sus necesidades, facilitando el acceso a contenidos y ofreciendo herramientas para la creación y distribución de libros.
 
 
