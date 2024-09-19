@@ -851,7 +851,7 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 | US043           | Sector sección de comentarios         | Como usuario, quiero acceder a la sección de comentarios para leer y dejar opiniones sobre la plataforma.                                     | Scenario 1 <br> Given que estoy en la página principal, <br> When selecciono la opción "Comentarios", <br> Then debería ser redirigido a la sección correspondiente donde puedo leer y dejar comentarios. <br> <br>Scenario 2 <br> Given que la sección de comentarios tiene una gran cantidad de datos, <br> When selecciono la opción "Comentarios", <br> Then debería ver un mensaje de carga y esperar hasta que los comentarios se muestren. <br> <br> Scenario 3 <br> Given que la sección de comentarios no está disponible, <br> When selecciono la opción "Comentarios", <br> Then debería recibir un mensaje de error informando que la sección no está disponible en este momento. | Epic 9 |
 | US044           | Acceso a la sección de Como Funciona  | Como usuario, quiero entender cómo funciona la plataforma accediendo a la sección de Cómo Funciona.                                            | Scenario 1  <br> Given que estoy en la página principal, <br> When selecciono la opción "Cómo Funciona", <br> Then debería ser redirigido a la sección correspondiente con una explicación detallada sobre el funcionamiento de la plataforma. <br> <br> Scenario 2 <br> Given que la sección de "Cómo Funciona" está cargando lentamente, <br> When selecciono la opción "Cómo Funciona", <br> Then debería ver un mensaje de carga y esperar hasta que se muestre la explicación. <br> <br> Scenario 3 <br> Given que la sección de "Cómo Funciona" no está disponible, <br> When selecciono la opción "Cómo Funciona", <br> Then debería recibir un mensaje de error informando que la sección no está disponible en este momento. | Epic 9 |
 
-
+URL de la herramienta: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 
 ## Historias Técnicas
 
@@ -1535,7 +1535,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 | US005   | Sector sección de comentarios            | Implementar sección de comentarios          | 4              | Gómez Vallejos Sergio André   | Done                                        |
 | US006   | Acceso a la sección de Cómo Funciona     | Crear sector de Cómo Funciona               | 3              | Gómez Vallejos Sergio André   | Done                                        |
 
-
+Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
