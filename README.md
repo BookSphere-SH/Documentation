@@ -871,6 +871,9 @@ El proceso de modificar o agregar nuevas versiones de materiales digitales, incl
 | Story 047 | Descargar la aplicación | Como visitante, quiero tener la opción de descargar la aplicación para empezar a utilizarla rápidamente después de registrarme. | Scenario 01: Descarga exitosa de la aplicación Given el visitante está en la Landing Page, When selecciona la opción de "Descargar la Aplicación", Then se le presenta la opción de elegir entre descargar desde la Google Play Store o la Apple App Store, y Then es dirigido a la tienda de aplicaciones correspondiente para descargar la aplicación de manera fácil y rápida. | Epic 9 |
 | Story 048 | Iniciar sesión o registrarse en la plataforma | Como visitante, quiero visualizar la opción de iniciar sesión o registrarse directamente desde la Landing Page para acceder rápidamente a mi cuenta o comenzar a usar la plataforma. | Scenario 01: Mostrar el formulario de inicio de sesión Given el visitante se encuentra en la parte superior de la Landing Page, When hace clic en "Iniciar Sesión", Then se mostrará el formulario de inicio de sesión. Scenario 02: Mostrar el formulario de registro Given el visitante se encuentra en la parte superior de la Landing Page, When hace clic en "Registrarse", Then se mostrará el formulario de registro.  | Epic 9 |
 | Story 049 | Visualizar la interfaz de la aplicación | Como visitante, quiero visualizar cómo se ve la aplicación en diferentes dispositivos para tener una idea clara de la experiencia de usuario que ofrecerá. | Scenario 01: Acceso exitoso a los pantallazos de la aplicación Given el visitante está en la Landing Page, When navega a la sección "Interfaz de la Aplicación", Then puede ver pantallazos de la aplicación en una laptop y un dispositivo móvil que muestran claramente su diseño.  | Epic 9 |
+
+
+
 URL de la herramienta: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 ## Historias Técnicas
 
