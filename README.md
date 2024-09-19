@@ -689,13 +689,13 @@ El recorrido de los autores en la plataforma está enfocado en el proceso de pub
 ### 2.3.5. As-is Scenario Mapping
 
 ### Estudiantes
+![As-Is Scenario Mapping Lectores](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/main/As-is%20Scenario%20Mapping_Estudiante.jpg)
 
-
-![As-Is Scenario Mapping Lectores](https://hackmd.io/_uploads/H12ulhPi0.jpg)
+### Lectores Ocacionales
+![As-Is Scenario Mapping Lectores](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/main/As-is%20Scenario%20Mapping_Lectores%20Ocacionales.jpg)
 
 ### Autores
-    
-![As-Is Scenario Mapping Autores](https://hackmd.io/_uploads/B12_lhvjR.jpg)
+![As-Is Scenario Mapping Autores](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/main/As-is%20Scenario%20Mapping%20_Autores.jpg)
 
     
 
