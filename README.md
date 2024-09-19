@@ -1036,16 +1036,16 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 
 | Ícono  | Descripción |
 |------------|------------|
-| <img src="https://hackmd.io/_uploads/rJfKxfgn0.png" alt="Perfil" width="40"/>  | **Perfil:** En BookSphere, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de lectura o publicación y gestionar sus preferencias.  |
-| <img src="https://hackmd.io/_uploads/B1GKxMlnC.png" alt="Mensajes" width="40"/>  | **Mensajes:** Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.  |
-| <img src="https://hackmd.io/_uploads/B1GYgMg3R.png" alt="Biblioteca" width="40"/> | **Biblioteca:** Un ícono que permite a los usuarios acceder a su biblioteca personal donde pueden ver todos los libros y audiolibros que han adquirido o guardado.  |
-| <img src="https://hackmd.io/_uploads/H1lMYgzghA.png" alt="Buscar" width="40"/>    | **Buscar:** Un ícono para buscar libros, autores, o recursos específicos dentro de la plataforma. |
-| <img src="https://hackmd.io/_uploads/rkgfYxGeh0.png" alt="Reseñas" width="40"/>  | **Reseñas:** Un ícono para acceder a las reseñas que el usuario ha dejado o para ver las reseñas de otros usuarios sobre un libro específico.  |
-| <img src="https://hackmd.io/_uploads/BJzYgfeh0.png" alt="Descargas" width="40"/>  | **Descargas:** Un ícono que permita a los usuarios acceder a los libros o recursos descargados para su lectura o escucha offline. |
-| <img src="https://hackmd.io/_uploads/SkWzKxGl2A.png" alt="Configuración" width="40"/> | **Configuración:** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
-| <img src="https://hackmd.io/_uploads/r1zFxGl3A.png" alt="Favoritos" width="40"/> | **Favoritos:** Un ícono de corazón o estrella para que los usuarios puedan marcar libros o recursos como favoritos, permitiéndoles acceder a ellos fácilmente más tarde.  |
-| <img src="https://hackmd.io/_uploads/B1eMYlGenC.png" alt="Home" width="40"/> | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
-| <img src="https://hackmd.io/_uploads/SJGFgfenC.png" alt="Notificaciones" width="40"/>  | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma. |
+| <img src="https://hackmd.io/_uploads/rJfKxfgn0.png" alt="Perfil" width="60"/>  | **Perfil:** En BookSphere, el ícono de perfil permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de lectura o publicación y gestionar sus preferencias.  |
+| <img src="https://hackmd.io/_uploads/B1GKxMlnC.png" alt="Mensajes" width="60"/>  | **Mensajes:** Los usuarios lo usarán para comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.  |
+| <img src="https://hackmd.io/_uploads/B1GYgMg3R.png" alt="Biblioteca" width="60"/> | **Biblioteca:** Un ícono que permite a los usuarios acceder a su biblioteca personal donde pueden ver todos los libros y audiolibros que han adquirido o guardado.  |
+| <img src="https://hackmd.io/_uploads/H1lMYgzghA.png" alt="Buscar" width="60"/>    | **Buscar:** Un ícono para buscar libros, autores, o recursos específicos dentro de la plataforma. |
+| <img src="https://hackmd.io/_uploads/rkgfYxGeh0.png" alt="Reseñas" width="60"/>  | **Reseñas:** Un ícono para acceder a las reseñas que el usuario ha dejado o para ver las reseñas de otros usuarios sobre un libro específico.  |
+| <img src="https://hackmd.io/_uploads/BJzYgfeh0.png" alt="Descargas" width="60"/>  | **Descargas:** Un ícono que permita a los usuarios acceder a los libros o recursos descargados para su lectura o escucha offline. |
+| <img src="https://hackmd.io/_uploads/SkWzKxGl2A.png" alt="Configuración" width="60"/> | **Configuración:** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
+| <img src="https://hackmd.io/_uploads/r1zFxGl3A.png" alt="Favoritos" width="60"/> | **Favoritos:** Un ícono de corazón o estrella para que los usuarios puedan marcar libros o recursos como favoritos, permitiéndoles acceder a ellos fácilmente más tarde.  |
+| <img src="https://hackmd.io/_uploads/B1eMYlGenC.png" alt="Home" width="60"/> | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
+| <img src="https://hackmd.io/_uploads/SJGFgfenC.png" alt="Notificaciones" width="60"/>  | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma. |
 
 
 ### 4.2.3. SEO Tags and Meta TagS
