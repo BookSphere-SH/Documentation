@@ -1043,7 +1043,6 @@ A continuación, explicaremos en qué grupos de información se aplicaron los di
 | <img src="https://hackmd.io/_uploads/rkgfYxGeh0.png" alt="Reseñas" width="60"/>  | **Reseñas:** Un ícono para acceder a las reseñas que el usuario ha dejado o para ver las reseñas de otros usuarios sobre un libro específico.  |
 | <img src="https://hackmd.io/_uploads/BJzYgfeh0.png" alt="Descargas" width="60"/>  | **Descargas:** Un ícono que permita a los usuarios acceder a los libros o recursos descargados para su lectura o escucha offline. |
 | <img src="https://hackmd.io/_uploads/SkWzKxGl2A.png" alt="Configuración" width="60"/> | **Configuración:** Un ícono de engranaje que permita a los usuarios acceder a las opciones de configuración de su cuenta, como la gestión de preferencias de notificación o personalización del perfil. |
-| <img src="https://hackmd.io/_uploads/r1zFxGl3A.png" alt="Favoritos" width="60"/> | **Favoritos:** Un ícono de corazón o estrella para que los usuarios puedan marcar libros o recursos como favoritos, permitiéndoles acceder a ellos fácilmente más tarde.  |
 | <img src="https://hackmd.io/_uploads/B1eMYlGenC.png" alt="Home" width="60"/> | **Home:** Un ícono para llevar a los usuarios de vuelta a la pantalla de inicio o la página principal de la plataforma. Generalmente se representa con una casa o un edificio. |
 | <img src="https://hackmd.io/_uploads/SJGFgfenC.png" alt="Notificaciones" width="60"/>  | **Notificaciones:** Un ícono de campana que notifique a los usuarios sobre eventos importantes, actualizaciones, o interacciones dentro de la plataforma. |
 
@@ -1065,18 +1064,36 @@ c. Meta Author Tag: Ya que el nombre del proyecto es BookSphere, podríamos incl
 
 
 
-### 4.2.4. Searching Systems
-Vista previa de Buscar libros:
-![Mockup-SearchBook](https://hackmd.io/_uploads/SyRHfpi2R.png) <br>
+### 4.2.4 Searching Systems  
+A continuación, se mostrarán los sistemas de búsqueda implementados para ayudar a nuestros usuarios a encontrar lo que están buscando.
 
-![Mockup-Mobile](https://hackmd.io/_uploads/H14VVainR.png) <br>
+**Para el caso de Web Application:**  
 
-Para el Landing Page, los sistemas de búsqueda son estáticos, ya que la barra de navegación llevará a los usuarios a la sección en la que estén interesados. 
+**Segmento 1: Estudiantes**  
+- **Buscar libros:** Esta acción permitirá a los estudiantes buscar libros o audiolibros de su interés, filtrando por autor, título, género, y otros criterios relevantes.  
+- **Mi librería:** Los estudiantes podrán acceder a su biblioteca personal donde verán todos los libros y audiolibros que han adquirido o guardado. 
+**Segmento 2: Autores**  
+- **Publicar libro:** Esta función permitirá a los autores cargar su obra y ponerla a disposición de los lectores en la plataforma.  
+- **Ver comentarios:** Los autores podrán revisar los comentarios y reseñas que los lectores han dejado sobre sus libros para conocer las opiniones y retroalimentación.  
+**Ambos segmentos:**  
+- **Mensajes:** Permitirá a los usuarios comunicarse entre sí, tanto Autores como Lectores, o recibir notificaciones de novedades, recomendaciones personalizadas, o mensajes de la comunidad.
 
-### 4.2.5. Navigation Systems
-![Imagen ](https://hackmd.io/_uploads/HyX2-N2hR.jpg)
-![Imagen ](https://hackmd.io/_uploads/B186bE3nC.jpg)
-![Imagen de WhatsApp 2024-09-09 a las 03.24.19_a469f372](https://hackmd.io/_uploads/HknC-Vn30.jpg)
+---
+
+### 4.2.5 Navigation Systems  
+A continuación, se mostrarán los sistemas de navegación que le permitirán a nuestros usuarios moverse a través de las distintas piezas de contenido o información.  
+
+Como se mencionó anteriormente en el _Labeling Systems_, contamos con los siguientes "headings": **Store, Library, Community, Friends, y Language**.  
+
+Por otro lado, en el caso de la Web Application, se tendrá una barra de navegación lateral donde se encontrarán las secciones principales de la interfaz del usuario. Estas secciones se navegan de la siguiente forma:
+
+- **Home:** Sección a la cual se ingresa por defecto al momento de iniciar sesión, donde se muestran algunas noticias relevantes y opciones enfocadas a cada segmento objetivo.
+- **My profile:** Si el usuario desea editar su perfil, solo debe ingresar a esta sección que se encuentra en la barra de navegación lateral.
+- **News:** Si el usuario desea ver una noticia, solo debe ingresar a esta sección que se encuentra en la barra de navegación lateral, y una vez dentro, seleccionar la noticia de su interés.
+- **Configuration:** Si el usuario desea editar la configuración de la interfaz, solo debe ingresar a esta sección que se encuentra en la barra de navegación lateral y ajustar los cambios correspondientes.
+- **Reviews:** Si el autor desea revisar las reseñas que escriben sobre él, solo debe ingresar a esta sección que se encuentra en la barra de navegación lateral.
+
+---
 
 
 ## 4.3. Landing Page UI Design
