@@ -647,27 +647,58 @@ Estos datos muestran una clara demanda por una solución digital que ofrezca tan
 Enlace de las entrevistas: https://acortar.link/Q5pT1u
 ### 2.3.2. User Task Matrix
 
-
-| User Task                                       | Estudiantes (Frecuencia) | Estudiantes (Importancia) | Autores (Frecuencia) | Autores (Importancia) |
-|-------------------------------------------------|---------------------------|---------------------------|----------------------|-----------------------|
-| Explorar Colección de Libros                   | Always                    | High                      | Sometimes            | Medium                |
-| Buscar y Filtrar Libros                        | Always                    | High                      | Never                | Low                   |
-| Leer Reseñas y Calificaciones                  | Sometimes                 | Medium                    | Always               | High                  |
-| Leer Muestras de Libros                        | Always                    | High                      | Never                | Low                   |
-| Comprar o Descargar Libros                     | Always                    | High                      | Never                | Low                   |
-| Dejar Comentarios y Reseñas                    | Always                    | High                      | Never                | Low                   |
-| Participar en Discusiones sobre Libros         | Always                    | High                      | Never                | Low                   |
-| Seguir a Otros Usuarios                        | Sometimes                 | Medium                    | Sometimes            | Medium                |
-| Cargar Libros Digitales                        | Never                     | Low                       | Always               | High                  |
-| Actualizar Información del Libro               | Never                     | Low                       | Always               | High                  |
-| Gestionar Perfil y Obras Publicadas            | Sometimes                 | Low                       | Always               | High                  |
-| Acceder a Estadísticas de Lectura              | Sometimes                 | Low                       | Always               | High                  |
-| Colaborar en Proyectos Educativos              | Never                     | Low                       | Always               | High                  |
-| Gestionar Derechos y Licencias                 | Never                     | Low                       | Always               | High                  |
-| Verificación y Aprobación de Contenidos        | Never                     | Low                       | Always               | High                  |
+Segmentos Considerados: En la siguiente matriz se han identificado tres segmentos clave que utilizamos en nuestra  plataforma BookSphere:
+* Lectores Ocasionales: Personas que disfrutan de la lectura, pero no lo hacen de manera constante.
+* Estudiantes: Usuarios que buscan recursos educativos para complementar su aprendizaje.
+* Autores: Creadores que desean publicar y promocionar sus obras.
 
 
+**Segmento Objetivo: Estudiantes**
+“Buscar libros y recursos educativos” es una de las tareas más importantes, ya que los estudiantes necesitan acceder a materiales relevantes para su aprendizaje. Además, “Organizar y gestionar lecturas” es clave para mantener un seguimiento de sus estudios y tareas.
 
+| Tareas                                                   | Frecuencia     | Importancia |
+|----------------------------------------------------------|----------------|-------------|
+| Buscar libros y recursos educativos.                     | Siempre        | Alta        |
+| Preguntar a amigos o profesores por recomendaciones de libros. | A menudo       | Alta        |
+| Navegar en sitios web para comparar precios y disponibilidad. | A menudo       | Alta        |
+| Descargar o comprar libros en formato físico o digital.  | A menudo       | Alta        |
+| Organizar y gestionar lecturas en un cuaderno o aplicación. | A menudo       | Media       |
+| Participar en grupos de estudio o foros en línea.        | Ocasionalmente | Media       |
+| Crear resúmenes o notas de los libros leídos.            | A menudo       | Alta        |
+| Usar aplicaciones para seguir el progreso de lectura.    | A menudo       | Media       |
+| Asistir a talleres o cursos relacionados con sus áreas de estudio. | Ocasionalmente | Media       |
+
+
+**Segmento Objetivo: Autores**
+“Investigar editoriales y enviar propuestas” es crucial para que los autores puedan distribuir su obra. También es importante “Promocionar sus libros en redes sociales” para conectar con su audiencia.
+
+| Tareas                                                                  | Frecuencia     | Importancia |
+|-------------------------------------------------------------------------|----------------|-------------|
+| Investigar editoriales que acepten manuscritos y enviar propuestas.     | Siempre        | Alta        |
+| Crear un sitio web o blog para promocionar sus libros.                  | A menudo       | Alta        |
+| Participar en ferias de libros para conectar con lectores.              | Ocasionalmente | Media       |
+| Usar redes sociales para promocionar sus libros.                        | A menudo       | Alta        |
+| Recopilar feedback de los lectores a través de encuestas.               | A menudo       | Media       |
+| Publicar artículos o relatos cortos en blogs o revistas literarias.     | Ocasionalmente | Media       |
+| Crear un boletín informativo para mantener informados a sus seguidores. | Ocasionalmente | Media       |
+| Colaborar con otros autores en antologías o proyectos conjuntos.        | Ocasionalmente | Media       |
+
+
+
+**Segmento Objetivo: Lectores Casuales**
+“Explorar nuevos títulos en librerías y bibliotecas” es fundamental para descubrir libros de interés. También, “Leer reseñas de libros” es clave para tomar decisiones informadas sobre qué leer.
+
+| Tareas                                                         | Frecuencia     | Importancia |
+|----------------------------------------------------------------|----------------|-------------|
+| Explorar nuevos títulos en librerías y bibliotecas.            | Siempre        | Alta        |
+| Pedir recomendaciones a amigos y grupos de lectura.            | A menudo       | Alta        |
+| Leer reseñas de libros en sitios web o blogs.                  | A menudo       | Alta        |
+| Comprar libros en línea o en físico.                           | A menudo       | Alta        |
+| Participar en clubes de lectura locales.                       | Ocasionalmente | Media       |
+| Hacer una lista de libros leídos y por leer.                   | A menudo       | Alta        |
+| Compartir opiniones sobre libros en redes sociales.            | A menudo       | Media       |
+| Asistir a eventos literarios o presentaciones de libros.       | Ocasionalmente | Media       |
+| Usar aplicaciones para seguir recomendaciones personalizadas.  | A menudo       | Media       |
 
 
 
