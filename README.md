@@ -906,12 +906,12 @@ El impact mapping es una técnica de planificación estratégica que visualiza c
 
 ### Business Goal: 
  Que el 30% de estudiantes que encuentran el libro que buscaban lo compren
- ![Impact Map Estudiante (1)](https://hackmd.io/_uploads/HyeMUvPhC.png)
+ ![Estudiante](https://hackmd.io/_uploads/rJDm-N9pR.png)
  
 ### Business Goal:
  Captar la atención de los lectores para incentivarlos a comprar los libros
  
-![Impact Map to sell books (1)](https://hackmd.io/_uploads/Hy6YY6cjC.png)
+![Autor](https://hackmd.io/_uploads/BkLX-49aC.png)
 
 ## 3.4. Product Backlog
 
