@@ -1560,12 +1560,12 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 | **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
 |---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
-| US001   | Acceso a la sección de Nosotros          | Implementar acceso a la sección de Nosotros | 4              | Gómez Vallejos Sergio André   | Done                                        |
-| US002   | Incluir Internacionalización (i18n)      | Implementar el cambio de idioma             | 5              | Gómez Vallejos Sergio André   | Done                                        |
-| US003   | Acceso a la sección de Características   | Implementar acceso a la sección de Características | 2          | Gómez Vallejos Sergio André   | Done                                        |
-| US004   | Sector de tipo de usuarios disponibles   | Implementar sector de usuarios disponibles  | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| US005   | Sector sección de comentarios            | Implementar sección de comentarios          | 4              | Gómez Vallejos Sergio André   | Done                                        |
-| US006   | Acceso a la sección de Cómo Funciona     | Crear sector de Cómo Funciona               | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| US043   |Visualizar información sobre la plataforma          | Implementar la información de nuestro producto| 4              | Gómez Vallejos Sergio André   | Done                                        |
+| US044   | Acceder a información de contacto      | Implementar el acceso al contacto            | 5              | Gómez Vallejos Sergio André   | Done                                        |
+| US045   |Navegar por la sección de testimonios  | Implementar la sección de testimonios | 2          | Gómez Vallejos Sergio André   | Done                                        |
+| US046   | Entender cómo funciona la aplicación   | Implementar la sección de como funciona | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| US047   | Descargar la aplicación         | Implementar la sección para descargar      | 4              | Gómez Vallejos Sergio André   | Done                                        |
+| US049   |Visualizar la interfaz de la aplicación    | Crear la interfaz de nuestro producto            | 3              | Gómez Vallejos Sergio André   | Done                                        |
 
 Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 
