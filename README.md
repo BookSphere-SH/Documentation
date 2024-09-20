@@ -1283,7 +1283,7 @@ Sección que muestra información de cómo funciona la app estructurada en cuatr
 ### Mock-up de Características:
 Sección que muestra las principales características que presenta la aplicación, acompañados de íconos referenciales junto a su descripción.
 
-![Mockup-Caracteristicas](https://hackmd.io/_uploads/BJ1SeashA.png)
+![Mockup Mobile - Características](https://hackmd.io/_uploads/rkBVvcdpA.png)
 
 ### Mock-up de Usuarios:
 Sección que muestra las opiniones de nuestros usuarios que han utilizado nuestra aplicación, acompañado junto a su foto de perfil, nombre, tipo de usuario y descripción. Por otro lado, se muestra los tipos de usuarios disponibles que puede utilizar el usuario para lo que desee realizar dentro de la aplicación.
