@@ -1340,8 +1340,8 @@ Sección que muestra mensaje de incentivo para que los usuarios se animen a desc
 ### User Goal: User goal Ingresar a la pantalla principal de la aplicación:
 ![Wireflow-Login](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/User%20goal%20Ingresar%20a%20la%20aplicaci%C3%B3n.png)
 
-### User Flow: Descargas de libros de la librería de un usuario:
-![Wireflow-Library](https://hackmd.io/_uploads/SJ81fTjnR.png)
+### User Goal: Descargar libros de la librería de un usuario:
+![Wireflow-Library](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/User%20Goal%20Descargar%20Libro.png)
 
 ### User Flow: Buscar un libro en la librería de un usuario:
 ![Wireflow-SearchBook](https://hackmd.io/_uploads/H1IJzaohC.png)
