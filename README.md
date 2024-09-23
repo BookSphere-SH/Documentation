@@ -35,11 +35,11 @@
 
 | Entregables  | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1| 03/09/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> Desarrollar el Capitulo IV <br> Implementar en el Capitulo V, User Stories, Product Backlog, Landing Page, Capitulo II |
+| TB1| 03/09/2024 | Sergio André Gómez Vallejos | Implementación de contenido en el Student Outcome <br> Registrar las entrevistas<br> Desarrollo del Contenido II<br> Competidores<br> User Journey Mapping <br> Perfil de integrante <br> Desarrollar el Capitulo IV <br> Implementar en el Capitulo V, User Stories, Product Backlog, Landing Page, Capitulo II <br>  |
 | TB1| 08/09/2024 | Russell Stephen Romero Qwistgaard | Lean UX <br> Análisis de entrevistas<br> To-Be Scenario Mapping <br> Web Applications User Flow Diagrams <br> Class Diagrams <br> Perfil de integrante <br> Registro de Entrevista |
 | TB1| 08/09/2024 | Pedro Jesús Nanfuñay Liza | Perfil de integrante <br> Segmentos Objetivos <br> Entrevista Segmento 1 <br> Análisis de entrevista <br> User Personas <br> Empathy Mapping <br> Class Dictionary <br> Landing Page UI Design <br> Web Applications UX/UI Design <br> Web Applications Wireflow Diagrams |
 | TB1| 08/09/2024 | Merly Salon Puerta | Descripción de la StartUp <br> Antecedentes y problemática <br> Entrevista <br> Ubiquitous Language <br> User Stories <br> Impact Mapping <br> Information Architecture <br> Database diagram <br> Perfiles de integrantes del equipo |
-| TP | Fila 2, Columna 2 | Fila 2, Columna 3 | Fila 2, Columna 4 |
+| TP | 23/09/2024 | Sergio André Gómez Vallejos | Implementacion del Sprint 2 <br> Implementación del bounded context Store <br> Agregar en el repositorio una rama del boundend context|
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
 
@@ -1558,7 +1558,7 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 **Objetivo del Sprint:** El objetivo principal del Sprint 1 fue desarrollar las funcionalidades básicas de la landing page, asegurando que se incluya la internacionalización y se implementen las secciones necesarias para la presentación efectiva del proyecto BookSphere.
 
-**Sprint Backlog:**
+**Sprint Backlog 1 :**
 
 | **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
 |---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
@@ -1709,6 +1709,74 @@ A continuación, se presentan capturas de pantalla de los analíticos de colabor
 ![clones](./assets/clones.png)
 ![personas](./assets/personas.png)
 
+## 5.2.2 Sprint 2
+Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **primera aplicación web** del proyecto **BookSphere** utilizando **Angular**, además de mejorar la landing page previamente desarrollada. Este sprint fue fundamental para implementar las primeras funcionalidades de la aplicación, asegurando también la inclusión de la funcionalidad de **internacionalización (i18n)**.
+
+### 5.2.2.1.Sprint Planning 2
+
+| **Sprint #**                        | 1                                                                                              |
+|-------------------------------------|------------------------------------------------------------------------------------------------|
+| **Date**                           | 22/09/2024                                                                                     |
+| **Time**                           | 9:00 PM                                                                                        |
+| **Location**                       | Salas virtuales (Meet)                                                                         |
+| **Prepared By**                    | Sergio André Gómez Vallejos                                                                     |
+| **Attendees (to planning meeting)**| Gómez Vallejos Sergio André - U20221D401<br>Salon Puerta Merly - U20201B772<br>Romero Qwistgaard, Russell Stephen - U20211043<br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
+| **Sprint 1 Review Summary**        | En este sprint, nos centramos en el desarrollo de la **primera aplicación web** del proyecto **BookSphere**, junto con la mejora del landing page inicial. También implementamos **Angular con i18n** para garantizar una experiencia multilingüe desde el inicio. |
+| **Sprint 1 Retrospective Summary** | Se revisó el avance del proyecto, mejorando la estructura de la landing page y avanzando con la primera versión de la web app en **Angular**, con ajustes realizados según los comentarios del equipo. |
+| **Sprint 1 Goal**                  | Nuestro objetivo fue desarrollar la primera versión de la aplicación web y mejorar el landing page en Angular, garantizando que la funcionalidad y el diseño cumplieran con las expectativas, además de integrar **i18n**. |
+| **Sprint 1 Velocity**              | Se estableció un Velocity de 20 Story Points para este Sprint. |
+| **Sum of Story Points**            | 20 Story Points |
+
+### 5.2.2.2.Sprint Backlog 2
+
+| **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
+|---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
+| US022   |Buscar Libros | Implementar la información de nuestro producto| 3              | Gómez Vallejos Sergio André   | Done                                        |
+| US019   | Añadir Libros gratuitos a la Biblioteca  | Implementar el acceso al contacto            | 2              | Gómez Vallejos Sergio André   | Done                                        |
+| US020   |Añadir Libros pagos a la Biblioteca | Implementar la sección de testimonios | 2          | Gómez Vallejos Sergio André   | Done                                        |
+| TS003    | Buscar libros| Implementar la sección de como funciona | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| TS010    |Implementar Funcionalidad de Filtros en Búsqueda       | Implementar la sección para descargar      | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| TS004    |Agregar Libro a la Biblioteca | Crear la interfaz de nuestro producto            | 4              | Gómez Vallejos Sergio André   | Done                                        |
+| TS006     |Elimiminar libro de la biblioteca   | Crear la interfaz de nuestro producto            | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| TS014     |Crear la estructura básica del API  | Crear la interfaz de nuestro producto            | 5              | Gómez Vallejos Sergio André   | Done                                        |
+| TS017     |Implementar la búsqueda de libros   | Crear la interfaz de nuestro producto            | 3              | Gómez Vallejos Sergio André   | Done                                        |
+
+Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
+| Frontend-App   | Store-Books-Sergio-Gómez       | 8d8e45654347fa81c99654e26dc1d7b7433da9d7 | feat: funcion de añadir a la biblioteca     | Se añade la funcion de añadir libros a la biblioteca | 22/09/2024              |
+| Frontend-App   | Store-Books-Sergio-Gómez       | 8d8e45654347fa81c99654e26dc1d7b7433da9d7| feat: Selección de categoria     | Se añade las categorias para la busqueda | 22/09/2024              |
+| Frontend-App  | Store-Books-Sergio-Gómez       | - | feat: Add I18n     | Se implementa el cambio de idioma de español a ingles y viceversa en el web application         | 22/09/2024              |
+| Frontend-App  | Store-Books-Sergio-Gómez       | - | feat: funcion de pago aumentado    | Se implementó el cambio de pago según el formato | 22/09/2024              |
+
+[Link del repositorio](https://github.com/BookSphere-SH/Frontend-App/commits/Store-Books-Sergio-G%C3%B3mez/)
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Durante este sprint, se realizaron la implementación del Web Aplication. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+| **Repository**                           | **Branch**            | **Commit Id**                            | **Commit Message** | **Commit Message Body**      | **Committed on (Date)** |
+|-----------------------------------------|-----------------------|------------------------------------------|--------------------|------------------------------|-------------------------|
+| grupo02-BookSphere-testing               | tp1-Sergio-Gómez      | b95524655a5cc20dbc60b4eb4e494d0f346bc8c6 | ADD feature        | Se añade el buscador de libros en la biblioteca                         | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 475ee682a56b00fd51f661d667b741f4c82af99f | ADD feature        | Se incluye  añadir Libros pagos a la Biblioteca       | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 29caaf5ff6980b361cddd22455d80243d1361cd9 | ADD feature        | Se añade Libros gratuitos a la Biblioteca                      | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | a0292bba2043b4f823146b4b3415e031d3335095 | ADD feature        | Se crea la estructura básica del API                  | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | a64f4ee200e2192aa8c511cb64933220461592ad | ADD feature        | Se implementa Funcionalidad de Filtros en Búsqueda                       | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 4ae2569ac165258a0a694317cb2f60060d27e882 | ADD feature        | Se añade el de agregar libros a la biblioteca                          | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 8984efbd6bda4128ab0b2a9441e639c12e226600 | ADD feature        | Se Implementa la búsqueda de libros               | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 69c951045ce01fa690bfe00f90f53c941fb1374c | ADD feature        | Se elimina Libro de la Biblioteca                        | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 5816a2ac8b7a34f78969baf7273252ccd3b6d861 | ADD feature        | Se implementar el de Buscar Libros                     | 22/09/2024              |
+
+[Link del repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/) <br>
+
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
 ## Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
 
