@@ -1925,7 +1925,7 @@ A continuación, se presentan capturas de pantalla de los analíticos de colabor
 
 ![web Commint](./assets/1.png)
 ![Network](./assets/2.png)
-![commits-docu](./assets/6.png)
+
 ![commits](./assets/3.png)
 ![clones](./assets/4.png)
 ![personas](./assets/5.png)
@@ -1935,9 +1935,9 @@ A continuación, se presentan capturas de pantalla de los analíticos de colabor
 ## Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
 
-Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EZyAnwC2REVAu0bTvnx05TgBoyTQdTk6m7ZSoHa1Hlz9_Q?e=jMinTq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FSphereHub%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E16a10c50%2De6bd%2D4d55%2Da5a6%2D15431edd505f
 
-Video acerca del web aplication (bounded context Store): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EZSAkRuupuZChFKQAglBJloBVT-9hitgfrZaBoHfOHA9lg?e=Uy0pGl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video acerca del web aplication (bounded context Store): https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20de%20exposici%C3%B3n%20angular%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E66cf7c68%2Dc518%2D4a22%2D93b5%2D9849cee13691
 ## Conclusiones
 
 1. **Implementación Efectiva:** La landing page de BookSphere ha sido desarrollada con un enfoque en la experiencia del usuario, utilizando tecnologías modernas como HTML, CSS y JavaScript. La implementación del carrusel de imágenes y texto, junto con la sección de funcionalidades y planes disponibles, proporciona una interfaz intuitiva y atractiva.
@@ -1963,4 +1963,4 @@ Video acerca del web aplication (bounded context Store): https://upcedupe-my.sha
 |---------|---------|
 | LandingPage (Anexo A)    | https://booksphere-sh.github.io/Landing-Page/ |
 | Web Aplication (Anexo A)    | https://booksphere-e0ca5.web.app/store |
-| Video de entrevista (Anexo B)   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/ESGj4Ty30YpFnIJPoXcsOEoBkjgUeDwJY9UioIDpVb5NIg?e=NrI3gY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
+| Video de entrevista (Anexo B)   | https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FSphereHub%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb0762b5d%2D7ad3%2D4f87%2Db6c3%2Da1b84718b6d5 |
