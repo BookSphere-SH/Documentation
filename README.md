@@ -1745,6 +1745,11 @@ Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **pri
 | US032    |Reportar contenido inapropiado en una comunidad  | Implementación de Reporte de contenido inapropiado en una comunidad | 3  | Merly Salon Puerta  | In progress             |
 | US034    |Crear una comunidad       | Implementar Creación de comunidad         | 3            | Merly Salon Puerta          | In progress                                       |
 | US030    |Modificar visibilidad de mis interacciones | Implementar Modificar visibilidad de mis interacciones | 2  | Merly Salon Puerta    | In progress                              |
+| US010    |Gestionar Comentarios y Reseñas | Implementar sección de comentarios y reseñas de libros publicados por el autor | 3 | Pedro Jesús Nanfuñay Liza | To do |
+| US012    | Promocionar Libros en la Plataforma | Implementar promoción de libros para llegar a un público más amplio | 3 | Pedro Jesús Nanfuñay Liza | To do |
+| US014    |Publicar Libros Digitales | Implementar sección para publicar libros | 3 | Pedro Jesús Nanfuñay Liza | Done |
+| US015    |Actualizar Información del Libro | Implementación de edición de libro publicado por el autor | 2  | Pedro Jesús Nanfuñay Liza  | In progress |
+| US016    |Acceder a Información sobre Tendencias | Implementar acceso a tendencias dentro de la aplicación | 3 | Pedro Jesús Nanfuñay Liza | To do |
 
 
 Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
