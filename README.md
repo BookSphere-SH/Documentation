@@ -1894,7 +1894,7 @@ En esta sección se presentará un video explicativo sobre la landing page de Bo
 
 Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EZyAnwC2REVAu0bTvnx05TgBoyTQdTk6m7ZSoHa1Hlz9_Q?e=jMinTq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Video acerca del web aplication (bounded context Store): 
+Video acerca del web aplication (bounded context Store): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EZSAkRuupuZChFKQAglBJloBVT-9hitgfrZaBoHfOHA9lg?e=Uy0pGl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ## Conclusiones
 
 1. **Implementación Efectiva:** La landing page de BookSphere ha sido desarrollada con un enfoque en la experiencia del usuario, utilizando tecnologías modernas como HTML, CSS y JavaScript. La implementación del carrusel de imágenes y texto, junto con la sección de funcionalidades y planes disponibles, proporciona una interfaz intuitiva y atractiva.
