@@ -1792,7 +1792,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   - **Los detalles de los libros y comentarios**: ![Caracteristicas](./assets/comentarios.png)
   - **Metodo de pago**: ![usuarios](./assets/pago.png)
 
-Wweb Aplication desplegada url:
+Web Aplication desplegada url: https://booksphere-e0ca5.web.app/store
 
 Estos logros demuestran un avance notable en el diseño de una experiencia de usuario atractiva y funcional para la aplicación web de BookSphere.
 
