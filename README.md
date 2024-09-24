@@ -1837,18 +1837,22 @@ Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacio
    - Se configuraron los repositorios para el despliegue de cada bounded context.
 
 2. **Configuración del Proceso de Despliegue de Store:**
-   - **Netlify:** Se configuró Nerlify  para el despliegue del bounded contexto Store. Este servicio proporciona una manera sencilla de alojar el sitio web directamente.
+   - **Firebase:** Se configuró Firebase  para el despliegue del bounded contexto Store. Este servicio proporciona una manera sencilla de alojar el sitio web directamente.
 
 ### Proceso de Despliegue
 A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
 
-1. **Despliegue en Netlify:**
+1. **Despliegue en Firebase:**
    - Se subió el código del web aplication de Store al repositorio en GitHub.
-   - Se configuró Nerlify en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio. 
+   - Se configuró Firebase en el terminal del proyecto para poder deployarlo con los siquientes comandos:  
    
-   ![netlify-config](./assets/netlify-config.png)
+   ![firebase-config](./assets/firebase-config.png)
    
-2. **Despliegue del db.json:**
+   ![firebase-config](./assets/12.png)
+   
+   ![firebase-config](./assets/11.png)
+   
+3. **Despliegue del db.json:**
    - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
    
    ![myserver](./assets/myserver.png)
@@ -1861,12 +1865,12 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    
    ![Store-web](./assets/Store-web.png)
 
+URL del sitio web deplegada: https://booksphere-e0ca5.web.app/store
+El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de Firebase ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web del boundent context.
 
-El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de Netlify ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web del boundent context.
 
 
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint <br>
+#### 5.2.2.8. Team Collaboration Insights during Sprint <br>
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación del web aplication de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
 **Actividades de Implementación**
@@ -1874,7 +1878,7 @@ El equipo ha dividido las tareas de implementación del web aplication por bound
 
 - Diseño y programación para el web aplication.
 - Implementación de secciones clave como el encabezado, pie de página, y contenido principal.
-- Configuración de la integración continua y despliegue en Netlify.
+- Configuración de la integración continua y despliegue en Firebase.
 - Pruebas y ajustes finales para asegurar la calidad del producto.
 - Desarrollados por unos determinados User Stories de cada bounded context
 **Analíticos de Colaboración**
@@ -1922,4 +1926,5 @@ Video acerca del web aplication (bounded context Store): https://upcedupe-my.sha
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
 | LandingPage (Anexo A)    | https://booksphere-sh.github.io/Landing-Page/ |
+| Web Aplication (Anexo A)    | https://booksphere-e0ca5.web.app/store |
 | Video de entrevista (Anexo B)   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/ESGj4Ty30YpFnIJPoXcsOEoBkjgUeDwJY9UioIDpVb5NIg?e=NrI3gY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D  |
