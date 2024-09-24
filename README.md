@@ -1731,15 +1731,15 @@ Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **pri
 
 | **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
 |---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
-| US022   |Buscar Libros | Implementar la información de nuestro producto| 3              | Gómez Vallejos Sergio André   | Done                                        |
-| US019   | Añadir Libros gratuitos a la Biblioteca  | Implementar el acceso al contacto            | 2              | Gómez Vallejos Sergio André   | Done                                        |
-| US020   |Añadir Libros pagos a la Biblioteca | Implementar la sección de testimonios | 2          | Gómez Vallejos Sergio André   | Done                                        |
-| TS003    | Buscar libros| Implementar la sección de como funciona | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| TS010    |Implementar Funcionalidad de Filtros en Búsqueda       | Implementar la sección para descargar      | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| TS004    |Agregar Libro a la Biblioteca | Crear la interfaz de nuestro producto            | 4              | Gómez Vallejos Sergio André   | Done                                        |
-| TS006     |Elimiminar libro de la biblioteca   | Crear la interfaz de nuestro producto            | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| TS014     |Crear la estructura básica del API  | Crear la interfaz de nuestro producto            | 5              | Gómez Vallejos Sergio André   | Done                                        |
-| TS017     |Implementar la búsqueda de libros   | Crear la interfaz de nuestro producto            | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| US022   |Buscar Libros | Implementar la busqueda de libros | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| US019   | Añadir Libros gratuitos a la Biblioteca  | Implementar añadir libros gratis a la biblioteca         | 2              | Gómez Vallejos Sergio André   | Done                                  |
+| US020   |Añadir Libros pagos a la Biblioteca |  Implementar añadir libros de pagos a la biblioteca  | 2          | Gómez Vallejos Sergio André   | Done                                        |
+| TS003    | Buscar libros|Implementar la busqueda de libros  | 3              | Gómez Vallejos Sergio André   | Done                                        |
+| TS010    |Implementar Funcionalidad de Filtros en Búsqueda       | Implementar tecnica de los filtros de busqueda   | 3              | Gómez Vallejos Sergio André   | Done                          |
+| TS004    |Agregar Libro a la Biblioteca | Implementacion de agregación a biblioteca         | 4              | Gómez Vallejos Sergio André   | Done                                        |
+| TS006     |Elimiminar libro de la biblioteca   | Implementación de eliminar libro en la biblioteca         | 3              | Gómez Vallejos Sergio André   | Done                                     |
+| TS014     |Crear la estructura básica del API  | Creación de Api basica para el Web Application        | 5              | Gómez Vallejos Sergio André   | Done                                        |
+| TS017     |Implementar la búsqueda de libros   | Implementación tecnica de busqueda       | 3              | Gómez Vallejos Sergio André   | Done                                        |
 
 Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 
@@ -1748,8 +1748,9 @@ Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
 | Frontend-App   | Store-Books-Sergio-Gómez       | 8d8e45654347fa81c99654e26dc1d7b7433da9d7 | feat: funcion de añadir a la biblioteca     | Se añade la funcion de añadir libros a la biblioteca | 22/09/2024              |
 | Frontend-App   | Store-Books-Sergio-Gómez       | 8d8e45654347fa81c99654e26dc1d7b7433da9d7| feat: Selección de categoria     | Se añade las categorias para la busqueda | 22/09/2024              |
-| Frontend-App  | Store-Books-Sergio-Gómez       | - | feat: Add I18n     | Se implementa el cambio de idioma de español a ingles y viceversa en el web application         | 22/09/2024              |
-| Frontend-App  | Store-Books-Sergio-Gómez       | - | feat: funcion de pago aumentado    | Se implementó el cambio de pago según el formato | 22/09/2024              |
+| Frontend-App  | Store-Books-Sergio-Gómez  | 48ed54669032965ec78e0262977b672eb1cfe588 | feat: Add I18n  | Se implementa el cambio de idioma de español a ingles y viceversa en el web application  | 23/09/2024    |
+| Frontend-App  | Store-Books-Sergio-Gómez  | 01f1b8be5d25f8a9abd945cefb965bd11c36b58b| feat: Funcion de pago de agregación de libros   | Se implementó el cambio de pago según el formato |23/09/2024  |
+| Frontend-App  | Store-Books-Sergio-Gómez       |01f1b8be5d25f8a9abd945cefb965bd11c36b58b | feat: Total a pagar  | Se implementó el cambio de pago según el formato | 23/09/2024              |
 
 [Link del repositorio](https://github.com/BookSphere-SH/Frontend-App/commits/Store-Books-Sergio-G%C3%B3mez/)
 
@@ -1772,15 +1773,128 @@ Durante este sprint, se realizaron la implementación del Web Aplication. A cont
 
 [Link del repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/) <br>
 
+#### 5.2.2.5. Execution Evidence for Sprint Review
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la App Application. A continuación, se presenta un resumen de los logros alcanzados:
+
+- **Establecimiento de Repositorios**: Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas.
+
+![repositorio](./assets/front-app.png)
+
+- **Implementación del Web Application**: Se diseñó y desarrolló el sitio de web de la tienda de BookSphere, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
+
+![Landing Page](./assets/store-bd.png) <br>
+
+- **Imágenes del Landing Page**:
+  - **Tienda**: ![store-bd](./assets/store-bd.png)
+  - **La libreria**: ![library](./assets/library.png)
+  - **El carrito de compras**: ![carrito](./assets/carrito.png)
+  - **Los detalles de los libros y comentarios**: ![Caracteristicas](./assets/comentarios.png)
+  - **Metodo de pago**: ![usuarios](./assets/pago.png)
+
+
+Estos logros demuestran un avance notable en el diseño de una experiencia de usuario atractiva y funcional para la aplicación web de BookSphere.
+
+  
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante el segundo sprint, se logró lo siguiente en relación con la documentación y despliegue del web aplication:
+
+**Documentación del Código para Despliegue:**
+
+La documentación del código para el despliegue del web aplication incluye los archivos y configuraciones necesarios para implementar el sitio web. A continuación, se presenta la documentación relevante:
+
+- **Documentación del Código para Despliegue:**
+
+  ![store-bd](./assets/store-bd.png)
+  
+  Esta imagen muestra la estructura y organización de los archivos necesarios para el despliegue del web aplication. Incluye los archivos principales y sus ubicaciones dentro del proyecto.
+
+- **Documentación de `app.component.ts`:**
+
+  ![component](./assets/app-component.png)
+  
+  Aquí se proporciona una vista del archivo `app.component.ts`, que es la base del web aplication. 
+
+**Resumen:**
+
+En este sprint, la documentación se centró en asegurar que todos los elementos necesarios para el despliegue del web aplication estuvieran correctamente organizados y documentados. Esto garantiza que la implementación del sition web en el entorno de producción sea efectiva y que el equipo pueda replicar el proceso si es necesario.
+
+Este enfoque ayuda a mantener la coherencia en la implementación y proporciona una guía clara para futuros desarrollos y despliegues.
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo las web aplication y el despliegue fake del db.json
+
+### Introducción
+### Bounded Context Store (Sergio André Gómez Vallejos)
+Durante este Sprint, se llevaron a cabo las siguientes actividades clave relacionadas con el despliegue:
+
+1. **Creación de Repositorios y Configuración en GitHub:**
+   - Se crearon repositorios en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron ramas de cada integrante, correspondidos con sus bounded context.
+   - Se configuraron los repositorios para el despliegue de cada bounded context.
+
+2. **Configuración del Proceso de Despliegue de Store:**
+   - **Netlify:** Se configuró Nerlify  para el despliegue del bounded contexto Store. Este servicio proporciona una manera sencilla de alojar el sitio web directamente.
+
+### Proceso de Despliegue
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
+
+1. **Despliegue en Netlify:**
+   - Se subió el código del web aplication de Store al repositorio en GitHub.
+   - Se configuró Nerlify en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio. 
+   
+   ![netlify-config](./assets/netlify-config.png)
+   
+2. **Despliegue del db.json:**
+   - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
+   
+   ![myserver](./assets/myserver.png)
+
+3. **Verificación del Despliegue:**
+   - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+   
+   ![Store-web](./assets/Store-web.png)
+
+
+El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de Netlify ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web del boundent context.
+
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint <br>
+Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación del web aplication de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
+
+**Actividades de Implementación**
+El equipo ha dividido las tareas de implementación del web aplication por bounded context, asegurando que todos los miembros del equipo hagan un bounded context desarrollando activamente en el sitio web. Las actividades incluyen:
+
+- Diseño y programación para el web aplication.
+- Implementación de secciones clave como el encabezado, pie de página, y contenido principal.
+- Configuración de la integración continua y despliegue en Netlify.
+- Pruebas y ajustes finales para asegurar la calidad del producto.
+- Desarrollados por unos determinados User Stories de cada bounded context
+**Analíticos de Colaboración**
+A continuación, se presentan capturas de pantalla de los analíticos de colaboración en GitHub, mostrando la participación de cada miembro del equipo en términos de commits y contribuciones.
+
+**Captura de Analíticos de Colaboración en GitHub**
+-En el repositorio de la Landing Page
+
+![web Commint](./assets/1.png)
+![Network](./assets/2.png)
+![commits-docu](./assets/6.png)
+![commits](./assets/3.png)
+![clones](./assets/4.png)
+![personas](./assets/5.png)
+
+
+
 ## Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
 
 Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d401_upc_edu_pe/EZyAnwC2REVAu0bTvnx05TgBoyTQdTk6m7ZSoHa1Hlz9_Q?e=jMinTq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video acerca del web aplication (bounded context Store): 
 ## Conclusiones
 
 1. **Implementación Efectiva:** La landing page de BookSphere ha sido desarrollada con un enfoque en la experiencia del usuario, utilizando tecnologías modernas como HTML, CSS y JavaScript. La implementación del carrusel de imágenes y texto, junto con la sección de funcionalidades y planes disponibles, proporciona una interfaz intuitiva y atractiva.
