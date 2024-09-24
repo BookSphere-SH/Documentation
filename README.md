@@ -1832,7 +1832,26 @@ La documentación del código para el despliegue del web aplication incluye los 
 
   ![component](./assets/app-component.png)
   
-  Aquí se proporciona una vista del archivo `app.component.ts`, que es la base del web aplication. 
+  Aquí se proporciona una vista del archivo `app.component.ts`, que es la base del web aplication.
+
+  <br>
+**Documentación del Código para Despliegue de Author Frontend:**
+
+La documentación del código para el despliegue del web author aplication incluye los archivos y configuraciones necesarios para implementar el sitio web. A continuación, se presenta la documentación relevante:
+
+- **Documentación del Código para Despliegue:**
+
+  ![Store](https://hackmd.io/_uploads/B19kmte0R.png)
+
+  ![Publish-Book](https://hackmd.io/_uploads/ryrZ1Ke00.png)
+  
+  Se muestra la estructura y organización principal de la página y la sección de publicación de libros por parte del autor.
+
+- **Documentación de `publish-book.component.ts`:**
+
+  ![publish-book-component](https://hackmd.io/_uploads/r1YomtxCR.png)
+  
+  Aquí se proporciona una vista del archivo `publish-book.component.ts`, base de la página de publicación de libros. 
 
 **Resumen:**
 
