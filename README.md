@@ -1805,8 +1805,11 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   - **El carrito de compras**: ![carrito](./assets/carrito.png)
   - **Los detalles de los libros y comentarios**: ![Caracteristicas](./assets/comentarios.png)
   - **Metodo de pago**: ![usuarios](./assets/pago.png)
+  - **Publicar libro**: ![Publish-Book](https://hackmd.io/_uploads/ryrZ1Ke00.png)
 
 Web Aplication desplegada url: https://booksphere-e0ca5.web.app/store
+<br>
+Web Author Applicaton desplegada url: https://frontend-author-booksphere.web.app/store/store-books
 
 Estos logros demuestran un avance notable en el diseño de una experiencia de usuario atractiva y funcional para la aplicación web de BookSphere.
 
