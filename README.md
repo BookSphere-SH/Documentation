@@ -1936,10 +1936,34 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    ![Despliegue JSON](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Despliegue%20JSON.png)
 
 
+### Bounded Context Author (Pedro Jesús Nanfuñay Liza)
+Durante este Sprint, se llevaron a cabo las siguientes actividades para el despliegue de la página web:
 
+1. **Creación de rama en el repositorio y configuración en GitHub:**
+   - Se creó una rama (Author-Pedro-Nanfuñay) en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron ramas de cada integrante, correspondidos con sus bounded context.
+   - Se configuraron los repositorios para el despliegue de cada bounded context.
 
+2. **Configuración del Proceso de Despliegue de Author:**
+   - **Github:** Se ubicó el archivo JSON en la rama principal del proyecto, que posteriormente fue subido a un repositorio en Github y se desplegó el db.JSON.
+   - **Firebase:** Se configuró Firebase para el despliegue del bounded context Author. Este servicio proporciona una manera sencilla de alojar el sitio web directamente.
 
+### Proceso de Despliegue
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
 
+1. **Despliegue en Firebase:**
+   - Se subió el código del web aplication de Store al repositorio en GitHub.
+   - Se creó un proyecto en Firebase:
+   - Se configuró Firebase en el terminal del proyecto para poder deployarlo con los siquientes comandos:  
+   
+3. **Despliegue del db.json:**
+   - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
+   
+   URL DE myserverjson: https://my-json-server.typicode.com/PedroJ18/frontend-author-booksphere
+  
+4. **Verificación del Despliegue:**
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+
+   
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint <br>
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación del web aplication de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
