@@ -1786,7 +1786,7 @@ Durante este sprint, se realizaron la implementación del Web Aplication. A cont
 | grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 69c951045ce01fa690bfe00f90f53c941fb1374c | ADD feature        | Se elimina Libro de la Biblioteca                        | 22/09/2024              |
 | grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 5816a2ac8b7a34f78969baf7273252ccd3b6d861 | ADD feature        | Se implementar el de Buscar Libros                     | 22/09/2024              |
 
-[Link del repositorio Commints](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/) <br>
+Link del repositorio Commints: https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -1810,7 +1810,7 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   - **Lista de Amigos y chat**: ![Friend-List](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Friend-List.png)
 
 
-Web Aplication desplegada url: https://booksphere-e0ca5.web.app/store
+Web Aplication Store desplegada url: https://booksphere-e0ca5.web.app/store
 <br>
 Web Author Applicaton desplegada url: https://frontend-author-booksphere.web.app/store/store-books
 
@@ -1927,8 +1927,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 
 
-URL del sitio web deplegada: https://booksphere-e0ca5.web.app/store
-El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de Firebase ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web del boundent context.
+
 
 
 
@@ -1985,8 +1984,9 @@ Video acerca del web aplication (bounded context Store): https://upcedupe-my.sha
 
 </center>
 
+
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
 | LandingPage (Anexo A)    | https://booksphere-sh.github.io/Landing-Page/ |
-| Web Aplication (Anexo A)    | https://booksphere-e0ca5.web.app/store |
+| Web Aplication (Anexo A)    | https://booksphere-e0ca5.web.app/store |  
 | Video de entrevista (Anexo B)   | https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FSphereHub%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb0762b5d%2D7ad3%2D4f87%2Db6c3%2Da1b84718b6d5 |
