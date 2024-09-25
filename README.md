@@ -1890,6 +1890,27 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    ![firebase-config](./assets/12.png)
    
    ![firebase-config](./assets/11.png)
+
+
+### Bounded Context Friends-Area (Fabian Puente Ronaldo)
+En este Sprint, se realizaron las siguientes actividades incluyendo el despliegue:
+
+  1. **Creacion de rama para subir el Bounend Context :**
+   - Se creo una rama (friend-Fabian) en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron ramas de cada integrante, correspondidos con sus bounded context.
+   - Se configuraron los repositorios para el despliegue de cada bounded context.
+
+2. **Configuración y Despliegue de Friends:**
+   - **Github:** Se subió el archivo JSON a un repositorio y se desplego el db.JSON.
+
+### Proceso de Despliegue
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
+
+1. **Despliegue en Github:**
+   - Se subió el código del web aplication de Store al repositorio en GitHub.
+   - Se configuró Firebase en el terminal del proyecto para poder deployarlo con los siquientes comandos:  
+   
+   ![Despliegue JSON](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Despliegue%20JSON.png)
+
    
 3. **Despliegue del db.json:**
    - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
