@@ -1923,6 +1923,8 @@ En este Sprint, se realizaron las siguientes actividades incluyendo el despliegu
   1. **Creacion de rama para subir el Bounend Context :**
    - Se creo una rama (friend-Fabian) en GitHub para gestionar el código fuente y el seguimiento de cambios. Estos repositorios incluyeron ramas de cada integrante, correspondidos con sus bounded context.
    - Se configuraron los repositorios para el despliegue de cada bounded context.
+   - Despliegue en Github Pages
+   ![Despliegue github](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Despliegue%20github.png)
 
 2. **Configuración y Despliegue de Friends:**
    - **Github:** Se subió el archivo JSON a un repositorio y se desplego el db.JSON.
