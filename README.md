@@ -1807,6 +1807,8 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   - **Los detalles de los libros y comentarios**: ![Caracteristicas](./assets/comentarios.png)
   - **Metodo de pago**: ![usuarios](./assets/pago.png)
   - **Publicar libro**: ![Publish-Book](https://hackmd.io/_uploads/ryrZ1Ke00.png)
+  - **Lista de Amigos y chat**: ![Friend-List](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Friend-List.png)
+
 
 Web Aplication desplegada url: https://booksphere-e0ca5.web.app/store
 <br>
