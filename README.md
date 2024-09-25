@@ -1932,7 +1932,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
 
 1. **Despliegue en Github:**
    - Se subió el código del web aplication de Store al repositorio en GitHub.
-   - Se configuró Firebase en el terminal del proyecto para poder deployarlo con los siquientes comandos:  
+   - Se onbtuvo el link directo del archivo JSON para hecr uso desde la aplicacion: 
    
    ![Despliegue JSON](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Despliegue%20JSON.png)
 
