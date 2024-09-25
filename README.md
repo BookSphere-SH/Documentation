@@ -1764,7 +1764,10 @@ Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be
 | Frontend-App  | Store-Books-Sergio-Gómez  | 01f1b8be5d25f8a9abd945cefb965bd11c36b58b| feat: Funcion de pago de agregación de libros   | Se implementó el cambio de pago según el formato |23/09/2024  |
 | Frontend-App  | Store-Books-Sergio-Gómez       |01f1b8be5d25f8a9abd945cefb965bd11c36b58b | feat: Total a pagar  | Se implementó el cambio de pago según el formato | 23/09/2024            |
 | Frontend-App  | Community-Merly  | bebb8c6d9a7fe577deda2abfa1eb370eb90f50cf| feat: Group Section Completed   | Se implementó lista de grupos populares |22/09/2024  |
-| Frontend-App  | Community-Merly  | 243f76cf50572a024686066157f47aa6e598b180| feat: Join in to group   | Se implementó botón para unirse a grupo |24/09/2024  |
+| Frontend-App  | Community-Merly  | 243f76cf50572a024686066157f47aa6e598b180| feat: Join in to group   | Se implementó botón para unirse a grupo |24/09/2024  
+| Frontend-App | Author-Pedro-Nanfuñay | 33e1b741db773678a76724dcc20dab5b708baf4c | feat: Optimize db.json | Optimización del db.json para el correcto despliegue de la página | 24/09/2024 |
+| Frontend-App | Author-Pedro-Nanfuñay | cd544614f4e76ff28d29688a8746552c7151f2ca | feat: Modified environment | Modificación del environment | 24/09/2024 |
+| Frontend-App  | Author-Pedro-Nanfuñay | 871df806c1ab24719f06844cb888d775a6c10376 | feat: Publicar libro | Se añade función para publicar libros por parte de los autores |24/09/2024  |
 
 
 [Link del repositorio](https://github.com/BookSphere-SH/Frontend-App/commits/Store-Books-Sergio-G%C3%B3mez/)
