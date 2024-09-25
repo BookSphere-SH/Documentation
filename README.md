@@ -39,6 +39,8 @@
 | TB1| 08/09/2024 | Russell Stephen Romero Qwistgaard | Lean UX <br> Análisis de entrevistas<br> To-Be Scenario Mapping <br> Web Applications User Flow Diagrams <br> Class Diagrams <br> Perfil de integrante <br> Registro de Entrevista |
 | TB1| 08/09/2024 | Pedro Jesús Nanfuñay Liza | Perfil de integrante <br> Segmentos Objetivos <br> Entrevista Segmento 1 <br> Análisis de entrevista <br> User Personas <br> Empathy Mapping <br> Class Dictionary <br> Landing Page UI Design <br> Web Applications UX/UI Design <br> Web Applications Wireflow Diagrams |
 | TB1| 08/09/2024 | Merly Salon Puerta | Descripción de la StartUp <br> Antecedentes y problemática <br> Entrevista <br> Ubiquitous Language <br> User Stories <br> Impact Mapping <br> Information Architecture <br> Database diagram <br> Perfiles de integrantes del equipo |
+| TB1| 08/09/2024 | Ronaldo Fabian Puente | Perfil de integrante <br> Entrevista Segmento objetivo Autores <br> Análisis de entrevista <br> User Personas <br> Diagrama de base de datos <br> <br> User Task Matrix de los 3 segmetnos objetivos<br> As-is Scenario Mapping <br> Landing Page UI Design <br> Web Applications UX/UI Design <br> Web Applications Wireflow Diagrams |
+
 | TP | 23/09/2024 | Sergio André Gómez Vallejos | Implementacion del Sprint 2 <br> Implementación del bounded context Store <br> Agregar en el repositorio una rama del boundend context <br> Capitulo V.2|
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
