@@ -41,6 +41,7 @@
 | TB1| 08/09/2024 | Merly Salon Puerta | Descripción de la StartUp <br> Antecedentes y problemática <br> Entrevista <br> Ubiquitous Language <br> User Stories <br> Impact Mapping <br> Information Architecture <br> Database diagram <br> Perfiles de integrantes del equipo |
 | TB1| 08/09/2024 | Ronaldo Fabian Puente | Perfil de integrante <br> Entrevista Segmento objetivo Autores <br> Análisis de entrevista <br> User Personas <br> Diagrama de base de datos <br> <br> User Task Matrix de los 3 segmetnos objetivos<br> As-is Scenario Mapping <br> Landing Page UI Design <br> Web Applications UX/UI Design <br> Web Applications Wireflow Diagrams |
 | TP | 23/09/2024 | Sergio André Gómez Vallejos | Implementacion del Sprint 2 <br> Implementación del bounded context Store <br> Agregar en el repositorio una rama del boundend context <br> Capitulo V.2|
+| TP | 25/09/2024 | Pedro Jesús Nanfuñay Liza | Implementación del bounded context Author <br> Agregar en el repositorio una rama del boundend context Author <br> Sprint Backlog 2 <br> Development Evidence for Sprint Review <br> Testing Suite Evidence for Sprint Review <br> Execution Evidence for Sprint Review <br> Services Documentation Evidence for Sprint Review <br> Software Deployment Evidence for Sprint Review |
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
 
