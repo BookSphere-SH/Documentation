@@ -1891,6 +1891,20 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    
    ![firebase-config](./assets/11.png)
 
+   
+3. **Despliegue del db.json:**
+   - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
+   
+   ![myserver](./assets/myserver.png)
+   
+  URL DE myserverjson: https://my-json-server.typicode.com/BookSphere-SH/Front-App
+  
+4. **Verificación del Despliegue:**
+   - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Aplicación web funcionaran correctamente.
+   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+   
+   ![Store-web](./assets/Store-web.png)
+
 
 ### Bounded Context Friends-Area (Fabian Puente Ronaldo)
 En este Sprint, se realizaron las siguientes actividades incluyendo el despliegue:
@@ -1911,19 +1925,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    
    ![Despliegue JSON](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Despliegue%20JSON.png)
 
-   
-3. **Despliegue del db.json:**
-   - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
-   
-   ![myserver](./assets/myserver.png)
-   
-  URL DE myserverjson: https://my-json-server.typicode.com/BookSphere-SH/Front-App
-  
-4. **Verificación del Despliegue:**
-   - Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Aplicación web funcionaran correctamente.
-   - Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
-   
-   ![Store-web](./assets/Store-web.png)
+
 
 URL del sitio web deplegada: https://booksphere-e0ca5.web.app/store
 El proceso de despliegue durante este Sprint ha permitido establecer una base sólida para la gestión y publicación del proyecto. La configuración de Firebase ha optimizado el proceso de despliegue y garantizado una integración continua efectiva, facilitando el despliegue y la actualización del sitio web del boundent context.
