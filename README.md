@@ -1788,8 +1788,15 @@ Durante este sprint, se realizaron la implementación del Web Aplication. A cont
 | grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 8984efbd6bda4128ab0b2a9441e639c12e226600 | ADD feature        | Se Implementa la búsqueda de libros               | 22/09/2024              |
 | grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 69c951045ce01fa690bfe00f90f53c941fb1374c | ADD feature        | Se elimina Libro de la Biblioteca                        | 22/09/2024              |
 | grupo02-BookSphere-testing              | tp1-Sergio-Gómez      | 5816a2ac8b7a34f78969baf7273252ccd3b6d861 | ADD feature        | Se implementar el de Buscar Libros                     | 22/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | b24b3587844a131814f8fb7714428f752ae3fe9c | ADD feature        | Se implementa Gestión de comentarios y reseñas     | 25/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | 5442fa7d9c0364017d663ae0aaa130220c0e434e | ADD feature        | Se añade funcionalidad de promoción de libros          | 25/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | c08ec30312ccbe66d847eb59492844f485f63216 | ADD feature        | Se implementa funcionalidad de Publicación de libros   | 25/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | cefcf5597589adc45d6d6e90a1923b1881ab19d8 | ADD feature        | Se implementa funcionalidad de Actualizar información de libro publicado por el autor | 25/09/2024              |
+| grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | cdd14cc15ba1b4a446e9016d131fc7b973a9588a | ADD feature        | Se implementa acceso a Información sobre tendencias | 25/09/2024              |
 
 Link del repositorio Commints: https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/
+<br>
+Link del repositorio Commits: https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Pedro-Nanfu%C3%B1ay/
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
