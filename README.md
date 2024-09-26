@@ -42,6 +42,7 @@
 | TB1| 08/09/2024 | Ronaldo Fabian Puente | Perfil de integrante <br> Entrevista Segmento objetivo Autores <br> Análisis de entrevista <br> User Personas <br> Diagrama de base de datos <br> <br> User Task Matrix de los 3 segmetnos objetivos<br> As-is Scenario Mapping <br> Landing Page UI Design <br> Web Applications UX/UI Design <br> Web Applications Wireflow Diagrams |
 | TP | 23/09/2024 | Sergio André Gómez Vallejos | Implementacion del Sprint 2 <br> Implementación del bounded context Store <br> Agregar en el repositorio una rama del boundend context <br> Capitulo V.2|
 | TP | 25/09/2024 | Pedro Jesús Nanfuñay Liza | Implementación del bounded context Author <br> Agregar en el repositorio una rama del boundend context Author <br> Sprint Backlog 2 <br> Development Evidence for Sprint Review <br> Testing Suite Evidence for Sprint Review <br> Execution Evidence for Sprint Review <br> Services Documentation Evidence for Sprint Review <br> Software Deployment Evidence for Sprint Review |
+| TP | 25/09/2024 | Pedro Jesús Nanfuñay Liza | Implementación del bounded context Perfil <br> Agregar en el repositorio una rama del boundend context Perfil <br> Sprint Backlog 2 <br> Development Evidence for Sprint Review <br> Testing Suite Evidence for Sprint Review <br> Execution Evidence for Sprint Review <br> Services Documentation Evidence for Sprint Review <br> Software Deployment Evidence for Sprint Review |
 | TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
 
@@ -899,7 +900,8 @@ URL de la herramienta: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI
 | TS016 | Implementar CRUD para libros | Como desarrollador, quiero implementar las operaciones CRUD (Crear, Leer, Actualizar, Eliminar) para los libros para que los usuarios puedan gestionar su biblioteca. | Given un usuario autorizado, When el usuario realiza una operación CRUD en un libro, Then el sistema debe validar los datos de entrada y devolver mensajes de error adecuados según la operación realizada. |
 | TS017 | Implementar la búsqueda de libros | Como desarrollador, quiero implementar la funcionalidad de búsqueda para los libros para que los usuarios puedan encontrar rápidamente el material que necesitan. | Given un conjunto de libros en la base de datos, When el usuario realiza una búsqueda por título, autor o ISBN, Then se debe crear un endpoint que devuelva los resultados y maneje adecuadamente los casos en que no se encuentren resultados. |
 | TS018 | Implementar el historial de lectura | Como desarrollador, quiero implementar la funcionalidad para gestionar el historial de lectura para que los usuarios puedan visualizar sus libros leídos sin necesidad de acción adicional. | Given un usuario que ha leído un libro, When el usuario accede a su historial de lectura, Then se debe crear un endpoint que muestre la información automáticamente y permita eliminar libros del historial. |
-
+| TS019 | Implementar visualización de perfil | Como Desarrollador, quiero implementar el apartado visual del perfil | Given el usuario está dentro de la plataforma, When inicia sesión y presiona la opción de ver perfil, Then se le concede acceso a la visualización de su perfil y datos. |
+| TS020 | Implementar editor de perfil | Como desarrollador, quiero implementar la función de edición y guardado de los datos de perfil | Given el usuario se encuentra en su perfil de usuario,  When presiona la opción de modificar los datos de perfil y lo hace de manera correcta,  Then se cambia los datos del perfil. |
 
 
 
@@ -1752,8 +1754,8 @@ Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **pri
 | US014    |Publicar Libros Digitales | Implementar sección para publicar libros | 3 | Pedro Jesús Nanfuñay Liza | Done |
 | US015    |Actualizar Información del Libro | Implementación de edición de libro publicado por el autor | 2  | Pedro Jesús Nanfuñay Liza  | In progress |
 | US016    |Acceder a Información sobre Tendencias | Implementar acceso a tendencias dentro de la aplicación | 3 | Pedro Jesús Nanfuñay Liza | To do |
-
-
+| TS019    | Visualización de perfil | Implementar el apartado visual del perfil | Russell Stephen Romero Qwistgaard | Done                |
+| TS020    | Cambio de Datos  | Implementar el editor de perfil | Russell Stephen Romero Qwistgaard | Done                |
 Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
 
 #### 5.2.2.3. Development Evidence for Sprint Review
@@ -1819,11 +1821,13 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   - **Metodo de pago**: ![usuarios](./assets/pago.png)
   - **Publicar libro**: ![Publish-Book](https://hackmd.io/_uploads/ryrZ1Ke00.png)
   - **Lista de Amigos y chat**: ![Friend-List](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Friend-List.png)
-
+  - **Perfil**: ![Friend-List](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Friend-List.png)
 
 Web Aplication Store desplegada url: https://booksphere-e0ca5.web.app/store
 <br>
 Web Author Applicaton desplegada url: https://frontend-author-booksphere.web.app/store/store-books
+<br>
+Web Perfil Application desplegada url: 
 
 Estos logros demuestran un avance notable en el diseño de una experiencia de usuario atractiva y funcional para la aplicación web de BookSphere.
 
