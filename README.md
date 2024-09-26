@@ -2028,7 +2028,12 @@ Video acerca del web aplication (bounded context Store): https://upcedupe-my.sha
 **Enlaces**
 
 </center>
-
+## Sitios Webs (Bounded Context) desplegados: 
+ |Integrante|Bounded Context Desplegada| Repositorio (Rama)  |
+|---------------------|---------|---------|
+| Sergio André Gómez Vallejos | https://booksphere-e0ca5.web.app/store |https://github.com/BookSphere-SH/Front-App/tree/Store-Books-Sergio-G%C3%B3mez     |
+| Nombre y apellido    | https://booksphere-e0ca5.web.app/store | 
+|nombre y apeelido  | https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FSphereHub%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb0762b5d%2D7ad3%2D4f87%2Db6c3%2Da1b84718b6d5 |
 
  |Segmento del trabajo|Link de repositorio|
 |---------|---------|
