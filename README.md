@@ -1821,13 +1821,14 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
   - **Metodo de pago**: ![usuarios](./assets/pago.png)
   - **Publicar libro**: ![Publish-Book](https://hackmd.io/_uploads/ryrZ1Ke00.png)
   - **Lista de Amigos y chat**: ![Friend-List](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Friend-List.png)
-  - **Perfil**: ![Friend-List](https://raw.githubusercontent.com/RonaldoFabian01/Publicrepos/refs/heads/main/Friend-List.png)
+  - **Perfil**: 
 
 Web Aplication Store desplegada url: https://booksphere-e0ca5.web.app/store
 <br>
 Web Author Applicaton desplegada url: https://frontend-author-booksphere.web.app/store/store-books
 <br>
-Web Perfil Application desplegada url: 
+Web Perfil Application desplegada url: https://booksphere-perfil.web.app/profile/user/1
+
 
 Estos logros demuestran un avance notable en el diseño de una experiencia de usuario atractiva y funcional para la aplicación web de BookSphere.
 
