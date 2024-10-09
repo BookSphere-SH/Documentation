@@ -1477,41 +1477,60 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 #### Repositorio de la Landing Page
 **Implementación de GitFlow:** Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo *"A successful Git branching model"* de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
 ![GitFlow](./assets/gitflow.png)
-- **Rama Principal (Main branch):** Contiene el código en producción y se conoce como la Master branch o Main branch.
-  - **Notación:** `main`
+### GitFlow
 
-- **Rama de Desarrollo (Develop branch):** Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
-  - **Notación:** `develop`
+- **Rama Principal (Main branch):**  
+  Contiene el código en producción y se conoce como la `Master branch` o `Main branch`.
 
-- **Rama de Lanzamiento (Release branch):** Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de `develop`.
-  - **Debe derivarse de:** `develop`
-  - **Debe fusionarse con:** `develop` y `master/main`
-  - **Notación:** `release`
+  **Notación:** `main`
 
-- **Rama de Características (Feature branch):** Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
-  - **Debe derivarse de:** `develop`
-  - **Debe fusionarse de vuelta a:** `develop`
-  - **Notación:** `feature`
+- **Rama de Desarrollo (Develop branch):**  
+  Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
 
-- **Rama de Corrección Rápida (Hotfix branch):** Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
-  - **Debe derivarse de:** `master/main`
-  - **Debe fusionarse con:** `develop` y `master/main`
-  - **Notación:** `hotfix`
+  **Notación:** `develop`
 
+- **Rama de Lanzamiento (Release branch):**  
+  Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de `develop`.
 
-**Conventional Commits**
+  - Debe derivarse de: `develop`
+  - Debe fusionarse con: `develop` y `main`
 
-Implementaremos **Conventional Commits** para registrar los cambios en el repositorio de manera clara. Utilizaremos palabras clave como `fix` para correcciones y `feature` para nuevas funcionalidades.
+  **Notación:** `release/x.y.z`
 
-**Versionamiento del Software**
+- **Rama de Características (Feature branch):**  
+  Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
+
+  - Debe derivarse de: `develop`
+  - Debe fusionarse de vuelta a: `develop`
+
+  **Notación:** `feature/nombre-funcionalidad`
+
+- **Rama de Corrección Rápida (Hotfix branch):**  
+  Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
+
+  - Debe derivarse de: `main`
+  - Debe fusionarse con: `develop` y `main`
+
+  **Notación:** `hotfix/x.y.z`
+
+### Conventional Commits
+
+Implementaremos **Conventional Commits** para registrar los cambios en el repositorio de manera clara. Utilizaremos palabras clave como `fix` para correcciones y `feat` para nuevas funcionalidades.
+
+### Versionamiento del Software
 
 El versionamiento del software se gestionará mediante etiquetas en Git (`git tag`). La convención para las etiquetas es `vX.Y.Z`:
 
-- **X**: Versión principal, se incrementa cuando se realizan cambios significativos en la funcionalidad del software que podrían afectar su estructura.
-- **Y**: Versión secundaria, se ajusta para la adición o eliminación de características sin modificar la estructura principal del software.
-- **Z**: Versión de parche, se usa para pequeñas correcciones y mejoras que no afectan la funcionalidad principal.
+- **X:** Versión principal, se incrementa cuando se realizan cambios significativos en la funcionalidad del software que podrían afectar su estructura.
+- **Y:** Versión secundaria, se ajusta para la adición o eliminación de características sin modificar la estructura principal del software.
+- **Z:** Versión de parche, se usa para pequeñas correcciones y mejoras que no afectan la funcionalidad principal.
 
 Por ejemplo, las versiones podrían ser `v1.2.0` o `v1.2.3`, reflejando los avances y actualizaciones del proyecto.
+
+URL de Front-App: https://github.com/BookSphere-SH/Front-App <br>
+URL de Landing Page: https://github.com/BookSphere-SH/Landing-Page  <br>
+URL de BackEnd: https://github.com/BookSphere-SH/Backend  <br>
+
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
@@ -1731,32 +1750,42 @@ Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **pri
 | **Sprint 1 Velocity**              | Se estableció un Velocity de 20 Story Points para este Sprint. |
 | **Sum of Story Points**            | 20 Story Points |
 
-### 5.2.2.2.Sprint Backlog 2
+### 5.2.2.2 Sprint Backlog 2
 
-| **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
-|---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
-| US022   |Buscar Libros | Implementar la busqueda de libros | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| US019   | Añadir Libros gratuitos a la Biblioteca  | Implementar añadir libros gratis a la biblioteca         | 2              | Gómez Vallejos Sergio André   | Done                                  |
-| US020   |Añadir Libros pagos a la Biblioteca |  Implementar añadir libros de pagos a la biblioteca  | 2          | Gómez Vallejos Sergio André   | Done                                        |
-| TS003    | Buscar libros|Implementar la busqueda de libros  | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| TS010    |Implementar Funcionalidad de Filtros en Búsqueda       | Implementar tecnica de los filtros de busqueda   | 3              | Gómez Vallejos Sergio André   | Done                          |
-| TS004    |Agregar Libro a la Biblioteca | Implementacion de agregación a biblioteca         | 4              | Gómez Vallejos Sergio André   | Done                                        |
-| TS006     |Elimiminar libro de la biblioteca   | Implementación de eliminar libro en la biblioteca         | 3              | Gómez Vallejos Sergio André   | Done                                     |
-| TS014     |Crear la estructura básica del API  | Creación de Api basica para el Web Application        | 5              | Gómez Vallejos Sergio André   | Done                                        |
-| TS017     |Implementar la búsqueda de libros   | Implementación tecnica de busqueda       | 3              | Gómez Vallejos Sergio André   | Done                                        |
-| US028    |Unión a comunidades relevantes | Implementar unión a comunidades populares        | 3            | Merly Salon Puerta   | In progress                                       |
-| US029    |Participar en discusiones dentro de la comunidad | Implementar discusiones dentro de la comunidad | 3     | Merly Salon Puerta  | In progress                               |
-| US032    |Reportar contenido inapropiado en una comunidad  | Implementación de Reporte de contenido inapropiado en una comunidad | 3  | Merly Salon Puerta  | In progress             |
-| US034    |Crear una comunidad       | Implementar Creación de comunidad         | 3            | Merly Salon Puerta          | In progress                                       |
-| US030    |Modificar visibilidad de mis interacciones | Implementar Modificar visibilidad de mis interacciones | 2  | Merly Salon Puerta    | In progress                              |
-| US010    |Gestionar Comentarios y Reseñas | Implementar sección de comentarios y reseñas de libros publicados por el autor | 3 | Pedro Jesús Nanfuñay Liza | To do |
-| US012    | Promocionar Libros en la Plataforma | Implementar promoción de libros para llegar a un público más amplio | 3 | Pedro Jesús Nanfuñay Liza | To do |
-| US014    |Publicar Libros Digitales | Implementar sección para publicar libros | 3 | Pedro Jesús Nanfuñay Liza | Done |
-| US015    |Actualizar Información del Libro | Implementación de edición de libro publicado por el autor | 2  | Pedro Jesús Nanfuñay Liza  | In progress |
-| US016    |Acceder a Información sobre Tendencias | Implementar acceso a tendencias dentro de la aplicación | 3 | Pedro Jesús Nanfuñay Liza | To do |
-| TS019    | Visualización de perfil | Implementar el apartado visual del perfil | Russell Stephen Romero Qwistgaard | Done                |
-| TS020    | Cambio de Datos  | Implementar el editor de perfil | Russell Stephen Romero Qwistgaard | Done                |
-Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere
+El objetivo principal de este sprint es desarrollar y optimizar las funcionalidades clave de la plataforma BookSphere, enfocándose en la búsqueda y gestión de libros, así como en la interacción del usuario con las comunidades dentro de la plataforma. A lo largo del sprint, se busca implementar características que permitan a los usuarios interactuar más eficientemente con los libros y otros usuarios, mediante la adición de libros a la biblioteca, participación en comunidades, y otras funcionalidades relevantes.
+
+A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimiento del progreso de cada tarea, y se refleja el estado actual de las mismas en las categorías **To-Do**, **In-Progress**, **To-Review**, y **Done**.
+
+**URL de la herramienta utilizada:**  
+[Trello - BookSphere](https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere)
+
+![Sprints](./assets/sprints.png)
+
+| **Id**  | **Title**                                                | **Work-Item / Task**                                     | **Estimation** | **Assigned To**                  | **Status (To-do/In-Process/To-Review/Done)** |
+|---------|----------------------------------------------------------|----------------------------------------------------------|----------------|----------------------------------|---------------------------------------------|
+| US022   | Buscar Libros                                             | Descomponer en tareas de diseño de UI, creación de API para la búsqueda, integración con la base de datos | 6 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| US019   | Añadir Libros gratuitos a la Biblioteca                   | Descomponer en tareas de backend para el manejo de datos, frontend para la interfaz de usuario | 4 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| US020   | Añadir Libros pagos a la Biblioteca                       | Descomponer en tareas específicas para el manejo de pagos y visualización de libros | 4 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| TS003   | Búsqueda de libros                                        | Implementar la lógica de búsqueda y filtros, pruebas de rendimiento para las consultas | 6 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| TS010   | Funcionalidad de Filtros en Búsqueda                     | Descomponer en tareas para la implementación de los filtros de búsqueda y pruebas | 6 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| TS004   | Agregar Libro a la Biblioteca                             | Descomponer en tareas de backend para añadir libros a la base de datos y frontend para la interacción | 5 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| TS006   | Eliminar Libro de la Biblioteca                           | Implementar la funcionalidad de eliminación de libros desde la biblioteca con confirmación de usuario | 5 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| TS014   | Crear la estructura básica del API                        | Crear endpoints RESTful para manejo de libros, validaciones y pruebas | 8 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| TS017   | Implementar la búsqueda de libros                         | Implementar la lógica técnica de búsqueda de libros y manejo de resultados | 6 horas        | Gómez Vallejos Sergio André       | Done                                        |
+| US028   | Unión a comunidades relevantes                            | Descomponer en tareas de backend y frontend para la integración de comunidades | 4 horas        | Merly Salon Puerta                | In progress                                 |
+| US029   | Participar en discusiones dentro de la comunidad          | Descomponer en tareas para implementar discusiones, backend y UI | 4 horas        | Merly Salon Puerta                | In progress                                 |
+| US032   | Reportar contenido inapropiado en una comunidad           | Descomponer en tareas de backend para el manejo de reportes, UI para la interacción del usuario | 4 horas | Merly Salon Puerta | In progress               |
+| US034   | Crear una comunidad                                       | Descomponer en tareas de backend, frontend, y lógica de creación de comunidades | 4 horas | Merly Salon Puerta                | In progress                                 |
+| US030   | Modificar visibilidad de mis interacciones                | Descomponer en tareas de lógica de visibilidad y diseño de interfaz | 4 horas | Merly Salon Puerta | In progress                             |
+| US010   | Gestionar Comentarios y Reseñas                          | Descomponer en tareas de diseño de UI y manejo de datos para comentarios y reseñas | 6 horas        | Pedro Jesús Nanfuñay Liza         | To do                                       |
+| US012   | Promocionar Libros en la Plataforma                       | Descomponer en tareas de manejo de promoción y lógica de publicación | 6 horas        | Pedro Jesús Nanfuñay Liza         | To do                                       |
+| US014   | Publicar Libros Digitales                                 | Descomponer en tareas de backend, frontend, y lógica de publicación de libros | 6 horas | Pedro Jesús Nanfuñay Liza         | Done                                        |
+| US015   | Actualizar Información del Libro                         | Descomponer en tareas de edición de información de libros y UI | 4 horas        | Pedro Jesús Nanfuñay Liza         | In progress                                 |
+| US016   | Acceder a Información sobre Tendencias                   | Descomponer en tareas de manejo de datos y visualización de tendencias | 6 horas        | Pedro Jesús Nanfuñay Liza         | To do                                       |
+| TS019   | Visualización de perfil                                   | Descomponer en tareas de diseño y lógica del perfil       | 4 horas        | Russell Stephen Romero Qwistgaard | Done                                        |
+| TS020   | Cambio de Datos                                           | Descomponer en tareas de edición de datos de perfil       | 4 horas        | Russell Stephen Romero Qwistgaard | Done                                        |
+
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 | **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
@@ -1771,7 +1800,6 @@ Url de la herramienta utilizada: https://trello.com/invite/b/66db085df48aaed06be
 | Frontend-App | Author-Pedro-Nanfuñay | 33e1b741db773678a76724dcc20dab5b708baf4c | feat: Optimize db.json | Optimización del db.json para el correcto despliegue de la página | 24/09/2024 |
 | Frontend-App | Author-Pedro-Nanfuñay | cd544614f4e76ff28d29688a8746552c7151f2ca | feat: Modified environment | Modificación del environment | 24/09/2024 |
 | Frontend-App  | Author-Pedro-Nanfuñay | 871df806c1ab24719f06844cb888d775a6c10376 | feat: Publicar libro | Se añade función para publicar libros por parte de los autores |24/09/2024  |
-
 
 [Link del repositorio](https://github.com/BookSphere-SH/Frontend-App/commits/Store-Books-Sergio-G%C3%B3mez/)
 
@@ -1797,21 +1825,23 @@ Durante este sprint, se realizaron la implementación del Web Aplication. A cont
 | grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | cefcf5597589adc45d6d6e90a1923b1881ab19d8 | ADD feature        | Se implementa funcionalidad de Actualizar información de libro publicado por el autor | 25/09/2024              |
 | grupo02-BookSphere-testing              | tp1-Pedro-Nanfuñay    | cdd14cc15ba1b4a446e9016d131fc7b973a9588a | ADD feature        | Se implementa acceso a Información sobre tendencias | 25/09/2024              |
 
-Link del repositorio Commints: https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/
-<br>
-Link del repositorio Commits: https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Pedro-Nanfu%C3%B1ay/
+[Link del repositorio Commits (Sergio-Gómez)](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Sergio-G%C3%B3mez/)
+[Link del repositorio Commits (Pedro-Nanfuñay)](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tp1-Pedro-Nanfu%C3%B1ay/)
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la App Application. A continuación, se presenta un resumen de los logros alcanzados:
+Durante el primer sprint, se lograron varios hitos importantes en el desarrollo de la aplicación web de **BookSphere**, enfocándose en la implementación de funcionalidades clave, diseño de interfaz y mejora de la experiencia de usuario. A continuación, se presenta un resumen de los logros alcanzados:
 
-- **Establecimiento de Repositorios**: Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas.
+- **Establecimiento de Repositorios**: 
+  Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos.
 
-![repositorio](./assets/front-app.png)
+  ![repositorio](./assets/front-app.png)
 
-- **Implementación del Web Application**: Se diseñó y desarrolló el sitio de web de la tienda de BookSphere, implementando funcionalidades clave y asegurando que cumpla con los requisitos del proyecto.
+- **Implementación del Web Application**: 
+  Se desarrolló y desplegó el sitio web de la tienda de **BookSphere**, integrando funcionalidades clave como la búsqueda de libros, agregar al carrito de compras, y el método de pago. Este diseño asegura que la aplicación cumpla con los requisitos establecidos para el proyecto.
 
-![Landing Page](./assets/store-bd.png) <br>
+  ![Landing Page](./assets/store-bd.png) <br>
 
 - **Imágenes del web aplication Store**:
   - **Tienda**: ![store-bd](./assets/store-bd.png)
@@ -1833,53 +1863,8 @@ Web Perfil Application desplegada url: https://booksphere-perfil.web.app/profile
 Estos logros demuestran un avance notable en el diseño de una experiencia de usuario atractiva y funcional para la aplicación web de BookSphere.
 
   
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-Durante el segundo sprint, se logró lo siguiente en relación con la documentación y despliegue del web aplication:
-
-**Documentación del Código para Despliegue:**
-
-La documentación del código para el despliegue del web aplication incluye los archivos y configuraciones necesarios para implementar el sitio web. A continuación, se presenta la documentación relevante:
-
-- **Documentación del Código para Despliegue:**
-
-  ![store-bd](./assets/store-bd.png)
-  
-  Esta imagen muestra la estructura y organización de los archivos necesarios para el despliegue del web aplication. Incluye los archivos principales y sus ubicaciones dentro del proyecto.
-
-- **Documentación de `app.component.ts`:**
-
-  ![component](./assets/app-component.png)
-  
-  Aquí se proporciona una vista del archivo `app.component.ts`, que es la base del web aplication.
-
-  <br>
-**Documentación del Código para Despliegue de Author Frontend:**
-
-La documentación del código para el despliegue del web author aplication incluye los archivos y configuraciones necesarios para implementar el sitio web. A continuación, se presenta la documentación relevante:
-
-- **Documentación del Código para Despliegue:**
-
-  ![Store](https://hackmd.io/_uploads/B19kmte0R.png)
-
-  ![Publish-Book](https://hackmd.io/_uploads/ryrZ1Ke00.png)
-  
-  Se muestra la estructura y organización principal de la página y la sección de publicación de libros por parte del autor.
-
-- **Documentación de `publish-book.component.ts`:**
-
-  ![publish-book-component](https://hackmd.io/_uploads/r1YomtxCR.png)
-  
-  Aquí se proporciona una vista del archivo `publish-book.component.ts`, base de la página de publicación de libros. 
-
-**Resumen:**
-
-En este sprint, la documentación se centró en asegurar que todos los elementos necesarios para el despliegue del web aplication estuvieran correctamente organizados y documentados. Esto garantiza que la implementación del sition web en el entorno de producción sea efectiva y que el equipo pueda replicar el proceso si es necesario.
-
-Este enfoque ayuda a mantener la coherencia en la implementación y proporciona una guía clara para futuros desarrollos y despliegues.
-
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.6. Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo las web aplication y el despliegue fake del db.json
 
@@ -1981,7 +1966,7 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
    ![WebPageDeployed](./assets/PáginaWeb-Deployada.PNG)
    
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint <br>
+#### 5.2.2.7. Team Collaboration Insights during Sprint <br>
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación del web aplication de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
 **Actividades de Implementación**
