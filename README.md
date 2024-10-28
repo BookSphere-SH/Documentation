@@ -1990,9 +1990,11 @@ A continuación, se presentan capturas de pantalla de los analíticos de colabor
 ![clones](./assets/4.png)
 ![personas](./assets/5.png)
 
+## 5.2.2. Sprint 3
+Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **primera versión del backend**, desarrollado con Java, para la **aplicación web** del proyecto **BookSphere**. Además, de mejorar y optimizar la **aplicación web** previamente desarrollada, tomando en cuenta la retroalimentación brindada previamente. Consideramos que este sprint fue fundamental para implementar las primeras APIs y manejar la gestión y ejecución de bases de datos de la aplicación, garantizando la parte lógica de la misma.
 
 
-## Video About-the-Product
+## 5.4. Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
 
 Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FSphereHub%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E16a10c50%2De6bd%2D4d55%2Da5a6%2D15431edd505f
