@@ -1990,8 +1990,23 @@ A continuación, se presentan capturas de pantalla de los analíticos de colabor
 ![clones](./assets/4.png)
 ![personas](./assets/5.png)
 
-## 5.2.2. Sprint 3
+## 5.2.3. Sprint 3
 Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **primera versión del backend**, desarrollado con Java, para la **aplicación web** del proyecto **BookSphere**. Además, de mejorar y optimizar la **aplicación web** previamente desarrollada, tomando en cuenta la retroalimentación brindada previamente. Consideramos que este sprint fue fundamental para implementar las primeras APIs y manejar la gestión y ejecución de bases de datos de la aplicación, garantizando la parte lógica de la misma.
+
+### 5.2.3.1.Sprint Planning 3
+
+| **Sprint #**                        | 3                                                                                              |
+|-------------------------------------|------------------------------------------------------------------------------------------------|
+| **Date**                           | 08/10/2024                                                                                     |
+| **Time**                           | 9:00 PM                                                                                        |
+| **Location**                       | Salas virtuales (Meet)                                                                         |
+| **Prepared By**                    | ------                                                                     |
+| **Attendees (to planning meeting)**| Romero Qwistgaard, Russell Stephen - U20211043 <br> Nanfuñay Liza, Pedro Jesús - U202215462 <br> Fabian Puente, Ronaldo Macedonio - U20201B193 |
+| **Sprint 2 Review Summary**        | En el anterior sprint, nos centramos en el desarrollo de la **primera aplicación web** del proyecto **BookSphere**, junto con la mejora del landing page inicial. También implementamos **Angular con i18n** para garantizar una experiencia multilingüe desde el inicio. |
+| **Sprint 2 Retrospective Summary** | Como retrospectiva, se tomará en cuenta la retroalimentaciones previamente obtenidas y analizadas, para cumplir con las funciones de la aplicación web que no se lograron alcanzar en el sprint. |
+| **Sprint 3 Goal**                  | Nuestro objetivo en el presente sprint es desarrollar la primera versión del backend y mejorar el desarrollo de la aplicación web previamente presentada, garantizando que las funcionalidades faltantes sean implementadas correctamente dentro de la aplicación. |
+| **Sprint 3 Velocity**              | Se estableció un Velocity de --- Story Points para este Sprint. |
+| **Sum of Story Points**            | -- Story Points |
 
 
 ## 5.4. Video About-the-Product
