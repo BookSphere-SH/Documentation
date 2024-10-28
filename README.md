@@ -2008,6 +2008,20 @@ Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **pri
 | **Sprint 3 Velocity**              | Se estableció un Velocity de --- Story Points para este Sprint. |
 | **Sum of Story Points**            | -- Story Points |
 
+### 5.2.3.2 Sprint Backlog 3
+
+El objetivo principal de este sprint es desarrollar la aplicación backend para BookSphere, enfocándose en...
+
+A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimiento del progreso de cada tarea, y se refleja el estado actual de las mismas en las categorías **To-Do**, **In-Progress**, **To-Review**, y **Done**.
+
+**URL de la herramienta utilizada:**  
+[Trello - BookSphere](https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere)
+
+**Imagen del trello actualizado**
+
+| **Id**  | **Title**                                                | **Work-Item / Task**                                     | **Estimation** | **Assigned To**                  | **Status (To-do/In-Process/To-Review/Done)** |
+|---------|----------------------------------------------------------|----------------------------------------------------------|----------------|----------------------------------|---------------------------------------------|
+| | | |
 
 ## 5.4. Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
