@@ -2025,6 +2025,27 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 
+| **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
+|----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | b90fc6c626b664c196470e6fcc994d9cac712fbb | feat: Create upload-book-cover component. | Se añade la función de subir imagen de portada del libro | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | f6689b4fdeccbd593c388462a8cfcbf9b7e3a675 | feat: Create details-publish-book component. | Se añade la función de subir información del libro a publicar | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 96a3c31569dd875b83c715c52768ee61b027b185 | feat: Create select-format-published-book component. | Se añade la función de seleccionar los formatos disponibles con los que contará el libro | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | ae65d03e5185b320c068feb4f0cfde5a09602b9a | feat: Create and implement publish-book component. | Se añade la función de publicar libros | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 13b1838b63be5f47f5297738f4db25db1c3c63da | feat: Create and implement library component. | Se muestra los libros publicados por el autor en su biblioteca personal | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 5e95fd943563b5211046d3d7eabc07888a1fd5ce | feat: Create and implement view-details-published-book component. | Se implementa la página para ver detalles del libro publicado | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 6520a9b5ac9f7a4b959d9a73d0f7b5fe1d7ce9ff | feat: Create and implement published-book-comments component. | Se implementa sección de comentarios del libro en la página de "View Details" | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 6d66b8f6239c8d9b00c12853a5d41ee956de0e65 | feat: Create promote component. | Se implementa la función de promocionar libros | 14/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | fecf686ac4d7b79c0a687f53ab1b6a5c01f960e5 | feat: Create report-comment component. | Se implementa la función para reportar comentarios. | 17/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | cc99b88bbee1129ec7e4833ab3cbdc51d2d9cd95 | feat: Update promote component. | Actualización de la función para promocionar libros | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 9a21ee84cb81751541af7015b937a7fb44113389 | feat: Update published-book-comments component. | Actualización de la función para reportar comentarios | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 109dc5c26c396b0be02ca215d282ea9b6ebf145a | feat: Create and implement statistics-published-book component. | Se implementa la función para visualizar los datos estadísticos recopilados del libro por semana | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | dbb01fae5fc73b2924e57b7016fd42c78b686b7f | feat: Update view-details-published-book component. | Actualización de la página para ver información del libro | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | dd3ae7bf519526e59f69a8a3a5b0d501c9588ac9 | feat: Update select-format-published-book component. | Actualización de la función para seleccionar los formatos disponibles con los que contará el libro | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 3d6ef10dae7bff24f28f6afdaa67882bf9dd9673 | feat: Update details-publish-book component. | Actualización de la función para ingresar la información del libro a publicar | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 38246eaff9f6a23c467b51fb15e666bf3e942078 | feat: Update publish-book component. | Actualización de la página para publicar el libro | 19/10/2024  |
+| BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 847f0f3f62854839535d430868650cbe52d9b662 | feat: Update and implement i18n. | Actualización e implementación de internacionalización (i18n) en la página | 20/10/2024  |
+
+
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
