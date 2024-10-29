@@ -1474,7 +1474,6 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 
 ### 5.1.2. Source Code Management
 
-#### Repositorio de la Landing Page
 **Implementación de GitFlow:** Para nuestra estrategia de gestión de versiones con Git, nos hemos inspirado en el artículo *"A successful Git branching model"* de Vincent Driessen, adoptando el modelo de ramificación GitFlow. Este enfoque nos permite establecer claramente las convenciones de ramificación que aplicamos en nuestro proyecto.
 ![GitFlow](./assets/gitflow.png)
 ### GitFlow
@@ -1527,9 +1526,9 @@ El versionamiento del software se gestionará mediante etiquetas en Git (`git ta
 
 Por ejemplo, las versiones podrían ser `v1.2.0` o `v1.2.3`, reflejando los avances y actualizaciones del proyecto.
 
-URL de Front-App: https://github.com/BookSphere-SH/Front-App <br>
-URL de Landing Page: https://github.com/BookSphere-SH/Landing-Page  <br>
-URL de BackEnd: https://github.com/BookSphere-SH/Backend  <br>
+Repositorio de Landing Page: https://github.com/BookSphere-SH/Landing-Page  <br>
+Repositorio de Frontend Web Applications: https://github.com/BookSphere-SH/Front-App <br>
+Repositorio de Web Services: https://github.com/BookSphere-SH/Backend  <br>
 
 
 ### 5.1.3. Source Code Style Guide & Conventions
