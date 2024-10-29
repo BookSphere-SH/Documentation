@@ -2049,6 +2049,9 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
+Durante este sprint, se realizaron la implementación de la nueva versión del Web Aplication y de la primera versión del Web Service. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
+
+
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
