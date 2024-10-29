@@ -2023,6 +2023,28 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 |---------|----------------------------------------------------------|----------------------------------------------------------|----------------|----------------------------------|---------------------------------------------|
 | | | |
 
+### 5.2.3.3. Development Evidence for Sprint Review
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
 ## 5.4. Video About-the-Product
 En esta sección se presentará un video explicativo sobre la landing page de BookSphere, donde se destacarán sus principales características y funcionalidades. El video guiará a los usuarios a través de las secciones clave, como la biblioteca digital, los planes de suscripción y las opciones personalizadas, mostrando cómo la plataforma facilita el acceso a libros y audiolibros de manera sencilla y atractiva.<br>
 
