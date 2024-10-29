@@ -2046,6 +2046,7 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 38246eaff9f6a23c467b51fb15e666bf3e942078 | feat: Update publish-book component. | Actualización de la página para publicar el libro | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 847f0f3f62854839535d430868650cbe52d9b662 | feat: Update and implement i18n. | Actualización e implementación de internacionalización (i18n) en la página | 20/10/2024  |
 
+Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
