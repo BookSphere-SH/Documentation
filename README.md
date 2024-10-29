@@ -2024,6 +2024,7 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 | | | |
 
 ### 5.2.3.3. Development Evidence for Sprint Review
+En esta sección se visualizará los avances del desarrollo del presente sprint. Tomando en cuenta, el avance de la Aplicación Web (Frontend), garantizando cumplir con las funciones no desarrolladas en el sprint anterior, y el primer avance del desarrollo del Web Services (Backend). Para ello, los avances serán representados a través de commits que evidencian el avance que ha realizado cada miembro del equipo. 
 
 | **Repository** | **Branch** | **Commit Id**       | **Commit Message**        | **Commit Message Body** | **Committed on (Date)** |
 |----------------|------------|---------------------|---------------------------|-------------------------|-------------------------|
