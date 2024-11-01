@@ -2020,7 +2020,11 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 
 | **Id**  | **Title**                                                | **Work-Item / Task**                                     | **Estimation** | **Assigned To**                  | **Status (To-do/In-Process/To-Review/Done)** |
 |---------|----------------------------------------------------------|----------------------------------------------------------|----------------|----------------------------------|---------------------------------------------|
-| | | |
+| US010 | Gestionar Comentarios y Reseñas | Descomponer en tareas para el manejo de comentarios y reseñas realizados por lectores en la página del libro que permita responder, reportar y eliminar comentarios si el autor lo considera necesario | 7 horas | Nanfuñay Liza Pedro Jesús | Done |
+| US011 | Acceder a Estadísticas de Lectura | Descomponer en tareas que permita a los autores visualizar los datos estadísticos de sus libros obtenidos por la plataforma por semana | 4 horas | Nanfuñay Liza Pedro Jesús | Done |
+| US012 | Promocionar Libros en la Plataforma | Descomponer en tareas que permita a los autores realizar pagos para promocionar sus libros para obtener mayor presencia dentro de la plataforma | 6 horas | Nanfuñay Liza Pedro Jesús | Done |
+| TS016 | Implementar CRUD para libros | Descomponer en tareas que permita implementar un endpoint que permita realizar operaciones CRUD para los libros almacenados en la plataforma | 6 horas | Nanfuñay Liza Pedro Jesús | Done |
+| TS017 | Implementar la búsqueda de libros | Descomponer en tareas que permita implementar un endpoint que permita realizar búsquedas de libros según su id y título | 5 horas | Nanfuñay Liza Pedro Jesús | Done |
 
 ### 5.2.3.3. Development Evidence for Sprint Review
 En esta sección se visualizará los avances del desarrollo del presente sprint. Tomando en cuenta, el avance de la Aplicación Web (Frontend), garantizando cumplir con las funciones no desarrolladas en el sprint anterior, y el primer avance del desarrollo del Web Services (Backend). Para ello, los avances serán representados a través de commits que evidencian el avance que ha realizado cada miembro del equipo. 
