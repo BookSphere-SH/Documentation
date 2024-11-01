@@ -2009,12 +2009,12 @@ Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **pri
 
 ### 5.2.3.2 Sprint Backlog 3
 
-El objetivo principal de este sprint es desarrollar la aplicación backend para BookSphere, enfocándose en...
+El objetivo principal de este sprint es desarrollar la aplicación backend para BookSphere, enfocándose en crear e implementar APIs que permitan la búsqueda, filtrado y operaciones CRUD de los libros, así como la gestión de perfiles de los usuarios. Además, se buscará desarrollar y optimizar la aplicación Web desarrollada en el sprint anterior, garantizando con cumplir las funciones necesarias para satisfacer las necesidades de los usuarios.
 
 A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimiento del progreso de cada tarea, y se refleja el estado actual de las mismas en las categorías **To-Do**, **In-Progress**, **To-Review**, y **Done**.
 
 **URL de la herramienta utilizada:**  
-[Trello - BookSphere](https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere)
+[https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere](https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere)
 
 **Imagen del trello actualizado**
 
