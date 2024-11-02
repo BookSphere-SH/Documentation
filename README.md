@@ -2051,6 +2051,7 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 
 Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
 
+
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 Durante este sprint, se realizaron la implementación de la nueva versión del Web Aplication y de la primera versión del Web Service. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
 
@@ -2064,7 +2065,37 @@ Durante este sprint, se realizaron la implementación de la nueva versión del W
 
 Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/)
 
+
 ### 5.2.3.5. Execution Evidence for Sprint Review
+Durante el presente sprint, se lograron alcanzar logros importantes en el desarrollo de nuestra plataforma BookSphere. Nos enfocamos en el desarrollo e implementación de Web Services (Backend) que nos permite implementar APIs que utilizaremos en nuestra plataforma. Por otro lado, nos hemos enfocado en desarrollar una nueva versión del Web Application optimizando las funciones de nuestra plataforma para garantizar su eficiencia, tomando en cuenta aspectos clave como el diseño de la interfaz y mejora en la experiencia del usuario. A continuación, se presenta un resumen de los logros alcanzados:
+
+- Establecimiento de Repositorios: Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos. <br>
+
+  repositorio
+
+- Implementación del Web Application: Se desarrolló y desplegó la nueva versión del sitio web de BookSphere, optimizando e implementando funcionalidades clave como la promoción de libros, estadísticas, etc. Asegurándonos de cumplir con la experiencia y diseñor que los usuarios esperan. <br>
+
+  - Imágenes del web aplication Author:
+
+    Publicar libro: <br>
+    Librería: <br>
+    Visualizar información de libro publicado: <br>
+    Promocionar libros: <br>
+    Visualizar estadísticas: <br>
+    
+- Implementación del Web Services: Se desarrolló e implementó la primera versión del Backend que nos permite implementar y gestionar los endpoints que utilizaremos próximamente en nuestra Web Application, enfocándonos en endpoints principales que serán utilizados por los usuarios (libros y perfiles). <br>
+
+  - Imágenes del web service Store:
+
+    Libros: <br>
+    
+<br>
+Web Author Applicaton desplegada url: <br>
+Web Perfil Application desplegada url: https://booksphere-perfil.web.app/profile/user/1 <br>
+Web Store Services desplegada url: <br>
+
+Estos logros demuestran un notable avance en la optimización, diseño y gestión de las funciones requeridas por los usuarios, garantizando una experiencia atractiva y funcional para los usuarios, que además permite una correcta gestión de los datos dentro de la plataforma.
+
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
