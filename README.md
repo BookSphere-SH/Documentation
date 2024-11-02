@@ -2067,7 +2067,7 @@ Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://trello.com/inv
 
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
-Durante el presente sprint, se lograron alcanzar logros importantes en el desarrollo de nuestra plataforma BookSphere. Nos enfocamos en el desarrollo e implementación de Web Services (Backend) que nos permite implementar APIs que utilizaremos en nuestra plataforma. Por otro lado, nos hemos enfocado en desarrollar una nueva versión del Web Application optimizando las funciones de nuestra plataforma para garantizar su eficiencia, tomando en cuenta aspectos clave como el diseño de la interfaz y mejora en la experiencia del usuario. A continuación, se presenta un resumen de los logros alcanzados:
+Durante el presente sprint, se lograron alcanzar logros importantes en el desarrollo de nuestra plataforma BookSphere. Nos enfocamos en desarrollar una nueva versión del Web Application optimizando las funciones de nuestra plataforma para garantizar su eficiencia, tomando en cuenta aspectos clave como el diseño de la interfaz y mejora en la experiencia del usuario. A continuación, se presenta un resumen de los logros alcanzados:
 
 - Establecimiento de Repositorios: Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos. <br>
 
@@ -2082,22 +2082,30 @@ Durante el presente sprint, se lograron alcanzar logros importantes en el desarr
     Visualizar información de libro publicado: <br>
     Promocionar libros: <br>
     Visualizar estadísticas: <br>
-    
-- Implementación del Web Services: Se desarrolló e implementó la primera versión del Backend que nos permite implementar y gestionar los endpoints que utilizaremos próximamente en nuestra Web Application, enfocándonos en endpoints principales que serán utilizados por los usuarios (libros y perfiles). <br>
-
-  - Imágenes del web service Store:
-
-    Libros: <br>
-    
-<br>
+     
 Web Author Applicaton desplegada url: <br>
 Web Perfil Application desplegada url: https://booksphere-perfil.web.app/profile/user/1 <br>
-Web Store Services desplegada url: <br>
 
 Estos logros demuestran un notable avance en la optimización, diseño y gestión de las funciones requeridas por los usuarios, garantizando una experiencia atractiva y funcional para los usuarios, que además permite una correcta gestión de los datos dentro de la plataforma.
 
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En esta sección, se documenta los logros alcanzados respecto al desarrollo del Web Services para nuestra plataforma, incluyendo aspectos como la relación de Endpoints documentados con OpenAPI, que están relacionados con el alcance del Sprint.
+
+Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Se indica las acciones soportadas incluyendo para cada acción el verbo HTTP (GET, POST, PUT, DELETE, PATCH), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response.
+
+| Endpoint | Acciones Soportadas |
+| -------- | ------------------- |
+| `/api/v1/books` | GET<br>Obtener lista de todos libros<br>  <br>POST<br>Agregar un nuevo libro<br> |
+| `/api/v1/books/{bookId}` | GET<br>Obtener información de un libro por ID<br>  <br>PUT<br>Actualizar información de un libro por ID  <br>DELETE<br>Eliminar un libro por ID |
+
+- Capturas:
+
+- Repositorios y Commits:
+
+
+Repositorio de Web Services:
+
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
