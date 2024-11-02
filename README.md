@@ -2054,7 +2054,15 @@ Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSph
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 Durante este sprint, se realizaron la implementación de la nueva versión del Web Aplication y de la primera versión del Web Service. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
 
+| Repository | Branch | Commit ID | Commit Message | Commit Message Body | Commited on (Date) |
+| ---------- | ------ | --------- | -------------- | ------------------- | ------------------ |
+| BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 4abf75af74a8a2bb27fea3402079c2e153cbdc63 | feat: Gestionar Comentarios y Reseñas | Se implementa funciones para la gestión de comentarios y reseñas | 01/10/2024 |
+| BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | f2ff889e668c76b87dfcce60c83f83f548d738c2 | feat: Acceder a Estadísticas de Lectura | Se implementa funciones para visualizar datos estadísticos de un libro | 02/10/2024 |
+| BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 905941aded446db75fcbf5669e92753284abfea1 | feat: Promocionar Libros en la Plataforma | Se implementa función para promocionar libros | 02/10/2024 |
+| BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 16ee7425c12c579ea91ec6b1f55bd505c3bc619e | feat: Implementar CRUD para libros | Se implementa operaciones CRUD para libros | 02/10/2024 |
+| BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 573c74c368c6610844b1dba9e722a6d97fe0288a | feat: Implementar la búsqueda de libros | Se implementa funciones para búsquedas filtradas para libros | 02/10/2024 |
 
+Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/)
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
