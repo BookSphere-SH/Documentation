@@ -2115,9 +2115,77 @@ Repositorio de Web Services:
 
 ### 5.3.1. Diseño de Entrevistas
 
+**Segmento 1: Autores**
+
+1. ¿Cómo ha sido tu experiencia al publicar y promocionar tus libros en BookSphere? ¿Alguna herramienta que te gustaría tener para facilitar este proceso?  
+     
+2. ¿Te sientes conectado/a con tu audiencia a través de la plataforma? ¿Qué funcionalidades adicionales te ayudarían a interactuar mejor con tus lectores?  
+     
+3. ¿Qué tan efectivo ha sido el sistema de seguimiento de ventas y estadísticas? ¿Sientes que hay algo que podríamos mejorar en esta área?  
+     
+4. ¿Te resulta fácil compartir contenido adicional, como artículos, adelantos o eventos, para tus seguidores? ¿Te gustaría más opciones para hacerlo?
+
+5. ¿Has tenido alguna dificultad para gestionar tu perfil de autor en BookSphere? Si es así, ¿cómo podríamos hacerlo más intuitivo?
+
+6. ¿Te parece que el diseño de la comunidad te permite destacar tu obra y conectarte con otros autores? ¿Qué elementos agregarías o cambiarías?  
+     
+7. ¿Cuánto valor le das a la función de recibir reseñas y feedback de los lectores directamente? ¿Te gustaría que la forma de obtener o mostrar estas reseñas fuera diferente?  
+     
+8. ¿Sientes que BookSphere te ofrece suficiente visibilidad dentro de la comunidad para destacar tu trabajo? ¿Qué más podríamos ofrecer para ayudarte a sobresalir?  
+     
+9. ¿Hay algún tipo de contenido exclusivo o herramienta de marketing que desearías tener disponible para aumentar el alcance de tus libros? 
+
+**Segmento 2: Lectores**
+
+1. ¿Qué te ha parecido la experiencia de explorar y comprar libros en BookSphere? ¿Hay algo que mejorarías?  
+     
+2. ¿Qué tan fácil o difícil te resulta interactuar con otros lectores en la plataforma? ¿Hay alguna función de la comunidad que te gustaría ver mejorada?  
+     
+3. ¿Sientes que BookSphere te ha ayudado a descubrir nuevos libros y autores? ¿Qué podríamos hacer para mejorar esta experiencia?
+
+4. ¿Te has sentido conectado/a con tus autores favoritos en la plataforma? De no ser así, ¿Qué funciones adicionales ayudarían a cumplir este objetivo?  
+     
+5. ¿Cómo calificarías la funcionalidad de las reseñas y comentarios? ¿Hay algún cambio que crees que podría hacerla más valiosa o fácil de usar?  
+     
+6. ¿Consideras que la interfaz de usuario es intuitiva y agradable? ¿Hay alguna parte de la navegación que podría simplificarse?  
+     
+7. ¿Te gustaría tener más contenido interactivo relacionado con tus autores favoritos, como eventos en vivo o artículos exclusivos?   
+     
+8. ¿Cómo describirías la experiencia de personalizar tu perfil y participar en grupos de BookSphere? ¿Algo que mejorarías?  
+     
+9. ¿Hay alguna característica que sientas que falta en BookSphere y que haría tu experiencia como lector/a más completa?
+
+
 ### 5.3.2. Registro de Entrevistas
 
+##### Entrevista 1
+poner imagen aqui
+| **Datos del entrevistado** | 
+|----------------------------|
+| **Nombre:**                |
+| **Edad:**                  |
+| **Procedencia:**           |
+| **Resumen:**               |
+
+##### Entrevista 2
+poner imagen aqui
+| **Datos del entrevistado** | 
+|----------------------------|
+| **Nombre:**                |
+| **Edad:**                  |
+| **Procedencia:**           |
+| **Resumen:**               |
+##### Entrevista 3
+poner imagen aqui
+| **Datos del entrevistado** | 
+|----------------------------|
+| **Nombre:**                |
+| **Edad:**                  |
+| **Procedencia:**           |
+| **Resumen:**               |
+
 ### 5.3.3. Evaluaciones según heurísticas
+
 
 
 ## 5.4. Video About-the-Product
