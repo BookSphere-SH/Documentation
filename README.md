@@ -2000,7 +2000,7 @@ Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **pri
 | **Time**                           | 9:00 PM                                                                                        |
 | **Location**                       | Salas virtuales (Meet)                                                                         |
 | **Prepared By**                    | ------                                                                     |
-| **Attendees (to planning meeting)**| Romero Qwistgaard, Russell Stephen - U20211043 <br> Nanfuñay Liza, Pedro Jesús - U202215462 <br> Fabian Puente, Ronaldo Macedonio - U20201B193 |
+| **Attendees (to planning meeting)**| Romero Qwistgaard, Russell Stephen - U20211043 <br> Nanfuñay Liza, Pedro Jesús - U202215462  |
 | **Sprint 2 Review Summary**        | En el anterior sprint, nos centramos en el desarrollo de la **primera aplicación web** del proyecto **BookSphere**, junto con la mejora del landing page inicial. También implementamos **Angular con i18n** para garantizar una experiencia multilingüe desde el inicio. |
 | **Sprint 2 Retrospective Summary** | Como retrospectiva, se tomará en cuenta la retroalimentaciones previamente obtenidas y analizadas, para cumplir con las funciones de la aplicación web que no se lograron alcanzar en el sprint. |
 | **Sprint 3 Goal**                  | Nuestro objetivo en el presente sprint es desarrollar la primera versión del backend y mejorar el desarrollo de la aplicación web previamente presentada, garantizando que las funcionalidades faltantes sean implementadas correctamente dentro de la aplicación. |
@@ -2026,6 +2026,7 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 | TS016 | Implementar CRUD para libros | Descomponer en tareas que permita implementar un endpoint que permita realizar operaciones CRUD para los libros almacenados en la plataforma | 6 horas | Nanfuñay Liza Pedro Jesús | Done |
 | TS017 | Implementar la búsqueda de libros | Descomponer en tareas que permita implementar un endpoint que permita realizar búsquedas de libros según su id y título | 5 horas | Nanfuñay Liza Pedro Jesús | Done |
 
+
 ### 5.2.3.3. Development Evidence for Sprint Review
 En esta sección se visualizará los avances del desarrollo del presente sprint. Tomando en cuenta, el avance de la Aplicación Web (Frontend), garantizando cumplir con las funciones no desarrolladas en el sprint anterior, y el primer avance del desarrollo del Web Services (Backend). Para ello, los avances serán representados a través de commits que evidencian el avance que ha realizado cada miembro del equipo. 
 
@@ -2048,7 +2049,7 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 3d6ef10dae7bff24f28f6afdaa67882bf9dd9673 | feat: Update details-publish-book component. | Actualización de la función para ingresar la información del libro a publicar | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 38246eaff9f6a23c467b51fb15e666bf3e942078 | feat: Update publish-book component. | Actualización de la página para publicar el libro | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 847f0f3f62854839535d430868650cbe52d9b662 | feat: Update and implement i18n. | Actualización e implementación de internacionalización (i18n) en la página | 20/10/2024  |
-
+| BookSphere-SH/DB-ROMERO   | 
 Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
 
 
@@ -2062,6 +2063,7 @@ Durante este sprint, se realizaron la implementación de la nueva versión del W
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 905941aded446db75fcbf5669e92753284abfea1 | feat: Promocionar Libros en la Plataforma | Se implementa función para promocionar libros | 02/10/2024 |
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 16ee7425c12c579ea91ec6b1f55bd505c3bc619e | feat: Implementar CRUD para libros | Se implementa operaciones CRUD para libros | 02/10/2024 |
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 573c74c368c6610844b1dba9e722a6d97fe0288a | feat: Implementar la búsqueda de libros | Se implementa funciones para búsquedas filtradas para libros | 02/10/2024 |
+| BookSphere-SH/DB-ROMERO                  | release            |                                          |
 
 Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/)
 
