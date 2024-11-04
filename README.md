@@ -2071,7 +2071,7 @@ Durante el presente sprint, se lograron alcanzar logros importantes en el desarr
 
 - **Establecimiento de Repositorios:** Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos. <br>
 
-  repositorio
+  ![Repository-Front](./assets/Repository.PNG) <br>
 
 - **Implementación del Web Application:** Se desarrolló y desplegó la nueva versión del sitio web de BookSphere, optimizando e implementando funcionalidades clave como la promoción de libros, estadísticas, etc. Asegurándonos de cumplir con la experiencia y diseñor que los usuarios esperan. <br>
 
@@ -2082,9 +2082,6 @@ Durante el presente sprint, se lograron alcanzar logros importantes en el desarr
     Visualizar información de libro publicado: ![View Details Book](./assets/ViewDetailsBook.PNG) <br>
     Promocionar libros: ![Promote](./assets/Promote.PNG) <br>
     Visualizar estadísticas: ![Statistics](./assets/Statistics.PNG) <br>
-     
-Web Author Applicaton desplegada url: <br>
-Web Perfil Application desplegada url: <br>
 
 Estos logros demuestran un notable avance en la optimización, diseño y gestión de las funciones requeridas por los usuarios, garantizando una experiencia atractiva y funcional para los usuarios, que además permite una correcta gestión de los datos dentro de la plataforma.
 
