@@ -2063,28 +2063,28 @@ Durante este sprint, se realizaron la implementación de la nueva versión del W
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 16ee7425c12c579ea91ec6b1f55bd505c3bc619e | feat: Implementar CRUD para libros | Se implementa operaciones CRUD para libros | 02/10/2024 |
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 573c74c368c6610844b1dba9e722a6d97fe0288a | feat: Implementar la búsqueda de libros | Se implementa funciones para búsquedas filtradas para libros | 02/10/2024 |
 
-Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/)
+Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/)
 
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Durante el presente sprint, se lograron alcanzar logros importantes en el desarrollo de nuestra plataforma BookSphere. Nos enfocamos en desarrollar una nueva versión del Web Application optimizando las funciones de nuestra plataforma para garantizar su eficiencia, tomando en cuenta aspectos clave como el diseño de la interfaz y mejora en la experiencia del usuario. A continuación, se presenta un resumen de los logros alcanzados:
 
-- Establecimiento de Repositorios: Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos. <br>
+- **Establecimiento de Repositorios:** Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos. <br>
 
   repositorio
 
-- Implementación del Web Application: Se desarrolló y desplegó la nueva versión del sitio web de BookSphere, optimizando e implementando funcionalidades clave como la promoción de libros, estadísticas, etc. Asegurándonos de cumplir con la experiencia y diseñor que los usuarios esperan. <br>
+- **Implementación del Web Application:** Se desarrolló y desplegó la nueva versión del sitio web de BookSphere, optimizando e implementando funcionalidades clave como la promoción de libros, estadísticas, etc. Asegurándonos de cumplir con la experiencia y diseñor que los usuarios esperan. <br>
 
   - Imágenes del web aplication Author:
 
-    Publicar libro: <br>
-    Librería: <br>
-    Visualizar información de libro publicado: <br>
-    Promocionar libros: <br>
-    Visualizar estadísticas: <br>
+    Publicar libro: ![Publish Book 1](./assets/PublishBook1.PNG) <br> ![Publish Book 2](./assets/PublishBook2.PNG) <br> ![Publish Book 3](./assets/PublishBook3.PNG)
+    Librería: ![Library](./assets/Library.PNG) <br>
+    Visualizar información de libro publicado: ![View Details Book](./assets/ViewDetailsBook.PNG) <br>
+    Promocionar libros: ![Promote](./assets/Promote.PNG) <br>
+    Visualizar estadísticas: ![Statistics](./assets/Statistics.PNG) <br>
      
 Web Author Applicaton desplegada url: <br>
-Web Perfil Application desplegada url: https://booksphere-perfil.web.app/profile/user/1 <br>
+Web Perfil Application desplegada url: <br>
 
 Estos logros demuestran un notable avance en la optimización, diseño y gestión de las funciones requeridas por los usuarios, garantizando una experiencia atractiva y funcional para los usuarios, que además permite una correcta gestión de los datos dentro de la plataforma.
 
