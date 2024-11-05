@@ -2049,7 +2049,8 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 3d6ef10dae7bff24f28f6afdaa67882bf9dd9673 | feat: Update details-publish-book component. | Actualización de la función para ingresar la información del libro a publicar | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 38246eaff9f6a23c467b51fb15e666bf3e942078 | feat: Update publish-book component. | Actualización de la página para publicar el libro | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 847f0f3f62854839535d430868650cbe52d9b662 | feat: Update and implement i18n. | Actualización e implementación de internacionalización (i18n) en la página | 20/10/2024  |
-| BookSphere-SH/DB-ROMERO   | 
+| BookSphere-SH/DB-ROMERO   |  | | | | |
+
 Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
 
 
@@ -2099,6 +2100,9 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
 | `/api/v1/books/{bookId}` | GET<br>Obtener información de un libro por ID<br>  <br>PUT<br>Actualizar información de un libro por ID  <br>DELETE<br>Eliminar un libro por ID |
 
 - Capturas:
+  
+  ![Backend1](./assets/Backend1.PNG)
+  ![Backend2](./assets/Backend2.PNG)
 
 - Repositorios y Commits:
 
