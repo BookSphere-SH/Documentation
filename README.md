@@ -2073,12 +2073,13 @@ Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://github.com/Boo
 En el presente sprint, se ha logrado implementar y optimizar historias de usuario del Web Application no presentadas en el sprint anterior. Además, se logró desarrollar la primera versión del Web Services:
 
 **Landing Page Evidence:**
+![LandingPageEvidence](./assets/LandingPageEvidence.PNG)
 
 **Web Application Evidence:**
 ![Library](./assets/Library.PNG)
 
 **Web Services Evidence:**
-![Backend1](./assets/Backend1.PNG)
+![BackendEvidence](./assets/BackendEvidence.PNG)
 
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
