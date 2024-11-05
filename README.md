@@ -2076,7 +2076,12 @@ En el presente sprint, se ha logrado implementar y optimizar historias de usuari
 ![LandingPageEvidence](./assets/LandingPageEvidence.PNG)
 
 **Web Application Evidence:**
-![Library](./assets/Library.PNG)
+- **Web Application Author:** <br>
+    - Publicar libro: ![Publish Book 1](./assets/PublishBook1.PNG) <br> ![Publish Book 2](./assets/PublishBook2.PNG) <br> ![Publish Book 3](./assets/PublishBook3.PNG)
+    - Librería: ![Library](./assets/Library.PNG) <br>
+    - Visualizar información de libro publicado: ![View Details Book](./assets/ViewDetailsBook.PNG) <br>
+    - Promocionar libros: ![Promote](./assets/Promote.PNG) <br>
+    - Visualizar estadísticas: ![Statistics](./assets/Statistics.PNG) <br>
 
 **Web Services Evidence:**
 ![BackendEvidence](./assets/BackendEvidence.PNG)
@@ -2105,31 +2110,65 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
   Url del repositorio Web Services: https://github.com/BookSphere-SH/Backend
 
 
-Repositorio de Web Services:
-
-
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
-Durante el presente sprint, se lograron alcanzar logros importantes en el desarrollo de nuestra plataforma BookSphere. Nos enfocamos en desarrollar una nueva versión del Web Application optimizando las funciones de nuestra plataforma para garantizar su eficiencia, tomando en cuenta aspectos clave como el diseño de la interfaz y mejora en la experiencia del usuario. A continuación, se presenta un resumen de los logros alcanzados:
+Durante el presente sprint, se lograron alcanzar logros importantes en el desarrollo de nuestra plataforma BookSphere. Nos enfocamos en desarrollar una nueva versión del Web Application optimizando las funciones de nuestra plataforma para garantizar su eficiencia, tomando en cuenta aspectos clave como el diseño de la interfaz y mejora en la experiencia del usuario. A continuación, se presenta el proceso de despliegue del Landing Page y Web Application:
 
-- **Establecimiento de Repositorios:** Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código y las pruebas, permitiendo un control eficiente de versiones y colaboración entre los equipos. <br>
+**Landing Page Deployment:** <br>
+- **Establecimiento de Repositorios:** Se crearon y configuraron múltiples repositorios en GitHub para gestionar el código, el seguimiento del desarrollo y las pruebas respectivas, permitiendo un control eficiente de versiones y colaboración por parte de los integrantes del grupo y su despliegue. <br>
+
+- **Configuración del Proceso de Despliegue:** Se configuró GitHub Pages para el despliegue de la Landing Page. Este servicio proporciona una manera sencilla de alojar el sitio web directamente desde un repositorio de GitHub.
+
+- **Proceso de Despliegue:**
+  **1. Despliegue en GitHub Pages:**
+    - Se subió el código de la Landing Page al repositorio en GitHub.
+    - Se configuró GitHub Pages en el repositorio para publicar el contenido en la web. El proceso incluyó la configuración del dominio y la personalización de la página de inicio.
+
+    ![GithubPagesLP](./assets/Configuration.png)
+
+  **2. Verificación del Despliegue:**
+    Se realizó una revisión exhaustiva del sitio web publicado en GitHub Pages para asegurar que todos los elementos de la Landing Page funcionaran correctamente.
+    Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+    ![LandingPageEvidence](./assets/LandingPageEvidence.PNG)
+
+
+**Frontend Application Deployment:** <br>
+**Bounded Context Author (Pedro Nanfuñay):** <br>
+Durante este Sprint, se llevaron a cabo las siguientes actividades para el despliegue del Web Application:
+
+- **Creación de rama y configuración del repositorio:** Se creó una rama (Authors-Pedro-Nanfuñay) para gestionar el código fuente y el seguimiento de cambios. <br>
 
   ![Repository-Front](./assets/Repository.PNG) <br>
 
-- **Implementación del Web Application:** Se desarrolló y desplegó la nueva versión del sitio web de BookSphere, optimizando e implementando funcionalidades clave como la promoción de libros, estadísticas, etc. Asegurándonos de cumplir con la experiencia y diseñor que los usuarios esperan. <br>
+- **Configuración del Proceso de Despliegue:** <br>
+  Github: Se ubicó el archivo JSON en la rama principal del proyecto, que posteriormente fue subido a un repositorio en Github y se desplegó el db.JSON. <br>
+  Firebase: Se configuró Firebase para el despliegue del bounded context Author. Este servicio proporciona una manera sencilla de alojar el sitio web directamente.
 
-  - Imágenes del web aplication Author:
+- **Proceso de Despliegue:**
+A continuación se detallan los pasos realizados durante el Sprint para el despliegue:
 
-    Publicar libro: ![Publish Book 1](./assets/PublishBook1.PNG) <br> ![Publish Book 2](./assets/PublishBook2.PNG) <br> ![Publish Book 3](./assets/PublishBook3.PNG)
-    Librería: ![Library](./assets/Library.PNG) <br>
-    Visualizar información de libro publicado: ![View Details Book](./assets/ViewDetailsBook.PNG) <br>
-    Promocionar libros: ![Promote](./assets/Promote.PNG) <br>
-    Visualizar estadísticas: ![Statistics](./assets/Statistics.PNG) <br>
+  **1. Despliegue en Firebase:**
+    - Se subió el código del web aplication de Store al repositorio en GitHub.
+    - Se creó un proyecto en Firebase:
+    - Se configuró Firebase en el terminal del proyecto para poder deployarlo con los siquientes comandos:
 
-Estos logros demuestran un notable avance en la optimización, diseño y gestión de las funciones requeridas por los usuarios, garantizando una experiencia atractiva y funcional para los usuarios, que además permite una correcta gestión de los datos dentro de la plataforma.
+  **2. Despliegue del db.json:**
+    - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
+      Url de myjsonserver: https://my-json-server.typicode.com/PedroJ18/frontend-author-booksphere
 
+  **3.Verificación del Despliegue:**
+    Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+    
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
+En el presente sprint, el equipo ha desarrollado actividades para el proceso del despliegue de la nueva versión Web application por bounded context, así como en el desarrollo de la primera versión del Web Services para BookSphere. A continuación, se presentan evidencias de lo desarrollado por cada integrante a través de los commits:
 
+**Web Application:**
+- **Pedro Nanfuñay**
+
+**Web Services:**
+- **Pedro Nanfuñay**
+  
+Adicionalmente, se incluyen capturas de los analíticos de colaboración:
 
 ## 5.3. Validation Interviews
 
