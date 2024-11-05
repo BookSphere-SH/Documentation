@@ -43,7 +43,8 @@
 | TP | 23/09/2024 | Sergio André Gómez Vallejos | Implementacion del Sprint 2 <br> Implementación del bounded context Store <br> Agregar en el repositorio una rama del boundend context <br> Capitulo V.2|
 | TP | 25/09/2024 | Pedro Jesús Nanfuñay Liza | Implementación del bounded context Author <br> Agregar en el repositorio una rama del boundend context Author <br> Sprint Backlog 2 <br> Development Evidence for Sprint Review <br> Testing Suite Evidence for Sprint Review <br> Execution Evidence for Sprint Review <br> Services Documentation Evidence for Sprint Review <br> Software Deployment Evidence for Sprint Review |
 | TP | 25/09/2024 | Pedro Jesús Nanfuñay Liza | Implementación del bounded context Perfil <br> Agregar en el repositorio una rama del boundend context Perfil <br> Sprint Backlog 2 <br> Development Evidence for Sprint Review <br> Testing Suite Evidence for Sprint Review <br> Execution Evidence for Sprint Review <br> Services Documentation Evidence for Sprint Review <br> Software Deployment Evidence for Sprint Review |
-| TB2 | Fila 3, Columna 2 | Fila 3, Columna 3 | Fila 3, Columna 4 |
+| TB2| 03/11/2024 | Russell Stephen Romero Qwistgaard | Planificación de Sprint 3 <br> Diseño y validación de entrevistas <br> Implementación de User Flow refinado <br> Integración de componentes de front-end <br> Documentación de procesos de diseño y validación <br> Evidencia de Testing y Usabilidad <br> Actualización de la arquitectura de la aplicación |
+| TB2| 03/11/2024	| Pedro Jesús Nanfuñay Liza |	Implementación de lógica del back-end para nuevas funcionalidades <br> Optimización de servicios y endpoints <br> Revisión de la estructura de base de datos <br> Creación y ejecución de pruebas unitarias <br> Despliegue en entorno de pruebas <br> Preparación de reporte de Sprint 3 <br> Integración con servicios de terceros |
 | TF | Fila 4, Columna 2 | Fila 4, Columna 3 | Fila 4, Columna 4 |
 
 
@@ -187,8 +188,8 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 
 | **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
 |-------------------------|------------------------|------------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas. <br> 2.- Pedro Jesús Nanfuñay Liza: TB1: Cumplí de manera satisfactoria el avance de los items que se me han asignado, demostrando responsabilidad y compromiso con la realización del proyecto y siempre dispuesto a apoyar a mis compañeros de equipo. <br> 3.- Merly Salon Puerta. TB1: Mantuve comunicación activa con los integrantes del equipo para la distribución equitativa del trabajo. Así mismo, desarrolé las actividades que me tocaron realizar manteniendo una comunicación activa con los responsables de las demás tareas.<br>1.- Sergio André Gómez Vallejos: TP1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas. <br> 2.- Pedro Jesús Nanfuñay Liza: TP1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los aspectos correspondieran con respecto a los aspectos técnicos y estratégicos identificados anteriormente, lo que permite a la audiencia comprender nuestro objetivo.|  TB1: Se demostró una notable capacidad para presentar los avances y resultados del proyecto de manera clara y adaptada a las necesidades de diversos grupos. Su habilidad para comunicar aspectos técnicos y estratégicos de manera comprensible permitió a los miembros del equipo y a las audiencias externas tomar decisiones informadas, evidenciando una comunicación oral efectiva con diferentes rangos de audiencia. <br> TP1: Se demostró una notable capacidad para presentar los avances y resultados del proyecto de manera clara y adaptada a las necesidades de diversos grupos. Su habilidad para comunicar aspectos técnicos y estratégicos de manera comprensible permitió a los miembros del equipo y a las audiencias externas tomar decisiones informadas, evidenciando una comunicación oral efectiva con diferentes rangos de audiencia. <br> |
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida. <br> 2.- Pedro Jesús Nanfuñay Liza: TB1: Redacté el avance de los items del presente proyecto manera satisfactoria, garantizando la fácil lectura para los usuarios, de esta manera se logra una mejor exposición de la información. <br> 3.- Merly Salon Puerta. TB1: Realicé las actividades que me tocó desarrollar de manera clara, procurando una correcta presentación al docente y a mis compañeros.<br>1.- Sergio André Gómez Vallejos: TP1: Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida. <br>2.- Pedro Jesús Nanfuñay Liza: TP1: Redacté el informe del proyecto, tomando en cuenta aspectos como el lenguaje y la estructura para que fueran accesibles para audiencias no técnicas, con el objetivo de garantizar la comprensión de la información compartida. | TB1:  Se mostró competencia en la redacción del informe del proyecto, ajustando el lenguaje y la estructura del documento para que fuera accesible tanto para compañeros técnicos como para audiencias no técnicas. Su enfoque en garantizar la comprensión y utilidad de la información compartida refleja una habilidad efectiva para comunicar por escrito a diferentes rangos de audiencia.   <br> TP1:  Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.  | Se mostró competencia en la redacción del informe del proyecto, ajustando el lenguaje y la estructura del documento para que fuera accesible tanto para compañeros técnicos como para audiencias no técnicas. Su enfoque en garantizar la comprensión y utilidad de la información compartida refleja una habilidad efectiva para comunicar por escrito a diferentes rangos de audiencia.           |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas. <br> 2.- Pedro Jesús Nanfuñay Liza: TB1: Cumplí de manera satisfactoria el avance de los items que se me han asignado, demostrando responsabilidad y compromiso con la realización del proyecto y siempre dispuesto a apoyar a mis compañeros de equipo. <br> 3.- Merly Salon Puerta. TB1: Mantuve comunicación activa con los integrantes del equipo para la distribución equitativa del trabajo. Así mismo, desarrolé las actividades que me tocaron realizar manteniendo una comunicación activa con los responsables de las demás tareas.<br>1.- Sergio André Gómez Vallejos: TP1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los miembros del equipo y las audiencias externas comprendieran los aspectos técnicos y estratégicos, lo que facilitó la toma de decisiones informadas. <br> 2.- Pedro Jesús Nanfuñay Liza: TP1: Presenté de manera clara y adaptada los avances y resultados del proyecto, asegurándome de que todos los aspectos correspondieran con respecto a los aspectos técnicos y estratégicos identificados anteriormente, lo que permite a la audiencia comprender nuestro objetivo. 3- Russell Stephen Romero Qwistgaard TB2: Presente mis avances según los tiempos dados y logre comunicarlo de manera proactiva y clara |  TB1: Se demostró una notable capacidad para presentar los avances y resultados del proyecto de manera clara y adaptada a las necesidades de diversos grupos. Su habilidad para comunicar aspectos técnicos y estratégicos de manera comprensible permitió a los miembros del equipo y a las audiencias externas tomar decisiones informadas, evidenciando una comunicación oral efectiva con diferentes rangos de audiencia. <br> TP1: Se demostró una notable capacidad para presentar los avances y resultados del proyecto de manera clara y adaptada a las necesidades de diversos grupos. Su habilidad para comunicar aspectos técnicos y estratégicos de manera comprensible permitió a los miembros del equipo y a las audiencias externas tomar decisiones informadas, evidenciando una comunicación oral efectiva con diferentes rangos de audiencia. <br> |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | 1.- Sergio André Gómez Vallejos: TB1: Redacté el informme sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida. <br> 2.- Pedro Jesús Nanfuñay Liza: TB1: Redacté el avance de los items del presente proyecto manera satisfactoria, garantizando la fácil lectura para los usuarios, de esta manera se logra una mejor exposición de la información. <br> 3.- Merly Salon Puerta. TB1: Realicé las actividades que me tocó desarrollar de manera clara, procurando una correcta presentación al docente y a mis compañeros.<br>1.- Sergio André Gómez Vallejos: TP1: Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida. <br>2.- Pedro Jesús Nanfuñay Liza: TP1: Redacté el informe del proyecto, tomando en cuenta aspectos como el lenguaje y la estructura para que fueran accesibles para audiencias no técnicas, con el objetivo de garantizar la comprensión de la información compartida. | TB1:  Se mostró competencia en la redacción del informe del proyecto, ajustando el lenguaje y la estructura del documento para que fuera accesible tanto para compañeros técnicos como para audiencias no técnicas. Su enfoque en garantizar la comprensión y utilidad de la información compartida refleja una habilidad efectiva para comunicar por escrito a diferentes rangos de audiencia.  <br> TP1:  Redacté el informe sobre el proyecto, ajustando el lenguaje y la estructura para que fueran accesibles tanto para compañeros técnicos como para audiencias no técnicas, garantizando la comprensión y utilidad de la información compartida.  | Se mostró competencia en la redacción del informe del proyecto, ajustando el lenguaje y la estructura del documento para que fuera accesible tanto para compañeros técnicos como para audiencias no técnicas. Su enfoque en garantizar la comprensión y utilidad de la información compartida refleja una habilidad efectiva para comunicar por escrito a diferentes rangos de audiencia.           |
 
 
 # 1. CAPÍTULO I: Introducción
@@ -2005,7 +2006,7 @@ Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **pri
 | **Sprint 2 Retrospective Summary** | Como retrospectiva, se tomará en cuenta la retroalimentaciones previamente obtenidas y analizadas, para cumplir con las funciones de la aplicación web que no se lograron alcanzar en el sprint. |
 | **Sprint 3 Goal**                  | Nuestro objetivo en el presente sprint es desarrollar la primera versión del backend y mejorar el desarrollo de la aplicación web previamente presentada, garantizando que las funcionalidades faltantes sean implementadas correctamente dentro de la aplicación. |
 | **Sprint 3 Velocity**              | Se estableció un Velocity de --- Story Points para este Sprint. |
-| **Sum of Story Points**            | -- Story Points |
+| **Sum of Story Points**            | 23 Story Points |
 
 ### 5.2.3.2 Sprint Backlog 3
 
@@ -2025,6 +2026,8 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 | US012 | Promocionar Libros en la Plataforma | Descomponer en tareas que permita a los autores realizar pagos para promocionar sus libros para obtener mayor presencia dentro de la plataforma | 6 horas | Nanfuñay Liza Pedro Jesús | Done |
 | TS016 | Implementar CRUD para libros | Descomponer en tareas que permita implementar un endpoint que permita realizar operaciones CRUD para los libros almacenados en la plataforma | 6 horas | Nanfuñay Liza Pedro Jesús | Done |
 | TS017 | Implementar la búsqueda de libros | Descomponer en tareas que permita implementar un endpoint que permita realizar búsquedas de libros según su id y título | 5 horas | Nanfuñay Liza Pedro Jesús | Done |
+| TS018 | Implementar CRUD para perfiles | Como desarrollador, quiero implementar CRUD para el almacenamiento y manejo de datos de los perfiles para personalizar y administrar las cuentas de los usuarios. | 5 horas | Done |
+| TS019 | Implementar búsqueda de perfiles por id y nombre | Como desarrollador, quiero implementar la búsqueda de perfiles por medio del id, nombre o correo para poder acceder a ellos de forma mas rápida | 3 horas | Done |
 
 
 ### 5.2.3.3. Development Evidence for Sprint Review
@@ -2049,7 +2052,7 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 3d6ef10dae7bff24f28f6afdaa67882bf9dd9673 | feat: Update details-publish-book component. | Actualización de la función para ingresar la información del libro a publicar | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 38246eaff9f6a23c467b51fb15e666bf3e942078 | feat: Update publish-book component. | Actualización de la página para publicar el libro | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 847f0f3f62854839535d430868650cbe52d9b662 | feat: Update and implement i18n. | Actualización e implementación de internacionalización (i18n) en la página | 20/10/2024  |
-| BookSphere-SH/DB-ROMERO   |  | | | | |
+| BookSphere-SH/DB-ROMERO   | Developer                    | dde2ecfde429749c1375c32d1069ce75c6bab2a7 | feat: Add and Develop Backend Perfil | Alojamiento y desarrollo del backend para los perfiles| 03/11/24 |
 
 Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
 
@@ -2064,10 +2067,10 @@ Durante este sprint, se realizaron la implementación de la nueva versión del W
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 905941aded446db75fcbf5669e92753284abfea1 | feat: Promocionar Libros en la Plataforma | Se implementa función para promocionar libros | 02/10/2024 |
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 16ee7425c12c579ea91ec6b1f55bd505c3bc619e | feat: Implementar CRUD para libros | Se implementa operaciones CRUD para libros | 02/10/2024 |
 | BookSphere-SH/grupo02-BookSphere-testing | tb2-Pedro-Nanfuñay | 573c74c368c6610844b1dba9e722a6d97fe0288a | feat: Implementar la búsqueda de libros | Se implementa funciones para búsquedas filtradas para libros | 02/10/2024 |
-| BookSphere-SH/DB-ROMERO                  | release            |                                          |
+| BookSphere-SH/DB-ROMERO                  | release            | 2d8f31c190bd23951ce8b491bd5ead260d3d07f2 | feat: Backend Perfil | Implementar el Backend de perfiles y testearlo | 03/11/24 |
 
 Link del repositorio Commits (Rama tb2-Pedro-Nanfuñay): [https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/](https://github.com/BookSphere-SH/grupo02-BookSphere-testing/commits/tb2-Pedro-Nanfu%C3%B1ay/)
-
+DME.md
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 En el presente sprint, se ha logrado implementar y optimizar historias de usuario del Web Application no presentadas en el sprint anterior. Además, se logró desarrollar la primera versión del Web Services:
@@ -2081,6 +2084,7 @@ En el presente sprint, se ha logrado implementar y optimizar historias de usuari
 **Web Services Evidence:**
 ![BackendEvidence](./assets/BackendEvidence.PNG)
 
+![BackendEvidence](./assets/Backend-Perfil.PNG)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 En esta sección, se documenta los logros alcanzados respecto al desarrollo del Web Services para nuestra plataforma, incluyendo aspectos como la relación de Endpoints documentados con OpenAPI, que están relacionados con el alcance del Sprint.
@@ -2102,7 +2106,7 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
   Se presentan los commits relacionados con la documentación del presente sprint:
   ![CommitsBackendTB2](./assets/Commits.PNG)
 
-  Url del repositorio Web Services: https://github.com/BookSphere-SH/Backend
+  Url del repositorio Web Services: https://github.com/BookSphere-SH/Backend  https://github.com/BookSphere-SH/DB_Romero 
 
 
 Repositorio de Web Services:
@@ -2179,22 +2183,23 @@ Estos logros demuestran un notable avance en la optimización, diseño y gestió
 ### 5.3.2. Registro de Entrevistas
 
 ##### Entrevista 1
-poner imagen aqui
-| **Datos del entrevistado** | 
-|----------------------------|
-| **Nombre:**                |
-| **Edad:**                  |
-| **Procedencia:**           |
-| **Resumen:**               |
 
-##### Entrevista 2
-poner imagen aqui
 | **Datos del entrevistado** | 
 |----------------------------|
-| **Nombre:**                |
-| **Edad:**                  |
-| **Procedencia:**           |
-| **Resumen:**               |
+| **Nombre:**  Romina Qwistgaard  |
+| **Edad:**    15            |
+| **Procedencia:**  Lima     |
+| **Resumen:**     Piensa que la app es muy buena, más le gustaría que tuviera un sistema de recomendaciones   |
+https://drive.google.com/file/d/1wVpmVPR8XdzY-TzbsIRV0LQoB0ufhPQH/view?usp=sharing
+##### Entrevista 2
+ ![Backend1](./assets/Entrevista- Anthony.PNG)
+| **Datos del entrevistado** | 
+|----------------------------|
+| **Nombre:** Anthony Quito  |
+| **Edad:**   20             |
+| **Procedencia:** Lima      |
+| **Resumen:**     Le gusta la aplicación pero le gustaría más que tuviera mayores interaciones entre autor y leyente   |
+https://drive.google.com/file/d/1Xkx6RctvI32wb3n2l19Mm6XYfppQVWUl/view?usp=sharing
 ##### Entrevista 3
 poner imagen aqui
 | **Datos del entrevistado** | 
