@@ -2016,7 +2016,8 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 **URL de la herramienta utilizada:**  
 [https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere](https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere)
 
-**Imagen del trello actualizado**
+![Backlog1](./assets/Backlog1.PNG)
+![Backlog2](./assets/Backlog2.PNG)
 
 | **Id**  | **Title**                                                | **Work-Item / Task**                                     | **Estimation** | **Assigned To**                  | **Status (To-do/In-Process/To-Review/Done)** |
 |---------|----------------------------------------------------------|----------------------------------------------------------|----------------|----------------------------------|---------------------------------------------|
