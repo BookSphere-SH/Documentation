@@ -2099,12 +2099,17 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
 | `/api/v1/books` | GET<br>Obtener lista de todos libros<br>  <br>POST<br>Agregar un nuevo libro<br> |
 | `/api/v1/books/{bookId}` | GET<br>Obtener información de un libro por ID<br>  <br>PUT<br>Actualizar información de un libro por ID  <br>DELETE<br>Eliminar un libro por ID |
 
-- Capturas:
+- **Capturas:** <br>
+  Se presentan capturas de pantalla que sirven como evidencia el desarrollo de los endpoints:
   
   ![Backend1](./assets/Backend1.PNG)
   ![Backend2](./assets/Backend2.PNG)
 
-- Repositorios y Commits:
+- **Repositorios y Commits:** <br>
+  Se presentan los commits relacionados con la documentación del presente sprint:
+  ![CommitsBackendTB2](./assets/Commits.PNG)
+
+  Url del repositorio Web Services: https://github.com/BookSphere-SH/Backend
 
 
 Repositorio de Web Services:
