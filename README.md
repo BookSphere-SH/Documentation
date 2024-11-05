@@ -1999,13 +1999,13 @@ Durante el **Sprint 3**, nuestro enfoque principal fue el desarrollo de la **pri
 | **Date**                           | 08/10/2024                                                                                     |
 | **Time**                           | 9:00 PM                                                                                        |
 | **Location**                       | Salas virtuales (Meet)                                                                         |
-| **Prepared By**                    | ------                                                                     |
+| **Prepared By**                    | Romero Qwistgaard, Russell Stephen                                                                   |
 | **Attendees (to planning meeting)**| Romero Qwistgaard, Russell Stephen - U20211043 <br> Nanfuñay Liza, Pedro Jesús - U202215462  |
 | **Sprint 2 Review Summary**        | En el anterior sprint, nos centramos en el desarrollo de la **primera aplicación web** del proyecto **BookSphere**, junto con la mejora del landing page inicial. También implementamos **Angular con i18n** para garantizar una experiencia multilingüe desde el inicio. |
 | **Sprint 2 Retrospective Summary** | Como retrospectiva, se tomará en cuenta la retroalimentaciones previamente obtenidas y analizadas, para cumplir con las funciones de la aplicación web que no se lograron alcanzar en el sprint. |
 | **Sprint 3 Goal**                  | Nuestro objetivo en el presente sprint es desarrollar la primera versión del backend y mejorar el desarrollo de la aplicación web previamente presentada, garantizando que las funcionalidades faltantes sean implementadas correctamente dentro de la aplicación. |
-| **Sprint 3 Velocity**              | Se estableció un Velocity de --- Story Points para este Sprint. |
-| **Sum of Story Points**            | -- Story Points |
+| **Sprint 3 Velocity**              | Se estableció un Velocity de 28 Story Points para este Sprint. |
+| **Sum of Story Points**            | 28 Story Points |
 
 ### 5.2.3.2 Sprint Backlog 3
 
@@ -2049,10 +2049,11 @@ En esta sección se visualizará los avances del desarrollo del presente sprint.
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 3d6ef10dae7bff24f28f6afdaa67882bf9dd9673 | feat: Update details-publish-book component. | Actualización de la función para ingresar la información del libro a publicar | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 38246eaff9f6a23c467b51fb15e666bf3e942078 | feat: Update publish-book component. | Actualización de la página para publicar el libro | 19/10/2024  |
 | BookSphere-SH/Front-App   | Authors-Pedro-Nanfuñay       | 847f0f3f62854839535d430868650cbe52d9b662 | feat: Update and implement i18n. | Actualización e implementación de internacionalización (i18n) en la página | 20/10/2024  |
+| BookSphere-SH/Backend   | main | 0caa178d268eba0e51890aba529361f2209c09a7 | feat: add store bounded context. | Implementación de Bounded Context Store para la creación de endpoint de libros | 01/11/2024  |
 | BookSphere-SH/DB-ROMERO   |  | | | | |
 
 Link del repositorio (Rama: Authors-Pedro-Nanfuñay): https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35
-
+Link del repositorio Backend: [https://github.com/BookSphere-SH/Front-App/commits/Authors-Pedro-Nanfu%C3%B1ay/?before=bafddaf3b0ba39dcae1e7c726542b271882c62b6+35](https://github.com/BookSphere-SH/Backend)
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 Durante este sprint, se realizaron la implementación de la nueva versión del Web Aplication y de la primera versión del Web Service. A continuación, se detallan los commits relevantes que reflejan las pruebas realizadas:
@@ -2082,6 +2083,8 @@ En el presente sprint, se ha logrado implementar y optimizar historias de usuari
     - Visualizar información de libro publicado: ![View Details Book](./assets/ViewDetailsBook.PNG) <br>
     - Promocionar libros: ![Promote](./assets/Promote.PNG) <br>
     - Visualizar estadísticas: ![Statistics](./assets/Statistics.PNG) <br>
+
+    Web Author Applicaton desplegada url: [https://frontend-author-booksphere.web.app/store/store-books](https://author-frontend-booksphere.web.app/publish-book)
 
 **Web Services Evidence:**
 ![BackendEvidence](./assets/BackendEvidence.PNG)
@@ -2171,12 +2174,14 @@ En el presente sprint, el equipo ha desarrollado actividades para el proceso del
 
 **Web Application:**
 - **Pedro Nanfuñay**
+  ![FrontendCommits1](./assets/FrontendCommits1.PNG)
 
 **Web Services:**
 - **Pedro Nanfuñay**
-  ![CommitsBackendTB2](./assets/Commits.PNG)
+  ![FrontendCommits2](./assets/FrontendCommits2.PNG)
   
 Adicionalmente, se incluyen capturas de los analíticos de colaboración:
+  ![NetworkGraphTB2](./assets/NetworkGraphTB2.PNG)
 
 ## 5.3. Validation Interviews
 
@@ -2263,15 +2268,7 @@ Video acerca del Landing Page: https://upcedupe-my.sharepoint.com/personal/u2022
 Video acerca del web aplication (bounded context Store): https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FVideo%20de%20exposici%C3%B3n%20angular%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E66cf7c68%2Dc518%2D4a22%2D93b5%2D9849cee13691
 ## Conclusiones
 
-1. **Implementación Efectiva:** La landing page de BookSphere ha sido desarrollada con un enfoque en la experiencia del usuario, utilizando tecnologías modernas como HTML, CSS y JavaScript. La implementación del carrusel de imágenes y texto, junto con la sección de funcionalidades y planes disponibles, proporciona una interfaz intuitiva y atractiva.
-
-2. **Diseño Responsivo:** Se logró un diseño responsivo que garantiza una experiencia de usuario consistente tanto en dispositivos móviles como en escritorios. Esto es crucial para mantener la accesibilidad y la usabilidad de la página en diferentes plataformas.
-
-3. **Interactividad y Funcionalidad:** La inclusión de secciones interactivas y funcionales, como las preguntas frecuentes y el resumen de la plataforma, facilita la navegación y la obtención de información relevante para los usuarios. La integración de estos elementos ayuda a destacar los beneficios de BookSphere de manera clara y eficaz.
-
-4. **Optimización y Pruebas:** Las pruebas realizadas confirmaron la efectividad de la landing page en términos de funcionalidad y diseño. Los ajustes finales permitieron optimizar el rendimiento y asegurar que todas las características funcionaran según lo esperado.
-
-5. **Futuras Mejoras:** Aunque la landing page cumple con los requisitos iniciales, se pueden considerar futuras mejoras como la adición de más secciones interactivas, la integración de análisis de usuario y la implementación de características avanzadas para mejorar aún más la experiencia del usuario.
+Como conclusión, el presente informe nos ha permitido conocer el proceso del desarrollo e implementación de una plataforma. Consideramos que la implementación de la Web Application de BookSphere ha sido desarrollada de manera satisfactoria con un enfoque en la experiencia del usuario, implementando y optimizando funciones que permitan a los usuarios satisfacer sus necesidades, de manera que los usuarios encuentren atractivo usar nuestra plataforma. Además, la implementación de la primera versión del Web Services nos permite ofrecer una mejor gestión de los datos a los que el usuario puede acceder.
 
 ## Bibliografía
 1. The C4 model for visualising software architecture (2024) Recuperado de: https://c4model.com
@@ -2289,7 +2286,7 @@ Video acerca del web aplication (bounded context Store): https://upcedupe-my.sha
 |------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Sergio André Gómez Vallejos   | https://booksphere-e0ca5.web.app/store                             | https://github.com/BookSphere-SH/Front-App/tree/Store-Books-Sergio-G%C3%B3mez                                            |
 | Nombre y apellido             | [https://booksphere-e0ca5.web.app/store](https://booksphere-e0ca5.web.app/store) |                                                                                                                          |
-| Pedro Jesús Nanfuñay Liza     | [https://booksphere-e0ca5.web.app/store](https://frontend-author-booksphere.web.app/store/store-books)   | https://github.com/BookSphere-SH/Front-App/tree/Author-Pedro-Nanfu%C3%B1ay                                 |
+| Pedro Jesús Nanfuñay Liza     | [https://booksphere-e0ca5.web.app/store](https://author-frontend-booksphere.web.app/publish-book)   | [https://github.com/BookSphere-SH/Front-App/tree/Author-Pedro-Nanfu%C3%B1ay](https://github.com/BookSphere-SH/Front-App/tree/Authors-Pedro-Nanfu%C3%B1ay)                                 |
 | Nombre y apellido             | [Enlace al video](https://upcedupe-my.sharepoint.com/personal/u20221d401_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20221d401%5Fupc%5Fedu%5Fpe%2FDocuments%2FSphereHub%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb0762b5d%2D7ad3%2D4f87%2Db6c3%2Da1b84718b6d5) |                                                                                                                          |
 
 
