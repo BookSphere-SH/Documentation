@@ -2149,14 +2149,21 @@ A continuación se detallan los pasos realizados durante el Sprint para el despl
   **1. Despliegue en Firebase:**
     - Se subió el código del web aplication de Store al repositorio en GitHub.
     - Se creó un proyecto en Firebase:
+      ![Firebase](./assets/Firebase.PNG)
     - Se configuró Firebase en el terminal del proyecto para poder deployarlo con los siquientes comandos:
+      ![FrontendDeploy1](./assets/FrontendDeploy1.PNG)
+      ![FrontendDeploy2](./assets/FrontendDeploy2.PNG)
+      ![FrontendDeploy3](./assets/FirebaseDeploy3.PNG)
+      ![FrontendDeploy4](./assets/FirebaseDeploy4.PNG)
 
   **2. Despliegue del db.json:**
-    - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la web aplication
+    - Se subio el db.json a la página my json server permitiendo desplegarlo y configurando el enviroment de la Web Application
+      ![MyJSONServer](./assets/MyJSONServer.PNG)
       Url de myjsonserver: https://my-json-server.typicode.com/PedroJ18/frontend-author-booksphere
 
   **3.Verificación del Despliegue:**
     Se realizaron pruebas de funcionalidad para verificar que el sitio se cargara correctamente y que no hubiera errores en el contenido desplegado.
+    ![EvidenceDeploy](./assets/EvidenceDeploy.PNG)
     
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
@@ -2167,6 +2174,7 @@ En el presente sprint, el equipo ha desarrollado actividades para el proceso del
 
 **Web Services:**
 - **Pedro Nanfuñay**
+  ![CommitsBackendTB2](./assets/Commits.PNG)
   
 Adicionalmente, se incluyen capturas de los analíticos de colaboración:
 
