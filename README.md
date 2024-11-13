@@ -1484,33 +1484,33 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
   **Notación:** `main`
 
 - **Rama de Desarrollo (Develop branch):**  
-  Acumula las últimas actualizaciones y cambios para la próxima versión. Funciona como un entorno de integración y prueba continua.
+  Acumula las últimas actualizaciones y cambios para la próxima versión. Sirve como un entorno de integración y prueba continua para nuevas funcionalidades antes de ser lanzadas.
 
-  **Notación:** `develop`
+  **Notación:** `developer`
 
 - **Rama de Lanzamiento (Release branch):**  
-  Facilita la preparación de una nueva versión del producto, permitiendo correcciones de errores y recibiendo más actualizaciones de `develop`.
+  Facilita la preparación de una nueva versión del producto. Permite realizar ajustes y correcciones de errores antes de su producción.
 
-  - Debe derivarse de: `develop`
-  - Debe fusionarse con: `develop` y `main`
+  - Debe derivarse de: `developer`
+  - Debe fusionarse con: `developer` y `main`
 
-  **Notación:** `release/x.y.z`
+  **Notación:** `release/vX.Y.Z`
 
 - **Rama de Características (Feature branch):**  
-  Se utiliza para desarrollar nuevas funcionalidades para la siguiente versión o futuras iteraciones.
+  Se utiliza para desarrollar nuevas funcionalidades o mejoras específicas para la siguiente versión o futuras iteraciones. Son implementadas en ramas separadas para facilitar el control de versiones.
 
-  - Debe derivarse de: `develop`
-  - Debe fusionarse de vuelta a: `develop`
+  - Debe derivarse de: `developer`
+  - Debe fusionarse de vuelta a: `developer`
 
   **Notación:** `feature/nombre-funcionalidad`
 
 - **Rama de Corrección Rápida (Hotfix branch):**  
-  Aborda errores críticos en producción, permitiendo la implementación rápida de soluciones.
+  Aborda errores críticos en producción que requieren intervención inmediata. Permite la implementación rápida de soluciones sin interrumpir el flujo de trabajo de desarrollo.
 
   - Debe derivarse de: `main`
-  - Debe fusionarse con: `develop` y `main`
+  - Debe fusionarse con: `developer` y `main`
 
-  **Notación:** `hotfix/x.y.z`
+  **Notación:** `hotfix/vX.Y.Z`
 
 ### Conventional Commits
 
