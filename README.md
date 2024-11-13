@@ -1538,6 +1538,7 @@ Esta sección detalla las directrices para la programación y la documentación 
 - **Idioma de Codificación**: Todo el código, documentación técnica y especificaciones se escribirán en inglés para asegurar consistencia y claridad.
 - **Herramientas Utilizadas**: El proyecto se desarrolla utilizando **GitHub** para control de versiones, **GitFlow** para la gestión de ramas, y **Visual Studio Code** como editor de código. Para el diseño y planificación, usamos **Figma** **Miro**.
 - **Tecnologías**: La **Landing Page** se construye utilizando **HTML**, **CSS**, y **JavaScript** para asegurar una interfaz moderna y funcional.
+- **Nomenclatura**: Adoptaremos convenciones de nomenclatura estándar como camelCase y kebab-case para mantener un código uniforme y claro en toda la aplicación. 
 
 ### 5.1.4. Software Deployment Configuration
 En esta sección se explicará el proceso del despliegue del proyecto.
