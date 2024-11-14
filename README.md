@@ -1717,10 +1717,10 @@ Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **pri
 | **Location**                       | Salas virtuales (Meet)                                                                         |
 | **Prepared By**                    | Sergio André Gómez Vallejos                                                                     |
 | **Attendees (to planning meeting)**| Gómez Vallejos Sergio André - U20221D401<br>Salon Puerta Merly - U20201B772<br>Romero Qwistgaard, Russell Stephen - U20211043<br>Nanfuñay Liza, Pedro Jesús - U202215462<br>Fabian Puente, Ronaldo Macedonio - U20201B193 |
-| **Sprint 1 Review Summary**        | En este sprint, nos centramos en el desarrollo de la **primera aplicación web** del proyecto **BookSphere**, junto con la mejora del landing page inicial. También implementamos **Angular con i18n** para garantizar una experiencia multilingüe desde el inicio. |
-| **Sprint 1 Retrospective Summary** | Se revisó el avance del proyecto, mejorando la estructura de la landing page y avanzando con la primera versión de la web app en **Angular**, con ajustes realizados según los comentarios del equipo. |
-| **Sprint 1 Goal**                  | Nuestro objetivo fue desarrollar la primera versión de la aplicación web y mejorar el landing page en Angular, garantizando que la funcionalidad y el diseño cumplieran con las expectativas, además de integrar **i18n**. |
-| **Sprint 1 Velocity**              | Se estableció un Velocity de 20 Story Points para este Sprint. |
+| **Sprint 1 Review Summary**        | En el pasado sprint, nos centramos en el desarrollo de la primera versión del Landing Page. Consideramos que el desarrollo de la página fue satisfactoria y nos servirá de base para futuros items a desarrollar, considerando las retroalimentaciones brindadas previamente como la implementación de i18n para una experiencia multilingüe dentro de la página. |
+| **Sprint 1 Retrospective Summary** | Se revisó el avance del proyecto, mejorando la estructura y experiencia de la landing page, tomando en cuenta los aspectos retroalimentados con el objetivo de cumplir con la correcta exposición de la información que se presentará al usuario y que esta sea atractiva para ellos. |
+| **Sprint 2 Goal**                  | Our focus is on developing the first version of the Web Application. We believe that offering an intuitive environment with a functional and user-friendly experience will appeal to users. This will be confirmed when you implement core book buying and selling features to meet the needs of your users. |
+| **Sprint 2 Velocity**              | Se estableció un Velocity de 20 Story Points para este Sprint. |
 | **Sum of Story Points**            | 20 Story Points |
 
 ### 5.2.2.2 Sprint Backlog 2
