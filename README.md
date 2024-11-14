@@ -1581,7 +1581,8 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 **Objetivo del Sprint:** El objetivo principal del Sprint 1 fue desarrollar las funcionalidades básicas de la landing page, asegurando que se incluya la internacionalización y se implementen las secciones necesarias para la presentación efectiva del proyecto BookSphere.
 
-**Sprint Backlog 1 :**
+![BacklogTB1](./assets/BacklogTB1.PNG)
+![BacklogTB1_2](./assets/BacklogTB1_2.PNG)
 
 | **Id**  | **Title**                                | **Work-Item / Task**                        | **Estimation** | **Assigned To**               | **Status (To-do/In-Process/To-Review/Done)** |
 |---------|------------------------------------------|---------------------------------------------|----------------|-------------------------------|---------------------------------------------|
