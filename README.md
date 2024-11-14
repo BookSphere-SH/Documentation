@@ -1648,39 +1648,8 @@ Durante el primer sprint, se lograron varios hitos importantes en el desarrollo 
 
 Estos logros reflejan el avance significativo en la creación de una experiencia de usuario atractiva y funcional para BookSphere.
 
-  
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-Durante el primer sprint, se logró lo siguiente en relación con la documentación y despliegue de la landing page:
-
-**Documentación del Código para Despliegue:**
-
-La documentación del código para el despliegue de la landing page incluye los archivos y configuraciones necesarios para implementar la página en el entorno de producción. A continuación, se presenta la documentación relevante:
-
-- **Documentación del Código para Despliegue:**
-
-  ![Landing-Archives](./assets/Landing-Archives.png)
-  
-  Esta imagen muestra la estructura y organización de los archivos necesarios para el despliegue de la landing page. Incluye los archivos principales y sus ubicaciones dentro del proyecto.
-
-- **Documentación de `index.html`:**
-
-  ![Index](./assets/index.png)
-  
-  Aquí se proporciona una vista del archivo `index.html`, que es la base de la landing page. Este archivo contiene el código HTML que define la estructura y el contenido de la página inicial.
-
-**Resumen:**
-
-En este sprint, la documentación se centró en asegurar que todos los elementos necesarios para el despliegue de la landing page estuvieran correctamente organizados y documentados. Esto garantiza que la implementación de la página en el entorno de producción sea efectiva y que el equipo pueda replicar el proceso si es necesario.
-
-Este enfoque ayuda a mantener la coherencia en la implementación y proporciona una guía clara para futuros desarrollos y despliegues.
-
-
-
-
-
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
 Durante este Sprint, se realizaron las siguientes actividades en relación con el despliegue de los productos del proyecto, incluyendo la Landing Page y otras aplicaciones web.
 
@@ -1713,7 +1682,7 @@ El proceso de despliegue durante este Sprint ha permitido establecer una base s�
 
 
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint <br>
+#### 5.2.1.7. Team Collaboration Insights during Sprint <br>
 Durante este Sprint, el equipo ha trabajado de manera colaborativa por 1 alumno en el diseño y programacion en la implementación de la Landing Page de Book Sphere. A continuación, se presenta un resumen de cómo se han desarrollado las actividades de implementación, junto con capturas de pantalla de los analíticos de colaboración y commits en GitHub realizados por los miembros del equipo.
 
 **Actividades de Implementación**
@@ -1741,7 +1710,7 @@ Durante el **Sprint 2**, nuestro enfoque principal fue el desarrollo de la **pri
 
 ### 5.2.2.1.Sprint Planning 2
 
-| **Sprint #**                        | 1                                                                                              |
+| **Sprint #**                        | 2                                                                                              |
 |-------------------------------------|------------------------------------------------------------------------------------------------|
 | **Date**                           | 22/09/2024                                                                                     |
 | **Time**                           | 9:00 PM                                                                                        |
