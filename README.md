@@ -2158,6 +2158,38 @@ En el presente sprint, el equipo ha desarrollado actividades para el proceso del
 Adicionalmente, se incluyen capturas de los analíticos de colaboración:
   ![NetworkGraphTB2](./assets/NetworkGraphTB2.PNG)
 
+## 5.2.4. Sprint 4
+Durante el **Sprint 4**, nuestro enfoque principal fue el desarrollo y despliegue de la versión final de los items requeridos (Landing Page, Web Application y Web Services), cumpliendo con la mejora y optimización de las funciones con el objetivo de presentar una plataforma que cumpla con los requerimientos establecidos en el presente informe y que ofrezca una experiencia de usuario atractiva y eficiente.
+
+### 5.2.4.1.Sprint Planning 4
+
+| **Sprint #**                        | 4                                                                                              |
+|-------------------------------------|------------------------------------------------------------------------------------------------|
+| **Date**                           | 10/11/2024                                                                                     |
+| **Time**                           | 9:00 PM                                                                                        |
+| **Location**                       | Salas virtuales (Meet)                                                                         |
+| **Prepared By**                    | Romero Qwistgaard, Russell Stephen                                                                   |
+| **Attendees (to planning meeting)**| Romero Qwistgaard, Russell Stephen - U20211043 <br> Nanfuñay Liza, Pedro Jesús - U202215462  |
+| **Sprint 3 Review Summary**        | En el anterior sprint, nos centramos en el desarrollo de la **primera versión del Web services** del proyecto **BookSphere**. Además, desarrollar las mejoras del Web Application que permita una mejor experiencia de usuario. |
+| **Sprint 3 Retrospective Summary** | Como retrospectiva, se tomará en cuenta la retroalimentaciones previamente obtenidas y analizadas para cumplir con el proceso del despliegue del Web Applications con los bounded context requeridos previamente desarrollados. |
+| **Sprint 4 Goal**                  | Our focus on the development and deployment of the final version of the items required for our platform. We believe that offering an intuitive environment with a functional and complete experience will attract users. This will be confirmed when we see a high degree of satisfaction for our customers. |
+| **Sprint 4 Velocity**              | Se estableció un Velocity de 28 Story Points para este Sprint. |
+| **Sum of Story Points**            | 28 Story Points |
+
+### 5.2.4.2 Sprint Backlog 4
+
+El objetivo principal de este sprint es desarrollar y desplegar las versiones finales del Landing Page, Web Application y Web Services para nuestra plataforma, enfocándonos en la adición de endpoints necesarios para la parte lógica de nuestra aplicación. Así mismo, nos enfocamos en el desarrollo de la versión final del Web Application y Landing Page, garantizando presentar una plataforma correcta a los usuarios.
+
+A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimiento del progreso de cada tarea, y se refleja el estado actual de las mismas en las categorías **To-Do**, **In-Progress**, **To-Review**, y **Done**.
+
+**URL de la herramienta utilizada:**  
+[https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere](https://trello.com/invite/b/66db085df48aaed06be1e78a/ATTI06f8788d7238ac42ead70abb7deedf82A929CAFB/booksphere)
+
+
+| **Id**  | **Title**                                                | **Work-Item / Task**                                     | **Estimation** | **Assigned To**                  | **Status (To-do/In-Process/To-Review/Done)** |
+|---------|----------------------------------------------------------|----------------------------------------------------------|----------------|----------------------------------|---------------------------------------------|
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
