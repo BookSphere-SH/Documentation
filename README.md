@@ -2238,30 +2238,23 @@ A lo largo del sprint, se utilizó la herramienta **Trello** para hacer seguimie
 ### 5.3.2. Registro de Entrevistas
 
 ##### Entrevista 1
-poner imagen aqui
-| **Datos del entrevistado** | 
-|----------------------------|
-| **Nombre:**                |
-| **Edad:**                  |
-| **Procedencia:**           |
-| **Resumen:**               |
 
+| **Datos del entrevistado** | 
+|----------------------------|
+| **Nombre:**  Romina Qwistgaard  |
+| **Edad:**    15            |
+| **Procedencia:**  Lima     |
+| **Resumen:**     Piensa que la app es muy buena, más le gustaría que tuviera un sistema de recomendaciones   |
+https://drive.google.com/file/d/1wVpmVPR8XdzY-TzbsIRV0LQoB0ufhPQH/view?usp=sharing
 ##### Entrevista 2
-poner imagen aqui
+ ![Backend1](./assets/Entrevista- Anthony.PNG)
 | **Datos del entrevistado** | 
 |----------------------------|
-| **Nombre:**                |
-| **Edad:**                  |
-| **Procedencia:**           |
-| **Resumen:**               |
-##### Entrevista 3
-poner imagen aqui
-| **Datos del entrevistado** | 
-|----------------------------|
-| **Nombre:**                |
-| **Edad:**                  |
-| **Procedencia:**           |
-| **Resumen:**               |
+| **Nombre:** Anthony Quito  |
+| **Edad:**   20             |
+| **Procedencia:** Lima      |
+| **Resumen:**     Le gusta la aplicación pero le gustaría más que tuviera mayores interaciones entre autor y leyente   |
+https://drive.google.com/file/d/1Xkx6RctvI32wb3n2l19Mm6XYfppQVWUl/view?usp=sharing
 
 ### 5.3.3. Evaluaciones según heurísticas
 
